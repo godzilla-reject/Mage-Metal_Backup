@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Tester Note(Dot Jay Peg)",
+      "path": "Tester Note(Dot Jay Peg).md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Powerblade",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md"
-    },
-    {
-      "basename": "Weapon Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
     }
   ],
   "omittedPaths": [],

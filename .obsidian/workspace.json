@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d2d35d33f7c907c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tester Note(Dot Jay Peg).md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.md",
+                "file": "Tester Note(Dot Jay Peg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.md",
+                "file": "Tester Note(Dot Jay Peg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.md"
+                "file": "Tester Note(Dot Jay Peg).md"
               }
             }
           },
@@ -225,14 +238,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a6efdbb03f15d137",
+  "active": "d2d35d33f7c907c2",
   "lastOpenFiles": [
+    "Utilities/Dashboard.md",
+    "Tester Note(Dot Jay Peg).md",
     "Repo",
     "Testers.txt",
     "Repo/Testers.txt",
     "Repo",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
-    "Utilities/Dashboard.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
     "Player-Facing Rules/Spells/Spells Database/Conjure Weapon, Advanced.md",
@@ -261,7 +275,6 @@
     "Player-Facing Rules/Spells/Spell School Registry/Technomynism",
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment",
-    "Templates/Dataview Templates",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw"
+    "Templates/Dataview Templates"
   ]
 }
