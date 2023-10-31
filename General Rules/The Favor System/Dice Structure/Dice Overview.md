@@ -1,0 +1,9 @@
+- 3d6, roll under, system.
+- No roll vs roll contests.
+- 4 and lower is a crit success, and 17 and higher is a crit failure
+- _Favorable_ rolls (akin to 5e’s advantage), or “rolling with favor”: roll 4d6 and drop the highest die.
+    - 5(4d6dh)
+    - Alternative: 11(2d6+1)
+- _Unfavorable_ rolls, akin to disadvantage, or “rolling without favor”: roll 4d6 and drop the lowest die.
+    - 14(4d6dl)
+    - Alternative: 12(2d6+6)

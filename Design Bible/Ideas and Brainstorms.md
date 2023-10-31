@@ -1,0 +1,14 @@
+- Definitely gonna be using Google Sheets/Excel for the first character sheet for ease of playtesting.
+	- goated idea
+	- this was a bad idea, excel sucks cock
+- One-shot is going to Segway into the first adventure path.
+- Higher-level spells must have a certain Escalation die to use.
+- Either Lancer-style Greyhawk initiative, or modal, dynamic initiative like PF2e. Could also consider a flat-stat initiative like GURPS. 
+	- ~~we went with GURPS kek~~
+	- Initiative needs to be dynamic to help with the intended speed of combat.
+- Skills need to be re-worked. Too similar to GURPs, and feels a tad clunky.
+	- ~~Prefer to keep the training system~~
+		- ~~Idea: Set target number for each training level, altered by circumstance?~~
+	- ~~Might want to playtest first? Conflicted honestly.~~
+	- Skills will be stream-lined into the "Training-Perk" system that the rest of the game will be adapting. 
+- 

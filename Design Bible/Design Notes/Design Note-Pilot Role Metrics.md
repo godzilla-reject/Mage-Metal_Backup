@@ -1,0 +1,14 @@
+- Armor Proficiency 
+	- "Generalist" Package
+		- 1 Type, starts at Trained.
+	- "Armor Specialist"
+		- 1 Type at Expert.
+- Weapon Proficiency (Each Role gets *one* package)
+	- "Jack-Of-All-Trades"
+		- 1 Simple at Expert + 1 Simple at Trained
+	- "Specialist"
+		- 1 Advanced at Trained.
+	- "Generalist"
+		- 1 Martial at Expert + 1 Simple at Trained
+	- "Armor Specialist"
+		- 1 Simple at Trained.

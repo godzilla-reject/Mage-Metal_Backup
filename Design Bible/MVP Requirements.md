@@ -1,0 +1,15 @@
+
+- [ ] Fleshed Out Setting
+- [ ] Short One Shot
+- [x] Three Completed Species ✅ 2023-03-13
+- [ ] Six Completed Histories
+- [x] Five Completed Schools ✅ 2023-03-13
+- [x] Five Completed Specialties ✅ 2023-04-21
+- [ ] Completed Progression Chart
+- [ ] Well-Defined Roles for PCs
+	- [ ] DPS
+	- [ ] Tank
+	- [ ] Controller
+	- [ ] Healer
+- [ ] GM Advice and Rules Explanations
+- [ ] Prototype/Usable Character Sheet

@@ -1,0 +1,18 @@
+{
+  "ITS@@notion": false,
+  "ITS@@mini": false,
+  "ITS@@nord": false,
+  "ITS@@drwn": false,
+  "ITS@@its-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": true,
+  "ITS-AT@@its-d": false,
+  "ITS-AT@@paper": true,
+  "ITS-AT@@slrvb-b": false,
+  "ITS@@s-d": true,
+  "ITS-AT@@select": "none",
+  "ITS@@select": "none",
+  "ITS-AT@@s-d": false,
+  "ITS@@dataview-regular-table": true,
+  "ITS@@dataview-table-auto": true
+}
