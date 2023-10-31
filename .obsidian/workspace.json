@@ -28,33 +28,9 @@
                 "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
               }
             }
-          },
-          {
-            "id": "667979b7e073ce7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f778ad1f8c0d99a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Tainted with Evil.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Tainted with Evil.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Tainted with Evil.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Tainted with Evil.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
               }
             }
           },
@@ -260,11 +236,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f778ad1f8c0d99a2",
+  "active": "dbe6daff3366f468",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Evil-Tainted Magic.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Tainted with Evil.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md",
     "Player-Facing Rules/Character Creation/Character Progression.md",
