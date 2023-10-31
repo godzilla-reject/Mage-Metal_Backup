@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "1c1584168eebde9c",
+            "id": "dbe6daff3366f468",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -236,11 +236,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1c1584168eebde9c",
+  "active": "dbe6daff3366f468",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md",
     "Player-Facing Rules/Character Creation/Character Progression.md",
     "General Rules/Character Mechanics Overview.md",
     "Utilities/Dashboard.md",
@@ -270,7 +271,6 @@
     "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md",
     "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Terraphasia.md",
     "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy",
     "Player-Facing Rules/Spells/Spell School Registry/Humaana",
     "Player-Facing Rules/Spells/Spell School Registry/Technomynism"

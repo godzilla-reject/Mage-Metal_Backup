@@ -5,12 +5,16 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
     },
     {
-      "basename": "Hyper-Specialized",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md"
-    },
-    {
       "basename": "Mage Creation Steps",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
+      "basename": "Jack of All Trades",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md"
+    },
+    {
+      "basename": "Hyper-Specialized",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md"
     },
     {
       "basename": "Character Progression",
@@ -195,10 +199,6 @@
     {
       "basename": "Verocloth",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md"
-    },
-    {
-      "basename": "Insulated",
-      "path": "General Rules/Traits Catalog/General/Insulated.md"
     }
   ],
   "omittedPaths": [],

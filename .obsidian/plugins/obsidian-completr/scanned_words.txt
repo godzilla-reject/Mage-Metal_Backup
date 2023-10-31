@@ -359,6 +359,7 @@ file
 firearm
 fakt
 fundamentals
+fortune
 came
 combines
 combat

@@ -1512,7 +1512,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100508,
-      "modifiedDate": 1698783083149,
+      "modifiedDate": 1698783735538,
       "sizeInBytes": 5098
     },
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Master Craftsman.md": {
@@ -1694,24 +1694,6 @@
       "createdDate": 1698734100512,
       "modifiedDate": 1698783137473,
       "sizeInBytes": 603
-    },
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Earned Doctorate.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 34,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 189,
-      "nonWhitespaceCharacterCount": 150,
-      "readingTimeInMinutes": 0.12830188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1698734100502,
-      "modifiedDate": 1697774427264,
-      "sizeInBytes": 208
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/V.High/Noble.md": {
       "isCountable": true,
