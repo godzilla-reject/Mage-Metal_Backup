@@ -136,6 +136,9 @@ inscribe
 increases
 including
 issue
+imaginable
+inventory
+invites
 the
 takes
 titans
@@ -491,6 +494,9 @@ const
 ceiling
 caliber
 complex
+completely
+conversations
+chart
 before
 being
 be
@@ -718,6 +724,9 @@ ammo
 ar
 artifacteomancy
 artifacty
+activate
+addiction
+audiences
 wear
 with
 war
@@ -784,6 +793,7 @@ writing
 words
 winds
 wall
+withdrawal
 sleeve
 some
 something
@@ -951,6 +961,9 @@ squails
 steel
 sp
 spot
+seeking
+strongest
+social
 LANCER
 Learn
 Lancer
@@ -1154,6 +1167,7 @@ dedication
 deep
 depths
 dashing
+drop
 ever
 expand
 easy
@@ -1235,6 +1249,7 @@ electromancy
 exchange
 erect
 erupts
+events
 played
 pilot
 play
@@ -1350,6 +1365,7 @@ potent
 possible
 practice
 pure
+products
 RP
 RPGs
 Ryutama
@@ -1514,6 +1530,7 @@ rename
 rules
 reliable
 runes
+remaining
 Pathfinder
 PF
 Philosophy
@@ -1693,6 +1710,7 @@ mastery
 masters
 metallomancy
 moved
+merchants
 GURPS
 Google
 Greyhawk
@@ -1746,6 +1764,7 @@ useful
 utensil
 unless
 until
+undergo
 letting
 look
 like
@@ -1836,6 +1855,7 @@ Expensive
 Enter
 Easy
 Example
+Extreme
 Use
 Usable
 Unsorted
@@ -2020,6 +2040,7 @@ Far
 Failure
 Force
 Fireball
+Funds
 Dungeons
 Dragons
 Definitely
@@ -2234,4 +2255,5 @@ quilted
 qualifier
 quell
 quirks
+quarter
 XdE

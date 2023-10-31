@@ -39,9 +39,9 @@ In order to create a character in *Mage/Metal*, one must begin with their Mage. 
 	1. Create your Grimoire from spells you have access to.
 		1. At Tier 1, your Grimoire can contain Rank 0-3 spells.
 		2. Your Grimoire can contain a number of spells equal to your Tier * 10.
-		3. You have any spell that either does not have an access requirement or you meet the requirement for.
+		3. You have access to any spell that either does not have an access requirement or you meet the requirement for.
 8. What are your useful quirks? 
 	1. Select a General Perk. 
 	2. You may select a second General perk, but you must also take a Tragic Flaw if you do so.
 9. What equipment do you use?
-	1. 
+	1. Denote your Starting Wealth, using this chart.

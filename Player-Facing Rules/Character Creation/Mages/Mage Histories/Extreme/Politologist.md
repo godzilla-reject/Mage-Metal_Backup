@@ -1,5 +1,5 @@
 ---
-Wealth: V.High
+Wealth: Extreme
 Boost: Mind
 Perk: Impromptu Speech
 ---

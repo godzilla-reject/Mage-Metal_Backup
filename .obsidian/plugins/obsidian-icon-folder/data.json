@@ -22,7 +22,8 @@
     },
     "iconInTabsEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconInTitleEnabled": false
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false
   },
   "Design Bible": "FarBookBible",
   "General Rules": "FarCircleDot",

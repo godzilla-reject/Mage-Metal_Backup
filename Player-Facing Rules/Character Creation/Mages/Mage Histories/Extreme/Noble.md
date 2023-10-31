@@ -1,5 +1,5 @@
 ---
-Wealth: V.High
+Wealth: Extreme
 Boost: Tenacity
 Perk: Namedrop
 ---

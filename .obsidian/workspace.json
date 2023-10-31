@@ -14,18 +14,20 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "dbe6daff3366f468",
+            "id": "bf24bff094936bff",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
+                "file": "Starting Wealth Chart.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
+                "file": "Starting Wealth Chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
+                "file": "Starting Wealth Chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
+                "file": "Starting Wealth Chart.md"
               }
             }
           },
@@ -205,12 +207,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,19 +230,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "mathpad:Open Mathpad": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "rpg-manager:RPG Manager": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "dbe6daff3366f468",
+  "active": "bf24bff094936bff",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Starting Wealth Chart.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md",
+    "General Rules/Conditions Catalog/Detrimental/Drained.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Evil-Tainted Magic.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md",
     "Player-Facing Rules/Character Creation/Character Progression.md",
     "General Rules/Character Mechanics Overview.md",
@@ -266,13 +273,7 @@
     "Player-Facing Rules/Spells/Spells Database/Conjure Weapon, Advanced.md",
     "Player-Facing Rules/Spells/Spells Database/Conjure Weapon, Martial.md",
     "Player-Facing Rules/Spells/Spells Database/Conjure Weapon, Simple.md",
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md",
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Cedrik's Mini-Many-Minefield.md",
-    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md",
-    "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md",
     "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy",
-    "Player-Facing Rules/Spells/Spell School Registry/Humaana",
-    "Player-Facing Rules/Spells/Spell School Registry/Technomynism"
+    "Player-Facing Rules/Spells/Spell School Registry/Humaana"
   ]
 }

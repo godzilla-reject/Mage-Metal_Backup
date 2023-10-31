@@ -92,7 +92,7 @@ columns:
       - { label: "Poor", value: "Poor", color: "hsl(129, 95%, 90%)"}
       - { label: "Moderate", value: "Moderate", color: "hsl(129, 95%, 90%)"}
       - { label: "High", value: "High", color: "hsl(270, 95%, 90%)"}
-      - { label: "V.High", value: "V.High", color: "hsl(297, 95%, 90%)"}
+      - { label: "Extreme", value: "Extreme", color: "hsl(226, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
