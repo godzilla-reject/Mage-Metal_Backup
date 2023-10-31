@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [
@@ -15,19 +15,19 @@
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [
-    {
-      "id": "buttons:button-maker",
-      "icon": "layout-template",
-      "name": "Buttons: Button Maker",
-      "mode": "any"
-    }
-  ],
+  "pageHeader": [],
   "macros": [],
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Open graph view",
+      "Open today's daily note",
+      "Open Creature Pane",
+      "Memos",
+      "Initiative Tracker Encounter Builder",
+      "RPG Manager"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {

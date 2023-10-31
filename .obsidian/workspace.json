@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba458e90562942d5",
+            "id": "0a016ae128ec8d8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "d2d35d33f7c907c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tester Note(Dot Jay Peg).md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tester Note(Dot Jay Peg).md",
+                "file": "Templates/Markdown Templates/General Templates/Condition Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tester Note(Dot Jay Peg).md",
+                "file": "Templates/Markdown Templates/General Templates/Condition Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tester Note(Dot Jay Peg).md"
+                "file": "Templates/Markdown Templates/General Templates/Condition Template.md"
               }
             }
           },
@@ -238,9 +225,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d2d35d33f7c907c2",
+  "active": "a6efdbb03f15d137",
   "lastOpenFiles": [
+    "Templates/Markdown Templates/General Templates/Trait Template.md",
     "Utilities/Dashboard.md",
+    "Templates/Markdown Templates/General Templates",
+    "Applications of Metal Technologies.md",
+    "~syncthing~Applications of Metal Technologies.md.tmp",
+    "Gay queerboys..md",
+    "~syncthing~Gay queerboys..md.tmp",
     "Tester Note(Dot Jay Peg).md",
     "Repo",
     "Testers.txt",
@@ -267,14 +260,8 @@
     "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md",
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
-    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md",
-    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md",
-    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",
     "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy",
     "Player-Facing Rules/Spells/Spell School Registry/Humaana",
-    "Player-Facing Rules/Spells/Spell School Registry/Technomynism",
-    "Player-Facing Rules/Spells/Spell School Registry/Elemancy",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment",
-    "Templates/Dataview Templates"
+    "Player-Facing Rules/Spells/Spell School Registry/Technomynism"
   ]
 }

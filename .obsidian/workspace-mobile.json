@@ -11,8 +11,12 @@
             "id": "e4a7369450c1614b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
+          }
         }
       },
       {
@@ -151,7 +159,7 @@
         }
       }
     ],
-    "currentTab": 6
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +184,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cb163c3aa8d5b6d",
-  "lastOpenFiles": []
+  "active": "e4a7369450c1614b",
+  "lastOpenFiles": [
+    "Templates/Markdown Templates/General Templates/Trait Template.md",
+    "Templates/Markdown Templates/General Templates/Condition Template.md",
+    "Templates/Markdown Templates/General Templates",
+    "Applications of Metal Technologies.md",
+    "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
+  ]
 }
