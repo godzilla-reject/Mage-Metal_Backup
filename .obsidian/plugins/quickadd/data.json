@@ -271,6 +271,36 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "059303b9-b54f-4f73-b0f5-204a5675a892",
+      "name": "New Equipment",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Markdown Templates/Mage Templates/Equipment Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Player-Facing Rules/Items and Equipment/Equipment Catalog"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "76a81405-6863-4000-ba84-adfae2bf5361",
       "name": "New Perk",
       "type": "Template",

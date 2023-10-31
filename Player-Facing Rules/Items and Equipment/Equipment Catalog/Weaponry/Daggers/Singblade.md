@@ -5,7 +5,7 @@ Tags:
 Category: Simple
 Group: Daggers
 Handed-ness: 1
-Price: 250
+Price: 25
 Heft: 1
 Damage_Type: piercing
 Damage_Die: 1d6

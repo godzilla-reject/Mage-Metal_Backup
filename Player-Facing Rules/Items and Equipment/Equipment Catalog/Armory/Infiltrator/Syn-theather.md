@@ -1,7 +1,7 @@
 ---
 Tags:
   - Armor
-Price: 200
+Price: 75
 Category: Infiltrator
 Group: Synthflesh
 Toughness_Bonus: 2

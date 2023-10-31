@@ -1,20 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "Starting Wealth Chart",
-      "path": "Starting Wealth Chart.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.md"
     },
     {
       "basename": "History Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
     },
     {
+      "basename": "Politologist",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
+    },
+    {
       "basename": "Noble",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
+    },
+    {
+      "basename": "Influencer",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
+    },
+    {
+      "basename": "Corpo Deskie",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
+    },
+    {
+      "basename": "Hegemony Nomad",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
+    },
+    {
+      "basename": "Dusted",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
+      "basename": "Starting Wealth Chart",
+      "path": "Starting Wealth Chart.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Armor  Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Glazier Boltbow",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md"
+    },
+    {
+      "basename": "Integrated Weapon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md"
+    },
+    {
+      "basename": "Fine Clothes",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md"
+    },
+    {
+      "basename": "Exquisite Clothes",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md"
+    },
+    {
+      "basename": "Common Clothes",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md"
+    },
+    {
+      "basename": "Mess Set",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Mess Set.md"
+    },
+    {
+      "basename": "Field Survival Basics",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Kit/Field Survival Basics.md"
+    },
+    {
+      "basename": "Technosophy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md"
+    },
+    {
+      "basename": "Thumpthrower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
+    },
+    {
+      "basename": "Laser Charges",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
+    },
+    {
+      "basename": "Lazerpike",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
+    },
+    {
+      "basename": "Equipment Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Equipment Template.md"
+    },
+    {
+      "basename": "Weapon Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
     },
     {
       "basename": "Special Perks Database",
@@ -43,10 +131,6 @@
     {
       "basename": "Character Mechanics Overview",
       "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.md"
     },
     {
       "basename": "Traits Database",
@@ -115,90 +199,6 @@
     {
       "basename": "Aerostrike",
       "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
-    },
-    {
-      "basename": "Power-Word 'Harm'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md"
-    },
-    {
-      "basename": "Arcane Sphere-Artifacteomancy",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
-    },
-    {
-      "basename": "Arcane Sphere-Elemancy",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md"
-    },
-    {
-      "basename": "Arcane Sphere-Technomynism",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
-    },
-    {
-      "basename": "Arcane Sphere-Humaana",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md"
-    },
-    {
-      "basename": "Spell List Dataview",
-      "path": "Templates/Dataview Templates/Spell List Dataview.md"
-    },
-    {
-      "basename": "Spell List-Aerophasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md"
-    },
-    {
-      "basename": "Spell List-Hydrophasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Hydrophasia.md"
-    },
-    {
-      "basename": "Spell List-Terraphasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md"
-    },
-    {
-      "basename": "Spell List-Electromancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Electromancy.md"
-    },
-    {
-      "basename": "Spell List-Technosophy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md"
-    },
-    {
-      "basename": "Spell List-Somaphoresis",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md"
-    },
-    {
-      "basename": "Spell List-Hemaphoresis",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md"
-    },
-    {
-      "basename": "Spell List-Runeurgy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Runeurgy.md"
-    },
-    {
-      "basename": "Spell List-Glyphiamancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
-    },
-    {
-      "basename": "Spell List-Pyrophasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md"
-    },
-    {
-      "basename": "Spell List-Metallomancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Metallomancy.md"
-    },
-    {
-      "basename": "Arcane Surge",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Arcane Surge.md"
-    },
-    {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "Lazerpike",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
-    },
-    {
-      "basename": "Carbon Alloy Plate",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md"
     }
   ],
   "omittedPaths": [],

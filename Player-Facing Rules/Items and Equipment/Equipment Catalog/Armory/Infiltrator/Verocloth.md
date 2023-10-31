@@ -1,7 +1,7 @@
 ---
 Tags:
   - Armor
-Price: 75
+Price: 25
 Category: Infiltrator
 Group: Cloth
 Toughness_Bonus: 1

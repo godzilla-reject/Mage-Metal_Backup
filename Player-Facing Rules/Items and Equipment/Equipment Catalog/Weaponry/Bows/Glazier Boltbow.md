@@ -5,7 +5,7 @@ Tags:
   - Weapon
 Group: Bows
 Handed-ness: 2
-Price: 1600
+Price: 160
 Heft: 6
 Damage_Type: electric
 Damage_Die: 1d12

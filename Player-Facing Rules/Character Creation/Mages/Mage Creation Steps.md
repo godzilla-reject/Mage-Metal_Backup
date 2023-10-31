@@ -44,4 +44,6 @@ In order to create a character in *Mage/Metal*, one must begin with their Mage. 
 	1. Select a General Perk. 
 	2. You may select a second General perk, but you must also take a Tragic Flaw if you do so.
 9. What equipment do you use?
-	1. Denote your Starting Wealth, using this chart.
+	1. Denote your Starting Wealth, using [[Starting Wealth Chart\|this chart]].
+	2. Purchase as little or as much equipment as you want from the Equipment section. We recommend at least one weapon, one suit of armor, and some basic gear such as [[Nutri-gel (1 day)\|Nutri-gel]], a [[Hardlight Torch]], and a [[Backpack]], as well as a set of clothes. 
+	3. Denote any remaining Credits. 

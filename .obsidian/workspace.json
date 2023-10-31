@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d30238fdc256c8db",
+        "id": "7f04626a344e7494",
         "type": "tabs",
         "children": [
           {
-            "id": "803aca233beccbde",
+            "id": "5d02769ccde621f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bf24bff094936bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Starting Wealth Chart.md",
-                "mode": "source",
+                "file": "Utilities/Dashboard.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starting Wealth Chart.md",
+                "file": "Utilities/Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starting Wealth Chart.md",
+                "file": "Utilities/Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starting Wealth Chart.md"
+                "file": "Utilities/Dashboard.md"
               }
             }
           },
@@ -211,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,43 +225,43 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "bf24bff094936bff",
+  "active": "5d02769ccde621f1",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
+    "Utilities/Dashboard.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "Starting Wealth Chart.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md",
-    "General Rules/Conditions Catalog/Detrimental/Drained.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Evil-Tainted Magic.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md",
-    "Player-Facing Rules/Character Creation/Character Progression.md",
-    "General Rules/Character Mechanics Overview.md",
-    "Utilities/Dashboard.md",
-    "General Rules/Traits Catalog/Traits Database.md",
-    "General Rules/Traits Catalog/Test Blarg.md",
-    "Templates/Markdown Templates/General Templates/Condition Template.md",
-    "Templates/Markdown Templates/General Templates/Trait Template.md",
-    "Templates/Markdown Templates/General Templates",
-    "Applications of Metal Technologies.md",
-    "~syncthing~Applications of Metal Technologies.md.tmp",
-    "Gay queerboys..md",
-    "~syncthing~Gay queerboys..md.tmp",
-    "Tester Note(Dot Jay Peg).md",
-    "Repo",
-    "Testers.txt",
-    "Repo/Testers.txt",
-    "Repo",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md",
-    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
-    "Player-Facing Rules/Spells/Spells Database/Conjure Weapon, Advanced.md",
-    "Player-Facing Rules/Spells/Spells Database/Conjure Weapon, Martial.md",
-    "Player-Facing Rules/Spells/Spells Database/Conjure Weapon, Simple.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy",
-    "Player-Facing Rules/Spells/Spell School Registry/Humaana"
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Mess Set.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Grappling Hook.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Kit",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition"
   ]
 }

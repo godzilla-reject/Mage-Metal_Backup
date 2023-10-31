@@ -3,7 +3,7 @@ Type: Ranged
 Category: Martial
 tags:
   - Weapon
-Price: 1200
+Price: 120
 Group: Long Guns
 Handed-ness: 2
 Damage_Die: 1d8

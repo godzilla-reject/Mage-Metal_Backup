@@ -1,7 +1,7 @@
 ---
 Tags:
   - Armor
-Price: 3000
+Price: 600
 Category: Powered
 Group: Plate
 Toughness_Bonus: 6

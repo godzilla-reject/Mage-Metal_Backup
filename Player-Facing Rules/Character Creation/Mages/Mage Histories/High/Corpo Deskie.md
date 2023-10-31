@@ -17,4 +17,4 @@ Perk: Ready-Access Loans
 
 
 >> [!info|text-Center clear] Perk: `=this.Perk`
->> You can take out a company loan at nearly any time. These loans can be used to procure most standard equipment that doesn't have a rarity trait. Typically, these loans are repaid in favors to your higher-ups, not money. 
+>> You can take out a company loan at nearly any time. These loans can be used to procure most standard equipment that doesn't have a rarity trait. Typically, these loans are repaid in favors to your higher-ups, not money. Your starting credits is one of these such loans.

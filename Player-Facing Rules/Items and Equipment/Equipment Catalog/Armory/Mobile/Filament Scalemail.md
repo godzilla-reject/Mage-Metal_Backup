@@ -1,7 +1,7 @@
 ---
 Tags:
   - Armor
-Price: 400
+Price: 125
 Category: Mobile
 Group: Composite
 Toughness_Bonus: 4

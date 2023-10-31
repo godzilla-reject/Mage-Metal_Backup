@@ -80,6 +80,13 @@
       "color": "#1900c8"
     },
     {
+      "id": "quickadd:choice:059303b9-b54f-4f73-b0f5-204a5675a892",
+      "icon": "battery-charging",
+      "name": "New Equipment",
+      "mode": "any",
+      "color": "#1900ff"
+    },
+    {
       "id": "quickadd:choice:76a81405-6863-4000-ba84-adfae2bf5361",
       "icon": "award",
       "name": "New Perk",

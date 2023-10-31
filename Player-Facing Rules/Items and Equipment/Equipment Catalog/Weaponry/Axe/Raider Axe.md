@@ -8,7 +8,7 @@ Handed-ness: 2
 Damage_Die: 1d12
 Damage_Type: cutting
 Heft: 10
-Price: 1000
+Price: 100
 Completed: true
 ---
 > [!infobox|left]+ Weapon Entry

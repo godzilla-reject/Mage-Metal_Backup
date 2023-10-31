@@ -8,7 +8,7 @@ Handed-ness: 1
 Damage_Die: 1d4
 Damage_Type: piercing
 Heft: 3
-Price: 275
+Price: 80
 Completed: true
 ---
 > [!infobox|left]+ Weapon Entry
