@@ -4,6 +4,7 @@ Type: Flaw
 Tags:
   - Perk
   - Flaw
+Completed: true
 ---
 > [!info]+ #  `=this.file.name`
 > ###### Perk Information

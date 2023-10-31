@@ -102,7 +102,7 @@ columns:
     key: Tier
     id: Tier
     label: Tier
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -121,7 +121,7 @@ columns:
     key: Type
     id: Type
     label: Type
-    position: 6
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: 1
