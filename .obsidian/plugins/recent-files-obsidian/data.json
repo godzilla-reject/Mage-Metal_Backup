@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Special Perks Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
+    },
+    {
+      "basename": "Hyper-Specialized",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
+      "basename": "Character Progression",
+      "path": "Player-Facing Rules/Character Creation/Character Progression.md"
+    },
+    {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "Insulated",
       "path": "General Rules/Traits Catalog/General/Insulated.md"
-    },
-    {
-      "basename": "Raider Axe",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Axe/Raider Axe.md"
-    },
-    {
-      "basename": "Thrown",
-      "path": "General Rules/Traits Catalog/Weapon-Only/Thrown.md"
-    },
-    {
-      "basename": "Glazier Boltbow",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md"
-    },
-    {
-      "basename": "Thumpthrower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
     }
   ],
   "omittedPaths": [],

@@ -124,7 +124,9 @@ columns:
     position: 6
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: false
     options:
       - { label: "General", value: "General", color: "hsl(89, 95%, 90%)"}
       - { label: "Flaw", value: "Flaw", color: "hsl(187, 95%, 90%)"}

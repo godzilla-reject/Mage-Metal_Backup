@@ -5,8 +5,7 @@ Tags:
   - Perk
   - Flaw
 ---
-> [!info]+ 
-> #  `=this.file.name`
+> [!info]+ #  `=this.file.name`
 > ###### Perk Information
 > | | |
 > |:---:|:---:|

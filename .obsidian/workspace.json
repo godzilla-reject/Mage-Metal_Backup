@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "1c1584168eebde9c",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
               }
             }
           },
@@ -198,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,11 +236,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "803aca233beccbde",
+  "active": "1c1584168eebde9c",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Player-Facing Rules/Character Creation/Character Progression.md",
+    "General Rules/Character Mechanics Overview.md",
+    "Utilities/Dashboard.md",
     "General Rules/Traits Catalog/Traits Database.md",
     "General Rules/Traits Catalog/Test Blarg.md",
-    "Utilities/Dashboard.md",
     "Templates/Markdown Templates/General Templates/Condition Template.md",
     "Templates/Markdown Templates/General Templates/Trait Template.md",
     "Templates/Markdown Templates/General Templates",
@@ -254,11 +271,6 @@
     "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Terraphasia.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Pyrophasia.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Hydrophasia.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Artifacteomancy/Runeurgy.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
     "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy",
     "Player-Facing Rules/Spells/Spell School Registry/Humaana",
     "Player-Facing Rules/Spells/Spell School Registry/Technomynism"
