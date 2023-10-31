@@ -32,7 +32,7 @@
     },
     {
       "id": "178038c5-a913-422f-b625-a5a39b72cdcd",
-      "name": "New Trait (copy)",
+      "name": "New Condition",
       "type": "Template",
       "command": true,
       "templatePath": "Templates/Markdown Templates/General Templates/Condition Template.md",
@@ -42,7 +42,9 @@
       },
       "folder": {
         "enabled": true,
-        "folders": [],
+        "folders": [
+          "General Rules/Conditions Catalog"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false

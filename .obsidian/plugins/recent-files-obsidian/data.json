@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.md"
+    },
+    {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
       "basename": "Condition Template",
       "path": "Templates/Markdown Templates/General Templates/Condition Template.md"
     },
     {
       "basename": "Trait Template",
       "path": "Templates/Markdown Templates/General Templates/Trait Template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.md"
     },
     {
       "basename": "Spells Database",
@@ -191,14 +195,6 @@
     {
       "basename": "Thumpthrower",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
-    },
-    {
-      "basename": "Design Notes-Damage Types, Resistance, and Weakness",
-      "path": "General Rules/Combat/Design Notes-Damage Types, Resistance, and Weakness.md"
-    },
-    {
-      "basename": "Physical",
-      "path": "General Rules/Traits Catalog/General/Physical.md"
     }
   ],
   "omittedPaths": [],

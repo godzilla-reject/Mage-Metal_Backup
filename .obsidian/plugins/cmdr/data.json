@@ -1,6 +1,6 @@
 {
   "confirmDeletion": false,
-  "showAddCommand": true,
+  "showAddCommand": false,
   "debug": false,
   "editorMenu": [
     {
@@ -15,7 +15,15 @@
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "quickadd:choice:714f8327-be7e-42d9-9ec2-4c9537308b7c",
+      "icon": "activity",
+      "name": "New Trait",
+      "mode": "any",
+      "color": "#ff0000"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {
