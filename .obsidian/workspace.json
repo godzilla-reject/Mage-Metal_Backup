@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -266,13 +265,15 @@
         "y": 258,
         "width": 1569,
         "height": 993,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "e29f01e521d9e639",
   "lastOpenFiles": [
+    "Utilities/Notes From Char. Creation Test 1.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md",
@@ -284,7 +285,6 @@
     "General Rules/Traits Catalog/General/Flash.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Utilities/Starting Wealth Chart.md",
-    "Utilities/Notes From Char. Creation Test 1.md",
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
     "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Shield Crush.md",
@@ -298,7 +298,6 @@
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Spells/Spells Database/soma",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable",
