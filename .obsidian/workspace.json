@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cbc4e12135fe8d8a",
+        "id": "384c9a43228c1d97",
         "type": "tabs",
         "children": [
           {
-            "id": "e29f01e521d9e639",
+            "id": "c7fdffb850ffbeba",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+                "file": "Utilities/General To-Do List.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+                "file": "Utilities/General To-Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+                "file": "Utilities/General To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+                "file": "Utilities/General To-Do List.md"
               }
             }
           },
@@ -233,52 +235,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "floating": {
-    "id": "5c333052eb6e6b48",
-    "type": "floating",
-    "children": [
-      {
-        "id": "28ca8beef1bd6a92",
-        "type": "window",
-        "children": [
-          {
-            "id": "b22a508db6076a7d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "90b127e6378f8c77",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Utilities/Notes From Char. Creation Test 1.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1412,
-        "y": 258,
-        "width": 1569,
-        "height": 993,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e29f01e521d9e639",
+  "active": "c7fdffb850ffbeba",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
+    "Utilities/Notes From Char. Creation Test 1.md",
+    "Utilities/Dashboard.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
     "Templates/Markdown Templates/Mage Templates/Species Template.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Utilities/Notes From Char. Creation Test 1.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md",
@@ -297,7 +263,6 @@
     "General Rules/Traits Catalog/General/Slow.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "General Rules/Character Mechanics Overview.md",
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
     "Player-Facing Rules/Spells/Spells Database/soma",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable",
