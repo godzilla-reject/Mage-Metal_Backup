@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "384c9a43228c1d97",
+        "id": "dacf2bc65d5e76ef",
         "type": "tabs",
         "children": [
           {
-            "id": "c7fdffb850ffbeba",
+            "id": "2fab8676b1bfb997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilities/General To-Do List.md",
+                "file": "Utilities/Dashboard.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/General To-Do List.md",
+                "file": "Utilities/Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/General To-Do List.md",
+                "file": "Utilities/Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/General To-Do List.md"
+                "file": "Utilities/Dashboard.md"
               }
             }
           },
@@ -204,12 +204,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,11 +230,11 @@
       "rpg-manager:RPG Manager": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "c7fdffb850ffbeba",
+  "active": "2fab8676b1bfb997",
   "lastOpenFiles": [
     "Utilities/Notes From Char. Creation Test 1.md",
     "Utilities/Dashboard.md",
