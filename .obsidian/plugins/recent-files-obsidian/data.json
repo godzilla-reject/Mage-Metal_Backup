@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Long-Range Ordinance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md"
+    },
+    {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "General To-Do List",
+      "path": "Utilities/General To-Do List.md"
+    },
+    {
+      "basename": "Runeurgy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Artifacteomancy/Runeurgy.md"
+    },
+    {
+      "basename": "Arcane Sphere-Humaana",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md"
+    },
+    {
+      "basename": "Spell List-Glyphiamancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
+    },
+    {
+      "basename": "Arcane Sphere-Artifacteomancy",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
+    },
+    {
+      "basename": "Harm Wounds",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md"
+    },
+    {
+      "basename": "Heal Wounds",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
+    },
+    {
+      "basename": "Arcane Sphere-Technomynism",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
+    },
+    {
+      "basename": "Arcane Sphere-Elemancy",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Melanie's Wail of Blood",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md"
     },
     {
       "basename": "Lightning Bolt",
@@ -15,10 +71,6 @@
     {
       "basename": "Area",
       "path": "General Rules/Traits Catalog/General/Area.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.md"
     },
     {
       "basename": "History Database",
@@ -55,10 +107,6 @@
     {
       "basename": "Starting Wealth Chart",
       "path": "Utilities/Starting Wealth Chart.md"
-    },
-    {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
       "basename": "Armor  Database",
@@ -151,54 +199,6 @@
     {
       "basename": "Traits Database",
       "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Condition Template",
-      "path": "Templates/Markdown Templates/General Templates/Condition Template.md"
-    },
-    {
-      "basename": "Trait Template",
-      "path": "Templates/Markdown Templates/General Templates/Trait Template.md"
-    },
-    {
-      "basename": "Earthen Armor",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md"
-    },
-    {
-      "basename": "Ignition",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
-    },
-    {
-      "basename": "Cedrik's Mini-Many-Minefield",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Cedrik's Mini-Many-Minefield.md"
-    },
-    {
-      "basename": "Eunard's Portable Cover",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md"
-    },
-    {
-      "basename": "Schools Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
-    },
-    {
-      "basename": "Terraphasia",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Terraphasia.md"
-    },
-    {
-      "basename": "Pyrophasia",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Pyrophasia.md"
-    },
-    {
-      "basename": "Aerophasia",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md"
-    },
-    {
-      "basename": "Hydrophasia",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Hydrophasia.md"
-    },
-    {
-      "basename": "Runeurgy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Artifacteomancy/Runeurgy.md"
     }
   ],
   "omittedPaths": [],

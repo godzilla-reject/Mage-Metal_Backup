@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7f04626a344e7494",
+        "id": "7141200e5a52e41b",
         "type": "tabs",
         "children": [
           {
-            "id": "5d02769ccde621f1",
+            "id": "5590008265b0dd0f",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+                "file": "Utilities/Dashboard.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+                "file": "Utilities/Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+                "file": "Utilities/Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+                "file": "Utilities/Dashboard.md"
               }
             }
           },
@@ -160,14 +162,6 @@
             }
           },
           {
-            "id": "d7a3e427e71d5d3e",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "2563114bbac86f0c",
             "type": "leaf",
             "state": {
@@ -180,6 +174,14 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7a3e427e71d5d3e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
               "state": {}
             }
           },
@@ -202,12 +204,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 969.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,43 +234,43 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5d02769ccde621f1",
+  "active": "35bd1d52bac4ea59",
   "lastOpenFiles": [
-    "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md",
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
-    "General Rules/Traits Catalog/General/Area.md",
-    "General Rules/Traits Catalog/Area.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md",
-    "Utilities/Dashboard.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Utilities/Starting Wealth Chart.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md",
+    "Utilities/Dashboard.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Utilities/General To-Do List.md",
+    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Artifacteomancy/Runeurgy.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Heal'.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md",
+    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md",
+    "Player-Facing Rules/Spells/Spells Database/soma",
+    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md",
+    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
+    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Relieve Malediction.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md",
+    "README.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md",
+    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md",
+    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md",
+    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamorous Clang.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Kit",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition"
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software"
   ]
 }

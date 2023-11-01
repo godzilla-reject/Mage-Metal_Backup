@@ -1,15 +1,22 @@
 ---
 tags: #todo
 ---
-
-- [ ] #todo Figure the Skills Issue Out ⏫
-- [ ] #todo Work on Character Sheet ⏫ 
-- [x] #todo Format Database for Schools ⏫ ✅ 2023-10-09
+- [ ] #todo Update Character Sheet to include:
+	- [ ] Character Profile
+	- [ ] School//Role training level markers
+	- [ ] Re-format to make cleaner.
 - [ ] #todo Equipment:
-	- [ ] Create Equipment Database
-	- [ ] Create Equipment Template
+	- [x] Create Equipment Database ✅ 2023-10-31
+	- [x] Create Equipment Template ✅ 2023-10-31
 	- [ ] Great-Blade (Super-Primary)
 	- [ ] Scrap-Launcher (Super-Primary) (think Roadhog)
 	- [ ] Non-descript Handgun (Secondary)
 	- [ ] Laser Cutter (Aux)
 	- [ ] Vulkan Cannons (Nagging weapons) (Aux)
+- [ ] #todo Get Spells Database to 100% complete markers.
+- [ ] #todo Get Equipment Database to 100% complete.
+- [ ] #todo Balance Passes:
+	- [ ] Species
+	- [ ] Histories
+	- [ ] Schools
+	- [ ] Roles

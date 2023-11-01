@@ -17,8 +17,6 @@ Skill: Stealth
 Skill_1: Stealth
 Skill_2: Acrobatics
 ---
-- [x] #todo Create the [[Hidden]] condition. ✅ 2023-10-14
-- [ ] #todo Fill out new Character Creation steps.
 # Role: `=this.file.name`
 Those in the Long-Range Ordinance role act as the heavy firepower of their team, either shutting down key chokes or unleashing devastating damage with high-powered weaponry. While powerful, they are nearly defenseless due to the amount of accommodation needed for such extreme firepower.
 - - -

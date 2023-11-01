@@ -121,6 +121,7 @@ columns:
       - { label: "Glyphiamancy", value: "Glyphiamancy", color: "hsl(137, 95%, 90%)"}
       - { label: "Metallomancy", value: "Metallomancy", color: "hsl(278, 95%, 90%)"}
       - { label: "Electromancy", value: "Electromancy", color: "hsl(16, 95%, 90%)"}
+      - { label: "Resonancia", value: "Resonancia", color: "hsl(97, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
