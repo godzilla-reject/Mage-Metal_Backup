@@ -8,41 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb1981962c0eadab",
+            "id": "e29f01e521d9e639",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
-              }
-            }
-          },
-          {
-            "id": "e29f01e521d9e639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "05e51a30cf255bbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md",
-                "mode": "preview",
-                "source": true
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
               }
             }
           },
@@ -228,11 +203,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 969.5,
+    "width": 355.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -291,39 +266,39 @@
         "y": 258,
         "width": 1569,
         "height": 993,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "e29f01e521d9e639",
   "lastOpenFiles": [
-    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md",
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md",
+    "Utilities/General To-Do List.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Gauntlet.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Battlemage.md",
+    "General Rules/Traits Catalog/General/Flash.md",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Utilities/Starting Wealth Chart.md",
     "Utilities/Notes From Char. Creation Test 1.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Shield Crush.md",
+    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
+    "General Rules/Traits Catalog/General/Slow.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "General Rules/Character Mechanics Overview.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
+    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
-    "Utilities/Dashboard.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
-    "Utilities/General To-Do List.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Artifacteomancy/Runeurgy.md",
-    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md",
-    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Heal'.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md",
     "Player-Facing Rules/Spells/Spells Database/soma",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable",

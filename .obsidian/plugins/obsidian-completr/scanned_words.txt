@@ -85,6 +85,7 @@ Mark
 Magisterial
 Maybe
 Mastered
+Moners
 in
 inspiration
 it
@@ -235,6 +236,7 @@ teaches
 themselves
 torrential
 technosophy
+thinks
 great
 game
 gaming
@@ -275,6 +277,7 @@ glow
 gained
 goes
 getting
+glyphiamancy
 from
 first
 freeform
@@ -372,6 +375,8 @@ favors
 factories
 fact
 flicker
+full
+format
 came
 combines
 combat
@@ -513,6 +518,9 @@ crime
 commit
 clearer
 choo
+cumbersome
+conjured
+cleaner
 before
 being
 be
@@ -989,6 +997,7 @@ society
 super
 scholarships
 save
+spellcasting
 LANCER
 Learn
 Lancer
@@ -1105,6 +1114,7 @@ onto
 objects
 orb
 opportunity
+ones
 designer
 drag
 do
@@ -1398,6 +1408,7 @@ practice
 pure
 products
 procure
+probably
 RP
 RPGs
 Ryutama
@@ -1440,6 +1451,7 @@ Resistance
 Rare
 Referred
 Reformat
+Re
 high
 heavily
 hopes
@@ -1619,6 +1631,8 @@ Probably
 Powerblade
 Piercing
 Purchase
+Profile
+Passes
 ABCs
 Apotheosis
 Accessibility
@@ -1757,6 +1771,8 @@ moved
 merchants
 money
 markets
+me
+markers
 GURPS
 Google
 Greyhawk
@@ -1780,6 +1796,7 @@ Greater
 Golden
 Grapple
 Generation
+Get
 utmost
 use
 up
@@ -1908,6 +1925,7 @@ Easy
 Example
 Extreme
 Explosive
+Explain
 Use
 Usable
 Unsorted
@@ -1921,6 +1939,7 @@ Untrained
 Untitled
 Unique
 Usage
+Update
 Complexity
 Could
 Conflicted
@@ -2227,6 +2246,7 @@ Speaker
 Slums
 Stonesight
 Step
+Slow
 Jackson
 Jack
 Juggernaut
@@ -2254,6 +2274,7 @@ Normal
 Note
 NewCondition
 Named
+Normally
 One
 Out
 Oblivion
@@ -2301,6 +2322,7 @@ Buttons
 Bullets
 Boosts
 Be
+Balance
 Varies
 Vast
 Void

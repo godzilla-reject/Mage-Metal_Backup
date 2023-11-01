@@ -46,7 +46,7 @@ Derived from their respective Attribute, different Statistics have differing for
 	- (Reflex * 3)/10
 ### Mind
 - Skill Aptitude
-	- A measure of how many skills one can use to their fullest extent.
+	- A measure of how many skills one can use to their fullest extent. A skill that a character has *aptitude* gains access to the Skill Perks of that skill. Not having aptitude does not affect their capacity to use that skill in any other way.
 	- Mind/4
 ### Potential 
 - Spell Memory

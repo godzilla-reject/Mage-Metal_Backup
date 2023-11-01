@@ -5,6 +5,7 @@ tags: #todo
 	- [ ] Character Profile
 	- [ ] School//Role training level markers
 	- [ ] Re-format to make cleaner.
+	- [ ] Add the Check Penalty to the math.
 - [ ] #todo Equipment:
 	- [x] Create Equipment Database ✅ 2023-10-31
 	- [x] Create Equipment Template ✅ 2023-10-31

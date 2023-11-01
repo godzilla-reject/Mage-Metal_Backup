@@ -6,5 +6,6 @@
 |  Rank  |  `=this.Rank`  |
 | School | `=this.School` |
 | Range  |                |
+|  Duration     |                |
 | Traits |                |
 > ###### *Details*

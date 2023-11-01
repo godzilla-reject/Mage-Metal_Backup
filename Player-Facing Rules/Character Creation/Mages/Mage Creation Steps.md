@@ -31,8 +31,8 @@ In order to create a character in *Mage/Metal*, one must begin with their Mage. 
 	1. Assign 12 free Attribute points. You cannot begin play with an Attribute above 20.
 	2. If you are not using a digital character sheet, calculate your Statistics.
 6. What are you great at? 
-	1. Assign your Skill Aptitudes. 
-	2. Select one skill you are trained in and have aptitude with to begin play as an Expert in. 
+	1. Assign your Skill Aptitudes. These denote if you have access to that skill's Skill Perks. 
+	2. Select one skill you are trained in, and also have aptitude with. You begin play with that skill at Expert. 
 	3. Assign one free Armor proficiency and one free Weaponry proficiency. You cannot begin play with an Armor or Weaponry proficiency at or above Mastered.
 	4. From among Perception, Piloting, and Spell-Work, pick two to begin play at Trained and one to begin play at Expertise.
 7. What spells can you cast?

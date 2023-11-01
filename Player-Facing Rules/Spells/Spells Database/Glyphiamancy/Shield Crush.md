@@ -12,8 +12,9 @@ Tags:
 |:------:|:----------------------------------------:|
 |  Rank  |               `=this.Rank`               |
 | School |              `=this.School`              |
-| Range  |                 4 Spaces                 |
+| Range  |                  4 sp.                   |
+|    Duration    |           10 minutes                               |
 | Traits | [[Slow]], [[Armor]], [[Move]], [[Melee]] |
 > ###### *Details*
-> You rush forward, crushing yourself into a target within range. You gain a +1 magical bonus to Toughness, then Move up to the target, who then takes crushing damage equal to your Toughness. The Toughness bonus lasts for 10 minutes.
+> You rush forward, crushing yourself into a target within range. You gain a +1 magical bonus to Toughness for the duration. At any time during the duration, you can take an action to select a target within range, then Move up to the target, who then takes crushing damage equal to your Toughness. 
 
