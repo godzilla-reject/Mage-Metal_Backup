@@ -20,8 +20,8 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: 2
-    isSorted: true
+    sortIndex: -1
+    isSorted: false
     isSortedDesc: true
     config:
       enable_media_view: true
@@ -85,9 +85,9 @@ columns:
     position: 2
     skipPersist: false
     isHidden: false
-    sortIndex: 1
+    sortIndex: 0
     isSorted: true
-    isSortedDesc: false
+    isSortedDesc: true
     options:
       - { label: "Poor", value: "Poor", color: "hsl(129, 95%, 90%)"}
       - { label: "Moderate", value: "Moderate", color: "hsl(129, 95%, 90%)"}

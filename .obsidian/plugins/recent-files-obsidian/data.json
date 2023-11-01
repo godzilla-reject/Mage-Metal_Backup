@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Frontline Vanguard",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
+    },
+    {
+      "basename": "Blood Cry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md"
+    },
+    {
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
+      "basename": "Notes From Char. Creation Test 1",
+      "path": "Utilities/Notes From Char. Creation Test 1.md"
+    },
+    {
+      "basename": "Schools Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
+    },
+    {
+      "basename": "Technosophy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md"
+    },
+    {
+      "basename": "Techno-Babble",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md"
+    },
+    {
+      "basename": "History Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "Wrench Monkey",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md"
+    },
+    {
+      "basename": "Species Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+    },
+    {
+      "basename": "Human",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
+    },
+    {
+      "basename": "Elves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
     },
     {
       "basename": "Equipment Database",
@@ -73,10 +129,6 @@
       "path": "General Rules/Traits Catalog/General/Area.md"
     },
     {
-      "basename": "History Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
-    },
-    {
       "basename": "Politologist",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
     },
@@ -99,10 +151,6 @@
     {
       "basename": "Dusted",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
     },
     {
       "basename": "Starting Wealth Chart",
@@ -145,60 +193,12 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Kit/Field Survival Basics.md"
     },
     {
-      "basename": "Technosophy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md"
-    },
-    {
       "basename": "Thumpthrower",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
     },
     {
       "basename": "Laser Charges",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
-    },
-    {
-      "basename": "Lazerpike",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
-    },
-    {
-      "basename": "Equipment Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Equipment Template.md"
-    },
-    {
-      "basename": "Weapon Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
-    },
-    {
-      "basename": "Special Perks Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
-    },
-    {
-      "basename": "Arcane Addict",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md"
-    },
-    {
-      "basename": "Hyper-Specialized",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md"
-    },
-    {
-      "basename": "Evil-Tainted Magic",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Evil-Tainted Magic.md"
-    },
-    {
-      "basename": "Jack of All Trades",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md"
-    },
-    {
-      "basename": "Character Progression",
-      "path": "Player-Facing Rules/Character Creation/Character Progression.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
     }
   ],
   "omittedPaths": [],

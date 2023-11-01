@@ -1206,7 +1206,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100562,
-      "modifiedDate": 1698734390966,
+      "modifiedDate": 1698808464689,
       "sizeInBytes": 5767
     },
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md": {
@@ -1332,7 +1332,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100600,
-      "modifiedDate": 1697768891649,
+      "modifiedDate": 1698807679358,
       "sizeInBytes": 5498
     },
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md": {
@@ -1404,7 +1404,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100556,
-      "modifiedDate": 1697769449693,
+      "modifiedDate": 1698809010476,
       "sizeInBytes": 11403
     },
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md": {
@@ -1775,15 +1775,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.4133333333333333,
-      "characterCount": 4638,
-      "nonWhitespaceCharacterCount": 3478,
+      "characterCount": 4639,
+      "nonWhitespaceCharacterCount": 3479,
       "readingTimeInMinutes": 1.6,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100356,
-      "modifiedDate": 1698796210816,
-      "sizeInBytes": 4684
+      "modifiedDate": 1698808063738,
+      "sizeInBytes": 4685
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md": {
       "isCountable": true,
@@ -4952,6 +4952,24 @@
       "createdDate": 1698806531677,
       "modifiedDate": 1698806557921,
       "sizeInBytes": 302
+    },
+    "Utilities/Notes From Char. Creation Test 1.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 52,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 260,
+      "nonWhitespaceCharacterCount": 206,
+      "readingTimeInMinutes": 0.19622641509433963,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1698807521052,
+      "modifiedDate": 1698809030389,
+      "sizeInBytes": 260
     }
   }
 }
