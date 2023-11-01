@@ -58,7 +58,7 @@ OR
 > 
 >> [!metadata] *Trained Perk: Delayed Payload Delivery*
 >> *When you become Trained in this Role, you gain the following benefits.*
->> You can choose to delay the detonation of any spell or weapon you use with the [[Explosive]] trait by one round. When delayed this way, it deals an additional die of damage when it does detonate. Additionally, you ignore up to -4 in range penalties.
+>> You can choose to delay the detonation of any spell or weapon you use with the [[Area]] trait by one round. When delayed this way, it deals an additional die of damage when it does detonate. Additionally, you ignore up to -4 in range penalties.
 >
 >> [!metadata] *Expertise Perk:*
 >> *When you become an Expert in this Role, you gain the following benefits.*

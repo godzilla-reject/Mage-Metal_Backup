@@ -274,6 +274,7 @@ gear
 glow
 gained
 goes
+getting
 from
 first
 freeform
@@ -370,6 +371,7 @@ fortune
 favors
 factories
 fact
+flicker
 came
 combines
 combat
@@ -588,6 +590,7 @@ blademasters
 blunt
 bored
 barrier
+bolt
 not
 never
 no
@@ -982,6 +985,7 @@ slums
 society
 super
 scholarships
+save
 LANCER
 Learn
 Lancer
@@ -1273,6 +1277,7 @@ events
 exhaust
 effectively
 enforcers
+existence
 played
 pilot
 play
@@ -1865,6 +1870,7 @@ list
 lands
 lowest
 lucky
+lightning
 Ease
 Excel
 Escalation
@@ -1896,6 +1902,7 @@ Enter
 Easy
 Example
 Extreme
+Explosive
 Use
 Usable
 Unsorted
@@ -1988,6 +1995,7 @@ Words
 Weaver
 Winds
 Windborn
+Weakness
 keeping
 keep
 kek

@@ -28,7 +28,7 @@ Weapons can then spend their points on boons, which define the weapon's characte
 |          [[Integrated]]           | [[Repeating]](per extra shot) |           [[Critical]]            |
 |             [[Dual]]              |  [[Capacity]] (per 2 shots.)  |   [[Flurry]] (per extra attack)   |
 |      [[Thrown]] (per 4 sp)      |          [[Channel]]          |         [[High-Powered]]          |
-|          [[Anti-Ablative]]           |           [[Parrying]]           |           [[Explosive]]           |
+|          [[Anti-Ablative]]           |           [[Parrying]]           |           [[Area]]           |
 | [[Reliable]] (Ranged, per 1 die.) |        [[Devastating]]        | [[Reliable]]  (Melee, per 1 die.) |
 |                                   |                               |                                   |
 

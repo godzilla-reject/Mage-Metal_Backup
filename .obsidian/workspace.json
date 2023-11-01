@@ -11,11 +11,9 @@
             "id": "5d02769ccde621f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.md",
-                "mode": "preview",
-                "source": true
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.md",
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.md",
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.md"
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
           },
@@ -186,7 +184,17 @@
             }
           },
           {
-            "id": "459a757f88bae6aa",
+            "id": "d9993422e933ec23",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "f9d09dfbe7171bf0",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -227,6 +235,14 @@
   },
   "active": "5d02769ccde621f1",
   "lastOpenFiles": [
+    "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "General Rules/Traits Catalog/General/Area.md",
+    "General Rules/Traits Catalog/Area.md",
+    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md",
+    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md",
+    "Utilities/Dashboard.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
@@ -234,9 +250,8 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
-    "Utilities/Dashboard.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Starting Wealth Chart.md",
+    "Utilities/Starting Wealth Chart.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
@@ -249,15 +264,8 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Mess Set.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Grappling Hook.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Kit",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer",

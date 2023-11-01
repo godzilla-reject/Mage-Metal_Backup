@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Lightning Bolt",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md"
+    },
+    {
+      "basename": "Fireball",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md"
+    },
+    {
+      "basename": "Area",
+      "path": "General Rules/Traits Catalog/General/Area.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.md"
     },
@@ -38,7 +54,7 @@
     },
     {
       "basename": "Starting Wealth Chart",
-      "path": "Starting Wealth Chart.md"
+      "path": "Utilities/Starting Wealth Chart.md"
     },
     {
       "basename": "Equipment Database",
@@ -145,20 +161,12 @@
       "path": "Templates/Markdown Templates/General Templates/Trait Template.md"
     },
     {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
       "basename": "Earthen Armor",
       "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md"
     },
     {
       "basename": "Ignition",
       "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
-    },
-    {
-      "basename": "Fireball",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md"
     },
     {
       "basename": "Cedrik's Mini-Many-Minefield",
@@ -191,14 +199,6 @@
     {
       "basename": "Runeurgy",
       "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Artifacteomancy/Runeurgy.md"
-    },
-    {
-      "basename": "Meta-Magic",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md"
-    },
-    {
-      "basename": "Aerostrike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
     }
   ],
   "omittedPaths": [],

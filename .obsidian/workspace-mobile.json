@@ -177,11 +177,11 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-memos:Memos": false,
       "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
       "rpg-manager:RPG Manager": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "e4a7369450c1614b",
