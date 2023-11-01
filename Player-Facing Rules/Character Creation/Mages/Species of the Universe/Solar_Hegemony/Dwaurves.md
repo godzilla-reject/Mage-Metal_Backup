@@ -1,7 +1,5 @@
 ---
-Attribute:
-  - Body
-  - Power
+Attribute: Body
 Option1: Arcane Resilience
 Option2: Hardy
 Option3: Rock and Stone!
@@ -11,7 +9,7 @@ Category: Solar_Hegemony
 
 - - -
 >[!info|left] Species Information 
->**Attribute Boost**:*(Choose 1)*
+>**Attribute Boost**:
 >`=this.Attribute`
 >**Species Bonuses:**
 > Dwaurves gain a +1 to Toughness at character creation.

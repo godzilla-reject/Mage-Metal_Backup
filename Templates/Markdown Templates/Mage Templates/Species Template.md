@@ -8,7 +8,7 @@ Option3:
 
 - - -
 >[!info|left] Species Information 
->**Attribute Boost**:*(Choose 1)*
+>**Attribute Boost**:
 >`=this.Attribute`
 >**Species Bonuses:**
 >

@@ -1,7 +1,5 @@
 ---
-Attribute:
-  - Reflex
-  - Mind
+Attribute: Reflex
 Option1: Nimble
 Option2: Accurate
 Option3: Innately Magical
@@ -11,7 +9,7 @@ Category: Solar_Hegemony
 
 - - -
 >[!info|left] Species Information 
->**Attribute Boost**:*(Choose 1)*
+>**Attribute Boost**:
 >`=this.Attribute`
 >**Species Bonuses:**
 > Elves gain a +3 bonus to Skill Aptitude at character creation.

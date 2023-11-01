@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Species Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+    },
+    {
+      "basename": "Elves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+    },
+    {
+      "basename": "Species Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
+    },
+    {
+      "basename": "Human",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
+    },
+    {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
@@ -113,22 +133,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md"
     },
     {
-      "basename": "Species Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "Human",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
-    },
-    {
-      "basename": "Elves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Influencer",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
-    },
-    {
-      "basename": "Corpo Deskie",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
     }
   ],
   "omittedPaths": [],

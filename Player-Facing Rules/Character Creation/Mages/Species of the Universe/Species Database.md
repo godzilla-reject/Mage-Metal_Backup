@@ -75,7 +75,7 @@ columns:
       footer_type: none
       persist_changes: false
   Attribute:
-    input: tags
+    input: select
     accessorKey: Attribute
     key: Attribute
     id: Attribute
@@ -85,12 +85,13 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Any", value: "Any", color: "hsl(247, 95%, 90%)"}
-      - { label: "Power", value: "Power", color: "hsl(275, 95%, 90%)"}
-      - { label: "Reflex", value: "Reflex", color: "hsl(26, 95%, 90%)"}
-      - { label: "Body", value: "Body", color: "hsl(269, 95%, 90%)"}
-      - { label: "Mind", value: "Mind", color: "hsl(321, 95%, 90%)"}
-      - { label: "Potential", value: "Potential", color: "hsl(327, 95%, 90%)"}
+      - { label: "Any", value: "Any", color: "hsl(85, 95%, 90%)"}
+      - { label: "Reflex", value: "Reflex", color: "hsl(293, 95%, 90%)"}
+      - { label: "Power", value: "Power", color: "hsl(181, 95%, 90%)"}
+      - { label: "Body", value: "Body", color: "hsl(140, 95%, 90%)"}
+      - { label: "Mind", value: "Mind", color: "hsl(174, 95%, 90%)"}
+      - { label: "Potential", value: "Potential", color: "hsl(220, 95%, 90%)"}
+      - { label: "Tenacity", value: "Tenacity", color: "hsl(318, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

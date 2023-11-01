@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
               }
             }
           },
@@ -272,8 +272,13 @@
   },
   "active": "e29f01e521d9e639",
   "lastOpenFiles": [
-    "Utilities/Notes From Char. Creation Test 1.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
+    "Templates/Markdown Templates/Mage Templates/Species Template.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Utilities/Notes From Char. Creation Test 1.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md",
@@ -293,11 +298,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "General Rules/Character Mechanics Overview.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
-    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md",
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
     "Player-Facing Rules/Spells/Spells Database/soma",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable",

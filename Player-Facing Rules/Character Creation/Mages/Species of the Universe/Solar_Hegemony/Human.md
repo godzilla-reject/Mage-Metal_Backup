@@ -1,6 +1,5 @@
 ---
-Attribute:
-  - Any
+Attribute: Any
 Option1: Skilled
 Option2: Naturalborn Pilot
 Option3: Supernatural Talent
@@ -10,7 +9,7 @@ Category: Solar_Hegemony
 
 - - -
 >[!info|left] Species Information 
->**Attribute Boost**:*(Choose 1)*
+>**Attribute Boost**:
 >`=this.Attribute`
 >**Species Bonuses:**
 >At character creation, humans can select an additional Weapon, Armor, or Skill proficiency, and gain aptitude in that proficiency.
