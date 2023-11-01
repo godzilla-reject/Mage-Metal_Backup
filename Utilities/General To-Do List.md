@@ -2,7 +2,7 @@
 tags: #todo
 ---
 - [ ] #todo Update Character Sheet to include:
-	- [ ] Character Profile
+	- [x] Character Profile ✅ 2023-11-01
 	- [x] School//Role training level markers ✅ 2023-11-01
 	- [ ] Re-format to make cleaner.
 	- [x] Add the Check Penalty to the math. ✅ 2023-11-01
