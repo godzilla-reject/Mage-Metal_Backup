@@ -41,11 +41,11 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "various-complements",
-  "obsidian-icon-folder",
   "list-style",
   "obsidian-sort-and-permute-lines",
   "supercharged-links-obsidian",
   "buttons",
   "obsidian-meta-bind-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-icon-folder"
 ]

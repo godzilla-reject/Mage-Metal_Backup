@@ -1,17 +1,11 @@
 {
   "settings": {
     "migrated": 3,
-    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [
-      "RiShoppingBagLine",
-      "TiHelmet",
-      "LiSword",
-      "LiBackpack",
-      "FarEnvelope"
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -21,33 +15,8 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconsBackgroundCheckEnabled": false,
     "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false
-  },
-  "Design Bible": "FarBookBible",
-  "General Rules": "FarCircleDot",
-  "GM-Facing Rules": "RiFilePaper2Fill",
-  "Player-Facing Rules": "FarPencil",
-  "Setting": "LiGlobe",
-  "Templates": "TiTemplate",
-  "Utilities": "RiFunctionLine",
-  "General Rules/Combat": "RiSwordLine",
-  "General Rules/Conditions Catalog": {
-    "iconName": "TiBiohazard",
-    "inheritanceIcon": "TiBiohazard"
-  },
-  "General Rules/Traits Catalog": "FarEnvelope",
-  "Conditions Database.md": {
-    "iconName": null,
-    "inheritanceIcon": "TiBiohazard"
-  },
-  "Player-Facing Rules/Items and Equipment": "LiBackpack",
-  "Player-Facing Rules/Items and Equipment/Equipment Catalog": "LiBackpack",
-  "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory": "TiHelmet",
-  "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry": {
-    "iconName": "LiSword",
-    "inheritanceIcon": "LiSword"
-  },
-  "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment": "RiShoppingBagLine"
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  }
 }

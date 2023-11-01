@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dacf2bc65d5e76ef",
+        "id": "936c4374572132cb",
         "type": "tabs",
         "children": [
           {
-            "id": "2fab8676b1bfb997",
+            "id": "f28e901bfba82e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "619115f4c8ee1f95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/General To-Do List.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/General To-Do List.md",
+                "file": "Utilities/Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/General To-Do List.md",
+                "file": "Utilities/Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/General To-Do List.md"
+                "file": "Utilities/Dashboard.md"
               }
             }
           },
@@ -243,12 +230,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "619115f4c8ee1f95",
+  "active": "f28e901bfba82e19",
   "lastOpenFiles": [
+    "Utilities/General To-Do List.md",
     "Utilities/Dashboard.md",
     "Utilities/Notes From Char. Creation Test 1.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
@@ -260,7 +248,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md",
-    "Utilities/General To-Do List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Gauntlet.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
