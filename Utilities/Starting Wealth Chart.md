@@ -2,7 +2,8 @@
 | Wealth Level | Starting Funds |
 |:------------:|:--------------:|
 |     Poor     |      800       |
-|   Moderate   |      1600      |
-|     High     |      3200      |
-|   Extreme    |      6400      |
+|   Moderate   |      1200      |
+|     High     |      1800      |
+|   Extreme    |      2700      |
+
 
