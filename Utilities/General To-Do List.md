@@ -1,10 +1,10 @@
 ---
 tags: #todo
 ---
-- [ ] #todo Update Character Sheet to include:
+- [x] #todo Update Character Sheet to include: ✅ 2023-11-03
 	- [x] Character Profile ✅ 2023-11-01
 	- [x] School//Role training level markers ✅ 2023-11-01
-	- [ ] Re-format to make cleaner.
+	- [x] Re-format to make cleaner. ✅ 2023-11-03
 	- [x] Add the Check Penalty to the math. ✅ 2023-11-01
 - [ ] #todo Equipment:
 	- [x] Create Equipment Database ✅ 2023-10-31
