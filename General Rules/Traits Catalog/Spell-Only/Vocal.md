@@ -2,6 +2,7 @@
 Tags:
   - Trait
 Category: Spell-Only
+Completed: true
 ---
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`

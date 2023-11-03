@@ -5,6 +5,7 @@ Category: General
 aliases: []
 Tags:
   - Trait
+Completed: true
 ---
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`

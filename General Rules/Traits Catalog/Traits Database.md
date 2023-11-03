@@ -95,6 +95,7 @@ columns:
       - { label: "Armor-Only", value: "Armor-Only", color: "hsl(70,100%,50%)"}
       - { label: "Rarity", value: "Rarity", color: "hsl(47,100%,50%)"}
       - { label: "Equipment-Only", value: "Equipment-Only", color: "hsl(32,100%,50%)"}
+      - { label: "Creature-Only", value: "Creature-Only", color: "hsl(179, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

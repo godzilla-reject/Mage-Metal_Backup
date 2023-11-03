@@ -2,6 +2,7 @@
 Tags:
   - Trait
 Category: Rarity
+Completed: true
 ---
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`

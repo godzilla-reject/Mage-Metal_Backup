@@ -2,6 +2,7 @@
 Tags:
   - Trait
 Category: Elemental
+Completed: true
 ---
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`
