@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.md"
+    },
+    {
       "basename": "Mage Creation Steps",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Notes From Char. Creation Test 1",
       "path": "Utilities/Notes From Char. Creation Test 1.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.md"
     },
     {
       "basename": "General To-Do List",
