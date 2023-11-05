@@ -14,7 +14,9 @@
       "autoCreate": true,
       "autoScroll": false,
       "pin": false,
-      "commands": [],
+      "commands": [
+        "obsidian-git:push"
+      ],
       "alwaysApply": false
     }
   },

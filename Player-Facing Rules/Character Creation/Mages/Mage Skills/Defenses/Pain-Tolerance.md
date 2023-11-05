@@ -3,17 +3,15 @@ Attribute: Body
 Category: Defenses
 Tags:
   - Skills
+Completed?: true
 ---
 # Skill Description-`=this.file.name`
 Pain-Tolerance governs one's ability to withstand trauma, agony, and other forms of immense pain. It can be rolled in place of a **Body** check when a spell or weapon calls for it.
 >[!info| clear no-i] `=this.file.name` Mechanics
->**Category** | `=this.Category`   
->**Attribute**| `=this.Attribute`
+>**Category:** `=this.Category`   
+>**Attribute:** `=this.Attribute`
 ---
 # Skill Actions
-#### Untrained Actions
-These actions can be performed without any training in `=this.file.name `; they are available to any character.
-*None.*
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
 ##### Withstand Pain (R)
@@ -22,9 +20,6 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 You steel your resolve, withstanding pain and resisting shock. Make a **Pain-Tolerance** check. If you succeed, choose an effect:
 -  You roll with favor when making any checks to resist an effect associated with the trigger, and reduce your Toughness against the damage by 3+your Tier.
 -  You roll without favor when making any checks to resist an effect associated with the trigger, and increase your Toughness against the damage by 3+your Tier. 
-#### Expert Actions
-These actions can be performed by characters who are *Experts* in `=this.file.name`; they are not available to characters with lesser training.
-*None.*
 - - -
 # Perks
 >> [!info|text-Center clear]+ Trained Perk: Inner Steel
