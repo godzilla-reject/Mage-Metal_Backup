@@ -30,6 +30,7 @@ InputDCLevel
 Incredibly
 Image
 Instant
+Inner
 Mage
 Metal
 Mecha
@@ -153,6 +154,7 @@ inflict
 increased
 instant
 iframe
+immense
 the
 takes
 titans
@@ -253,6 +255,7 @@ thought
 toe
 transparent
 treated
+treat
 great
 game
 gaming
@@ -295,6 +298,8 @@ goes
 getting
 glyphiamancy
 gemstones
+grappling
+grand
 from
 first
 freeform
@@ -562,6 +567,8 @@ cleanse
 conditions
 comment
 conditional
+calls
+checks
 before
 being
 be
@@ -805,6 +812,9 @@ attacks
 additive
 akin
 affect
+athletic
+aforementioned
+agony
 wear
 with
 war
@@ -873,6 +883,9 @@ winds
 wall
 withdrawal
 width
+wounds
+withstand
+withstanding
 sleeve
 some
 something
@@ -1060,6 +1073,11 @@ slower
 scrolling
 src
 shown
+successfully
+sake
+shock
+succeed
+step
 LANCER
 Learn
 Lancer
@@ -1144,6 +1162,8 @@ Third
 Thought
 Tasks
 Target
+Tolerance
+Trigger
 oriented
 of
 on
@@ -1280,6 +1300,7 @@ detrimental
 distances
 deflect
 damaging
+determining
 ever
 expand
 easy
@@ -1494,6 +1515,7 @@ probably
 primordial
 polymorph
 padding
+pain
 RP
 RPGs
 Ryutama
@@ -1539,6 +1561,8 @@ Reformat
 Re
 Resonance
 Resonances
+Rough
+Resolve
 high
 heavily
 hopes
@@ -1684,6 +1708,8 @@ represent
 restore
 riders
 ranks
+resolve
+resisting
 Pathfinder
 PF
 Philosophy
@@ -1733,6 +1759,7 @@ Piercing
 Purchase
 Profile
 Passes
+Pain
 ABCs
 Apotheosis
 Accessibility
@@ -1887,6 +1914,9 @@ marginheight
 marginwidth
 mostly
 met
+minor
+making
+multiplied
 GURPS
 Google
 Greyhawk
@@ -1911,6 +1941,8 @@ Golden
 Grapple
 Generation
 Get
+Grapples
+Grit
 utmost
 use
 up
@@ -2010,6 +2042,7 @@ lucky
 lightning
 lingers
 lowered
+lesser
 Ease
 Excel
 Escalation
@@ -2045,6 +2078,7 @@ Explosive
 Explain
 Earth
 Electric
+Experts
 Use
 Usable
 Unsorted
@@ -2059,6 +2093,7 @@ Untitled
 Unique
 Usage
 Update
+Unbreakable
 Complexity
 Could
 Conflicted
@@ -2144,6 +2179,7 @@ Weaver
 Winds
 Windborn
 Weakness
+Withstand
 keeping
 keep
 kek
@@ -2191,6 +2227,9 @@ Heft
 Handed
 Hard
 Heresy
+Housing
+Hauler
+Heart
 you
 your
 yourself
@@ -2247,6 +2286,7 @@ Fireball
 Funds
 Fledgling
 Foretold
+Flames
 Dungeons
 Dragons
 Definitely
@@ -2291,6 +2331,7 @@ Difficulty
 Deluge
 Dusted
 Duration
+Defenses
 Steve
 Sheets
 Segway
@@ -2384,6 +2425,9 @@ Strike
 Single
 Saves
 Sucks
+Shoves
+Shove
+Steel
 Jackson
 Jack
 Juggernaut

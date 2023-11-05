@@ -3,15 +3,15 @@
     {
       "id": "query:dafe337e-34bc-4daa-b63b-8d4fb3d9d7a9",
       "name": "Spell of the Day",
-      "query": "",
+      "query": "```dataview\n\nLIST\n\nFROM #Spell\n\n```",
       "type": "Dataview",
-      "createCommand": false,
+      "createCommand": true,
       "useDisabledFolders": true,
-      "openType": "Default"
+      "openType": "New Window"
     }
   ],
   "disabledFolders": "",
   "debug": false,
-  "openType": "Active Leaf",
+  "openType": "New Window",
   "setActive": true
 }

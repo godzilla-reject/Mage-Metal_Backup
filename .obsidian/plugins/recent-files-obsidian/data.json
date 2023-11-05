@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Design Note-Spell Damage by Rank Chart",
-      "path": "Design Bible/Design Notes/Design Note-Spell Damage by Rank Chart.md"
+      "basename": "Design Note-Axillary Resources",
+      "path": "Design Bible/Design Notes/Design Note-Axillary Resources.md"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
     {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Design Note-Spell Damage by Rank Chart",
+      "path": "Design Bible/Design Notes/Design Note-Spell Damage by Rank Chart.md"
     },
     {
       "basename": "To-Do List",
@@ -21,20 +41,8 @@
       "path": "Utilities/Dashboard Notes/Databases.md"
     },
     {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Pain Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
     {
       "basename": "Armor  Database",
@@ -191,10 +199,6 @@
     {
       "basename": "Devastating",
       "path": "General Rules/Traits Catalog/Weapon-Only/Devastating.md"
-    },
-    {
-      "basename": "Crystal",
-      "path": "General Rules/Traits Catalog/Elemental/Crystal.md"
     }
   ],
   "omittedPaths": [],
