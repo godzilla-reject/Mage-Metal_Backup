@@ -3,6 +3,8 @@ Attribute: Body
 Category: Defenses
 ---
 # Skill Description-`=this.file.name`
+Pain Tolerance is the ability to power through wounds, magical agony, and other forms of pain.
+
 
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category** | `=this.Category`   

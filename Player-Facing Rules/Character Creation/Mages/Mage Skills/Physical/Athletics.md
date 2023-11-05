@@ -22,17 +22,17 @@ You move across or about an incline. Make an Athletics check, with a modifier, b
 - Success: You move 1 space in a direction of your choosing, plus 1 more space for each 2 margins of success, up to your Speed.
 - Failure: You move 1 space in a direction of your GM's choosing.
 - Critical Failure: You fall.
+#### Trained Skill Actions
+##### Grapple (●)
+##### Force Open (●)
 
->> [!info|text-Center clear]  Trained Perk: 
+>> [!info|text-Center clear]+  Trained Perk: Rough-Housing
 >> *When you become Trained in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
->> 
->> #### Trained Skill Actions
->> ##### Grapple (●)
->> ##### Force Open (●)
+>> Your athletic ability allows you to deal minor damage when grappling. Targets of your Shoves or Grapples take crushing damage equal to your Melee Damage Bonus when you successfully perform either of the aforementioned actions. 
 
->> [!info|text-Center clear] Expertise Perk: 
+>> [!info|text-Center clear]+ Expertise Perk: Heavy-Hauler
 >> *When you become an Expert in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
->> 
+>> You are well-fit to carry great amounts for grand distances. You treat your Power attribute as 4 higher for the sake of determining Carry Weight.
 
 >> [!info|text-Center clear] Masterful Perk: 
 >> *When you become a Master in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*

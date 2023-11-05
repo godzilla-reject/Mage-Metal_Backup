@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.md"
+    },
+    {
+      "basename": "Pain Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Armor  Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md"
+    },
+    {
+      "basename": "Species Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+    },
+    {
+      "basename": "General To-Do List",
+      "path": "Utilities/General To-Do List.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
       "basename": "Design Note-Spell Damage by Rank Chart",
       "path": "Design Bible/Design Notes/Design Note-Spell Damage by Rank Chart.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Design Inspirations, Tenets, and Philsophy",
+      "path": "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
+    },
+    {
+      "basename": "Design Note-Pilot Role Metrics",
+      "path": "Design Bible/Design Notes/Design Note-Pilot Role Metrics.md"
     },
     {
       "basename": "Design Note-Mounts",
@@ -155,50 +199,6 @@
     {
       "basename": "Communication",
       "path": "General Rules/Traits Catalog/General/Communication.md"
-    },
-    {
-      "basename": "Foretold",
-      "path": "General Rules/Traits Catalog/General/Foretold.md"
-    },
-    {
-      "basename": "Heresy",
-      "path": "General Rules/Traits Catalog/Spell-Only/Heresy.md"
-    },
-    {
-      "basename": "Mark",
-      "path": "General Rules/Traits Catalog/Spell-Only/Mark.md"
-    },
-    {
-      "basename": "Vocal",
-      "path": "General Rules/Traits Catalog/Spell-Only/Vocal.md"
-    },
-    {
-      "basename": "Auditory",
-      "path": "General Rules/Traits Catalog/General/Auditory.md"
-    },
-    {
-      "basename": "Deafened",
-      "path": "General Rules/Conditions Catalog/Deafened.md"
-    },
-    {
-      "basename": "Resonance",
-      "path": "General Rules/Traits Catalog/Spell-Only/Resonance.md"
-    },
-    {
-      "basename": "Life-Bound",
-      "path": "General Rules/Traits Catalog/Spell-Only/Life-Bound.md"
-    },
-    {
-      "basename": "Area",
-      "path": "General Rules/Traits Catalog/General/Area.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.md"
     }
   ],
   "omittedPaths": [],

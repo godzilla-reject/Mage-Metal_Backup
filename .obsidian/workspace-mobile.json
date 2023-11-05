@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c5609d445136e67f",
+        "id": "02ad7af96a14f286",
         "type": "tabs",
         "children": [
           {
-            "id": "e4a7369450c1614b",
+            "id": "615a70e395d5eaf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
-                "mode": "source",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4a298df5c54b2042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -71,6 +83,24 @@
           "type": "recent-files",
           "state": {}
         }
+      },
+      {
+        "id": "75f1f7dbb255c36d",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      },
+      {
+        "id": "e08d10817a6cec3f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
+            "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
+            "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
+            "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md"
           }
         }
       },
@@ -163,6 +193,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,13 +215,26 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e4a7369450c1614b",
+  "active": "615a70e395d5eaf4",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Utilities/Dashboard.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+    "Utilities/General To-Do List.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Design Bible/Design Notes/Design Note-Spell Damage by Rank Chart.md",
+    "README.md",
+    "Untitled.md",
+    "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
+    "Design Bible/Design Notes/Design Note-Pilot Role Metrics.md",
+    "Design Bible/Design Notes/Design Note-Mounts.md",
     "General Rules/Traits Catalog/Test Blarg.md",
     "Templates/Markdown Templates/General Templates/Trait Template.md",
     "Templates/Markdown Templates/General Templates/Condition Template.md",
     "Templates/Markdown Templates/General Templates",
-    "Applications of Metal Technologies.md",
-    "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
+    "Applications of Metal Technologies.md"
   ]
 }

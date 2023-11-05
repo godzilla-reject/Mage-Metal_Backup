@@ -8,6 +8,12 @@
       "icon": "align-center",
       "name": "Sort & Permute lines: Sort alphabetically",
       "mode": "any"
+    },
+    {
+      "id": "editor:toggle-source",
+      "icon": "lucide-code-2",
+      "name": "Toggle Live Preview/Source mode",
+      "mode": "any"
     }
   ],
   "fileMenu": [],
@@ -20,77 +26,77 @@
       "id": "quickadd:choice:714f8327-be7e-42d9-9ec2-4c9537308b7c",
       "icon": "activity",
       "name": "New Trait",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#ff0000"
     },
     {
       "id": "quickadd:choice:178038c5-a913-422f-b625-a5a39b72cdcd",
       "icon": "alert-triangle",
       "name": "New Condition",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#ff0000"
     },
     {
       "id": "quickadd:choice:d6aca17f-4cf2-4be3-ae10-6b02edda2697",
       "icon": "person-standing",
       "name": "New Species",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#d400ff"
     },
     {
       "id": "quickadd:choice:4ddb41f0-7474-4e50-b212-2dc2fdc80496",
       "icon": "calendar",
       "name": "New History",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#d400ff"
     },
     {
       "id": "quickadd:choice:50512422-e022-447c-95fe-b35379ec6641",
       "icon": "album",
       "name": "New School",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#d400ff"
     },
     {
       "id": "quickadd:choice:94b5b37d-06d1-43e6-b5cc-a3dc69e80299",
       "icon": "bike",
       "name": "New Pilot Role",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#d400ff"
     },
     {
       "id": "quickadd:choice:fe7206c5-03ab-486d-bd6f-3983f5bbf9ed",
       "icon": "axe",
       "name": "New Weapon",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#1900c8"
     },
     {
       "id": "quickadd:choice:69e48122-d7b4-47bb-94a5-fb590bb3ebcd",
       "icon": "at-sign",
       "name": "New Armor",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#1900c8"
     },
     {
       "id": "quickadd:choice:d74fd14a-d9e6-43d8-ae4c-36e15c03ba33",
       "icon": "banknote",
       "name": "New Spell",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#1900c8"
     },
     {
       "id": "quickadd:choice:059303b9-b54f-4f73-b0f5-204a5675a892",
       "icon": "battery-charging",
       "name": "New Equipment",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#1900ff"
     },
     {
       "id": "quickadd:choice:76a81405-6863-4000-ba84-adfae2bf5361",
       "icon": "award",
       "name": "New Perk",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#ffffff"
     }
   ],
@@ -111,11 +117,11 @@
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,
-    "spacing": 0,
+    "spacing": 58,
     "buttonWidth": 48,
-    "columnLayout": false,
+    "columnLayout": true,
     "mappedIcons": [],
     "tooltips": false,
-    "heightOffset": 0
+    "heightOffset": 28
   }
 }
