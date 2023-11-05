@@ -1,6 +1,8 @@
 ---
 Category: Practical
 Attribute: Mind
+Tags:
+  - Skills
 ---
 # Skill Description-`=this.file.name`
 

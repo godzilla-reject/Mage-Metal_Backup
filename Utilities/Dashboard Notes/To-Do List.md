@@ -1,5 +1,7 @@
 ---
-tags: #todo
+tags: 
+cssclasses:
+  - dashboard
 ---
 - [x] #todo Update Character Sheet to include: ✅ 2023-11-03
 	- [x] Character Profile ✅ 2023-11-01
@@ -21,3 +23,8 @@ tags: #todo
 	- [ ] Histories
 	- [ ] Schools
 	- [ ] Roles
+#### Other Tasks
+```tasks
+tags include todo
+sort by priority
+```

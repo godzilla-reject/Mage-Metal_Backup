@@ -1,9 +1,9 @@
 ---
 School: Electromancy
 Rank: "1"
-Completed?: true
 Tags:
-  - electromancy
+  - Spell
+Completed: true
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

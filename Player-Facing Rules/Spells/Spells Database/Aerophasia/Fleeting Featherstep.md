@@ -1,6 +1,8 @@
 ---
 School: Aerophasia
 Rank: "1"
+Tags:
+  - Spell
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

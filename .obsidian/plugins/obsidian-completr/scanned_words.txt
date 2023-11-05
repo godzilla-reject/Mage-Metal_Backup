@@ -152,6 +152,7 @@ intervening
 inflict
 increased
 instant
+iframe
 the
 takes
 titans
@@ -250,6 +251,8 @@ thinks
 triple
 thought
 toe
+transparent
+treated
 great
 game
 gaming
@@ -395,6 +398,7 @@ future
 four
 fights
 fists
+frameborder
 came
 combines
 combat
@@ -556,6 +560,8 @@ creates
 counted
 cleanse
 conditions
+comment
+conditional
 before
 being
 be
@@ -636,6 +642,7 @@ blunt
 bored
 barrier
 bolt
+border
 not
 never
 no
@@ -666,6 +673,8 @@ ness
 normal
 narrative
 notch
+nodes
+none
 afraid
 and
 aesthetic
@@ -863,6 +872,7 @@ words
 winds
 wall
 withdrawal
+width
 sleeve
 some
 something
@@ -1047,6 +1057,9 @@ separately
 suffers
 situational
 slower
+scrolling
+src
+shown
 LANCER
 Learn
 Lancer
@@ -1129,6 +1142,8 @@ TEO
 Targets
 Third
 Thought
+Tasks
+Target
 oriented
 of
 on
@@ -1356,6 +1371,8 @@ entities
 elemental
 electricity
 effort
+edges
+entries
 played
 pilot
 play
@@ -1476,6 +1493,7 @@ procure
 probably
 primordial
 polymorph
+padding
 RP
 RPGs
 Ryutama
@@ -1664,6 +1682,8 @@ rock
 repeated
 represent
 restore
+riders
+ranks
 Pathfinder
 PF
 Philosophy
@@ -1766,6 +1786,7 @@ Armory
 Ammunition
 As
 Attack
+AoE
 metal
 magic
 mechanics
@@ -1861,6 +1882,11 @@ marker
 minerals
 machinery
 mind
+margin
+marginheight
+marginwidth
+mostly
+met
 GURPS
 Google
 Greyhawk
@@ -1983,6 +2009,7 @@ lowest
 lucky
 lightning
 lingers
+lowered
 Ease
 Excel
 Escalation
@@ -2354,6 +2381,9 @@ Special
 Second
 Swift
 Strike
+Single
+Saves
+Sucks
 Jackson
 Jack
 Juggernaut
@@ -2398,6 +2428,7 @@ Open
 Obliteration
 Overview
 Other
+Or
 Basics
 Beneficial
 Body
@@ -2430,6 +2461,7 @@ Bullets
 Boosts
 Be
 Balance
+Basic
 Varies
 Vast
 Void

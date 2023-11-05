@@ -42,7 +42,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 6
+    position: 7
     isHidden: false
     sortIndex: -1
     config:
@@ -64,7 +64,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 5
+    position: 6
     isHidden: false
     sortIndex: -1
     config:
@@ -82,7 +82,7 @@ columns:
     key: Category
     id: Category
     label: Category
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -114,7 +114,7 @@ columns:
     key: Completed?
     id: Completed?
     label: Completed?
-    position: 2
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -133,7 +133,7 @@ columns:
     key: Attribute
     id: Attribute
     label: Attribute
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: 0
@@ -156,6 +156,27 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  Tags:
+    input: tags
+    accessorKey: Tags
+    key: Tags
+    id: Tags
+    label: Tags
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Skills", value: "Skills", color: "hsl(51, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal

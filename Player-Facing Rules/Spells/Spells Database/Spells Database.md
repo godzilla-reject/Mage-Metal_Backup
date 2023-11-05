@@ -32,27 +32,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Completed?:
-    input: checkbox
-    accessorKey: Completed?
-    key: Completed?
-    id: Completed?
-    label: Completed?
-    position: 2
-    skipPersist: false
-    isHidden: false
-    sortIndex: 3
-    isSorted: true
-    isSortedDesc: true
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   __created__:
     key: __created__
     id: __created__
@@ -144,6 +123,49 @@ columns:
     sortIndex: 1
     isSorted: true
     isSortedDesc: false
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Tags:
+    input: tags
+    accessorKey: Tags
+    key: Tags
+    id: Tags
+    label: Tags
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Spell", value: "Spell", color: "hsl(139, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  Completed:
+    input: checkbox
+    accessorKey: Completed
+    key: Completed
+    id: Completed?
+    label: Completed
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: 3
+    isSorted: true
+    isSortedDesc: true
     config:
       enable_media_view: true
       link_alias_enabled: true

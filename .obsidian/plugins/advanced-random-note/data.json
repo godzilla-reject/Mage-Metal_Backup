@@ -1,0 +1,17 @@
+{
+  "queries": [
+    {
+      "id": "query:dafe337e-34bc-4daa-b63b-8d4fb3d9d7a9",
+      "name": "Spell of the Day",
+      "query": "",
+      "type": "Dataview",
+      "createCommand": false,
+      "useDisabledFolders": true,
+      "openType": "Default"
+    }
+  ],
+  "disabledFolders": "",
+  "debug": false,
+  "openType": "Active Leaf",
+  "setActive": true
+}

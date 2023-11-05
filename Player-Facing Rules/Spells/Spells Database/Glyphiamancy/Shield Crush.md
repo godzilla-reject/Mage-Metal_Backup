@@ -1,9 +1,9 @@
 ---
 Rank: "1"
 School: Glyphiamancy
-Completed?: true
 Tags:
-  - glyphiamancy
+  - Spell
+Completed: true
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

@@ -1,6 +1,8 @@
 ---
 Category: Social
 Attribute: Tenacity
+Tags:
+  - Skills
 ---
 # Skill Description-`=this.file.name`
 

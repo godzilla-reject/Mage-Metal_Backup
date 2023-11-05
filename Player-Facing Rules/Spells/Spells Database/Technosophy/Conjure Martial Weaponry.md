@@ -1,6 +1,8 @@
 ---
 Rank: "2"
 School: Technosophy
+Tags:
+  - Spell
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

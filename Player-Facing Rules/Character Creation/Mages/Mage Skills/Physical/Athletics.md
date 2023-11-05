@@ -2,6 +2,8 @@
 Category: Physical
 Attribute: Body
 cssclasses: []
+Tags:
+  - Skills
 ---
 # Skill Description-`=this.file.name`
 Athletics governs feats of physical prowess and bodily performance. Athletics can also be used in place of a **Power** check when attempting to escape a Grapple. 

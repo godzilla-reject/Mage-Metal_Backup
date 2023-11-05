@@ -1,6 +1,8 @@
 ---
 Rank: "3"
 School: Somaphoresis
+Tags:
+  - Spell
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

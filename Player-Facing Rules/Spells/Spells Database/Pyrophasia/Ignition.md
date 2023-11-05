@@ -1,9 +1,11 @@
 ---
 School: Pyrophasia
 Rank: "0"
-Completed?: true
 tags:
   - Pyrophasia
+Tags:
+  - Spell
+Completed: true
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

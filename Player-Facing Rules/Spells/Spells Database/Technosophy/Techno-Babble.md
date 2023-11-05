@@ -1,7 +1,9 @@
 ---
 School: Technosophy
 Rank: "0"
-Completed?: true
+Tags:
+  - Spell
+Completed: true
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

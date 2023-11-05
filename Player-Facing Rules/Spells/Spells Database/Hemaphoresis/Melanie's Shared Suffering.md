@@ -1,6 +1,8 @@
 ---
 Rank: "2"
 School: Hemaphoresis
+Tags:
+  - Spell
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

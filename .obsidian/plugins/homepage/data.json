@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "Dashboard",
+      "value": "Dashboard.canvas",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
@@ -10,7 +10,7 @@
       "view": "Default view",
       "revertView": true,
       "openWhenEmpty": true,
-      "refreshDataview": false,
+      "refreshDataview": true,
       "autoCreate": true,
       "autoScroll": false,
       "pin": false,

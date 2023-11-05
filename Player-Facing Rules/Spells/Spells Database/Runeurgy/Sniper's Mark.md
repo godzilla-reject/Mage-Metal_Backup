@@ -1,9 +1,9 @@
 ---
 School: Runeurgy
 Rank: "1"
-Completed?: true
 Tags:
-  - runeurgy
+  - Spell
+Completed: true
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

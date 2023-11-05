@@ -1,9 +1,9 @@
 ---
 School: Metallomancy
 Rank: "1"
-Completed?: true
 Tags:
-  - metallomancy
+  - Spell
+Completed: true
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

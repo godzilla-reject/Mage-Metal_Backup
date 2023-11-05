@@ -1,9 +1,9 @@
 ---
 School: Somaphoresis
 Rank: "1"
-Completed?: true
 Tags:
-  - somaphoresis
+  - Spell
+Completed: true
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

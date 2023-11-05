@@ -1,6 +1,8 @@
 ---
 Category: Knowledge
 Attribute: Mind
+Tags:
+  - Skills
 ---
 # Skill Description-`=this.file.name`
 

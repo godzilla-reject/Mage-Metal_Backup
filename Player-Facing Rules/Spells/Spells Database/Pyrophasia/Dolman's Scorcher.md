@@ -1,6 +1,8 @@
 ---
 Rank: "1"
 School: Pyrophasia
+Tags:
+  - Spell
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

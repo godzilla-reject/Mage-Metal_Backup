@@ -1,6 +1,8 @@
 ---
 Category: Defenses
 Attribute: Power
+Tags:
+  - Skills
 ---
 # Skill Description-`=this.file.name`
 
