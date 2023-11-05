@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Design Note-Axillary Resources",
-      "path": "Design Bible/Design Notes/Design Note-Axillary Resources.md"
-    },
-    {
       "basename": "Pain-Tolerance",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Unconscious",
+      "path": "General Rules/Conditions Catalog/Unconscious.md"
+    },
+    {
+      "basename": "Design Note-Axillary Resources",
+      "path": "Design Bible/Design Notes/Design Note-Axillary Resources.md"
     },
     {
       "basename": "Athletics",
@@ -195,10 +199,6 @@
     {
       "basename": "Earth",
       "path": "General Rules/Traits Catalog/Elemental/Earth.md"
-    },
-    {
-      "basename": "Devastating",
-      "path": "General Rules/Traits Catalog/Weapon-Only/Devastating.md"
     }
   ],
   "omittedPaths": [],

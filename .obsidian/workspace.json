@@ -51,7 +51,7 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Bible/Design Notes/Design Note-Axillary Resources.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Bible/Design Notes/Design Note-Axillary Resources.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Bible/Design Notes/Design Note-Axillary Resources.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
               }
             }
           },
@@ -286,8 +286,9 @@
       "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "5394d1bcda65834e",
+  "active": "1c21b65717d1c149",
   "lastOpenFiles": [
+    "General Rules/Conditions Catalog/Unconscious.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Design Bible/Design Notes/Design Note-Axillary Resources.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
@@ -316,7 +317,6 @@
     "General Rules/Traits Catalog/Elemental/Metal.md",
     "General Rules/Traits Catalog/General/Minion.md",
     "General Rules/Traits Catalog/Equipment-Only/Parrying.md",
-    "General Rules/Traits Catalog/General/Teleport.md",
     "Player-Facing Rules/Spells/Spells Database/soma",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable",

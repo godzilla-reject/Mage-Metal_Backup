@@ -155,6 +155,7 @@ increased
 instant
 iframe
 immense
+immediately
 the
 takes
 titans
@@ -1078,6 +1079,8 @@ sake
 shock
 succeed
 step
+spiral
+stabilize
 LANCER
 Learn
 Lancer
@@ -1301,6 +1304,7 @@ distances
 deflect
 damaging
 determining
+death
 ever
 expand
 easy
@@ -1394,6 +1398,7 @@ electricity
 effort
 edges
 entries
+enter
 played
 pilot
 play
@@ -1917,6 +1922,7 @@ met
 minor
 making
 multiplied
+maximized
 GURPS
 Google
 Greyhawk
@@ -2230,6 +2236,7 @@ Heresy
 Housing
 Hauler
 Heart
+Heath
 you
 your
 yourself

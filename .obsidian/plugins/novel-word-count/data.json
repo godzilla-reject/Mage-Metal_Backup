@@ -5096,6 +5096,24 @@
       "createdDate": 1699158001414,
       "modifiedDate": 1699159305416,
       "sizeInBytes": 508
+    },
+    "General Rules/Conditions Catalog/Unconscious.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 150,
+      "nonWhitespaceCharacterCount": 127,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699159849827,
+      "modifiedDate": 1699159850424,
+      "sizeInBytes": 150
     }
   }
 }
