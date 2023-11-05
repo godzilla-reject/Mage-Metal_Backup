@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+      "basename": "Medicine",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md"
     },
     {
-      "basename": "Unconscious",
-      "path": "General Rules/Conditions Catalog/Unconscious.md"
-    },
-    {
-      "basename": "Design Note-Axillary Resources",
-      "path": "Design Bible/Design Notes/Design Note-Axillary Resources.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Athletics",
@@ -25,8 +21,16 @@
       "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Unconscious",
+      "path": "General Rules/Conditions Catalog/Unconscious.md"
+    },
+    {
+      "basename": "Design Note-Axillary Resources",
+      "path": "Design Bible/Design Notes/Design Note-Axillary Resources.md"
     },
     {
       "basename": "Design Note-Spell Damage by Rank Chart",
@@ -195,10 +199,6 @@
     {
       "basename": "Electric",
       "path": "General Rules/Traits Catalog/Elemental/Electric.md"
-    },
-    {
-      "basename": "Earth",
-      "path": "General Rules/Traits Catalog/Elemental/Earth.md"
     }
   ],
   "omittedPaths": [],
