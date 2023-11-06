@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test Note",
+      "path": "Test Note.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Escalation",
       "path": "General Rules/Traits Catalog/General/Escalation.md"
-    },
-    {
-      "basename": "Electric",
-      "path": "General Rules/Traits Catalog/Elemental/Electric.md"
     }
   ],
   "omittedPaths": [],
