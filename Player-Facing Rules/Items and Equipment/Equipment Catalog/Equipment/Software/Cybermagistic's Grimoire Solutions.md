@@ -1,8 +1,8 @@
 ---
-Type: Software
 Heft: 0
 Tier: 1
 Price: 25
+type: Software
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

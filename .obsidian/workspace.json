@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "b0dc339c41fdf947",
+            "id": "b6b9511d5cd43e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -262,12 +262,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b0dc339c41fdf947",
+  "active": "b6b9511d5cd43e15",
   "lastOpenFiles": [
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md",
-    "Test Note.md",
     "Utilities/Dashboard.canvas",
+    "Test Note.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Templates/Markdown Templates/Mage Templates/Shield Template.md",
+    "Templates/Markdown Templates/Mage Templates/Equipment Template.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
@@ -290,8 +292,6 @@
     "General Rules/Traits Catalog/Creature-Only",
     "General Rules/Traits Catalog/General/Mental.md",
     "General Rules/Traits Catalog/Creature-Only/Mindless.md",
-    "General Rules/Traits Catalog/General/Healing.md",
-    "General Rules/Traits Catalog/General/Insulated.md",
     "Player-Facing Rules/Spells/Spells Database/soma",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable",

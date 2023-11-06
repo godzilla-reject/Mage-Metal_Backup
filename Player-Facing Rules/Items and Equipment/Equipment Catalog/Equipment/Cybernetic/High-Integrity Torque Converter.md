@@ -1,8 +1,8 @@
 ---
-Type: Cybernetic
 Tier: 1
 Price: 500
 Heft: 0
+type: Cybernetic
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

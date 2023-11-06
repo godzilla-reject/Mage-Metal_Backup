@@ -131,10 +131,29 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Type:
+  Tier:
+    input: number
+    accessorKey: Tier
+    key: Tier
+    id: Tier
+    label: Tier
+    position: 6
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  type:
     input: select
-    accessorKey: Type
-    key: Type
+    accessorKey: type
+    key: type
     id: Type
     label: Type
     position: 5
@@ -165,25 +184,6 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  Tier:
-    input: number
-    accessorKey: Tier
-    key: Tier
-    id: Tier
-    label: Tier
-    position: 6
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal

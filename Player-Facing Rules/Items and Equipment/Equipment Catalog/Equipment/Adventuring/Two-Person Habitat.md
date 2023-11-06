@@ -1,8 +1,8 @@
 ---
-Type: Adventuring
 Heft: 6
 Price: 30
 Tier: 0
+type: Adventuring
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

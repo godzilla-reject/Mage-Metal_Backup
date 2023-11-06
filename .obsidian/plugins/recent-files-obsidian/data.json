@@ -5,16 +5,24 @@
       "path": "Test Note.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
-      "basename": "10-foot Pole",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
+      "basename": "Shield Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Equipment Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Equipment Template.md"
+    },
+    {
+      "basename": "10-foot Pole",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
     },
     {
       "basename": "Skills Database",
@@ -191,14 +199,6 @@
     {
       "basename": "Flash",
       "path": "General Rules/Traits Catalog/General/Flash.md"
-    },
-    {
-      "basename": "Fire",
-      "path": "General Rules/Traits Catalog/Elemental/Fire.md"
-    },
-    {
-      "basename": "Flurry",
-      "path": "General Rules/Traits Catalog/Weapon-Only/Flurry.md"
     }
   ],
   "omittedPaths": [],

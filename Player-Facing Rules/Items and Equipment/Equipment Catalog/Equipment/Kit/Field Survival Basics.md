@@ -1,6 +1,6 @@
 ---
-Type: Kit
 Tier: 1
+type: Kit
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

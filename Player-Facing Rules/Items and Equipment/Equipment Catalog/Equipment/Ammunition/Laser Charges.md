@@ -1,8 +1,8 @@
 ---
-Type: Ammunition
 Tier: 0
 Heft: 1
 Price: 0.5
+type: Ammunition
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

@@ -1,8 +1,8 @@
 ---
-Type: Clothing
 Price: 100
 Tier: 1
 Heft: 0.5
+type: Clothing
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
