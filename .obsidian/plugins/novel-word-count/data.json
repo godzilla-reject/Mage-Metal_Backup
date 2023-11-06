@@ -306,7 +306,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100766,
-      "modifiedDate": 1699152866553,
+      "modifiedDate": 1699257412211,
       "sizeInBytes": 5506
     },
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator's Sight.md": {
@@ -5204,6 +5204,24 @@
       "createdDate": 1699255801861,
       "modifiedDate": 1699255977954,
       "sizeInBytes": 1603
+    },
+    "Player-Facing Rules/Spells/Spells Database/Arcane Salvo.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 40,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 303,
+      "nonWhitespaceCharacterCount": 185,
+      "readingTimeInMinutes": 0.1509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699257393972,
+      "modifiedDate": 1699257641230,
+      "sizeInBytes": 320
     }
   }
 }

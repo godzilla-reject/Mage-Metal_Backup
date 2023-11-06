@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Arcane Salvo",
+      "path": "Player-Facing Rules/Spells/Spells Database/Arcane Salvo.md"
+    },
+    {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Buckler",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "New Equipment Template",
@@ -95,10 +103,6 @@
     {
       "basename": "Databases",
       "path": "Utilities/Dashboard Notes/Databases.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
     {
       "basename": "Species Database",
@@ -195,10 +199,6 @@
     {
       "basename": "Polymorph",
       "path": "General Rules/Traits Catalog/General/Polymorph.md"
-    },
-    {
-      "basename": "Physical",
-      "path": "General Rules/Traits Catalog/General/Physical.md"
     }
   ],
   "omittedPaths": [],
