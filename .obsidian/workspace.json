@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2eddc47b343f900",
+        "id": "300d2cc240611d01",
         "type": "tabs",
         "children": [
           {
-            "id": "7dd410753c48afd1",
+            "id": "162577cb35810f9b",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -238,7 +238,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7dd410753c48afd1",
+  "active": "162577cb35810f9b",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
