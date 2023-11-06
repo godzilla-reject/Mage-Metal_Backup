@@ -1,9 +1,8 @@
 ---
-Type: <% tp.system.suggester(["Shield", "Kit", "Adventuring"], ["Shield", "Kit", "Adventuring"]) %>
+Type: <%* let myChoice = tp.system.suggester(["Shield", "Kit", "Adventuring"], ["Shield", "Kit", "Adventuring"])_%> <% myChoice %>
 ---
-
-<%* if (tp.frontmatter.Type === "Shield") { %>
-Test 1
+<%* if myChoice === "Shield" { %>
+1
 <%* } else {%>
-Test 2
+2
 <%* } %>
