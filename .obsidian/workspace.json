@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb68c8010f4acb9",
+        "id": "f2eddc47b343f900",
         "type": "tabs",
         "children": [
           {
-            "id": "dbff80e667f819b9",
+            "id": "7dd410753c48afd1",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -510,
                   "y": -1010,
-                  "zoom": -0.2858262707070364
+                  "zoom": -0.6568224082303437
                 }
               }
             }
@@ -207,12 +207,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,12 +233,12 @@
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-memos:Memos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "advanced-random-note:Open random note modal": false
+      "advanced-random-note:Open random note modal": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "dbff80e667f819b9",
+  "active": "7dd410753c48afd1",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
