@@ -40,7 +40,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 9
+    position: 8
     isHidden: false
     sortIndex: -1
     config:
@@ -62,7 +62,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 8
+    position: 7
     isHidden: false
     sortIndex: -1
     config:
@@ -80,7 +80,7 @@ columns:
     key: Completed
     id: Completed
     label: Completed
-    position: 3
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -99,7 +99,7 @@ columns:
     key: Price
     id: Price
     label: Price
-    position: 4
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -118,7 +118,7 @@ columns:
     key: Heft
     id: Heft
     label: Heft
-    position: 7
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -137,7 +137,7 @@ columns:
     key: Tier
     id: Tier
     label: Tier
-    position: 6
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -156,7 +156,7 @@ columns:
     key: type
     id: Type
     label: Type
-    position: 5
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: 1
@@ -174,6 +174,7 @@ columns:
       - { label: "Software", value: "Software", color: "hsl(78, 95%, 90%)"}
       - { label: "Computer", value: "Computer", color: "hsl(238, 95%, 90%)"}
       - { label: "Kit", value: "Kit", color: "hsl(27, 95%, 90%)"}
+      - { label: "Shield", value: "Shield", color: "hsl(151, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -202,7 +203,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
-  current_row_template: Templates/Equipment Template Test.md
+  current_row_template: Templates/Markdown Templates/Mage Templates/New Equipment Template.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false

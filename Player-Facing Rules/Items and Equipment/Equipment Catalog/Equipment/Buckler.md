@@ -1,3 +1,13 @@
+---
+Type: Shield
+Category: Infiltrator
+Protection: 2
+Barrier: 12
+Tier: 1
+Heft: 2
+Price: 50
+---
+
 
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -9,10 +19,11 @@
 | **Handed-ness** |                                                0                                                |
 |    **Tier**     |                                          `=this.Tier`                                           |
 |  **Category**   | `INPUT[inlineSelect(option(-), option(Infiltrator), option(Mobile), option(Powered)):Category]` |
-| **Protection**  |                                                                                                 |
-|   **Barrier**   |                                                                                                 |
-| **Resistance**  |                                                                                                 |
-|  **Recharge**   |                                                                                                 |
-|   **Traits**    |                                                                                                 |
+| **Protection**  |                                               +2                                                |
+|   **Barrier**   |                                               12                                                |
+| **Resistance**  |                                       Cutting, piercing.                                        |
+|**Recharge**|●●|
+|   **Traits**    |                                [[Defensive\|Defensive (Shield)]]                                |
 > ###### *Description*
+> This small shield is attached to the forearm, leaving the wielding hand and arm free to brandish another weapon. 
 

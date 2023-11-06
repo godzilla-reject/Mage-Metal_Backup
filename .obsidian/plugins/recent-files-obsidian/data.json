@@ -5,8 +5,12 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Armor  Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md"
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Buckler",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Buckler.md"
     },
     {
       "basename": "New Equipment Template",
@@ -17,12 +21,20 @@
       "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
     },
     {
-      "basename": "Armor",
-      "path": "General Rules/Traits Catalog/General/Armor.md"
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     },
     {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+      "basename": "Defensive",
+      "path": "General Rules/Traits Catalog/General/Defensive.md"
+    },
+    {
+      "basename": "Integrated",
+      "path": "General Rules/Traits Catalog/General/Integrated.md"
+    },
+    {
+      "basename": "Armor  Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md"
     },
     {
       "basename": "Equipment Template",
@@ -137,10 +149,6 @@
       "path": "General Rules/Traits Catalog/General/Insulated.md"
     },
     {
-      "basename": "Integrated",
-      "path": "General Rules/Traits Catalog/General/Integrated.md"
-    },
-    {
       "basename": "Melee",
       "path": "General Rules/Traits Catalog/General/Melee.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Move",
       "path": "General Rules/Traits Catalog/General/Move.md"
-    },
-    {
-      "basename": "Debilitating",
-      "path": "General Rules/Traits Catalog/General/Debilitating.md"
-    },
-    {
-      "basename": "Forceful",
-      "path": "General Rules/Traits Catalog/Weapon-Only/Forceful.md"
     }
   ],
   "omittedPaths": [],

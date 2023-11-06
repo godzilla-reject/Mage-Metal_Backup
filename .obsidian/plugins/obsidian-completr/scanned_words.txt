@@ -893,6 +893,7 @@ width
 wounds
 withstand
 withstanding
+wielding
 sleeve
 some
 something
@@ -1575,6 +1576,7 @@ Resonance
 Resonances
 Rough
 Resolve
+Recharge
 high
 heavily
 hopes
@@ -1774,6 +1776,7 @@ Passes
 Pain
 Practical
 Please
+Protection
 ABCs
 Apotheosis
 Accessibility
@@ -2061,6 +2064,7 @@ lightning
 lingers
 lowered
 lesser
+leaving
 Ease
 Excel
 Escalation
@@ -2526,6 +2530,7 @@ Boosts
 Be
 Balance
 Basic
+Barrier
 Varies
 Vast
 Void

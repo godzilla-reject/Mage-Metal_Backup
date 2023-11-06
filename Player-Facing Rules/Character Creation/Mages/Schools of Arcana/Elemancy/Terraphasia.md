@@ -23,7 +23,7 @@ You begin play with the following equipment:
 >[!column]- ***Path of `=this.Path1`:*** 
 >> [!metadata] *Trained Perk: Shifting Plates*
 >> *When you become Trained in this School, you gain the following benefits.*
->> Whenever you Cast or Dispel a Spell with the [[Armor]] trait, you can use a reaction to Move up to your Speed, ignoring penalties from the spell.
+>> Whenever you Cast or Dispel a Spell with the [[Defensive]] trait, you can use a reaction to Move up to your Speed, ignoring penalties from the spell.
 >
 >> [!metadata] *Expertise Perk:*
 >> *When you become an Expert in this School, you gain the following benefits.*
