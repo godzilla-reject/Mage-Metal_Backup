@@ -188,7 +188,7 @@ config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: true
-  group_folder_column: Type
+  group_folder_column: type
   remove_empty_folders: true
   automatically_group_files: true
   hoist_files_with_empty_attributes: true
@@ -202,7 +202,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
-  current_row_template: Templates/Markdown Templates/Mage Templates/Equipment Template.md
+  current_row_template: Templates/Equipment Template Test.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false
