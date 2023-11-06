@@ -5,6 +5,14 @@
       "path": "Test Note.md"
     },
     {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "10-foot Pole",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Flurry",
       "path": "General Rules/Traits Catalog/Weapon-Only/Flurry.md"
-    },
-    {
-      "basename": "Fated",
-      "path": "General Rules/Traits Catalog/Unsorted/Fated.md"
-    },
-    {
-      "basename": "Escalation",
-      "path": "General Rules/Traits Catalog/General/Escalation.md"
     }
   ],
   "omittedPaths": [],

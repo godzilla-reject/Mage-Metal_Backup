@@ -1,1 +1,1 @@
-# Test Note
+<% if tp.frontmatter.Type(=Shield),  %>
