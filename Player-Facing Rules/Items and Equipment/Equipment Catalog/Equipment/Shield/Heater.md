@@ -21,4 +21,5 @@ Category: Mobile
 |  **Recharge**   |                                               ●●                                                |
 |   **Traits**    |               [[Defensive\|Defensive (Shield)]]                                                                                  |
 > ###### *Description*
+> 
 
