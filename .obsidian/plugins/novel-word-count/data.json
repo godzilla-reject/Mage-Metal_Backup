@@ -5245,19 +5245,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 44,
+      "wordCount": 48,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 320,
-      "nonWhitespaceCharacterCount": 208,
-      "readingTimeInMinutes": 0.1660377358490566,
-      "linkCount": 1,
+      "pageCount": 0.16,
+      "characterCount": 607,
+      "nonWhitespaceCharacterCount": 294,
+      "readingTimeInMinutes": 0.1811320754716981,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699264135019,
-      "modifiedDate": 1699264205906,
-      "sizeInBytes": 374
+      "modifiedDate": 1699264798648,
+      "sizeInBytes": 661
     }
   }
 }

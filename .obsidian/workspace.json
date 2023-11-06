@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Rules/Traits Catalog/General/Swift.md",
+                "file": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
                 "mode": "source",
                 "source": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Rules/Traits Catalog/General/Swift.md",
+                "file": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Rules/Traits Catalog/General/Swift.md",
+                "file": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Rules/Traits Catalog/General/Swift.md"
+                "file": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
               }
             }
           },
@@ -264,6 +264,7 @@
   },
   "active": "d753beddba13f31a",
   "lastOpenFiles": [
+    "General Rules/Traits Catalog/General/Swift.md",
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Utilities/Dashboard.canvas",
@@ -292,7 +293,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
     "Utilities/Dashboard Notes",
     "General Rules/Traits Catalog/Creature-Only",
     "Player-Facing Rules/Spells/Spells Database/soma",

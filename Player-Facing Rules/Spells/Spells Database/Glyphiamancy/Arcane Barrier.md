@@ -7,11 +7,12 @@ School: Glyphiamancy
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`
 > ###### Spell Information
-|          |                |
-|:--------:|:--------------:|
-|   Rank   |  `=this.Rank`  |
-|  School  | `=this.School` |
-|  Range   |      Self      |
-| Duration |    1 minute    |
-|  Traits  |    [[Swift]]]            |
+|          |                                                          |
+|:--------:|:--------------------------------------------------------:|
+|   Rank   |                       `=this.Rank`                       |
+|  School  |                      `=this.School`                      |
+|  Range   |                           Self                           |
+| Duration |                         1 minute                         |
+|  Traits  | [[Swift]], [[Defensive\|Defensive (Spell)]], [[Somatic]] |
 > ###### *Details*
+> 
