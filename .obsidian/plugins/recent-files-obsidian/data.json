@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Arcane Salvo",
-      "path": "Player-Facing Rules/Spells/Spells Database/Arcane Salvo.md"
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
+    },
+    {
+      "basename": "Design Note-Spell Damage by Rank Chart",
+      "path": "Design Bible/Design Notes/Design Note-Spell Damage by Rank Chart.md"
+    },
+    {
+      "basename": "Design Inspirations, Tenets, and Philsophy",
+      "path": "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Variable",
+      "path": "General Rules/Traits Catalog/General/Variable.md"
+    },
+    {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
+      "basename": "Auditory",
+      "path": "General Rules/Traits Catalog/General/Auditory.md"
     },
     {
       "basename": "Equipment Database",
@@ -89,10 +109,6 @@
       "path": "Design Bible/Design Notes/Design Note-Axillary Resources.md"
     },
     {
-      "basename": "Design Note-Spell Damage by Rank Chart",
-      "path": "Design Bible/Design Notes/Design Note-Spell Damage by Rank Chart.md"
-    },
-    {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
@@ -117,10 +133,6 @@
       "path": "README.md"
     },
     {
-      "basename": "Design Inspirations, Tenets, and Philsophy",
-      "path": "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
-    },
-    {
       "basename": "Design Note-Pilot Role Metrics",
       "path": "Design Bible/Design Notes/Design Note-Pilot Role Metrics.md"
     },
@@ -133,12 +145,8 @@
       "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
     },
     {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
       "basename": "Somatic",
-      "path": "General Rules/Traits Catalog/Somatic.md"
+      "path": "General Rules/Traits Catalog/General/Somatic.md"
     },
     {
       "basename": "Shockjolt",
@@ -191,14 +199,6 @@
     {
       "basename": "Stalwart",
       "path": "General Rules/Traits Catalog/Armor-Only/Stalwart.md"
-    },
-    {
-      "basename": "Slow",
-      "path": "General Rules/Traits Catalog/General/Slow.md"
-    },
-    {
-      "basename": "Polymorph",
-      "path": "General Rules/Traits Catalog/General/Polymorph.md"
     }
   ],
   "omittedPaths": [],

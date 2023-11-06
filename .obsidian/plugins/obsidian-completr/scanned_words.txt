@@ -574,6 +574,8 @@ comment
 conditional
 calls
 checks
+charges
+charge
 before
 being
 be
@@ -822,6 +824,8 @@ affect
 athletic
 aforementioned
 agony
+array
+accuracy
 wear
 with
 war
@@ -1089,6 +1093,7 @@ step
 spiral
 stabilize
 suggester
+spent
 LANCER
 Learn
 Lancer
@@ -1529,6 +1534,7 @@ primordial
 polymorph
 padding
 pain
+prevents
 RP
 RPGs
 Ryutama
@@ -1938,6 +1944,8 @@ multiplied
 maximized
 myChoice
 myNumber
+missiles
+missile
 GURPS
 Google
 Greyhawk
@@ -1998,6 +2006,7 @@ undergo
 ups
 unpunished
 usages
+unerring
 letting
 look
 like
@@ -2452,6 +2461,7 @@ Sucks
 Shoves
 Shove
 Steel
+Same
 Jackson
 Jack
 Juggernaut
