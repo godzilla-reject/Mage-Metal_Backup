@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Heater",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
-    },
-    {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Tower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
+    },
+    {
+      "basename": "Heater",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
     },
     {
       "basename": "Buckler",
@@ -195,10 +199,6 @@
     {
       "basename": "Physical",
       "path": "General Rules/Traits Catalog/General/Physical.md"
-    },
-    {
-      "basename": "Modal",
-      "path": "General Rules/Traits Catalog/General/Modal.md"
     }
   ],
   "omittedPaths": [],

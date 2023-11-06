@@ -33,6 +33,18 @@
             }
           },
           {
+            "id": "eedea1c1ee651d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "21c74f30aae276a1",
             "type": "leaf",
             "state": {
@@ -45,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
               }
             }
           },
@@ -262,8 +274,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "21c74f30aae276a1",
+  "active": "c717fadeaa7c5474",
   "lastOpenFiles": [
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md",
