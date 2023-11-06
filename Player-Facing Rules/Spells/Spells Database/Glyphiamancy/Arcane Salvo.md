@@ -3,6 +3,7 @@ Rank: "2"
 Tags:
   - Spell
 School: Glyphiamancy
+Completed: true
 ---
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Swift",
+      "path": "General Rules/Traits Catalog/General/Swift.md"
+    },
+    {
+      "basename": "Arcane Barrier",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Design Inspirations, Tenets, and Philsophy",
       "path": "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
     {
       "basename": "Variable",
@@ -191,14 +199,6 @@
     {
       "basename": "Trap",
       "path": "General Rules/Traits Catalog/General/Trap.md"
-    },
-    {
-      "basename": "Swift",
-      "path": "General Rules/Traits Catalog/General/Swift.md"
-    },
-    {
-      "basename": "Stalwart",
-      "path": "General Rules/Traits Catalog/Armor-Only/Stalwart.md"
     }
   ],
   "omittedPaths": [],
