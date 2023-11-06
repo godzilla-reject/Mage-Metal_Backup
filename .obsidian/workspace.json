@@ -31,14 +31,7 @@
                 "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c137389bdbbcedb2",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "8e2695e381a96874",
             "type": "leaf",
@@ -51,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
