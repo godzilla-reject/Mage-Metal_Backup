@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "5928bbd6b93c2d9a",
+            "id": "c717fadeaa7c5474",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -33,31 +33,19 @@
             }
           },
           {
-            "id": "48f1f29d04d4b5b1",
+            "id": "21c74f30aae276a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Buckler.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8d61ce34a6a77d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
-                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
               }
             }
           },
@@ -274,15 +262,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5928bbd6b93c2d9a",
+  "active": "21c74f30aae276a1",
   "lastOpenFiles": [
-    "Utilities/Dashboard.canvas",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Buckler.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md",
+    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
     "Templates/Markdown Templates/Mage Templates/Shield Template.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield",
     "General Rules/Traits Catalog/General/Defensive.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "General Rules/Traits Catalog/General/Integrated.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
     "Templates/Markdown Templates/Reference Templates/Equipment Template.md",
@@ -302,7 +292,6 @@
     "Utilities/Dashboard Notes/To-Do List.md",
     "Utilities/Dashboard Notes/Databases.md",
     "Widget.md",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Utilities/Dashboard Notes",
     "General Rules/Traits Catalog/Creature-Only",
     "Player-Facing Rules/Spells/Spells Database/soma",
@@ -310,7 +299,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Kit"
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility"
   ]
 }

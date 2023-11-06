@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Heater",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
     },
     {
       "basename": "Equipment Database",
@@ -10,7 +10,11 @@
     },
     {
       "basename": "Buckler",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Buckler.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "New Equipment Template",
@@ -21,12 +25,12 @@
       "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
     },
     {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
       "basename": "Defensive",
       "path": "General Rules/Traits Catalog/General/Defensive.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     },
     {
       "basename": "Integrated",
@@ -195,10 +199,6 @@
     {
       "basename": "Modal",
       "path": "General Rules/Traits Catalog/General/Modal.md"
-    },
-    {
-      "basename": "Move",
-      "path": "General Rules/Traits Catalog/General/Move.md"
     }
   ],
   "omittedPaths": [],

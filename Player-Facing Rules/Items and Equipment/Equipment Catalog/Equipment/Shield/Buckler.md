@@ -3,9 +3,11 @@ Type: Shield
 Category: Infiltrator
 Protection: 2
 Barrier: 12
-Tier: 1
+Tier: 0
 Heft: 2
 Price: 50
+type: Shield
+Completed: true
 ---
 
 

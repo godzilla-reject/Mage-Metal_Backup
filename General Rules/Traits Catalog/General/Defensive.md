@@ -7,4 +7,4 @@ Completed: true
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`
 > ###### Trait Information
-> Effects and items with the Armor trait bolster the defenses of the affected creatures, primarily from bonuses to Toughness.
+> This trait can possibly be accompanied by a qualifier. Effects and items with the `=this.file.name ` trait bolster the defenses of the affected creatures, primarily from bonuses to Toughness. The qualifier denotes the type of item or effect that grants the effect.

@@ -1440,7 +1440,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698791324572,
-      "modifiedDate": 1699252434846,
+      "modifiedDate": 1699253433165,
       "sizeInBytes": 5596
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md": {
@@ -5112,7 +5112,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699243960427,
-      "modifiedDate": 1699250291273,
+      "modifiedDate": 1699253505923,
       "sizeInBytes": 259
     },
     "Templates/Markdown Templates/Reference Templates/Equipment Template.md": {
@@ -5133,7 +5133,25 @@
       "modifiedDate": 1699245964201,
       "sizeInBytes": 384
     },
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Buckler.md": {
+    "General Rules/Traits Catalog/General/Defensive.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 54,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18,
+      "characterCount": 347,
+      "nonWhitespaceCharacterCount": 293,
+      "readingTimeInMinutes": 0.2037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1698734102160,
+      "modifiedDate": 1699253273356,
+      "sizeInBytes": 404
+    },
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -5148,26 +5166,26 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699251732651,
-      "modifiedDate": 1699252371689,
-      "sizeInBytes": 1645
+      "modifiedDate": 1699253624333,
+      "sizeInBytes": 1674
     },
-    "General Rules/Traits Catalog/General/Defensive.md": {
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 40,
+      "wordCount": 77,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 263,
-      "nonWhitespaceCharacterCount": 222,
-      "readingTimeInMinutes": 0.1509433962264151,
-      "linkCount": 0,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 1562,
+      "nonWhitespaceCharacterCount": 565,
+      "readingTimeInMinutes": 0.29056603773584905,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1698734102160,
-      "modifiedDate": 1698483012999,
-      "sizeInBytes": 263
+      "createdDate": 1699253413109,
+      "modifiedDate": 1699253739354,
+      "sizeInBytes": 1630
     }
   }
 }
