@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6c984e537e8c076",
+            "id": "e4ea99421059b5a6",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,35 +17,12 @@
                 "viewState": {
                   "x": -510,
                   "y": -1010,
-                  "zoom": -0.2858262707070364
+                  "zoom": -0.6568224082303437
                 }
               }
             }
-          },
-          {
-            "id": "e4ea99421059b5a6",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-              }
-            }
-          },
-          {
-            "id": "d753beddba13f31a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -234,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,7 +238,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d753beddba13f31a",
+  "active": "e4ea99421059b5a6",
   "lastOpenFiles": [
     "General Rules/Traits Catalog/General/Swift.md",
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
