@@ -21,6 +21,7 @@ Heft: 25
 |   **Barrier**   |                                               22                                                |
 | **Resistance**  |                                        Physical (Energy)                                        |
 |  **Recharge**   |                                               ●●●                                               |
-|   **Traits**    |                                                                                                 |
+|   **Traits**    |                                [[Defensive\|Defensive (Shield)]]                                |
 > ###### *Description*
+> 
 
