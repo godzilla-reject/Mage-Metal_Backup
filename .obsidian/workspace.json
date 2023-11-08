@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "54ee4adc082087d2",
+        "id": "47c391b9da8e1646",
         "type": "tabs",
         "children": [
           {
-            "id": "e471d5b03c860d2c",
+            "id": "829a234c840bc83d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -609.5199579831933,
-                  "y": -1035.0918788640784,
-                  "zoom": -0.007557351178082206
+                  "x": -510,
+                  "y": -1010,
+                  "zoom": -1.0075573511780822
                 }
               }
             }
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 617.5,
-    "collapsed": true
+    "width": 617.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,7 +238,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e471d5b03c860d2c",
+  "active": "829a234c840bc83d",
   "lastOpenFiles": [
     "Utilities/Dashboard Notes/To-Do List.md",
     "Utilities/Dashboard.canvas",
