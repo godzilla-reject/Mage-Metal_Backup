@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Omni-Wire (50 feet)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Nanofiber Rope (50 feet)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Buckler",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md"
-    },
-    {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
       "basename": "Arcane Barrier",
@@ -191,14 +199,6 @@
     {
       "basename": "Metal",
       "path": "General Rules/Traits Catalog/Elemental/Metal.md"
-    },
-    {
-      "basename": "Minion",
-      "path": "General Rules/Traits Catalog/General/Minion.md"
-    },
-    {
-      "basename": "Parrying",
-      "path": "General Rules/Traits Catalog/Equipment-Only/Parrying.md"
     }
   ],
   "omittedPaths": [],

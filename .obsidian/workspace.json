@@ -21,8 +21,31 @@
                 }
               }
             }
+          },
+          {
+            "id": "bbb8a4ca0c692bd1",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+              }
+            }
+          },
+          {
+            "id": "de89491e18dfe516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md"
               }
             }
           },
@@ -239,10 +262,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "829a234c840bc83d",
+  "active": "de89491e18dfe516",
   "lastOpenFiles": [
-    "Utilities/Dashboard Notes/To-Do List.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md",
     "Utilities/Dashboard.canvas",
+    "Utilities/Dashboard Notes/To-Do List.md",
     "GM-Facing Rules/Monsters and Men/Bestiary",
     "GM-Facing Rules/Monsters and Men/NPC Index",
     "GM-Facing Rules/Monsters and Men",
@@ -252,7 +278,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "General Rules/Traits Catalog/General/Swift.md",
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
@@ -271,7 +296,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
     "Templates/Markdown Templates/Reference Templates/Equipment Template.md",
     "Templates/Markdown Templates/Reference Templates",
-    "Test Note.md",
     "Utilities/Dashboard Notes",
     "General Rules/Traits Catalog/Creature-Only",
     "Player-Facing Rules/Spells/Spells Database/soma",

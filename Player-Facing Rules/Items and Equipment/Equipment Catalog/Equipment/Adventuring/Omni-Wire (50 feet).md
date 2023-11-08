@@ -10,9 +10,10 @@ type: Adventuring
 |            |                   |
 |:----------:|:-----------------:|
 | **Price**  | `=this.Price` un. |
-| **Type** | `=this.Type` |
+|  **Type**  |   `=this.Type`    |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |                   |
+| **Usage**  |         -         |
 |  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |                   |
+| **Traits** |         -         |
 > ###### *Description*
+> This muti-use wire can be used to transfer nearly any type of data from one machine to another. 

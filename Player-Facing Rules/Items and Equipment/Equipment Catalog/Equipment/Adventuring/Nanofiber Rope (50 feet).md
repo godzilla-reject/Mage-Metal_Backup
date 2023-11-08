@@ -10,9 +10,10 @@ type: Adventuring
 |            |                   |
 |:----------:|:-----------------:|
 | **Price**  | `=this.Price` un. |
-| **Type** | `=this.Type` |
+|  **Type**  |   `=this.Type`    |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |                   |
+| **Usage**  |         -         |
 |  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |                   |
+| **Traits** |         -         |
 > ###### *Description*
+> Made of hundreds of thousands of inter-braided carbon microfilaments, this industry-standard rope has nearly as many uses as it does braids. It has a tensile strength of roughly 3,000lbs.
