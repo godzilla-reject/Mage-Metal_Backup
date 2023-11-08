@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5258884ca89c9695",
+        "id": "8407fcd08ea7fedf",
         "type": "tabs",
         "children": [
           {
-            "id": "4b06c11b63d186eb",
+            "id": "94a2953c5b24c3e0",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -510,
                   "y": -1010,
-                  "zoom": -0.15682240823034366
+                  "zoom": -0.6568224082303437
                 }
               }
             }
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,7 +238,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4b06c11b63d186eb",
+  "active": "94a2953c5b24c3e0",
   "lastOpenFiles": [
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
