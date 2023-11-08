@@ -13,7 +13,15 @@ cssclasses:
 	- [ ] Vulkan Cannons (Nagging weapons) (Aux)
 - [ ] #todo Get Spells Database to 100% complete markers.
 - [ ] #todo Get Equipment Database to 100% complete.
+	- [ ] Add starting equipment to:
+		- [ ] Species
+		- [ ] History
+		- [ ] (Maybe) Role
 - [ ] #todo Get Konnar to do a character creation.
+- [ ] #todo List for Monsters:
+	- [ ] Mage//Metal Monster Statblock layout
+	- [ ] Monster Database Creation
+	- [ ] Monster Template Creation
 - [ ] #todo Balance Passes:
 	- [ ] Species
 	- [ ] Histories
