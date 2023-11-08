@@ -15,9 +15,9 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -510,
-                  "y": -1010,
-                  "zoom": -1.0075573511780822
+                  "x": -606.5042016806724,
+                  "y": -1042.1680672268908,
+                  "zoom": -0.007557351178082206
                 }
               }
             }
@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 617.5
+    "width": 617.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
