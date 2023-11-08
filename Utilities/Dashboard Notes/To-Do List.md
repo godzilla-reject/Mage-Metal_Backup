@@ -11,7 +11,7 @@ cssclasses:
 	- [ ] Non-descript Handgun (Secondary)
 	- [ ] Laser Cutter (Aux)
 	- [ ] Vulkan Cannons (Nagging weapons) (Aux)
-- [ ] #todo Get Spells Database to 100% complete markers.
+- [ ] #todo 🔺  Get Spells Database to 100% complete markers.
 - [ ] #todo Get Equipment Database to 100% complete.
 	- [ ] Add starting equipment to:
 		- [ ] Species
