@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Lazerpike",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Weaponry Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "Defensive",
       "path": "General Rules/Traits Catalog/General/Defensive.md"
-    },
-    {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     },
     {
       "basename": "Integrated",
@@ -191,14 +199,6 @@
     {
       "basename": "Parrying",
       "path": "General Rules/Traits Catalog/Equipment-Only/Parrying.md"
-    },
-    {
-      "basename": "Teleport",
-      "path": "General Rules/Traits Catalog/General/Teleport.md"
-    },
-    {
-      "basename": "Trap",
-      "path": "General Rules/Traits Catalog/General/Trap.md"
     }
   ],
   "omittedPaths": [],
