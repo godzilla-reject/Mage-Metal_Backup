@@ -90,6 +90,8 @@ Mastered
 Moners
 Minion
 Mental
+Monsters
+Monster
 in
 inspiration
 it
@@ -2074,6 +2076,7 @@ lingers
 lowered
 lesser
 leaving
+layout
 Ease
 Excel
 Escalation
@@ -2462,6 +2465,7 @@ Shoves
 Shove
 Steel
 Same
+Statblock
 Jackson
 Jack
 Juggernaut
@@ -2566,3 +2570,4 @@ quickly
 quarters
 XdE
 Kit
+Konnar

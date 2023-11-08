@@ -21,8 +21,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "8c3016da0bbcee99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Dashboard Notes/To-Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Dashboard Notes/To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Utilities/Dashboard Notes/To-Do List.md"
               }
             }
           },
@@ -211,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 617.5
+    "width": 617.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,12 +252,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e471d5b03c860d2c",
+  "active": "8c3016da0bbcee99",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "GM-Facing Rules/Monsters and Men/Bestiary",
     "GM-Facing Rules/Monsters and Men/NPC Index",
     "GM-Facing Rules/Monsters and Men",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
@@ -275,7 +289,6 @@
     "General Rules/Traits Catalog/Creature-Only",
     "Player-Facing Rules/Spells/Spells Database/soma",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing"
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable"
   ]
 }
