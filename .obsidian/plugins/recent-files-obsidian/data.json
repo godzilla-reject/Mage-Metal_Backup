@@ -1,32 +1,156 @@
 {
   "recentFiles": [
     {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+      "basename": "Dice Overview",
+      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Actions Overview",
+      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
     },
     {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "New Equipment Template",
-      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
     {
-      "basename": "10-foot Pole",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
+      "basename": "Power-Word 'Harm'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md"
+    },
+    {
+      "basename": "Arcane Salvo",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
+    },
+    {
+      "basename": "Arcane Surge",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Arcane Surge.md"
+    },
+    {
+      "basename": "Aerostrike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Favor System Primer",
+      "path": "General Rules/The Favor System/Favor System Primer.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
+      "basename": "Armor Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Fine Clothes",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md"
+    },
+    {
+      "basename": "Exquisite Clothes",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md"
+    },
+    {
+      "basename": "Common Clothes",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md"
+    },
+    {
+      "basename": "Environmental Suit",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md"
+    },
+    {
+      "basename": "Comfortable",
+      "path": "General Rules/Traits Catalog/Armor-Only/Comfortable.md"
+    },
+    {
+      "basename": "Nutri-gel (1 day)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Nutri-gel (1 day).md"
+    },
+    {
+      "basename": "Air Canister (24 hr)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md"
+    },
+    {
+      "basename": "Air Canister (1 hr)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (1 hr).md"
+    },
+    {
+      "basename": "High-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Low-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Laser Charges",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
+    },
+    {
+      "basename": "Thumpthrower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
+    },
+    {
+      "basename": "Smart-Arrows",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md"
+    },
+    {
+      "basename": "Glazier Boltbow",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md"
+    },
+    {
+      "basename": "Two-Person Habitat",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Two-Person Habitat.md"
     },
     {
       "basename": "Personal Habitat",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md"
     },
     {
-      "basename": "Related Weapons Dataview",
-      "path": "Templates/Dataview Templates/Related Weapons Dataview.md"
+      "basename": "Verocloth",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md"
     },
     {
-      "basename": "Laser Charges",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
+      "basename": "Insulated",
+      "path": "General Rules/Traits Catalog/General/Insulated.md"
+    },
+    {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
+      "basename": "Mess Set",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Mess Set.md"
+    },
+    {
+      "basename": "10-foot Pole",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
+    },
+    {
+      "basename": "New Equipment Template",
+      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
+    },
+    {
+      "basename": "Related Weapons Dataview",
+      "path": "Templates/Dataview Templates/Related Weapons Dataview.md"
     },
     {
       "basename": "Omni-Wire (50 feet)",
@@ -35,10 +159,6 @@
     {
       "basename": "Nanofiber Rope (50 feet)",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Lazerpike",
@@ -73,132 +193,12 @@
       "path": "General Rules/Traits Catalog/General/Swift.md"
     },
     {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Arcane Salvo",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
-    },
-    {
       "basename": "Design Note-Spell Damage by Rank Chart",
       "path": "Design Bible/Design Notes/Design Note-Spell Damage by Rank Chart.md"
     },
     {
       "basename": "Design Inspirations, Tenets, and Philsophy",
       "path": "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
-    },
-    {
-      "basename": "Variable",
-      "path": "General Rules/Traits Catalog/General/Variable.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Auditory",
-      "path": "General Rules/Traits Catalog/General/Auditory.md"
-    },
-    {
-      "basename": "Shield Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
-    },
-    {
-      "basename": "Defensive",
-      "path": "General Rules/Traits Catalog/General/Defensive.md"
-    },
-    {
-      "basename": "Integrated",
-      "path": "General Rules/Traits Catalog/General/Integrated.md"
-    },
-    {
-      "basename": "Armor  Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md"
-    },
-    {
-      "basename": "Equipment Template",
-      "path": "Templates/Markdown Templates/Reference Templates/Equipment Template.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
-    },
-    {
-      "basename": "Medicine",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Unconscious",
-      "path": "General Rules/Conditions Catalog/Unconscious.md"
-    },
-    {
-      "basename": "Design Note-Axillary Resources",
-      "path": "Design Bible/Design Notes/Design Note-Axillary Resources.md"
-    },
-    {
-      "basename": "Former Dash",
-      "path": "Utilities/Former Dash.md"
-    },
-    {
-      "basename": "Databases",
-      "path": "Utilities/Dashboard Notes/Databases.md"
-    },
-    {
-      "basename": "Species Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Design Note-Pilot Role Metrics",
-      "path": "Design Bible/Design Notes/Design Note-Pilot Role Metrics.md"
-    },
-    {
-      "basename": "Design Note-Mounts",
-      "path": "Design Bible/Design Notes/Design Note-Mounts.md"
-    },
-    {
-      "basename": "Electroflex",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
-    },
-    {
-      "basename": "Somatic",
-      "path": "General Rules/Traits Catalog/General/Somatic.md"
-    },
-    {
-      "basename": "Shockjolt",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Shockjolt.md"
-    },
-    {
-      "basename": "Mental",
-      "path": "General Rules/Traits Catalog/General/Mental.md"
-    },
-    {
-      "basename": "Mindless",
-      "path": "General Rules/Traits Catalog/Creature-Only/Mindless.md"
-    },
-    {
-      "basename": "Healing",
-      "path": "General Rules/Traits Catalog/General/Healing.md"
     }
   ],
   "omittedPaths": [],

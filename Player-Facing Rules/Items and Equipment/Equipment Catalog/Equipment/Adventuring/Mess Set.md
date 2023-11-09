@@ -3,6 +3,7 @@ Tier: 0
 Heft: 0
 Price: 0.25
 Type: Adventuring
+Completed: true
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -10,9 +11,10 @@ Type: Adventuring
 |            |                   |
 |:----------:|:-----------------:|
 | **Price**  | `=this.Price` un. |
-| **Type** | `=this.Type` |
+|  **Type**  |   `=this.Type`    |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |                   |
+| **Usage**  |         -         |
 |  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |                   |
+| **Traits** |         -         |
 > ###### *Description*
+> This is a small package of cooking and eating equipment meant for the field, including a small camp stove. 

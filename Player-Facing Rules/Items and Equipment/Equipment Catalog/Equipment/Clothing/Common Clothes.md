@@ -3,6 +3,7 @@ Price: 0.75
 Tier: 0
 Heft: 0
 Type: Clothing
+Completed: true
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -12,7 +13,8 @@ Type: Clothing
 | **Price**  | `=this.Price` un. |
 | **Type** | `=this.Type` |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |                   |
+| **Usage**  |     Worn              |
 |  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |                   |
+| **Traits** |      -             |
 > ###### *Description*
+> A set of bog-standard, common clothing. 

@@ -3,6 +3,7 @@ Price: 20
 Tier: 1
 Heft: 0.5
 Type: Clothing
+Completed: true
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -10,9 +11,11 @@ Type: Clothing
 |            |                   |
 |:----------:|:-----------------:|
 | **Price**  | `=this.Price` un. |
-| **Type** | `=this.Type` |
+|  **Type**  |   `=this.Type`    |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |                   |
+| **Usage**  |       Worn.       |
 |  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |                   |
+| **Traits** |         -         |
 > ###### *Description*
+> A set of masterfully made, extravagant clothing. The colloquial name for such an outfit would be "formal attire."
+> While wearing exquisite clothes, the wearer gains a +2 equipment bonus to **Tenacity** skill checks made in a social setting.

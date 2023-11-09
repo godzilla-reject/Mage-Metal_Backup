@@ -6,9 +6,10 @@
       {
         "id": "d89c74c3bba94572",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "0647e93a76efbc8e",
+            "id": "2163241aca58eb23",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -23,6 +24,29 @@
             }
           },
           {
+            "id": "73e0d842a94614ef",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+              }
+            }
+          },
+          {
+            "id": "5070040354f451b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "1725ebd4b34d27e7",
             "type": "leaf",
             "state": {
@@ -31,9 +55,61 @@
                 "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
               }
             }
+          },
+          {
+            "id": "327851451680ce0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5b20437978ca0e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/The Favor System/Favor System Primer.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0b6257b713336031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/The Favor System/Dice Structure/Dice Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b82318afc90f974e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -91,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -107,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "General Rules/The Favor System/Dice Structure/Dice Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "General Rules/The Favor System/Dice Structure/Dice Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+                "file": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
               }
             }
           },
@@ -217,12 +294,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 617.5,
+    "width": 683.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -250,37 +326,38 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1725ebd4b34d27e7",
+  "active": "0b6257b713336031",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+    "General Rules/The Favor System/Dice Structure/Dice Overview.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "General Rules/The Favor System/Action Structure/Actions Overview.md",
     "Utilities/Dashboard.canvas",
-    "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
+    "Player-Facing Rules/Spells/Spells Database/Electromancy/Arcane Surge.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md",
-    "Templates/Dataview Templates/Related Weapons Dataview.md",
+    "General Rules/The Favor System/Favor System Primer.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md",
+    "General Rules/Traits Catalog/Armor-Only/Comfortable.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Nutri-gel (1 day).md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (1 hr).md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md",
-    "Utilities/Dashboard Notes/To-Do List.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md",
     "GM-Facing Rules/Monsters and Men/Bestiary",
     "GM-Facing Rules/Monsters and Men/NPC Index",
     "GM-Facing Rules/Monsters and Men",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md",
-    "General Rules/Traits Catalog/General/Swift.md",
-    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
-    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
-    "Design Bible/Design Notes/Design Note-Spell Damage by Rank Chart.md",
-    "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
-    "General Rules/Traits Catalog/General/Variable.md",
-    "General Rules/Traits Catalog/Traits Database.md",
-    "General Rules/Conditions Catalog/Variable.md",
-    "General Rules/Traits Catalog/General/Auditory.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield",
     "Templates/Markdown Templates/Reference Templates",
     "Utilities/Dashboard Notes",

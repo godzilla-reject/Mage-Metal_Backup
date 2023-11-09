@@ -3,6 +3,7 @@ Price: 5
 Tier: 0
 Heft: 0
 Type: Clothing
+Completed: true
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -12,7 +13,9 @@ Type: Clothing
 | **Price**  | `=this.Price` un. |
 | **Type** | `=this.Type` |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |                   |
+| **Usage**  |      Worn.             |
 |  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |                   |
+| **Traits** |       -            |
 > ###### *Description*
+> A set of clothes that set themselves apart from one's normal wardrobe. Most would call such an outfit "business casual."
+> The wearer gains a +1 equipment bonus to **Tenacity** skill checks made in social situations while wearing fine clothes.
