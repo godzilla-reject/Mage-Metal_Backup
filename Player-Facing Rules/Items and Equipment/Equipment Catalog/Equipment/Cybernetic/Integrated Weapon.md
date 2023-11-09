@@ -3,6 +3,8 @@ Tier: 1
 Price: 600
 Heft: 0
 Type: Cybernetic
+tags:
+  - rename
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -12,7 +14,7 @@ Type: Cybernetic
 | **Price**  | `=this.Price`* un. |
 | **Type** | `=this.Type` |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |                   |
+| **Usage**  |    Grafted into the body; or integrated into a cybernetic limb.               |
 |  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |                   |
+| **Traits** |       [[Cybernetic]], [[Upgrade\|Upgrade (Cybernetic)]]            |
 > ###### *Description*
