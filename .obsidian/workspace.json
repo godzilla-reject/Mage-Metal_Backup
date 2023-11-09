@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d89c74c3bba94572",
+        "id": "0885ba0a4d5609a3",
         "type": "tabs",
         "children": [
           {
-            "id": "73e0d842a94614ef",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-              }
-            }
-          },
-          {
-            "id": "1725ebd4b34d27e7",
+            "id": "dd927797a90f5b92",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -32,8 +22,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,7 +238,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1725ebd4b34d27e7",
+  "active": "dd927797a90f5b92",
   "lastOpenFiles": [
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
     "General Rules/Character Mechanics Overview.md",
