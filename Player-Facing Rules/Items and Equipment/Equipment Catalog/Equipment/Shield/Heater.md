@@ -1,9 +1,9 @@
 ---
-type: Shield
 Tier: 0
 Price: 100
 Heft: 8
 Category: Mobile
+Type: Shield
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

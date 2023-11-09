@@ -2,7 +2,7 @@
 Price: 75
 Tier: 0
 Heft: 2
-type: Storage
+Type: Storage
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

@@ -2,7 +2,7 @@
 Tier: 0
 Price: 6
 Heft: 4
-type: Ammunition
+Type: Ammunition
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

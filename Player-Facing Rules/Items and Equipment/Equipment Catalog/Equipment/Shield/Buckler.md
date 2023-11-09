@@ -6,7 +6,6 @@ Barrier: 12
 Tier: 0
 Heft: 2
 Price: 50
-type: Shield
 Completed: true
 ---
 

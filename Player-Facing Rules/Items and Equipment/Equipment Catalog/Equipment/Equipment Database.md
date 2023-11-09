@@ -150,10 +150,10 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  type:
+  Type:
     input: select
-    accessorKey: type
-    key: type
+    accessorKey: Type
+    key: Type
     id: Type
     label: Type
     position: 4
@@ -162,6 +162,7 @@ columns:
     sortIndex: 1
     isSorted: true
     isSortedDesc: false
+    nestedKey: 
     options:
       - { label: "Adventuring", value: "Adventuring", color: "hsl(132, 95%, 90%)"}
       - { label: "Consumable", value: "Consumable", color: "hsl(21, 95%, 90%)"}

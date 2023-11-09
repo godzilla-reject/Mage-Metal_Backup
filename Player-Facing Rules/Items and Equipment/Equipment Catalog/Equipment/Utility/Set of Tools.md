@@ -2,7 +2,7 @@
 Tier: 1
 Price: 100
 Heft: 3
-type: Utility
+Type: Utility
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

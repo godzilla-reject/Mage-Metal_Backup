@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "New Equipment Template",
       "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
     },
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "10-foot Pole",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
+    },
+    {
+      "basename": "Personal Habitat",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md"
     },
     {
       "basename": "Related Weapons Dataview",
@@ -17,24 +29,12 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
     },
     {
-      "basename": "Personal Habitat",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md"
-    },
-    {
-      "basename": "10-foot Pole",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
-    },
-    {
       "basename": "Omni-Wire (50 feet)",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md"
     },
     {
       "basename": "Nanofiber Rope (50 feet)",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "To-Do List",

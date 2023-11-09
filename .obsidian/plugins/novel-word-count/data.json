@@ -342,7 +342,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699243960427,
-      "modifiedDate": 1699253505923,
+      "modifiedDate": 1699488852025,
       "sizeInBytes": 259
     },
     "Templates/Markdown Templates/Mage Templates/History Template.md": {
@@ -1854,7 +1854,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794271915,
-      "modifiedDate": 1699246665047,
+      "modifiedDate": 1699488824347,
       "sizeInBytes": 432
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md": {
@@ -1872,7 +1872,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794567272,
-      "modifiedDate": 1699246665008,
+      "modifiedDate": 1699488824318,
       "sizeInBytes": 433
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md": {
@@ -1890,7 +1890,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794553478,
-      "modifiedDate": 1699246664955,
+      "modifiedDate": 1699488824289,
       "sizeInBytes": 434
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md": {
@@ -1908,7 +1908,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794361442,
-      "modifiedDate": 1699246664991,
+      "modifiedDate": 1699488824264,
       "sizeInBytes": 433
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Hardlight Torch.md": {
@@ -1926,7 +1926,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794304829,
-      "modifiedDate": 1699246664908,
+      "modifiedDate": 1699488824233,
       "sizeInBytes": 432
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md": {
@@ -1944,7 +1944,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794877896,
-      "modifiedDate": 1699246664945,
+      "modifiedDate": 1699488824205,
       "sizeInBytes": 433
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Grappling Hook.md": {
@@ -1962,7 +1962,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794483442,
-      "modifiedDate": 1699246664849,
+      "modifiedDate": 1699488824179,
       "sizeInBytes": 432
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md": {
@@ -1980,7 +1980,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794504370,
-      "modifiedDate": 1699246664828,
+      "modifiedDate": 1699488824151,
       "sizeInBytes": 432
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Backpack.md": {
@@ -1998,7 +1998,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794349494,
-      "modifiedDate": 1699246664762,
+      "modifiedDate": 1699488824123,
       "sizeInBytes": 432
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md": {
@@ -2016,7 +2016,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794351982,
-      "modifiedDate": 1699246664819,
+      "modifiedDate": 1699488824095,
       "sizeInBytes": 434
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic's Grimoire Solutions.md": {
@@ -2034,26 +2034,26 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698793843778,
-      "modifiedDate": 1699246664724,
+      "modifiedDate": 1699488824067,
       "sizeInBytes": 433
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 510,
+      "wordCount": 511,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.7,
-      "characterCount": 5547,
-      "nonWhitespaceCharacterCount": 4127,
-      "readingTimeInMinutes": 1.9245283018867925,
+      "pageCount": 1.7033333333333334,
+      "characterCount": 5563,
+      "nonWhitespaceCharacterCount": 4137,
+      "readingTimeInMinutes": 1.9283018867924528,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698791324572,
-      "modifiedDate": 1699486458367,
-      "sizeInBytes": 5596
+      "modifiedDate": 1699488822889,
+      "sizeInBytes": 5612
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md": {
       "isCountable": true,
@@ -2070,7 +2070,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699255801861,
-      "modifiedDate": 1699342567461,
+      "modifiedDate": 1699488824033,
       "sizeInBytes": 1606
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md": {
@@ -2088,7 +2088,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699253413109,
-      "modifiedDate": 1699254440267,
+      "modifiedDate": 1699488824005,
       "sizeInBytes": 1633
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md": {
@@ -2106,8 +2106,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699251732651,
-      "modifiedDate": 1699253624333,
-      "sizeInBytes": 1674
+      "modifiedDate": 1699488823974,
+      "sizeInBytes": 1661
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Kit/Field Survival Basics.md": {
       "isCountable": true,
@@ -2124,7 +2124,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794070932,
-      "modifiedDate": 1699246664712,
+      "modifiedDate": 1699488823946,
       "sizeInBytes": 410
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md": {
@@ -2142,7 +2142,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698793820398,
-      "modifiedDate": 1699246664643,
+      "modifiedDate": 1699488823917,
       "sizeInBytes": 436
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md": {
@@ -2160,7 +2160,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698793734164,
-      "modifiedDate": 1699246664627,
+      "modifiedDate": 1699488823891,
       "sizeInBytes": 436
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md": {
@@ -2178,7 +2178,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698793762732,
-      "modifiedDate": 1699246664692,
+      "modifiedDate": 1699488823864,
       "sizeInBytes": 437
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Nutri-gel (1 day).md": {
@@ -2196,7 +2196,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794266009,
-      "modifiedDate": 1699246664563,
+      "modifiedDate": 1699488823833,
       "sizeInBytes": 437
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md": {
@@ -2214,7 +2214,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794378279,
-      "modifiedDate": 1699246664520,
+      "modifiedDate": 1699488823804,
       "sizeInBytes": 435
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (1 hr).md": {
@@ -2232,7 +2232,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794392306,
-      "modifiedDate": 1699246664528,
+      "modifiedDate": 1699488823779,
       "sizeInBytes": 436
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md": {
@@ -2250,7 +2250,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794434895,
-      "modifiedDate": 1699246664376,
+      "modifiedDate": 1699488823749,
       "sizeInBytes": 435
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md": {
@@ -2268,7 +2268,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794427072,
-      "modifiedDate": 1699246664435,
+      "modifiedDate": 1699488823721,
       "sizeInBytes": 432
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md": {
@@ -2286,7 +2286,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794413792,
-      "modifiedDate": 1699246664317,
+      "modifiedDate": 1699488823696,
       "sizeInBytes": 435
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md": {
@@ -2304,7 +2304,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794470637,
-      "modifiedDate": 1699246664367,
+      "modifiedDate": 1699488823668,
       "sizeInBytes": 436
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md": {
@@ -2322,7 +2322,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698793832490,
-      "modifiedDate": 1699246664276,
+      "modifiedDate": 1699488823640,
       "sizeInBytes": 434
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md": {
@@ -2340,7 +2340,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794925775,
-      "modifiedDate": 1699246664223,
+      "modifiedDate": 1699488823612,
       "sizeInBytes": 433
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md": {
@@ -2358,7 +2358,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794224673,
-      "modifiedDate": 1699246664129,
+      "modifiedDate": 1699488823583,
       "sizeInBytes": 434
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Two-Person Habitat.md": {
@@ -2376,7 +2376,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794194311,
-      "modifiedDate": 1699246663084,
+      "modifiedDate": 1699488823555,
       "sizeInBytes": 436
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md": {
@@ -2394,7 +2394,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794188697,
-      "modifiedDate": 1699487711695,
+      "modifiedDate": 1699488823526,
       "sizeInBytes": 453
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md": {
@@ -2412,7 +2412,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794216841,
-      "modifiedDate": 1699487685914,
+      "modifiedDate": 1699488823499,
       "sizeInBytes": 559
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md": {
@@ -2430,7 +2430,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794154923,
-      "modifiedDate": 1699487959890,
+      "modifiedDate": 1699488823470,
       "sizeInBytes": 650
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Mess Set.md": {
@@ -2448,7 +2448,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794510646,
-      "modifiedDate": 1699246662970,
+      "modifiedDate": 1699488823444,
       "sizeInBytes": 438
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md": {
@@ -2466,7 +2466,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794455508,
-      "modifiedDate": 1699246662904,
+      "modifiedDate": 1699488823406,
       "sizeInBytes": 435
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md": {
@@ -2484,7 +2484,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698793277385,
-      "modifiedDate": 1699246663187,
+      "modifiedDate": 1699488823379,
       "sizeInBytes": 434
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md": {
@@ -2502,7 +2502,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698793260754,
-      "modifiedDate": 1699246663633,
+      "modifiedDate": 1699488823351,
       "sizeInBytes": 434
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md": {
@@ -2520,7 +2520,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698793553030,
-      "modifiedDate": 1699246664090,
+      "modifiedDate": 1699488823325,
       "sizeInBytes": 434
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md": {
@@ -2538,7 +2538,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698792432506,
-      "modifiedDate": 1699488425705,
+      "modifiedDate": 1699488823298,
       "sizeInBytes": 833
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md": {

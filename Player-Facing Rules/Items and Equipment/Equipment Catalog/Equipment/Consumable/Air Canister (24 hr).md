@@ -2,7 +2,7 @@
 Heft: 25
 Tier: 0
 Price: 5
-type: Consumable
+Type: Consumable
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

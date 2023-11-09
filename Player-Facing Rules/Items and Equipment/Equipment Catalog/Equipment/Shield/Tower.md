@@ -1,9 +1,9 @@
 ---
-type: Shield
 Category: Powered
 Price: 250
 Tier: 1
 Heft: 25
+Type: Shield
 ---
 
 

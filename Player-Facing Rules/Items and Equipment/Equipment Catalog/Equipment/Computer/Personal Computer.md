@@ -2,7 +2,7 @@
 Price: 100
 Tier: 1
 Heft: 2
-type: Computer
+Type: Computer
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
