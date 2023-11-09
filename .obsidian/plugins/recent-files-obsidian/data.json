@@ -5,6 +5,14 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Actions Overview",
+      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Character Mechanics Overview",
       "path": "General Rules/Character Mechanics Overview.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Favor System Primer",
       "path": "General Rules/The Favor System/Favor System Primer.md"
-    },
-    {
-      "basename": "Actions Overview",
-      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
     },
     {
       "basename": "Dice Overview",
@@ -71,10 +75,6 @@
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Fine Clothes",

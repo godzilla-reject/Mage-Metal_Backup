@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0885ba0a4d5609a3",
+        "id": "7b3decc0ce351fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "dd927797a90f5b92",
+            "id": "aff1f59c655fca80",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -510,
                   "y": -1010,
-                  "zoom": -1.1112122259310073
+                  "zoom": -0.48241493663813667
                 }
               }
             }
@@ -206,12 +206,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +238,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "dd927797a90f5b92",
+  "active": "aff1f59c655fca80",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
     "General Rules/Character Mechanics Overview.md",
     "Templates/Markdown Templates/General Templates/Proficiency Template.md",
@@ -248,7 +249,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "General Rules/The Favor System/Favor System Primer.md",
     "General Rules/The Favor System/Action Structure/Actions Overview.md",
-    "Utilities/Dashboard.canvas",
     "General Rules/The Favor System/Dice Structure/Dice Overview.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
@@ -266,7 +266,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Nutri-gel (1 day).md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (1 hr).md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
     "GM-Facing Rules/Monsters and Men/Bestiary",
     "GM-Facing Rules/Monsters and Men/NPC Index",
     "GM-Facing Rules/Monsters and Men",
