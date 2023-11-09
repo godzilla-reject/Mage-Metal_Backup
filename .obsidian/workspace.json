@@ -4,25 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "47c391b9da8e1646",
+        "id": "d89c74c3bba94572",
         "type": "tabs",
         "children": [
           {
-            "id": "829a234c840bc83d",
+            "id": "0647e93a76efbc8e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -606.5042016806724,
-                  "y": -1042.1680672268908,
-                  "zoom": -0.007557351178082206
+                  "x": -510,
+                  "y": -1010,
+                  "zoom": -0.2858262707070364
                 }
               }
             }
+          },
+          {
+            "id": "1725ebd4b34d27e7",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
               }
             }
           },
@@ -239,13 +250,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "829a234c840bc83d",
+  "active": "1725ebd4b34d27e7",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md",
-    "Utilities/Dashboard.canvas",
     "Templates/Dataview Templates/Related Weapons Dataview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md",

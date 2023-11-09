@@ -162,7 +162,6 @@ columns:
     sortIndex: 1
     isSorted: true
     isSortedDesc: false
-    nestedKey: 
     options:
       - { label: "Adventuring", value: "Adventuring", color: "hsl(132, 95%, 90%)"}
       - { label: "Consumable", value: "Consumable", color: "hsl(21, 95%, 90%)"}
