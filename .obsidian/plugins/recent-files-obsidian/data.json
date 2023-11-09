@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Character Mechanics Overview",
       "path": "General Rules/Character Mechanics Overview.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Actions Overview",
       "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Dice Overview",
