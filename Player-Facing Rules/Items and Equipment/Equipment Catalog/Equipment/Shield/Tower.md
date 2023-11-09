@@ -4,6 +4,7 @@ Price: 250
 Tier: 1
 Heft: 25
 Type: Shield
+Completed: true
 ---
 
 

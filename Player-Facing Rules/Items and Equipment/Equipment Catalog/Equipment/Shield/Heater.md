@@ -4,6 +4,7 @@ Price: 100
 Heft: 8
 Category: Mobile
 Type: Shield
+Completed: true
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
