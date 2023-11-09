@@ -5,12 +5,12 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Former Dash",
-      "path": "zLegacy Notes/Former Dash.md"
-    },
-    {
       "basename": "Utility Notes",
       "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
+      "basename": "Former Dash",
+      "path": "zLegacy Notes/Former Dash.md"
     },
     {
       "basename": "To-Do List",
