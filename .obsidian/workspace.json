@@ -89,14 +89,14 @@
               "type": "markdown",
               "state": {
                 "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Rules/The Favor System/Favor System Primer.md",
+                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Rules/The Favor System/Favor System Primer.md",
+                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Rules/The Favor System/Favor System Primer.md"
+                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md"
               }
             }
           },
@@ -313,14 +313,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5b20437978ca0e9b",
+  "active": "b82318afc90f974e",
   "lastOpenFiles": [
-    "General Rules/The Favor System/Dice Structure/Dice Overview.md",
+    "Utilities/Dashboard.canvas",
+    "General Rules/The Favor System/Action Structure/Actions Overview.md",
     "General Rules/The Favor System/Favor System Primer.md",
+    "General Rules/The Favor System/Dice Structure/Dice Overview.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "General Rules/The Favor System/Action Structure/Actions Overview.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
@@ -341,7 +341,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md",
     "GM-Facing Rules/Monsters and Men/Bestiary",
     "GM-Facing Rules/Monsters and Men/NPC Index",
     "GM-Facing Rules/Monsters and Men",

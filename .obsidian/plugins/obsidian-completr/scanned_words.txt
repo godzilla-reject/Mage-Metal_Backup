@@ -315,6 +315,7 @@ grappling
 grand
 guidance
 goal
+grant
 from
 first
 freeform
@@ -429,6 +430,8 @@ finishing
 failing
 failures
 few
+face
+focus
 came
 combines
 combat
@@ -618,6 +621,7 @@ checked
 crafting
 compares
 contest
+combatant
 before
 being
 be
@@ -1182,6 +1186,7 @@ specific
 shouldn
 stack
 stalemate
+strategy
 LANCER
 Learn
 Lancer
@@ -1529,6 +1534,7 @@ equipped
 environ
 extremely
 evenly
+extension
 played
 pilot
 play
@@ -2501,6 +2507,8 @@ Foretold
 Flames
 Favorable
 Fate
+Finally
+Free
 Dungeons
 Dragons
 Definitely
