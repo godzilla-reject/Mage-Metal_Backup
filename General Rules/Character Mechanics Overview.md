@@ -64,11 +64,8 @@ Derived from their respective Attribute, different Statistics have differing for
 Proficiencies are similar to statistics, in that they are tied directly to an attribute (typically to meet requirements), but they are tracked with training levels instead of numeric values. Each new training level in a proficiency also gains the player character a new Perk associated with that proficiency. 
 ### Armor  Proficiencies
 - Each character is trained in one more types of armor. These armor forms are pilot-wearable suits that enhance a Mage's protections when their boots are on the ground. Armor training *also* influences how well a Mage can utilize their Metal's armor, as well. The armor forms are as follows, and are explored in-depth in the [[Armor Overview]].
-	- Infiltration Armor (Light, Reflex)
-	- Mobile Armor (Medium, Body)
-	- Power Armor (Heavy, Power)
 
->[!column]+ ### **Infiltrator Armor**
+>[!column]- ### **Infiltrator Armor**
 >> [!note] ####*Description*
 >> 
 >> **Key Attribute: Reflex**
@@ -86,7 +83,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >
 
->[!column]+ ### **Mobile Armor**
+>[!column]- ### **Mobile Armor**
 >> [!note] ####*Description*
 >> 
 >> **Key Attribute: Body**
@@ -103,7 +100,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> [!metadata|right] *Legendary Perk:*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 
->[!column]+ ### **Powered Armor**
+>[!column]- ### **Powered Armor**
 >> [!note] ####*Description*
 >> 
 >> **Key Attribute: Power**
@@ -139,7 +136,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 
 >[!column]+ ### **Piloting**
->> [!note] ####*Description*
+>> [!note] #### *Description*
 >> Piloting is arguably the most important proficiency in *Metal*. All PCs, and nearly all NPCs will have it to at least some degree of it. It is a measure of a pilot's skill, but it also a measure of how well-connected to their Metal they are.
 >> **Key Attribute: Reflex+Potential**
 >
@@ -157,7 +154,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >
 
 >[!column]+ ### **Spell-Work**
->> [!note] ####*Description*
+>> [!note] #### *Description*
 >> Spell-Work is just a fancy way to say "casting," specifically spells that are *not* cantrips. When outside of a Metal, a Mage must make a Spell-Work roll to cast a spell, and when in their Metal, they typically roll Spell Working to cast a spell when severely damaged or out of mana. 
 >> **Key Attribute: Mind+Poential**
 >
