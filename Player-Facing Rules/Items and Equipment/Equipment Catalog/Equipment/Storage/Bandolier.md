@@ -3,6 +3,7 @@ Price: 20
 Heft: 0.5
 Tier: 0
 Type: Storage
+Completed: true
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -12,7 +13,8 @@ Type: Storage
 | **Price**  | `=this.Price` un. |
 | **Type** | `=this.Type` |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |                   |
+| **Usage**  |    Worn.               |
 |  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |                   |
+| **Traits** |       -            |
 > ###### *Description*
+> This small verocloth bag fits tightly to the body, allowing for easy-access to stored items. A character can comfortably wear up to three bandoliers. Each bandolier holds up to 5 lbs of items, and items within them can be retrieved with a free action or reaction. 

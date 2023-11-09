@@ -2662,6 +2662,7 @@ Statblock
 Smart
 Standard
 See
+Storage
 Jackson
 Jack
 Juggernaut

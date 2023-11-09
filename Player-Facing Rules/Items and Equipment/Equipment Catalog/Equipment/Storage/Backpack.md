@@ -3,6 +3,7 @@ Price: 75
 Tier: 0
 Heft: 2
 Type: Storage
+Completed: true
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -10,9 +11,10 @@ Type: Storage
 |            |                   |
 |:----------:|:-----------------:|
 | **Price**  | `=this.Price` un. |
-| **Type** | `=this.Type` |
+|  **Type**  |   `=this.Type`    |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |                   |
+| **Usage**  |   Worn on back.   |
 |  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |                   |
+| **Traits** |    -               |
 > ###### *Description*
+> This robust verocloth pack can withstand plenty of rugged abuse and action. It can hold up to 30 lbs of items and equipment.

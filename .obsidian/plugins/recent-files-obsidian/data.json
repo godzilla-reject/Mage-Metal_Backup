@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Tower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Heater",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "History Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "Bandolier",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md"
+    },
+    {
+      "basename": "Backpack",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Backpack.md"
     },
     {
       "basename": "Utility Notes",
@@ -93,10 +117,6 @@
       "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
     },
     {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
       "basename": "Fine Clothes",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "10-foot Pole",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
-    },
-    {
-      "basename": "New Equipment Template",
-      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
-    },
-    {
-      "basename": "Related Weapons Dataview",
-      "path": "Templates/Dataview Templates/Related Weapons Dataview.md"
-    },
-    {
-      "basename": "Omni-Wire (50 feet)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md"
-    },
-    {
-      "basename": "Nanofiber Rope (50 feet)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md"
-    },
-    {
-      "basename": "Lazerpike",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
     }
   ],
   "omittedPaths": [],

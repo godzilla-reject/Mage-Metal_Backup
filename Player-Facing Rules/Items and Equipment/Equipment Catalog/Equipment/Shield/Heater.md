@@ -17,9 +17,9 @@ Type: Shield
 |  **Category**   | `INPUT[inlineSelect(option(-), option(Infiltrator), option(Mobile), option(Powered)):Category]` |
 | **Protection**  |                                               +3                                                |
 |   **Barrier**   |                                               18                                                |
-| **Resistance**  |                               Crushing, cutting, piercing, fire.                                |
+| **Resistance**  |                               Physical, fire.                                |
 |  **Recharge**   |                                               ●●                                                |
 |   **Traits**    |               [[Defensive\|Defensive (Shield)]]                                                                                  |
 > ###### *Description*
-> 
+> This large barrier-shield is named for an Old World shield, not a space-heater (contrary to popular belief.) This specific design also, coincidentally, has a strong resistance to high temperatures. This is strictly a coincidence. 
 
