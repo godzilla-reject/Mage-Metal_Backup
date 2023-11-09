@@ -411,6 +411,7 @@ fists
 frameborder
 frontmatter
 fag
+function
 came
 combines
 combat
@@ -578,6 +579,8 @@ calls
 checks
 charges
 charge
+colloquial
+cells
 before
 being
 be
@@ -661,6 +664,7 @@ bolt
 border
 beg
 bolster
+batteries
 not
 never
 no
@@ -1122,6 +1126,7 @@ Limit
 Life
 Like
 Level
+Loaded
 The
 Tenets
 This
@@ -1320,6 +1325,7 @@ deflect
 damaging
 determining
 death
+discharge
 ever
 expand
 easy
@@ -1537,6 +1543,7 @@ polymorph
 padding
 pain
 prevents
+packs
 RP
 RPGs
 Ryutama
@@ -1647,6 +1654,7 @@ hemaphoresis
 heard
 head
 hordes
+holding
 refine
 robust
 required

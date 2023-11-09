@@ -2394,8 +2394,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794188697,
-      "modifiedDate": 1699246663038,
-      "sizeInBytes": 436
+      "modifiedDate": 1699487711695,
+      "sizeInBytes": 453
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md": {
       "isCountable": true,
@@ -2412,8 +2412,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794216841,
-      "modifiedDate": 1699486866160,
-      "sizeInBytes": 543
+      "modifiedDate": 1699487685914,
+      "sizeInBytes": 559
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md": {
       "isCountable": true,
@@ -2430,8 +2430,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698794154923,
-      "modifiedDate": 1699486691051,
-      "sizeInBytes": 634
+      "modifiedDate": 1699487959890,
+      "sizeInBytes": 650
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Mess Set.md": {
       "isCountable": true,
@@ -2527,19 +2527,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 94,
+      "wordCount": 111,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.31333333333333335,
-      "characterCount": 697,
-      "nonWhitespaceCharacterCount": 487,
-      "readingTimeInMinutes": 0.35471698113207545,
+      "pageCount": 0.37,
+      "characterCount": 782,
+      "nonWhitespaceCharacterCount": 554,
+      "readingTimeInMinutes": 0.4188679245283019,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698792432506,
-      "modifiedDate": 1699246663129,
-      "sizeInBytes": 748
+      "modifiedDate": 1699488425705,
+      "sizeInBytes": 833
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md": {
       "isCountable": true,
@@ -5258,6 +5258,24 @@
       "createdDate": 1698734101906,
       "modifiedDate": 1698809525469,
       "sizeInBytes": 5028
+    },
+    "Templates/Dataview Templates/Related Weapons Dataview.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 84,
+      "nonWhitespaceCharacterCount": 67,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699488434330,
+      "modifiedDate": 1699488451419,
+      "sizeInBytes": 84
     }
   }
 }

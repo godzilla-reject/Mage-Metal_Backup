@@ -3,6 +3,7 @@ Heft: 3
 Price: 10
 Tier: 0
 type: Adventuring
+Completed: false
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

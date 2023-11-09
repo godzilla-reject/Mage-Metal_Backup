@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Omni-Wire (50 feet)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md"
+      "basename": "New Equipment Template",
+      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
     },
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Related Weapons Dataview",
+      "path": "Templates/Dataview Templates/Related Weapons Dataview.md"
+    },
+    {
+      "basename": "Laser Charges",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
+    },
+    {
+      "basename": "Personal Habitat",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md"
+    },
+    {
+      "basename": "10-foot Pole",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
+    },
+    {
+      "basename": "Omni-Wire (50 feet)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md"
     },
     {
       "basename": "Nanofiber Rope (50 feet)",
@@ -81,10 +101,6 @@
       "path": "General Rules/Traits Catalog/General/Auditory.md"
     },
     {
-      "basename": "New Equipment Template",
-      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
-    },
-    {
       "basename": "Shield Template",
       "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
     },
@@ -103,10 +119,6 @@
     {
       "basename": "Equipment Template",
       "path": "Templates/Markdown Templates/Reference Templates/Equipment Template.md"
-    },
-    {
-      "basename": "10-foot Pole",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
     },
     {
       "basename": "Skills Database",
@@ -187,18 +199,6 @@
     {
       "basename": "Healing",
       "path": "General Rules/Traits Catalog/General/Healing.md"
-    },
-    {
-      "basename": "Insulated",
-      "path": "General Rules/Traits Catalog/General/Insulated.md"
-    },
-    {
-      "basename": "Melee",
-      "path": "General Rules/Traits Catalog/General/Melee.md"
-    },
-    {
-      "basename": "Metal",
-      "path": "General Rules/Traits Catalog/Elemental/Metal.md"
     }
   ],
   "omittedPaths": [],
