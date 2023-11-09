@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
+      "basename": "Armor Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
+    },
+    {
+      "basename": "Proficiency Template",
+      "path": "Templates/Markdown Templates/General Templates/Proficiency Template.md"
+    },
+    {
+      "basename": "Pilot Role Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md"
+    },
+    {
+      "basename": "School Template",
+      "path": "Templates/Markdown Templates/Mage Templates/School Template.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
+      "basename": "Favor System Primer",
+      "path": "General Rules/The Favor System/Favor System Primer.md"
+    },
+    {
       "basename": "Actions Overview",
       "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
     },
     {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Favor System Primer",
-      "path": "General Rules/The Favor System/Favor System Primer.md"
     },
     {
       "basename": "Dice Overview",
@@ -47,14 +71,6 @@
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "Armor Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
     },
     {
       "basename": "To-Do List",
@@ -183,22 +199,6 @@
     {
       "basename": "Buckler",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md"
-    },
-    {
-      "basename": "Arcane Barrier",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
-    },
-    {
-      "basename": "Swift",
-      "path": "General Rules/Traits Catalog/General/Swift.md"
-    },
-    {
-      "basename": "Design Note-Spell Damage by Rank Chart",
-      "path": "Design Bible/Design Notes/Design Note-Spell Damage by Rank Chart.md"
-    },
-    {
-      "basename": "Design Inspirations, Tenets, and Philsophy",
-      "path": "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
     }
   ],
   "omittedPaths": [],

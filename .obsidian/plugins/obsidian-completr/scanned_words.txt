@@ -622,6 +622,7 @@ crafting
 compares
 contest
 combatant
+capacity
 before
 being
 be
@@ -1931,6 +1932,7 @@ Practical
 Please
 Protection
 Penalties
+Poential
 ABCs
 Apotheosis
 Accessibility
@@ -2764,3 +2766,4 @@ quivers
 XdE
 Kit
 Konnar
+Key

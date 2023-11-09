@@ -20,7 +20,7 @@ Governs Spell Memory and Mana.
 ### Tenacity
 Tenacity is a measure of how powerful a creature's personality and charisma is. Tenacious characters have a much easier time convincing others of things, as well as inspiring allies. Some also consider tenacity to be a meta-physical, or magical, measure of luck and fate. 
 Governs Luck. 
-
+- - -
 ##  Statistics
 Derived from their respective Attribute, different Statistics have differing formulae for calculating them. If a Stat would have a decimal, round *down.*
 ### Power
@@ -59,45 +59,119 @@ Derived from their respective Attribute, different Statistics have differing for
 - Luck
 	- Luck is a meta-currency that players can use to fuel actions with the [[Fated]] trait.
 	- Tenacity/5 (Minimum of 2.)
-
+- - -
 ##  Proficiencies
 Proficiencies are similar to statistics, in that they are tied directly to an attribute (typically to meet requirements), but they are tracked with training levels instead of numeric values. Each new training level in a proficiency also gains the player character a new Perk associated with that proficiency. 
-### Armor 
+### Armor  Proficiencies
 - Each character is trained in one more types of armor. These armor forms are pilot-wearable suits that enhance a Mage's protections when their boots are on the ground. Armor training *also* influences how well a Mage can utilize their Metal's armor, as well. The armor forms are as follows, and are explored in-depth in the [[Armor Overview]].
 	- Infiltration Armor (Light, Reflex)
 	- Mobile Armor (Medium, Body)
 	- Power Armor (Heavy, Power)
-### Perception (Mind)
-- Perception is how well a character is trained at spotting subtle details, as well as a measure of reaction speed. 
-### Piloting (Reflex+Potential)
-- Piloting is arguably the most important proficiency in *Metal*. All PCs, and nearly all NPCs will have it to at least some degree of it. It is a measure of a pilot's skill, but it also a measure of how well-connected to their Metal they are.
-### Spell-Working (Mind+Potential )
-- Spell-Work is just a fancy way to say "casting," specifically spells that are *not* cantrips. When outside of a Metal, a Mage must make a Spell-Work roll to cast a spell, and when in their Metal, they typically roll Spell Working to cast a spell when severely damaged or out of mana. 
-### Weaponry (Varies)
-- Weapons in *Metal* are divided into categories, which are Ranged and Melee, and groups, which further define those categories. Most characters specialize in one or two of these only, as nearly everyone supplements weapons with magic. Weapon categories and groups are presented below, but more information can also be found in the [[Weaponry Overview]]. 
-	- Ranged (Reflex)
-		- Group: Guns
-			- Handguns
-			- Long Guns 
-			- Heavy Guns
-		- Group: Bows
-			- Drawn Bows
-			- Crossbows
-		- Group: Thrown
-			- Explosives
-			- Thrown Blades
-			- Thrown Hammers
-			- Thrown Poles
-	- Melee (Varies)
-		- Group: Blades 
-			- Axes
-			- Swords
-			- Rapiers
-			- Daggers
-		- Group: Blunt
-			- Hammers
-			- Maces
-		- Group: Polearms
-			- Glaives
-			- Halberds
-			- Spears
+
+>[!column]+ ### **Infiltrator Armor**
+>> [!note] ####*Description*
+>> 
+>> **Key Attribute: Reflex**
+>
+>> [!metadata|right] *Trained Perk:*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Expertise Perk:*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Masterful Perk:*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Legendary Perk:*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>
+
+>[!column]+ ### **Mobile Armor**
+>> [!note] ####*Description*
+>> 
+>> **Key Attribute: Body**
+>
+>> [!metadata|right] *Trained Perk:*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Expertise Perk:*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Masterful Perk:*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Legendary Perk:*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+
+>[!column]+ ### **Powered Armor**
+>> [!note] ####*Description*
+>> 
+>> **Key Attribute: Power**
+>
+>> [!metadata|right] *Trained Perk:*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Expertise Perk:*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Masterful Perk:*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Legendary Perk:*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>
+### General Proficiencies
+>[!column]+ ### **Perception:**
+>> [!note] #### *Description*
+>> Perception is how well a character is trained at spotting subtle details, as well as a measure of reaction speed.
+>> **Key Attribute: Mind**
+>
+>> [!metadata|right] *Trained Perk:*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Expertise Perk:*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Masterful Perk:*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Legendary Perk:*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+
+>[!column]+ ### **Piloting**
+>> [!note] ####*Description*
+>> Piloting is arguably the most important proficiency in *Metal*. All PCs, and nearly all NPCs will have it to at least some degree of it. It is a measure of a pilot's skill, but it also a measure of how well-connected to their Metal they are.
+>> **Key Attribute: Reflex+Potential**
+>
+>> [!metadata|right] *Trained Perk:*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Expertise Perk:*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Masterful Perk:*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Legendary Perk:*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>
+
+>[!column]+ ### **Spell-Work**
+>> [!note] ####*Description*
+>> Spell-Work is just a fancy way to say "casting," specifically spells that are *not* cantrips. When outside of a Metal, a Mage must make a Spell-Work roll to cast a spell, and when in their Metal, they typically roll Spell Working to cast a spell when severely damaged or out of mana. 
+>> **Key Attribute: Mind+Poential**
+>
+>> [!metadata|right] *Trained Perk:*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Expertise Perk:*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Masterful Perk:*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Legendary Perk:*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>
+
+### Weaponry Proficiencies

@@ -23,6 +23,12 @@
   "statusBar": [],
   "pageHeader": [
     {
+      "id": "editor:insert-callout",
+      "icon": "lucide-quote",
+      "name": "Insert callout",
+      "mode": "any"
+    },
+    {
       "id": "quickadd:choice:714f8327-be7e-42d9-9ec2-4c9537308b7c",
       "icon": "activity",
       "name": "New Trait",
@@ -98,6 +104,12 @@
       "name": "New Perk",
       "mode": "desktop",
       "color": "#ffffff"
+    },
+    {
+      "id": "insert-template",
+      "icon": "lucide-copy",
+      "name": "Templates: Insert template",
+      "mode": "any"
     }
   ],
   "macros": [],
