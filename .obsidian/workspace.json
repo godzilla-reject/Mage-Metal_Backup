@@ -83,19 +83,6 @@
             }
           },
           {
-            "id": "0b6257b713336031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Rules/The Favor System/Dice Structure/Dice Overview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b82318afc90f974e",
             "type": "leaf",
             "state": {
@@ -109,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -184,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Rules/The Favor System/Dice Structure/Dice Overview.md",
+                "file": "General Rules/The Favor System/Favor System Primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Rules/The Favor System/Dice Structure/Dice Overview.md",
+                "file": "General Rules/The Favor System/Favor System Primer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
+                "file": "General Rules/The Favor System/Favor System Primer.md"
               }
             }
           },
@@ -326,10 +313,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0b6257b713336031",
+  "active": "5b20437978ca0e9b",
   "lastOpenFiles": [
-    "General Rules/The Favor System/Favor System Primer.md",
     "General Rules/The Favor System/Dice Structure/Dice Overview.md",
+    "General Rules/The Favor System/Favor System Primer.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "General Rules/The Favor System/Action Structure/Actions Overview.md",
