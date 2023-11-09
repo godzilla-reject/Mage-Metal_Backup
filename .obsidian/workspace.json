@@ -11,14 +11,12 @@
             "id": "aff1f59c655fca80",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -265.00453281797013,
-                  "y": -1221.4073789393324,
-                  "zoom": 0.01758506336186333
-                }
+                "file": "zLegacy Notes/Former Dash.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "zLegacy Notes/Former Dash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "zLegacy Notes/Former Dash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "zLegacy Notes/Former Dash.md"
               }
             }
           },
@@ -242,6 +240,13 @@
   "active": "aff1f59c655fca80",
   "lastOpenFiles": [
     "Utilities/Dashboard.canvas",
+    "Utilities/Notes From Char. Creation Test 1.md",
+    "Utilities/Dashboard Notes/Utility Notes.md",
+    "zLegacy Notes",
+    "Utilities/Design References",
+    "Utilities/Design References/Spell Damage by Rank Chart.md",
+    "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
+    "README.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
     "General Rules/Character Mechanics Overview.md",
     "Templates/Markdown Templates/General Templates/Proficiency Template.md",
@@ -262,11 +267,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md",
-    "General Rules/Traits Catalog/Armor-Only/Comfortable.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Nutri-gel (1 day).md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (1 hr).md",
     "GM-Facing Rules/Monsters and Men/Bestiary",
     "GM-Facing Rules/Monsters and Men/NPC Index",
     "GM-Facing Rules/Monsters and Men",
@@ -274,8 +274,6 @@
     "Templates/Markdown Templates/Reference Templates",
     "Utilities/Dashboard Notes",
     "General Rules/Traits Catalog/Creature-Only",
-    "Player-Facing Rules/Spells/Spells Database/soma",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable"
+    "Player-Facing Rules/Spells/Spells Database/soma"
   ]
 }

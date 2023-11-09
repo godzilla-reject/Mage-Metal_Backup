@@ -5,12 +5,32 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Actions Overview",
-      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
+      "basename": "Former Dash",
+      "path": "zLegacy Notes/Former Dash.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
     },
     {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Spell Damage by Rank Chart",
+      "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
+    },
+    {
+      "basename": "Design Inspirations, Tenets, and Philsophy",
+      "path": "Design Bible/Design Inspirations, Tenets, and Philsophy.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Actions Overview",
+      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
     },
     {
       "basename": "Character Mechanics Overview",
@@ -179,26 +199,6 @@
     {
       "basename": "Lazerpike",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
-    },
-    {
-      "basename": "Weaponry Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
-    },
-    {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "Tower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
-    },
-    {
-      "basename": "Heater",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
-    },
-    {
-      "basename": "Buckler",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md"
     }
   ],
   "omittedPaths": [],
