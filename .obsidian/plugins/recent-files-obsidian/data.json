@@ -5,6 +5,10 @@
       "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
     },
     {
+      "basename": "Favor System Primer",
+      "path": "General Rules/The Favor System/Favor System Primer.md"
+    },
+    {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "Favor System Primer",
-      "path": "General Rules/The Favor System/Favor System Primer.md"
     },
     {
       "basename": "Mage Creation Steps",

@@ -165,6 +165,7 @@ immense
 immediately
 items
 internally
+interesting
 the
 takes
 titans
@@ -313,6 +314,7 @@ gemstones
 grappling
 grand
 guidance
+goal
 from
 first
 freeform
@@ -426,6 +428,7 @@ firearms
 finishing
 failing
 failures
+few
 came
 combines
 combat
@@ -614,6 +617,7 @@ comparing
 checked
 crafting
 compares
+contest
 before
 being
 be
@@ -705,6 +709,7 @@ broken
 business
 bell
 binary
+beat
 not
 never
 no
@@ -878,6 +883,7 @@ apt
 along
 adding
 axis
+alluded
 wear
 with
 war
@@ -954,6 +960,8 @@ weather
 wardrobe
 wearing
 wide
+winner
+wins
 sleeve
 some
 something
@@ -1168,6 +1176,12 @@ subtracting
 successes
 sliding
 scale
+sums
+since
+specific
+shouldn
+stack
+stalemate
 LANCER
 Learn
 Lancer
@@ -1256,6 +1270,7 @@ Target
 Tolerance
 Trigger
 Thumper
+TN
 oriented
 of
 on
@@ -1301,6 +1316,7 @@ outfit
 opt
 outcomes
 occur
+opposed
 designer
 drag
 do
@@ -1413,6 +1429,8 @@ differs
 depending
 difference
 divides
+determines
+division
 ever
 expand
 easy
@@ -1852,6 +1870,7 @@ resolving
 resolution
 rely
 rare
+reference
 Pathfinder
 PF
 Philosophy
@@ -1905,6 +1924,7 @@ Pain
 Practical
 Please
 Protection
+Penalties
 ABCs
 Apotheosis
 Accessibility
@@ -2080,6 +2100,7 @@ made
 method
 major
 modifiers
+multiplication
 GURPS
 Google
 Greyhawk
@@ -2324,6 +2345,7 @@ Clashing
 Consumable
 Clothing
 Contest
+Circumstance
 We
 While
 Write
@@ -2447,6 +2469,7 @@ vertical
 vacuum
 vulnerable
 vs
+version
 Function
 Form
 Fleshed
