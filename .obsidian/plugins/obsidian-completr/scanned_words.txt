@@ -1731,6 +1731,7 @@ physica
 pole
 pesky
 physics
+pistol
 RP
 RPGs
 Ryutama
@@ -2497,6 +2498,7 @@ Wrecker
 Worn
 Whitebeard
 Weak
+Wielded
 keeping
 keep
 kek

@@ -33,25 +33,64 @@
             }
           },
           {
-            "id": "e268da08bf47c86c",
+            "id": "9b59a268b0cdb1f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Flare Gun.md",
-                "mode": "source",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Viewfinder.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "99ff9cbae47a50a7",
+            "id": "129d4c98ad625b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Weather-proof Flare.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d467d069b31ea29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2b8b636429354777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e7285d3ee6de6c0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -133,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Flare Gun.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Viewfinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Flare Gun.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Viewfinder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Flare Gun.md"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Viewfinder.md"
               }
             }
           },
@@ -276,15 +315,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e268da08bf47c86c",
+  "active": "9b59a268b0cdb1f0",
   "lastOpenFiles": [
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Weather-proof Flare.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal/Grappling Hook.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Flare Gun.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Hardlight Torch.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Weather-proof Flare.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Flare Gun.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal/Grappling Hook.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Thruster Pack.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Utilities/Dashboard.canvas",
@@ -304,9 +346,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General",
     "zLegacy Notes",
     "Utilities/Design References",

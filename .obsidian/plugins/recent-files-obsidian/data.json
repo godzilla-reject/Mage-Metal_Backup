@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Flare Gun",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Flare Gun.md"
+      "basename": "Viewfinder",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Viewfinder.md"
     },
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
-      "basename": "Weather-proof Flare",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Weather-proof Flare.md"
+      "basename": "Set of Tools",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
     },
     {
-      "basename": "Grappling Hook",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal/Grappling Hook.md"
+      "basename": "Rebreather",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md"
+    },
+    {
+      "basename": "Portable Surgery Station",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md"
     },
     {
       "basename": "Gel Dispenser",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md"
     },
     {
-      "basename": "Rebreather",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md"
+      "basename": "Hardlight Torch",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Hardlight Torch.md"
+    },
+    {
+      "basename": "Weather-proof Flare",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Weather-proof Flare.md"
+    },
+    {
+      "basename": "Flare Gun",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Flare Gun.md"
+    },
+    {
+      "basename": "Grappling Hook",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal/Grappling Hook.md"
     },
     {
       "basename": "Thruster Pack",
@@ -125,10 +141,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
     },
     {
-      "basename": "Hardlight Torch",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Hardlight Torch.md"
-    },
-    {
       "basename": "Personal Comms Gear",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Integrated Weapon",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md"
-    },
-    {
-      "basename": "Cyber-Arm",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
-    },
-    {
-      "basename": "Integrated",
-      "path": "General Rules/Traits Catalog/General/Integrated.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     }
   ],
   "omittedPaths": [],

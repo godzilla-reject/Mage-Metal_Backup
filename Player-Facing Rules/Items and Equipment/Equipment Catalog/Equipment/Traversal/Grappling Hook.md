@@ -5,6 +5,7 @@ Heft: 1
 Type: Traversal
 Tags:
   - Equipment
+Completed: true
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
