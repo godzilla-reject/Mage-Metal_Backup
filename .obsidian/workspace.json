@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39e934b2c916b58b",
+        "id": "a78c6541329b7170",
         "type": "tabs",
         "children": [
           {
-            "id": "9e9e963ca7d500ca",
+            "id": "f511dc99aaa33559",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "General Rules/Conditions Catalog/Conditions Database.md"
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.6883728258026832
+                }
               }
             }
           }
@@ -91,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Rules/Conditions Catalog/Conditions Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Rules/Conditions Catalog/Conditions Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Rules/Conditions Catalog/Conditions Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -234,10 +239,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9e9e963ca7d500ca",
+  "active": "f511dc99aaa33559",
   "lastOpenFiles": [
-    "General Rules/Conditions Catalog/Unsorted/Placeholder.md",
     "General Rules/Conditions Catalog/Conditions Database.md",
+    "General Rules/Conditions Catalog/Unsorted/Placeholder.md",
     "General Rules/Conditions Catalog/Unsorted",
     "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Reference Templates/Equipment Template.md",
