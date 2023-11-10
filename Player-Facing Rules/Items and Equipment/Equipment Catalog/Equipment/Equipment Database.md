@@ -21,6 +21,8 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
+    isSorted: false
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -159,7 +161,7 @@ columns:
     position: 5
     skipPersist: false
     isHidden: false
-    sortIndex: 1
+    sortIndex: 0
     isSorted: true
     isSortedDesc: false
     options:
@@ -175,6 +177,7 @@ columns:
       - { label: "Computer", value: "Computer", color: "hsl(238, 95%, 90%)"}
       - { label: "Kit", value: "Kit", color: "hsl(27, 95%, 90%)"}
       - { label: "Shield", value: "Shield", color: "hsl(151, 95%, 90%)"}
+      - { label: "Traversal", value: "Traversal", color: "hsl(214, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

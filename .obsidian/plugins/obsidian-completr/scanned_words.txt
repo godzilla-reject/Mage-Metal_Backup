@@ -172,6 +172,7 @@ internally
 interesting
 interior
 interface
+industry
 the
 takes
 titans
@@ -442,6 +443,7 @@ face
 focus
 functional
 filled
+farmers
 came
 combines
 combat
@@ -641,6 +643,7 @@ cyber
 complexity
 credits
 collapsible
+comet
 before
 being
 be
@@ -769,6 +772,8 @@ nodes
 none
 noise
 nine
+navigation
+necessary
 afraid
 and
 aesthetic
@@ -917,6 +922,8 @@ applying
 added
 appendage
 adventurers
+asteroid
+atmosphere
 wear
 with
 war
@@ -1252,6 +1259,7 @@ Life
 Like
 Level
 Loaded
+Lists
 The
 Tenets
 This
@@ -1315,6 +1323,8 @@ Trigger
 Thumper
 TN
 Think
+Traversal
+Thruster
 oriented
 of
 on
@@ -1582,6 +1592,7 @@ extremely
 evenly
 extension
 existing
+essential
 played
 pilot
 play
@@ -1714,6 +1725,8 @@ predictable
 page
 physica
 pole
+pesky
+physics
 RP
 RPGs
 Ryutama
@@ -1989,6 +2002,7 @@ Penalties
 Poential
 Psychic
 Poison
+Pack
 ABCs
 Apotheosis
 Accessibility
@@ -2171,6 +2185,7 @@ mean
 machine
 moderate
 maybe
+miners
 GURPS
 Google
 Greyhawk
@@ -2594,6 +2609,7 @@ Favorable
 Fate
 Finally
 Free
+Flight
 Dungeons
 Dragons
 Definitely
@@ -2863,3 +2879,4 @@ Konnar
 Key
 Knowledge
 Quantum
+zero

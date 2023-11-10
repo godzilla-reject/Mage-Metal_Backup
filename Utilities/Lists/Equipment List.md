@@ -1,3 +1,6 @@
+---
+tags: [list]
+---
 # Weaponry List
 ```dataview
 TABLE type AS Type, category AS Category, row.group AS Group, damage_die AS "Damage Die", damage_type as "Damage Type"

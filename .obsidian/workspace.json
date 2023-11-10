@@ -15,20 +15,56 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
+                  "x": -518.71974522293,
+                  "y": -921.3694267515923,
                   "zoom": -0.6883728258026832
                 }
               }
             }
           },
           {
-            "id": "dd4ec86ede609310",
+            "id": "620e5d34ddfb96d3",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+              }
+            }
+          },
+          {
+            "id": "6f8b9c3c7db5c3e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment List.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal/Grappling Hook.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fd06a4d095a94037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d5182b3364bbccf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment List.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equipment List.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equipment List.md"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
               }
             }
           },
@@ -253,19 +289,30 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a6efdbb03f15d137",
+  "active": "620e5d34ddfb96d3",
   "lastOpenFiles": [
-    "Utilities/Untitled",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Flare Gun.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal/Grappling Hook.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Thruster Pack.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Magne-Boots.md",
+    "General Rules/Traits Catalog/Traits Database.md",
+    "Utilities/Lists/Trait List.md",
+    "Utilities/Lists/Equipment List.md",
+    "Utilities/Lists/Conditions List.md",
+    "Utilities/Lists",
     "Armor List.md",
-    "Equipment List.md",
     "Weaponry List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Power-Gaunt.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Axe/Raider Axe.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
@@ -273,15 +320,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
-    "Utilities/Design References/Computer Complexity Chart.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General",
     "zLegacy Notes",
     "Utilities/Design References",
@@ -289,8 +327,6 @@
     "GM-Facing Rules/Monsters and Men/NPC Index",
     "GM-Facing Rules/Monsters and Men",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield",
-    "Templates/Markdown Templates/Reference Templates",
-    "Utilities/Dashboard Notes",
-    "General Rules/Traits Catalog/Creature-Only"
+    "Templates/Markdown Templates/Reference Templates"
   ]
 }

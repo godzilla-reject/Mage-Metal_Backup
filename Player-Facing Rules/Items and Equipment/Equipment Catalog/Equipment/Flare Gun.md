@@ -1,11 +1,10 @@
 ---
-Price: 12
+Type: Utility
+Price: 45
 Tier: 0
 Heft: 1
-Type: Utility
-Tags:
-  - Equipment
 ---
+
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
 > ###### Equipment Information

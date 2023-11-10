@@ -6,4 +6,9 @@ cssclasses:
 1. [[Spell Damage by Rank Chart]]
 2. [[Starting Wealth Chart]]
 3. [[Computer Complexity Chart]]
-# Other
+# Lists
+```dataview
+LIST rows.file.link 
+FROM #List 
+sort file.name asc
+```
