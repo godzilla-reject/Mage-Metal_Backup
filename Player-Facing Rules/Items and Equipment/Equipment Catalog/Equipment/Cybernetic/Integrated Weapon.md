@@ -14,7 +14,8 @@ tags:
 | **Price**  | `=this.Price`* un. |
 | **Type** | `=this.Type` |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |    Grafted into the body; or integrated into a cybernetic limb.               |
+| **Usage**  |    Integrated into a cybernetic limb.               |
 |  **Heft**  | `=this.Heft` lbs  |
 | **Traits** |       [[Cybernetic]], [[Upgrade\|Upgrade (Cybernetic)]]            |
 > ###### *Description*
+> This 
