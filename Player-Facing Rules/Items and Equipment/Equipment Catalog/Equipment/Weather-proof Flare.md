@@ -1,8 +1,8 @@
 ---
 Type: Utility
-Price: 45
+Price: 5
 Tier: 0
-Heft: 1
+Heft: 0.25
 Tags:
   - Equipment
 ---

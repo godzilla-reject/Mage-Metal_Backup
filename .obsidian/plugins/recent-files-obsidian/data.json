@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Flare Gun",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Flare Gun.md"
+    },
+    {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Weather-proof Flare",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Weather-proof Flare.md"
     },
     {
       "basename": "Grappling Hook",
@@ -191,14 +199,6 @@
     {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "Upgrade",
-      "path": "General Rules/Traits Catalog/Equipment-Only/Upgrade.md"
-    },
-    {
-      "basename": "Damage Types, Resistance, and Weakness",
-      "path": "General Rules/Combat/Damage Types, Resistance, and Weakness.md"
     }
   ],
   "omittedPaths": [],

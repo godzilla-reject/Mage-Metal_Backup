@@ -444,6 +444,7 @@ focus
 functional
 filled
 farmers
+foot
 came
 combines
 combat
@@ -644,6 +645,7 @@ complexity
 credits
 collapsible
 comet
+capsule
 before
 being
 be
@@ -774,6 +776,7 @@ noise
 nine
 navigation
 necessary
+nanofiber
 afraid
 and
 aesthetic
@@ -1373,6 +1376,7 @@ occur
 opposed
 outermost
 occupies
+opened
 designer
 drag
 do
@@ -1845,6 +1849,7 @@ head
 hordes
 holding
 habitats
+hook
 refine
 robust
 required
@@ -1945,6 +1950,7 @@ reference
 replace
 reword
 ray
+rope
 Pathfinder
 PF
 Philosophy
@@ -2186,6 +2192,7 @@ machine
 moderate
 maybe
 miners
+manually
 GURPS
 Google
 Greyhawk
@@ -2328,6 +2335,8 @@ limb
 listed
 lil
 locations
+length
+landing
 Ease
 Excel
 Escalation
@@ -2610,6 +2619,7 @@ Fate
 Finally
 Free
 Flight
+Fired
 Dungeons
 Dragons
 Definitely

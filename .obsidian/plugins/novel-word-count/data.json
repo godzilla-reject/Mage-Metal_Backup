@@ -5490,8 +5490,26 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699601734404,
-      "modifiedDate": 1699601793425,
-      "sizeInBytes": 433
+      "modifiedDate": 1699602530805,
+      "sizeInBytes": 453
+    },
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Weather-proof Flare.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 48,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16,
+      "characterCount": 386,
+      "nonWhitespaceCharacterCount": 259,
+      "readingTimeInMinutes": 0.1811320754716981,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699602468881,
+      "modifiedDate": 1699602528866,
+      "sizeInBytes": 455
     }
   }
 }
