@@ -11,14 +11,12 @@
             "id": "58039586c9411f30",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.6883728258026832
-                }
+                "file": "Equipment List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Equipment List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Equipment List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Equipment List.md"
               }
             }
           },
@@ -241,9 +239,9 @@
   },
   "active": "58039586c9411f30",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Utilities/Dashboard.canvas",
     "Equipment List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
