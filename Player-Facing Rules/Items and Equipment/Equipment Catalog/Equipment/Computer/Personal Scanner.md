@@ -4,7 +4,7 @@ Tier: 0
 Heft: 1
 Type: Computer
 tags:
-  - "#reword"
+  - reword
 Completed: true
 ---
 > [!infobox|left]+ Equipment Entry

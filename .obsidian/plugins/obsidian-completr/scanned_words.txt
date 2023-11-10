@@ -34,6 +34,7 @@ Inner
 Ideas
 Immunity
 Immune
+Include
 Mage
 Metal
 Mecha
@@ -440,6 +441,7 @@ few
 face
 focus
 functional
+filled
 came
 combines
 combat
@@ -1217,6 +1219,7 @@ source
 severe
 spine
 slots
+scanner
 LANCER
 Learn
 Lancer
@@ -1354,6 +1357,7 @@ outcomes
 occur
 opposed
 outermost
+occupies
 designer
 drag
 do
@@ -1471,6 +1475,7 @@ division
 double
 discarded
 difficulty
+detect
 ever
 expand
 easy
@@ -1918,6 +1923,8 @@ rely
 rare
 reference
 replace
+reword
+ray
 Pathfinder
 PF
 Philosophy
@@ -2035,6 +2042,7 @@ Armors
 Alternative
 Another
 An
+Attached
 metal
 magic
 mechanics
@@ -2155,6 +2163,7 @@ multiplication
 mean
 machine
 moderate
+maybe
 GURPS
 Google
 Greyhawk
@@ -2295,6 +2304,7 @@ lead
 lost
 limb
 listed
+lil
 Ease
 Excel
 Escalation
