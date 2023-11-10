@@ -1,7 +1,7 @@
 ---
 Tags:
   - Condition
-Category: Unsorted
+Category: Detrimental
 ---
 > [!infobox|left]+ Condition Entry
 > # `=this.file.name`

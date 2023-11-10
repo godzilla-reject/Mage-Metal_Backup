@@ -1,5 +1,7 @@
 ---
-
+Tags:
+  - Condition
+Category: Detrimental
 ---
 > [!infobox|left]+ Condition Entry
 > # `=this.file.name`

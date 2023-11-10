@@ -1,7 +1,7 @@
 ---
-Category:
+Category: Unsorted
 Attribute: 
-Tags:
+tags:
   - Skills
 ---
 # Skill Description-`=this.file.name`

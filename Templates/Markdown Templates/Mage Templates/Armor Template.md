@@ -1,3 +1,14 @@
+---
+Tags:
+  - Armor
+Price: 
+Category: Unsorted
+Group: 
+Toughness_Bonus: 
+Check_Penalty: 
+Requirements: 
+Heft: 
+---
 > [!infobox|left]+ Armor Entry
 > # `=this.file.name`
 > ###### Armor Information

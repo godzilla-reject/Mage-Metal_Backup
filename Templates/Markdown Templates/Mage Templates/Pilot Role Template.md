@@ -1,6 +1,21 @@
 ---
 cssclasses:
   - dashboard
+newColumn3:
+  - Role
+Attribute: Unsorted
+Armor: 
+Armor_Training:
+Weapon_Degree:
+Weapon_Type:
+Weapon_Training:
+Skill:
+Skill_1:
+Spell_1:
+Skill_2:
+Spell_2:
+Spec_1:
+Spec_2:
 ---
 # Role: `=this.file.name`
 

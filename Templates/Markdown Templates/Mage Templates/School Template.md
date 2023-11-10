@@ -1,5 +1,9 @@
 ---
-
+Sphere: Unsorted
+Attribute:
+Spell:
+Path1:
+Path2:
 ---
 # School of  `=this.file.name`
 

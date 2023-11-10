@@ -1,5 +1,7 @@
 ---
-
+Wealth: Unsorted
+Boost:
+Perk:
 ---
 # Description-`=this.file.name`
 

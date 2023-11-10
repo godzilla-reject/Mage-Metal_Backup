@@ -1,28 +1,168 @@
 {
   "recentFiles": [
     {
-      "basename": "Viewfinder",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Viewfinder.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Test Blarg",
+      "path": "General Rules/Conditions Catalog/Test Blarg.md"
+    },
+    {
+      "basename": "Conditions Database",
+      "path": "General Rules/Conditions Catalog/Conditions Database.md"
+    },
+    {
+      "basename": "Equipment Template",
+      "path": "Templates/Markdown Templates/Reference Templates/Equipment Template.md"
+    },
+    {
+      "basename": "Common Clothes",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md"
+    },
+    {
+      "basename": "Singblade",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Daggers/Singblade.md"
+    },
+    {
+      "basename": "Weapon Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
+      "basename": "Aerostrike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
+    },
+    {
+      "basename": "Species Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
+    },
+    {
+      "basename": "Species Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
+      "basename": "School Template",
+      "path": "Templates/Markdown Templates/Mage Templates/School Template.md"
+    },
+    {
+      "basename": "Aerophasia",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md"
+    },
+    {
+      "basename": "Pilot Role Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md"
+    },
+    {
+      "basename": "Battlefield Support",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
+    },
+    {
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
+      "basename": "Perk Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Perk Template.md"
+    },
+    {
+      "basename": "Special Perks Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
+    },
+    {
+      "basename": "History Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "Dusted",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
+    },
+    {
+      "basename": "History Template",
+      "path": "Templates/Markdown Templates/Mage Templates/History Template.md"
+    },
+    {
+      "basename": "Armor  Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md"
+    },
+    {
+      "basename": "Syn-theather",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md"
+    },
+    {
+      "basename": "Armor Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Armor Template.md"
+    },
+    {
+      "basename": "Regeneration",
+      "path": "General Rules/Conditions Catalog/Beneficial/Regeneration.md"
+    },
+    {
+      "basename": "Condition Template",
+      "path": "Templates/Markdown Templates/General Templates/Condition Template.md"
+    },
+    {
+      "basename": "Trait Template",
+      "path": "Templates/Markdown Templates/General Templates/Trait Template.md"
+    },
+    {
+      "basename": "Proficiency Template",
+      "path": "Templates/Markdown Templates/General Templates/Proficiency Template.md"
     },
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
-      "basename": "Set of Tools",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
+      "basename": "Medi-gel",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Medi-gel.md"
     },
     {
-      "basename": "Rebreather",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md"
+      "basename": "Gel Dispenser",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md"
+    },
+    {
+      "basename": "Bleeding",
+      "path": "General Rules/Conditions Catalog/Detrimental/Bleeding.md"
     },
     {
       "basename": "Portable Surgery Station",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md"
     },
     {
-      "basename": "Gel Dispenser",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md"
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Viewfinder",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Viewfinder.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Action Symbols",
+      "path": "Utilities/Dashboard Notes/Action Symbols.md"
+    },
+    {
+      "basename": "Rebreather",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md"
+    },
+    {
+      "basename": "Set of Tools",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
     },
     {
       "basename": "Hardlight Torch",
@@ -49,10 +189,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Magne-Boots",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Magne-Boots.md"
     },
@@ -63,142 +199,6 @@
     {
       "basename": "Traits Database",
       "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Equipment List",
-      "path": "Utilities/Lists/Equipment List.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Power-Gaunt",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Power-Gaunt.md"
-    },
-    {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "Verocloth",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md"
-    },
-    {
-      "basename": "Raider Axe",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Axe/Raider Axe.md"
-    },
-    {
-      "basename": "10-foot Pole",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
-    },
-    {
-      "basename": "History Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
-    },
-    {
-      "basename": "Dusted",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
-    },
-    {
-      "basename": "Hegemony Nomad",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
-    },
-    {
-      "basename": "Rapscallion",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md"
-    },
-    {
-      "basename": "Corpo Deskie",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
-    },
-    {
-      "basename": "Influencer",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
-    },
-    {
-      "basename": "Politologist",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
-    },
-    {
-      "basename": "Noble",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
-    },
-    {
-      "basename": "Wrench Monkey",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md"
-    },
-    {
-      "basename": "Artifice",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "Personal Comms Gear",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md"
-    },
-    {
-      "basename": "Personal Scanner",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
-    },
-    {
-      "basename": "Personal Computer",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md"
-    },
-    {
-      "basename": "PiC-Mi",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md"
-    },
-    {
-      "basename": "Computer Complexity Chart",
-      "path": "Utilities/Design References/Computer Complexity Chart.md"
-    },
-    {
-      "basename": "Computer",
-      "path": "General Rules/Traits Catalog/Computer.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Arcanology",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Technosophy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md"
-    },
-    {
-      "basename": "Brawling",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
-    },
-    {
-      "basename": "Naturology",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Naturology.md"
-    },
-    {
-      "basename": "Schools Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
-    },
-    {
-      "basename": "High-Integrity Torque Converter",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md"
-    },
-    {
-      "basename": "Integrated Weapon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md"
     }
   ],
   "omittedPaths": [],

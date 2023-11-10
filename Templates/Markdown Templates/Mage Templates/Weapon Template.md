@@ -1,5 +1,15 @@
 ---
-
+Type:
+Tags:
+  - Weapon
+Category:
+Group: Unsorted
+Handed-ness:
+Price:
+Heft:
+Damage_Type:
+Damage_Die:
+Completed: false
 ---
 > [!infobox|left]+ Weapon Entry
 > # `=this.file.name`

@@ -1,6 +1,6 @@
 ---
 Tier:
-Type:
+Type: Unsorted
 ---
 > [!info]+ 
 > #  `=this.file.name`

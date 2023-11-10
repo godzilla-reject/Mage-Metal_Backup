@@ -1,3 +1,12 @@
+---
+Price:
+Tier:
+Heft:
+Type: Unsorted
+Completed: false
+Tags:
+  - Equipment
+---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
 > ###### Equipment Information

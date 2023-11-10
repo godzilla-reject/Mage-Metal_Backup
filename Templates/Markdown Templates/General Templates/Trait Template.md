@@ -1,7 +1,7 @@
 ---
-Tags:
-Category:
-Completed: 
+tags: 
+Category: Unsorted
+Completed:
 ---
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`
