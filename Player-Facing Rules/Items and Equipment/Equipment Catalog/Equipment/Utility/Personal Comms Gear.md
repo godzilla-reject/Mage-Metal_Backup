@@ -3,6 +3,7 @@ Price: 100
 Tier: 1
 Heft: 0
 Type: Utility
+Completed: true
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -12,7 +13,8 @@ Type: Utility
 | **Price**  | `=this.Price` un. |
 | **Type** | `=this.Type` |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |                   |
+| **Usage**  |        Worn on head.           |
 |  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |                   |
+| **Traits** |      [[Communication]]             |
 > ###### *Description*
+> This headset can be comfortably worn under armor, and allows for the wearer to communicate with allies on the same frequency. Requires a [[Personal Computer]] to be functional.
