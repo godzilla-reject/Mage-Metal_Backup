@@ -25,3 +25,4 @@ Completed: true
 |   **Armor Heft**    |            `=this.Heft` lbs            |
 |     **Traits**      |             [[Integrated]]             |
 > ###### *Description*
+> This fist-covering piece of armor is less a weapon and more-so a way to protect one's fists when fighting hand-to-hand. A set of power-gaunts are integrated into each suit of [[Carbon Alloy Plate]] armor.

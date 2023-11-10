@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -254,11 +253,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "dd4ec86ede609310",
+  "active": "a6efdbb03f15d137",
   "lastOpenFiles": [
+    "Utilities/Untitled",
     "Utilities/Dashboard.canvas",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Armor List.md",
     "Equipment List.md",
+    "Weaponry List.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Power-Gaunt.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Axe/Raider Axe.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
@@ -275,14 +282,7 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
     "Utilities/Design References/Computer Complexity Chart.md",
-    "General Rules/Traits Catalog/Computer.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "zLegacy Notes",
     "Utilities/Design References",
     "GM-Facing Rules/Monsters and Men/Bestiary",

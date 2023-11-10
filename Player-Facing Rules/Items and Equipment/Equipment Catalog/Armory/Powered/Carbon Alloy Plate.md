@@ -23,4 +23,4 @@ Heft: 30
 |    **Armor Heft**     |     `=this.Heft` lbs      |
 |      Traits       |         [[Stalwart]]                  |
 > ###### *Description*
-> Much like plate-mail of old, carbon-alloy plate consists of plates that interlock together to encase the entire body in an artificial carapace of nearly impenetrable carbon alloy. These suits are costly and require extreme amounts of resources and time to create. A suit of this armor has integrated [[Gauntlet\|Powergaunts]], as well as a lining that can be used as [[Verocloth]] armor.
+> Much like plate-mail of old, carbon-alloy plate consists of plates that interlock together to encase the entire body in an artificial carapace of nearly impenetrable carbon alloy. These suits are costly and require extreme amounts of resources and time to create. A suit of this armor has integrated [[Power-Gaunt|Powergaunts]], as well as a lining that can be used as [[Verocloth]] armor.

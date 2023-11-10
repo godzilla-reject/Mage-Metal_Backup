@@ -640,6 +640,7 @@ cyberware
 cyber
 complexity
 credits
+collapsible
 before
 being
 be
@@ -915,6 +916,7 @@ adds
 applying
 added
 appendage
+adventurers
 wear
 with
 war
@@ -1221,6 +1223,8 @@ severe
 spine
 slots
 scanner
+scouting
+sturdy
 LANCER
 Learn
 Lancer
@@ -1477,6 +1481,7 @@ double
 discarded
 difficulty
 detect
+dangerous
 ever
 expand
 easy
@@ -1708,6 +1713,7 @@ primary
 predictable
 page
 physica
+pole
 RP
 RPGs
 Ryutama
@@ -2306,6 +2312,7 @@ lost
 limb
 listed
 lil
+locations
 Ease
 Excel
 Escalation
@@ -2520,6 +2527,7 @@ Heath
 Habitat
 Head
 He
+Held
 you
 your
 yourself
@@ -2736,6 +2744,7 @@ Storage
 Sound
 Standing
 Slots
+Search
 Jackson
 Jack
 Juggernaut
