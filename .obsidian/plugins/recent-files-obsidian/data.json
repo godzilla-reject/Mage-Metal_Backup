@@ -5,8 +5,20 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Cyber-Arm",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
+    },
+    {
+      "basename": "High-Integrity Torque Converter",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md"
+    },
+    {
       "basename": "Integrated Weapon",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
       "basename": "Traits Database",
@@ -15,18 +27,6 @@
     {
       "basename": "Upgrade",
       "path": "General Rules/Traits Catalog/Equipment-Only/Upgrade.md"
-    },
-    {
-      "basename": "High-Integrity Torque Converter",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md"
-    },
-    {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "Cyber-Arm",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
     },
     {
       "basename": "Damage Types, Resistance, and Weakness",
