@@ -4,26 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "334a4caccd93041c",
+        "id": "d4ec091aa343a34b",
         "type": "tabs",
         "children": [
           {
-            "id": "32913e101066e911",
+            "id": "58039586c9411f30",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-              }
-            }
-          },
-          {
-            "id": "2d3d180ae1a41141",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.6883728258026832
+                }
               }
             }
           }
@@ -101,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -244,11 +239,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "32913e101066e911",
+  "active": "58039586c9411f30",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Utilities/Dashboard.canvas",
     "Equipment List.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md",
@@ -259,11 +255,10 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Comms Gear.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Scanner.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Computer.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/PiC-Mi.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
     "Utilities/Design References/Computer Complexity Chart.md",
     "General Rules/Traits Catalog/Computer.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",

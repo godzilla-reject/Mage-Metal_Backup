@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Equipment List",
-      "path": "Equipment List.md"
-    },
-    {
       "basename": "History Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Equipment List",
+      "path": "Equipment List.md"
     },
     {
       "basename": "Dusted",
@@ -58,15 +58,15 @@
     },
     {
       "basename": "Hardlight Torch",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Hardlight Torch.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Hardlight Torch.md"
     },
     {
       "basename": "Personal Comms Gear",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Comms Gear.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md"
     },
     {
       "basename": "Personal Scanner",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Scanner.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
     },
     {
       "basename": "Utility Notes",
@@ -74,11 +74,11 @@
     },
     {
       "basename": "Personal Computer",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Computer.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md"
     },
     {
       "basename": "PiC-Mi",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/PiC-Mi.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md"
     },
     {
       "basename": "Computer Complexity Chart",
@@ -122,15 +122,15 @@
     },
     {
       "basename": "High-Integrity Torque Converter",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/High-Integrity Torque Converter.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md"
     },
     {
       "basename": "Integrated Weapon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Integrated Weapon.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md"
     },
     {
       "basename": "Cyber-Arm",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cyber-Arm.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
     },
     {
       "basename": "Integrated",
@@ -158,19 +158,19 @@
     },
     {
       "basename": "Tower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Tower.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
     },
     {
       "basename": "Heater",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Heater.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
     },
     {
       "basename": "Bandolier",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Bandolier.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md"
     },
     {
       "basename": "Backpack",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Backpack.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Backpack.md"
     },
     {
       "basename": "Former Dash",
