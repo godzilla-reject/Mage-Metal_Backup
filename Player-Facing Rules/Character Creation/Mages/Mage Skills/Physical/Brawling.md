@@ -1,6 +1,7 @@
 ---
-Category:
-Attribute: 
+Category: Physical
+Attribute: Body
+cssclasses: []
 Tags:
   - Skills
 ---

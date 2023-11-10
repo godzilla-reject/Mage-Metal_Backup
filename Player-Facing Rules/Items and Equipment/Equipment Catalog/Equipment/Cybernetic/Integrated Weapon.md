@@ -5,6 +5,7 @@ Heft: 0
 Type: Cybernetic
 tags:
   - rename
+Completed: true
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -16,6 +17,6 @@ tags:
 |  **Tier**  |                   `=this.Tier`                    |
 | **Usage**  |        Integrated into a cybernetic limb.         |
 |  **Heft**  |                 `=this.Heft` lbs                  |
-| **Traits** | [[Cybernetic]], [[Upgrade\|Upgrade (Cybernetic)]] |
+| **Traits** | [[Cybernetic]], [[Integrated]], [[Upgrade\|Upgrade (Cybernetic)]] |
 > ###### *Description*
-> An Integrated Weapon is a small insert 
+> An Integrated Weapon is a piece of cyberware that can be integrated into an existing cyber-limb as one of it's upgrades. After the upgrade is installed, a weapon of any kind may be installed into it with two hours of downtime and a [[Mundocraft]] (Expert) check with moderate difficulty. The weapon then gains the [[Integrated]] trait. 

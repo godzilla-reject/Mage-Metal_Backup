@@ -39,7 +39,7 @@ OR
 >[!column]- ***Path of `=this.Path2`:*** 
 >> [!metadata] *Trained Perk: Bionic Integration*
 >>*When you become Trained in this School, you gain the following benefits.*
->>You can directly integrate computer technology into your body. Your PiC-Mi is directly integrated into your brain, and you can use any cybernetic or bio-tech enhancement as a catalyst.
+>>You can directly integrate computer technology into your body. Your PiC-Mi is directly integrated into your brain (and as such, loses the [[Upgrade]] trait), and you can use any cybernetic or bio-tech enhancement as a catalyst.
 >
 >> [!metadata] *Expertise Perk:*
 >> *When you become an Expert in this School, you gain the following benefits.*

@@ -1,6 +1,6 @@
 ---
-Category:
-Attribute: 
+Category: General
+Attribute: Mind
 Tags:
   - Skills
 ---

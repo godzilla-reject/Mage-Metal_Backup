@@ -20,7 +20,7 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: 2
+    sortIndex: 0
     isSorted: true
     isSortedDesc: false
     config:
@@ -136,8 +136,8 @@ columns:
     position: 5
     skipPersist: false
     isHidden: false
-    sortIndex: 0
-    isSorted: true
+    sortIndex: -1
+    isSorted: false
     isSortedDesc: false
     options:
       - { label: "Power", value: "Power", color: "hsl(235, 95%, 90%)"}

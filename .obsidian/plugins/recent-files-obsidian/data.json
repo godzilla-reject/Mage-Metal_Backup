@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Personal Scanner",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
+    },
+    {
+      "basename": "Personal Computer",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md"
+    },
+    {
+      "basename": "PiC-Mi",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md"
+    },
+    {
+      "basename": "Computer Complexity Chart",
+      "path": "Utilities/Design References/Computer Complexity Chart.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
+      "basename": "Computer",
+      "path": "General Rules/Traits Catalog/Computer.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Arcanology",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
+      "basename": "Technosophy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Brawling",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
+    },
+    {
+      "basename": "Naturology",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Naturology.md"
+    },
+    {
+      "basename": "Schools Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
+    },
+    {
+      "basename": "High-Integrity Torque Converter",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md"
+    },
+    {
       "basename": "Integrated Weapon",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md"
     },
@@ -9,20 +77,12 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Integrated",
+      "path": "General Rules/Traits Catalog/General/Integrated.md"
     },
     {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "High-Integrity Torque Converter",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md"
-    },
-    {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
       "basename": "Traits Database",
@@ -59,10 +119,6 @@
     {
       "basename": "Backpack",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Backpack.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
     },
     {
       "basename": "Former Dash",
@@ -117,14 +173,6 @@
       "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
     },
     {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
@@ -151,50 +199,6 @@
     {
       "basename": "Exquisite Clothes",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md"
-    },
-    {
-      "basename": "Common Clothes",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md"
-    },
-    {
-      "basename": "Environmental Suit",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md"
-    },
-    {
-      "basename": "Comfortable",
-      "path": "General Rules/Traits Catalog/Armor-Only/Comfortable.md"
-    },
-    {
-      "basename": "Nutri-gel (1 day)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Nutri-gel (1 day).md"
-    },
-    {
-      "basename": "Air Canister (24 hr)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md"
-    },
-    {
-      "basename": "Air Canister (1 hr)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (1 hr).md"
-    },
-    {
-      "basename": "High-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Low-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Laser Charges",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
-    },
-    {
-      "basename": "Thumpthrower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
-    },
-    {
-      "basename": "Smart-Arrows",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md"
     }
   ],
   "omittedPaths": [],

@@ -170,6 +170,7 @@ items
 internally
 interesting
 interior
+interface
 the
 takes
 titans
@@ -633,6 +634,9 @@ capacity
 combinations
 cancel
 center
+cyberware
+cyber
+complexity
 before
 being
 be
@@ -1211,6 +1215,8 @@ strategy
 sources
 source
 severe
+spine
+slots
 LANCER
 Learn
 Lancer
@@ -1464,6 +1470,7 @@ determines
 division
 double
 discarded
+difficulty
 ever
 expand
 easy
@@ -2027,6 +2034,7 @@ Arrows
 Armors
 Alternative
 Another
+An
 metal
 magic
 mechanics
@@ -2146,6 +2154,7 @@ modifiers
 multiplication
 mean
 machine
+moderate
 GURPS
 Google
 Greyhawk
@@ -2213,6 +2222,7 @@ unknowns
 uncertain
 unmodified
 upgrades
+upgrade
 letting
 look
 like
@@ -2284,6 +2294,7 @@ layout
 lead
 lost
 limb
+listed
 Ease
 Excel
 Escalation
@@ -2323,6 +2334,7 @@ Experts
 Energy
 Expand
 Economy
+Esoteric
 Use
 Usable
 Unsorted
@@ -2341,6 +2353,7 @@ Unbreakable
 Unified
 USH
 Unfavorable
+Upgrade
 Complexity
 Could
 Conflicted
@@ -2401,6 +2414,7 @@ Circumstance
 Cold
 Cyber
 Clarify
+Consult
 We
 While
 Write
@@ -2707,6 +2721,8 @@ Standard
 See
 Storage
 Sound
+Standing
+Slots
 Jackson
 Jack
 Juggernaut
@@ -2823,3 +2839,5 @@ XdE
 Kit
 Konnar
 Key
+Knowledge
+Quantum
