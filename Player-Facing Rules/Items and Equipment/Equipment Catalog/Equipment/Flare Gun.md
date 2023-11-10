@@ -19,3 +19,4 @@ Tags:
 |  **Heft**  |  `=this.Heft` lbs  |
 | **Traits** |         -          |
 > ###### *Description*
+> This small pistol can be used to discharge [[Weather-proof Flare]]s 
