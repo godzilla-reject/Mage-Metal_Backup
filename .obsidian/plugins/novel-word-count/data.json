@@ -648,7 +648,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698791324572,
-      "modifiedDate": 1699601353284,
+      "modifiedDate": 1699614270522,
       "sizeInBytes": 6203
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Mobile/Filament Scalemail.md": {
@@ -5245,19 +5245,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 147,
+      "wordCount": 131,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.49,
-      "characterCount": 1969,
-      "nonWhitespaceCharacterCount": 924,
-      "readingTimeInMinutes": 0.5547169811320755,
-      "linkCount": 0,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 1894,
+      "nonWhitespaceCharacterCount": 867,
+      "readingTimeInMinutes": 0.49433962264150944,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699255801861,
-      "modifiedDate": 1699596553780,
-      "sizeInBytes": 1975
+      "modifiedDate": 1699614298856,
+      "sizeInBytes": 1996
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Two-Person Habitat.md": {
       "isCountable": true,
@@ -5475,24 +5475,6 @@
       "modifiedDate": 1698805509167,
       "sizeInBytes": 0
     },
-    "Utilities/Dashboard Notes/Action Symbols.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 13,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 80,
-      "nonWhitespaceCharacterCount": 68,
-      "readingTimeInMinutes": 0.04905660377358491,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699610241044,
-      "modifiedDate": 1699610567961,
-      "sizeInBytes": 86
-    },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Medi-gel.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -5564,6 +5546,24 @@
       "createdDate": 1699159849827,
       "modifiedDate": 1699611887463,
       "sizeInBytes": 191
+    },
+    "Utilities/Dashboard Notes/Dev Helpers.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 283,
+      "nonWhitespaceCharacterCount": 253,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699610241044,
+      "modifiedDate": 1699614239146,
+      "sizeInBytes": 445
     }
   }
 }

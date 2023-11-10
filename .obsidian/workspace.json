@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a78c6541329b7170",
+        "id": "83b50791bbe7bb9a",
         "type": "tabs",
         "children": [
           {
-            "id": "f511dc99aaa33559",
+            "id": "0135d6c50ae76fbb",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -239,12 +239,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f511dc99aaa33559",
+  "active": "0135d6c50ae76fbb",
   "lastOpenFiles": [
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
+    "Utilities/Dashboard.canvas",
+    "Utilities/Dashboard Notes/Dev Helpers.md",
     "General Rules/Conditions Catalog/Conditions Database.md",
     "General Rules/Conditions Catalog/Unsorted/Placeholder.md",
     "General Rules/Conditions Catalog/Unsorted",
-    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Reference Templates/Equipment Template.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Daggers/Singblade.md",
@@ -266,8 +269,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
     "Templates/Markdown Templates/Mage Templates/History Template.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md",
-    "Templates/Markdown Templates/Mage Templates/Armor Template.md",
     "README.txt",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal",
     "Utilities/Lists",
