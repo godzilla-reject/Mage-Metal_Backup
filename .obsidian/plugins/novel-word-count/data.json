@@ -1001,15 +1001,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.21333333333333335,
-      "characterCount": 694,
-      "nonWhitespaceCharacterCount": 406,
+      "characterCount": 690,
+      "nonWhitespaceCharacterCount": 402,
       "readingTimeInMinutes": 0.24150943396226415,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698793762732,
-      "modifiedDate": 1699581439252,
-      "sizeInBytes": 762
+      "modifiedDate": 1699585437221,
+      "sizeInBytes": 758
     },
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md": {
       "isCountable": true,

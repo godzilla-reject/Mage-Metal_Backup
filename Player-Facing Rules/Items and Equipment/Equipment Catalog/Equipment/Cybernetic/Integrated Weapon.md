@@ -18,4 +18,4 @@ tags:
 |  **Heft**  |                 `=this.Heft` lbs                  |
 | **Traits** | [[Cybernetic]], [[Upgrade\|Upgrade (Cybernetic)]] |
 > ###### *Description*
-> An Integrated Weapon is a small attachment 
+> An Integrated Weapon is a small insert 
