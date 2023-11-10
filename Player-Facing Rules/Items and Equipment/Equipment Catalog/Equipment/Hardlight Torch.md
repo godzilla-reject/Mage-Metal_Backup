@@ -1,0 +1,21 @@
+---
+Price: 10
+Tier: 0
+Heft: 0
+Type: Utility
+Tags:
+  - Equipment
+---
+> [!infobox|left]+ Equipment Entry
+> # `=this.file.name`
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | `=this.Price` un. |
+|  **Type**  |   `=this.Type`    |
+|  **Tier**  |   `=this.Tier`    |
+| **Usage**  |  Held in 1 hand.  |
+|  **Heft**  | `=this.Heft` lbs  |
+| **Traits** |         -         |
+> ###### *Description*
+> 

@@ -5,20 +5,68 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Hardlight Torch",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Hardlight Torch.md"
-    },
-    {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
+      "basename": "Equipment List",
+      "path": "Equipment List.md"
+    },
+    {
+      "basename": "History Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "Dusted",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
+    },
+    {
+      "basename": "Hegemony Nomad",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
+    },
+    {
+      "basename": "Rapscallion",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md"
+    },
+    {
+      "basename": "Corpo Deskie",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
+    },
+    {
+      "basename": "Influencer",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
+    },
+    {
+      "basename": "Politologist",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
+    },
+    {
+      "basename": "Noble",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
+    },
+    {
+      "basename": "Wrench Monkey",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md"
+    },
+    {
+      "basename": "Artifice",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
+      "basename": "Hardlight Torch",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Hardlight Torch.md"
+    },
+    {
       "basename": "Personal Comms Gear",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Comms Gear.md"
     },
     {
       "basename": "Personal Scanner",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Scanner.md"
     },
     {
       "basename": "Utility Notes",
@@ -26,11 +74,11 @@
     },
     {
       "basename": "Personal Computer",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Computer.md"
     },
     {
       "basename": "PiC-Mi",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/PiC-Mi.md"
     },
     {
       "basename": "Computer Complexity Chart",
@@ -74,15 +122,15 @@
     },
     {
       "basename": "High-Integrity Torque Converter",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/High-Integrity Torque Converter.md"
     },
     {
       "basename": "Integrated Weapon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Integrated Weapon.md"
     },
     {
       "basename": "Cyber-Arm",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cyber-Arm.md"
     },
     {
       "basename": "Integrated",
@@ -110,23 +158,19 @@
     },
     {
       "basename": "Tower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Tower.md"
     },
     {
       "basename": "Heater",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
-    },
-    {
-      "basename": "History Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Heater.md"
     },
     {
       "basename": "Bandolier",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Bandolier.md"
     },
     {
       "basename": "Backpack",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Backpack.md"
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Backpack.md"
     },
     {
       "basename": "Former Dash",
@@ -155,50 +199,6 @@
     {
       "basename": "Armor Overview",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
-    },
-    {
-      "basename": "Proficiency Template",
-      "path": "Templates/Markdown Templates/General Templates/Proficiency Template.md"
-    },
-    {
-      "basename": "Pilot Role Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md"
-    },
-    {
-      "basename": "School Template",
-      "path": "Templates/Markdown Templates/Mage Templates/School Template.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "Favor System Primer",
-      "path": "General Rules/The Favor System/Favor System Primer.md"
-    },
-    {
-      "basename": "Dice Overview",
-      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Power-Word 'Harm'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md"
-    },
-    {
-      "basename": "Arcane Salvo",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
-    },
-    {
-      "basename": "Arcane Surge",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Arcane Surge.md"
-    },
-    {
-      "basename": "Aerostrike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
     }
   ],
   "omittedPaths": [],

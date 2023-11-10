@@ -20,7 +20,7 @@ In order to create a character in *Mage/Metal*, one must begin with their Mage. 
 	5. Denote any other starting bonus or starting equipment from your chosen History.
 4. How do you wield the arcane?
 	1. Choose a [[Schools Database\|School of Arcana]].
-	2. Choose one of the Paths offered by your School. You become Trained in your School, gaining the first Perk from your chosen Path..
+	2. Choose one of the Paths offered by your School. You become Trained in your School, gaining the first Perk from your chosen Path.
 	3. Denote your chosen School's Attribute boost.
 	4. Inscribe your chosen School's starting Spell in your grimoire.
 	5. Denote your chosen School's starting gear.

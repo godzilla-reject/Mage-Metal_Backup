@@ -17,8 +17,18 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.6948196065820081
+                  "zoom": -1.0149028226490542
                 }
+              }
+            }
+          },
+          {
+            "id": "2d3d180ae1a41141",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
               }
             }
           }
@@ -80,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -241,12 +250,24 @@
   },
   "active": "32913e101066e911",
   "lastOpenFiles": [
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md",
+    "Equipment List.md",
     "Utilities/Dashboard.canvas",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Comms Gear.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Scanner.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Personal Computer.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/PiC-Mi.md",
     "Utilities/Design References/Computer Complexity Chart.md",
     "General Rules/Traits Catalog/Computer.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
@@ -256,19 +277,6 @@
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Naturology.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Paganology.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
-    "General Rules/Traits Catalog/General/Integrated.md",
-    "Test.md",
-    "General Rules/Traits Catalog/Traits Database.md",
-    "General Rules/Traits Catalog/Equipment-Only/Upgrade.md",
-    "General Rules/Combat/Damage Types, Resistance, and Weakness.md",
-    "General Rules/Traits Catalog/Equipment-Only/Cybernetic.md",
     "zLegacy Notes",
     "Utilities/Design References",
     "GM-Facing Rules/Monsters and Men/Bestiary",

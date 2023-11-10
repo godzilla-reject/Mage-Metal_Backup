@@ -12,7 +12,7 @@ You are a Politologist, a scholar-philosopher who sits at the nexus of the Hegem
 >[!column clear] History Options
 >> [!metadata|text-Center c-p-sm] General Skill Proficiencies
 >> - One Tenacity Skill
->> - One Non-Magic Mind Skill
+>> - One Mind Skill
 
 
 >> [!info|text-Center clear] Perk: `=this.Perk`

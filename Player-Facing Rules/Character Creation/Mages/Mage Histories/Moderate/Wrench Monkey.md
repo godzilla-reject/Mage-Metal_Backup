@@ -11,7 +11,10 @@ You sit at the heart of the economy: the working class. You repair, destroy, or 
 
 >[!column clear] History Options
 >> [!metadata|text-Center c-p-sm] General Skill Proficiencies
->> One Craft Skill 
+>> One From:
+>> - [[Mundocraft]]
+>> - [[Artifice]]
+>>
 >> One Power Skill
 
 

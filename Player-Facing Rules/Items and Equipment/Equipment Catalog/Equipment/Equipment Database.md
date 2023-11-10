@@ -40,7 +40,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 8
+    position: 9
     isHidden: false
     sortIndex: -1
     config:
@@ -62,7 +62,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 7
+    position: 8
     isHidden: false
     sortIndex: -1
     config:
@@ -99,7 +99,7 @@ columns:
     key: Price
     id: Price
     label: Price
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -118,7 +118,7 @@ columns:
     key: Heft
     id: Heft
     label: Heft
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -137,7 +137,7 @@ columns:
     key: Tier
     id: Tier
     label: Tier
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -156,7 +156,7 @@ columns:
     key: Type
     id: Type
     label: Type
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: 1
@@ -185,11 +185,32 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  Tags:
+    input: tags
+    accessorKey: Tags
+    key: Tags
+    id: Tags
+    label: Tags
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Equipment", value: "Equipment", color: "hsl(13, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: true
-  group_folder_column: type
+  group_folder_column: Type
   remove_empty_folders: true
   automatically_group_files: true
   hoist_files_with_empty_attributes: true
