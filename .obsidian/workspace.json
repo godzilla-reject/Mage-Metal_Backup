@@ -11,14 +11,9 @@
             "id": "9e9e963ca7d500ca",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.6883728258026832
-                }
+                "file": "General Rules/Conditions Catalog/Conditions Database.md"
               }
             }
           }
@@ -96,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Conditions Catalog/Conditions Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Conditions Catalog/Conditions Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/Conditions Catalog/Conditions Database.md"
               }
             }
           },
@@ -241,9 +236,10 @@
   },
   "active": "9e9e963ca7d500ca",
   "lastOpenFiles": [
-    "General Rules/Conditions Catalog/Test Blarg.md",
-    "Utilities/Dashboard.canvas",
+    "General Rules/Conditions Catalog/Unsorted/Placeholder.md",
     "General Rules/Conditions Catalog/Conditions Database.md",
+    "General Rules/Conditions Catalog/Unsorted",
+    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Reference Templates/Equipment Template.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Daggers/Singblade.md",
@@ -275,7 +271,6 @@
     "Utilities/Design References",
     "GM-Facing Rules/Monsters and Men/Bestiary",
     "GM-Facing Rules/Monsters and Men/NPC Index",
-    "GM-Facing Rules/Monsters and Men",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield"
+    "GM-Facing Rules/Monsters and Men"
   ]
 }

@@ -3265,19 +3265,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 318,
+      "wordCount": 328,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.06,
-      "characterCount": 3756,
-      "nonWhitespaceCharacterCount": 2834,
-      "readingTimeInMinutes": 1.2,
+      "pageCount": 1.0933333333333333,
+      "characterCount": 3833,
+      "nonWhitespaceCharacterCount": 2895,
+      "readingTimeInMinutes": 1.2377358490566037,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101916,
-      "modifiedDate": 1699612613256,
-      "sizeInBytes": 3802
+      "modifiedDate": 1699612639656,
+      "sizeInBytes": 3879
     },
     "General Rules/Conditions Catalog/Beneficial/Regeneration.md": {
       "isCountable": true,
@@ -5564,24 +5564,6 @@
       "createdDate": 1699159849827,
       "modifiedDate": 1699611887463,
       "sizeInBytes": 191
-    },
-    "General Rules/Conditions Catalog/Test Blarg.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 19,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 142,
-      "nonWhitespaceCharacterCount": 121,
-      "readingTimeInMinutes": 0.07169811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699612602091,
-      "modifiedDate": 1699612602994,
-      "sizeInBytes": 188
     }
   }
 }

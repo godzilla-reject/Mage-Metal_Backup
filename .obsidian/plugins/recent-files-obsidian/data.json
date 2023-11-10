@@ -5,10 +5,6 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Test Blarg",
-      "path": "General Rules/Conditions Catalog/Test Blarg.md"
-    },
-    {
       "basename": "Conditions Database",
       "path": "General Rules/Conditions Catalog/Conditions Database.md"
     },

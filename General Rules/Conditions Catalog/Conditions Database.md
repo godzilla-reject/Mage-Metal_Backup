@@ -69,6 +69,7 @@ columns:
     options:
       - { label: "Beneficial", value: "Beneficial", color: "hsl(325, 95%, 90%)"}
       - { label: "Detrimental", value: "Detrimental", color: "hsl(307, 95%, 90%)"}
+      - { label: "Unsorted", value: "Unsorted", color: "hsl(330, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
