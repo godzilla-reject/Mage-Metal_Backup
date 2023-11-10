@@ -9,13 +9,13 @@ tags:
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
 > ###### Equipment Information
-|            |                   |
-|:----------:|:-----------------:|
-| **Price**  | `=this.Price`* un. |
-| **Type** | `=this.Type` |
-|  **Tier**  |   `=this.Tier`    |
-| **Usage**  |    Integrated into a cybernetic limb.               |
-|  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |       [[Cybernetic]], [[Upgrade\|Upgrade (Cybernetic)]]            |
+|            |                                                   |
+|:----------:|:-------------------------------------------------:|
+| **Price**  |                `=this.Price`* un.                 |
+|  **Type**  |                   `=this.Type`                    |
+|  **Tier**  |                   `=this.Tier`                    |
+| **Usage**  |        Integrated into a cybernetic limb.         |
+|  **Heft**  |                 `=this.Heft` lbs                  |
+| **Traits** | [[Cybernetic]], [[Upgrade\|Upgrade (Cybernetic)]] |
 > ###### *Description*
-> This 
+> An Integrated Weapon is a small attachment 

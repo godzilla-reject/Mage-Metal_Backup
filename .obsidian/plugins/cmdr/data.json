@@ -104,12 +104,6 @@
       "name": "New Perk",
       "mode": "desktop",
       "color": "#ffffff"
-    },
-    {
-      "id": "insert-template",
-      "icon": "lucide-copy",
-      "name": "Templates: Insert template",
-      "mode": "any"
     }
   ],
   "macros": [],
