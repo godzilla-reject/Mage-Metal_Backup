@@ -5,12 +5,12 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Former Dash",
-      "path": "zLegacy Notes/Former Dash.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Former Dash",
+      "path": "zLegacy Notes/Former Dash.md"
     },
     {
       "basename": "Game Name (Short)",

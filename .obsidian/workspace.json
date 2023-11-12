@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89ef8c95e5883753",
+        "id": "8f9adda5ef038ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "9c4ee6e63229756f",
+            "id": "1c14310f981b499c",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -239,15 +239,15 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "9c4ee6e63229756f",
+  "active": "1c14310f981b499c",
   "lastOpenFiles": [
-    "zLegacy Notes/Former Dash.md",
     "README.md",
+    "Utilities/Dashboard.canvas",
+    "zLegacy Notes/Former Dash.md",
     "Untitled.md",
     "Untitled 1.md",
     "Templates/Markdown Templates/DevHelper Templates/Game Name (Short).md",
     "Templates/Markdown Templates/DevHelper Templates/Game Name (Full).md",
-    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/DevHelper Templates/Reaction.md",
     "Templates/Markdown Templates/DevHelper Templates/Free Action.md",
     "Utilities/Dashboard Notes/Dev Helpers.md",
@@ -269,7 +269,6 @@
     "Templates/Markdown Templates/Mage Templates/Species Template.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "README.txt",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal",
     "Utilities/Lists",

@@ -1,4 +1,4 @@
-#  `=[[Dev Helpers]].game-full`
+#  *The Mage in the Metal*
 
 # Usage
 
