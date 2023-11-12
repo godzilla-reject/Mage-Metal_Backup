@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Utility Notes",
       "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
     }
   ],
   "omittedPaths": [],

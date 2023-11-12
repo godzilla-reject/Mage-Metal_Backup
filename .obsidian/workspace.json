@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91c88c4823f8f1cb",
+        "id": "89ef8c95e5883753",
         "type": "tabs",
         "children": [
           {
-            "id": "0f22273e468e9d71",
+            "id": "791c90d5824593fb",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.5149028226490542
+                  "zoom": -0.6883728258026832
                 }
               }
             }
@@ -239,12 +239,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0f22273e468e9d71",
+  "active": "791c90d5824593fb",
   "lastOpenFiles": [
     "README.md",
+    "Templates/Markdown Templates/DevHelper Templates",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/Dashboard Notes/Dev Helpers.md",
     "General Rules/Conditions Catalog/Conditions Database.md",
     "General Rules/Conditions Catalog/Unsorted/Placeholder.md",
@@ -268,7 +269,6 @@
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
-    "Templates/Markdown Templates/Mage Templates/History Template.md",
     "README.txt",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal",
     "Utilities/Lists",
@@ -276,7 +276,6 @@
     "zLegacy Notes",
     "Utilities/Design References",
     "GM-Facing Rules/Monsters and Men/Bestiary",
-    "GM-Facing Rules/Monsters and Men/NPC Index",
-    "GM-Facing Rules/Monsters and Men"
+    "GM-Facing Rules/Monsters and Men/NPC Index"
   ]
 }
