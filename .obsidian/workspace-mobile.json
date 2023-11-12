@@ -11,23 +11,14 @@
             "id": "615a70e395d5eaf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4a298df5c54b2042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-                "mode": "preview",
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -932.1545162679345,
+                  "y": -796.5008785108337,
+                  "zoom": -1.5619597222273114
+                }
               }
             }
           }
@@ -115,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md",
+            "file": "Utilities/Dashboard.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md",
+            "file": "Utilities/Dashboard.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md"
+            "file": "Utilities/Dashboard.canvas"
           }
         }
       },
@@ -193,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "advanced-random-note:Open random note modal": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -209,14 +201,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
-      "rpg-manager:RPG Manager": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "615a70e395d5eaf4",
+  "active": "2cb163c3aa8d5b6d",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
