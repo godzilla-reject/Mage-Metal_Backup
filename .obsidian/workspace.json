@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83b50791bbe7bb9a",
+        "id": "91c88c4823f8f1cb",
         "type": "tabs",
         "children": [
           {
-            "id": "0135d6c50ae76fbb",
+            "id": "0f22273e468e9d71",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.6883728258026832
+                  "zoom": -1.0149028226490542
                 }
               }
             }
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,7 +238,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0135d6c50ae76fbb",
+  "active": "0f22273e468e9d71",
   "lastOpenFiles": [
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
