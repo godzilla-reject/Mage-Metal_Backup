@@ -7,14 +7,9 @@ three-action: ●●●
 free-action: ○
 reaction: ◌
 ---
-## Game Name
-Short: `=[[Dev Helpers]].game-short`
-
-Full: `=[[Dev Helpers]].game-full`
-## Action
-1. `=[[Dev Helpers]].one-action`
-2. `=[[Dev Helpers]].two-action`
-3. `=[[Dev Helpers]].three-action`
+1. [[Single Action]]
+2. [[Double Action]]
+3. [[Untitled 2]]
 ## Free Action
 `=[[Dev Helpers]].free-action`
 ## Reaction

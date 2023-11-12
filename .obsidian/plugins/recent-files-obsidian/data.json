@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Double Action",
+      "path": "Double Action.md"
+    },
+    {
+      "basename": "Single Action",
+      "path": "Single Action.md"
+    },
+    {
+      "basename": "Dev Helpers",
+      "path": "Utilities/Dashboard Notes/Dev Helpers.md"
+    },
+    {
+      "basename": "Game Name (Full)",
+      "path": "Templates/Markdown Templates/DevHelper Templates/Game Name (Full).md"
+    },
+    {
+      "basename": "Game Name (Short)",
+      "path": "Templates/Markdown Templates/DevHelper Templates/Game Name (Short).md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "Tower",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
-    },
-    {
-      "basename": "Dev Helpers",
-      "path": "Utilities/Dashboard Notes/Dev Helpers.md"
     },
     {
       "basename": "Conditions Database",
@@ -183,22 +199,6 @@
     {
       "basename": "Grappling Hook",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal/Grappling Hook.md"
-    },
-    {
-      "basename": "Thruster Pack",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Thruster Pack.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Magne-Boots",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Magne-Boots.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
     }
   ],
   "omittedPaths": [],
