@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Former Dash",
+      "path": "zLegacy Notes/Former Dash.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Game Name (Full)",
       "path": "Templates/Markdown Templates/DevHelper Templates/Game Name (Full).md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Reaction",
