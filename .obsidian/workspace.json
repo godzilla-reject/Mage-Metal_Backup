@@ -11,14 +11,12 @@
             "id": "791c90d5824593fb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.6883728258026832
-                }
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -207,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -223,7 +221,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "chronology:Open Chronology": false,
       "dbfolder:Create a new database table": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
@@ -236,13 +233,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "templater-obsidian:Templater": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "chronology:Open Chronology": false
     }
   },
   "active": "791c90d5824593fb",
   "lastOpenFiles": [
-    "Templates/Markdown Templates/DevHelper Templates/Reaction.md",
     "Utilities/Dashboard.canvas",
+    "Templates/Markdown Templates/DevHelper Templates/Reaction.md",
     "Templates/Markdown Templates/DevHelper Templates/Free Action.md",
     "Utilities/Dashboard Notes/Dev Helpers.md",
     "Templates/Markdown Templates/DevHelper Templates/Three Actions.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Game Name (Short)",
       "path": "Templates/Markdown Templates/DevHelper Templates/Game Name (Short).md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Equipment Database",
