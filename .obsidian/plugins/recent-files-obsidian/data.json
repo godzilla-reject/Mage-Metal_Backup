@@ -5,6 +5,14 @@
       "path": "README.md"
     },
     {
+      "basename": "Game Name (Short)",
+      "path": "Templates/Markdown Templates/DevHelper Templates/Game Name (Short).md"
+    },
+    {
+      "basename": "Game Name (Full)",
+      "path": "Templates/Markdown Templates/DevHelper Templates/Game Name (Full).md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -35,14 +43,6 @@
     {
       "basename": "Single Action",
       "path": "Templates/Markdown Templates/DevHelper Templates/Single Action.md"
-    },
-    {
-      "basename": "Game Name (Full)",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Game Name (Full).md"
-    },
-    {
-      "basename": "Game Name (Short)",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Game Name (Short).md"
     },
     {
       "basename": "Equipment Database",
@@ -191,14 +191,6 @@
     {
       "basename": "Weapon Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "Rebreather",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md"
-    },
-    {
-      "basename": "Set of Tools",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
     }
   ],
   "omittedPaths": [],

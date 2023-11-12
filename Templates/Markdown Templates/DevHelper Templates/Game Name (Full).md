@@ -1,1 +1,1 @@
-Full: `=[[Dev Helpers]].game-full`
+`=[[Dev Helpers]].game-full`

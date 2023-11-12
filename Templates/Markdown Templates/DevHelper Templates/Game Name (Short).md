@@ -1,1 +1,1 @@
-Short: `=[[Dev Helpers]].game-short`
+`=[[Dev Helpers]].game-short`
