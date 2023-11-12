@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c14310f981b499c",
+            "id": "b240af30fa92c976",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.6883728258026832
-                }
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -207,12 +205,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,43 +236,43 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "1c14310f981b499c",
+  "active": "b240af30fa92c976",
   "lastOpenFiles": [
-    "README.md",
-    "Utilities/Dashboard.canvas",
-    "zLegacy Notes/Former Dash.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Templates/Markdown Templates/DevHelper Templates/Game Name (Short).md",
-    "Templates/Markdown Templates/DevHelper Templates/Game Name (Full).md",
-    "Templates/Markdown Templates/DevHelper Templates/Reaction.md",
-    "Templates/Markdown Templates/DevHelper Templates/Free Action.md",
-    "Utilities/Dashboard Notes/Dev Helpers.md",
-    "Templates/Markdown Templates/DevHelper Templates/Three Actions.md",
-    "Templates/Markdown Templates/DevHelper Templates/Two Actions.md",
-    "Templates/Markdown Templates/DevHelper Templates/Single Action.md",
-    "Templates/Markdown Templates/DevHelper Templates",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spell Grimoire.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
-    "General Rules/Conditions Catalog/Conditions Database.md",
-    "General Rules/Conditions Catalog/Unsorted/Placeholder.md",
-    "General Rules/Conditions Catalog/Unsorted",
+    "Templates/Markdown Templates/DevHelper Templates/Rollers/Magical Quirk Roller Template.md",
+    "Templates/Markdown Templates/DevHelper Templates/Rollers",
+    "Templates/Markdown Templates/DevHelper Templates/Symbols",
+    "Utilities/Rolltables/Magical Quirks.md",
+    "Testers.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spellcasting Catalyst.md",
+    "Utilities/Rolltables",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spellcasting Resonator.md",
+    "General Rules/Traits Catalog/Magical.md",
+    "General Rules/Traits Catalog/Spell-Only/Resonance.md",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Bio-Software's Biomonitor Solutions.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/net-Hack Toolkit.md",
+    "General Rules/Traits Catalog/Equipment-Only/Program.md",
+    "General Rules/Traits Catalog/Legality.md",
+    "General Rules/Traits Catalog/Traits Database.md",
+    "General Rules/Traits Catalog/Test Blarg.md",
+    "Templates/Markdown Templates/General Templates/Trait Template.md",
+    "General Rules/Traits Catalog/Equipment-Only/Computer.md",
+    "General Rules/Traits Catalog/General/Requirement.md",
     "Templates/Markdown Templates/Reference Templates/Equipment Template.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Daggers/Singblade.md",
-    "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
-    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
-    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md",
-    "Templates/Markdown Templates/Mage Templates/Species Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
+    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md",
+    "Cybermagistic’s Grimoire Solutions.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md",
+    "Templates/Markdown Templates/DevHelper Templates",
+    "General Rules/Conditions Catalog/Unsorted",
     "README.txt",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal",
     "Utilities/Lists",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General",
-    "zLegacy Notes",
-    "Utilities/Design References",
-    "GM-Facing Rules/Monsters and Men/Bestiary",
-    "GM-Facing Rules/Monsters and Men/NPC Index"
+    "zLegacy Notes"
   ]
 }

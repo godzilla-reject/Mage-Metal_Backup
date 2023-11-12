@@ -1,9 +1,12 @@
 ---
-Heft: 0
+Type: Grimoire
+Tags:
+  - Equipment
 Tier: 1
+Heft: 0
 Price: 25
-Type: Software
 ---
+
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
 > ###### Equipment Information

@@ -178,6 +178,8 @@ columns:
       - { label: "Kit", value: "Kit", color: "hsl(27, 95%, 90%)"}
       - { label: "Shield", value: "Shield", color: "hsl(151, 95%, 90%)"}
       - { label: "Traversal", value: "Traversal", color: "hsl(214, 95%, 90%)"}
+      - { label: "Catalyst", value: "Catalyst", color: "hsl(318, 95%, 90%)"}
+      - { label: "Resonator", value: "Resonator", color: "hsl(338, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

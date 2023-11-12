@@ -1,0 +1,1 @@
+`dice: [[Magical Quirks^magical-quirks]]`

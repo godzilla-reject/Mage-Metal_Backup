@@ -9,8 +9,8 @@ Path2: the Biotechnician
 Technomancers have a special relationship with the Metals; instead of seeing them as resonators for magical power, they view them as extensions of the self. Most technomancers augment their bodies with cybernetics and magitech in order to feel closer to their Metals.
 ### Starting Equipment.
 You begin play with the following equipment:
-- Catalyst: A PiC-Mi (Personally-Integrated Computer Machine Interface)
-- Grimoire: A copy of *Cybermagistic’s Grimoire Solutions* software.
+- Catalyst: A [[PiC-Mi]] (Personally-Integrated Computer Machine Interface)
+- Grimoire: A copy of [[Cybermagistic Solution's Grim-Ware]] software.
 - Resonator: One cybernetic enhancement.
 - - -
 >[!info] ### `=this.file.name` Mechanics
