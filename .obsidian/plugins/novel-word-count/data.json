@@ -475,19 +475,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 18,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06,
-      "characterCount": 146,
-      "nonWhitespaceCharacterCount": 128,
-      "readingTimeInMinutes": 0.06792452830188679,
-      "linkCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 29,
+      "nonWhitespaceCharacterCount": 26,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699610241044,
-      "modifiedDate": 1699757980541,
-      "sizeInBytes": 308
+      "modifiedDate": 1699758555907,
+      "sizeInBytes": 191
     },
     "Utilities/Dashboard Notes/Utility Notes.md": {
       "isCountable": true,
@@ -5621,25 +5621,7 @@
       "modifiedDate": 1699757843301,
       "sizeInBytes": 36
     },
-    "Untitled 2.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 31,
-      "nonWhitespaceCharacterCount": 30,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699757952740,
-      "modifiedDate": 1699757953047,
-      "sizeInBytes": 31
-    },
-    "Single Action.md": {
+    "Templates/Markdown Templates/DevHelper Templates/Single Action.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -5657,7 +5639,7 @@
       "modifiedDate": 1699757935525,
       "sizeInBytes": 29
     },
-    "Double Action.md": {
+    "Templates/Markdown Templates/DevHelper Templates/Two Actions.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -5674,6 +5656,60 @@
       "createdDate": 1699757943985,
       "modifiedDate": 1699757944308,
       "sizeInBytes": 29
+    },
+    "Templates/Markdown Templates/DevHelper Templates/Three Actions.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 31,
+      "nonWhitespaceCharacterCount": 30,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699757952740,
+      "modifiedDate": 1699757953047,
+      "sizeInBytes": 31
+    },
+    "Templates/Markdown Templates/DevHelper Templates/Free Action.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 30,
+      "nonWhitespaceCharacterCount": 29,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699758532149,
+      "modifiedDate": 1699758532465,
+      "sizeInBytes": 30
+    },
+    "Templates/Markdown Templates/DevHelper Templates/Reaction.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 27,
+      "nonWhitespaceCharacterCount": 26,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699758540797,
+      "modifiedDate": 1699758541103,
+      "sizeInBytes": 27
     }
   }
 }
