@@ -5575,15 +5575,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 3,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699754057409,
-      "modifiedDate": 1699769065671,
-      "sizeInBytes": 3
+      "modifiedDate": 1699769998646,
+      "sizeInBytes": 1
     },
     "Templates/Markdown Templates/DevHelper Templates/Game Name (Full).md": {
       "isCountable": true,
