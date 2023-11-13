@@ -5,6 +5,182 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Damage Types, Resistance, and Weakness",
+      "path": "General Rules/Combat/Damage Types, Resistance, and Weakness.md"
+    },
+    {
+      "basename": "Spell Damage by Rank Chart",
+      "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Blood Cry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md"
+    },
+    {
+      "basename": "Aura",
+      "path": "General Rules/Traits Catalog/Spell-Only/Aura.md"
+    },
+    {
+      "basename": "Reach",
+      "path": "General Rules/Traits Catalog/Weapon-Only/Reach.md"
+    },
+    {
+      "basename": "Reliable",
+      "path": "General Rules/Traits Catalog/Weapon-Only/Reliable.md"
+    },
+    {
+      "basename": "Weaponry Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
+    },
+    {
+      "basename": "Stalwart",
+      "path": "General Rules/Traits Catalog/Armor-Only/Stalwart.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Twister",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md"
+    },
+    {
+      "basename": "Flusterdome",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
+    },
+    {
+      "basename": "Fleeting Featherstep",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
+    },
+    {
+      "basename": "Arcane Barrier",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
+    },
+    {
+      "basename": "Earthen Armor",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md"
+    },
+    {
+      "basename": "Auto-Shot Turret",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
+    },
+    {
+      "basename": "Techno-Babble",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md"
+    },
+    {
+      "basename": "Predator's Sight",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator's Sight.md"
+    },
+    {
+      "basename": "Patch-Up",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Patch-Up.md"
+    },
+    {
+      "basename": "Power-Word 'Harm'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md"
+    },
+    {
+      "basename": "Retrace",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Retrace.md"
+    },
+    {
+      "basename": "Fireball",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md"
+    },
+    {
+      "basename": "Sniper's Mark",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Sniper's Mark.md"
+    },
+    {
+      "basename": "Ignition",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
+    },
+    {
+      "basename": "Arcane Salvo",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
+    },
+    {
+      "basename": "Regeneration",
+      "path": "General Rules/Conditions Catalog/Beneficial/Regeneration.md"
+    },
+    {
+      "basename": "Aquastrike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Aquastrike.md"
+    },
+    {
+      "basename": "Lightning Bolt",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md"
+    },
+    {
+      "basename": "Shield Crush",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Shield Crush.md"
+    },
+    {
+      "basename": "Aerostrike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
+    },
+    {
+      "basename": "Arcane Surge",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Arcane Surge.md"
+    },
+    {
+      "basename": "Electroflex",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
+    },
+    {
+      "basename": "Shockjolt",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Shockjolt.md"
+    },
+    {
+      "basename": "Graceful",
+      "path": "General Rules/Traits Catalog/General/Graceful.md"
+    },
+    {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
+      "basename": "Starting Wealth Chart",
+      "path": "Utilities/Design References/Starting Wealth Chart.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Species Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+    },
+    {
+      "basename": "History Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "Hegemony Nomad",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
+    },
+    {
+      "basename": "Dusted",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
+    },
+    {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
@@ -17,188 +193,12 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spellcasting Catalyst.md"
     },
     {
-      "basename": "History Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
     {
       "basename": "Magical Quirk Roller Template",
       "path": "Templates/Markdown Templates/DevHelper Templates/Rollers/Magical Quirk Roller Template.md"
-    },
-    {
-      "basename": "Magical Quirks",
-      "path": "Utilities/Rolltables/Magical Quirks.md"
-    },
-    {
-      "basename": "Spellcasting Resonator",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spellcasting Resonator.md"
-    },
-    {
-      "basename": "Magical",
-      "path": "General Rules/Traits Catalog/Magical.md"
-    },
-    {
-      "basename": "Resonance",
-      "path": "General Rules/Traits Catalog/Spell-Only/Resonance.md"
-    },
-    {
-      "basename": "Cybermagistic Solution's Grim-Ware",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md"
-    },
-    {
-      "basename": "Bio-Software's Biomonitor Solutions",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Bio-Software's Biomonitor Solutions.md"
-    },
-    {
-      "basename": "net-Hack Toolkit",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/net-Hack Toolkit.md"
-    },
-    {
-      "basename": "Program",
-      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
-    },
-    {
-      "basename": "Legality",
-      "path": "General Rules/Traits Catalog/Legality.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Trait Template",
-      "path": "Templates/Markdown Templates/General Templates/Trait Template.md"
-    },
-    {
-      "basename": "Computer",
-      "path": "General Rules/Traits Catalog/Equipment-Only/Computer.md"
-    },
-    {
-      "basename": "Requirement",
-      "path": "General Rules/Traits Catalog/General/Requirement.md"
-    },
-    {
-      "basename": "Equipment Template",
-      "path": "Templates/Markdown Templates/Reference Templates/Equipment Template.md"
-    },
-    {
-      "basename": "Technosophy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md"
-    },
-    {
-      "basename": "Portable Surgery Station",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md"
-    },
-    {
-      "basename": "Rebreather",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md"
-    },
-    {
-      "basename": "Set of Tools",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
-    },
-    {
-      "basename": "Viewfinder",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Viewfinder.md"
-    },
-    {
-      "basename": "Former Dash",
-      "path": "zLegacy Notes/Former Dash.md"
-    },
-    {
-      "basename": "Game Name (Short)",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Symbols/Game Name (Short).md"
-    },
-    {
-      "basename": "Game Name (Full)",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Symbols/Game Name (Full).md"
-    },
-    {
-      "basename": "Reaction",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Symbols/Reaction.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Free Action",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Symbols/Free Action.md"
-    },
-    {
-      "basename": "Dev Helpers",
-      "path": "Utilities/Dashboard Notes/Dev Helpers.md"
-    },
-    {
-      "basename": "Three Actions",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Symbols/Three Actions.md"
-    },
-    {
-      "basename": "Two Actions",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Symbols/Two Actions.md"
-    },
-    {
-      "basename": "Single Action",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Symbols/Single Action.md"
-    },
-    {
-      "basename": "Tower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
-    },
-    {
-      "basename": "Conditions Database",
-      "path": "General Rules/Conditions Catalog/Conditions Database.md"
-    },
-    {
-      "basename": "Common Clothes",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md"
-    },
-    {
-      "basename": "Singblade",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Daggers/Singblade.md"
-    },
-    {
-      "basename": "Weapon Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
-    },
-    {
-      "basename": "Aerostrike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
-    },
-    {
-      "basename": "Species Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
-    },
-    {
-      "basename": "Species Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "School Template",
-      "path": "Templates/Markdown Templates/Mage Templates/School Template.md"
-    },
-    {
-      "basename": "Aerophasia",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md"
-    },
-    {
-      "basename": "Pilot Role Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md"
     }
   ],
   "omittedPaths": [],

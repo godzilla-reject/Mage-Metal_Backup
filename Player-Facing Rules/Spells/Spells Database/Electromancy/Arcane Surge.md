@@ -15,4 +15,5 @@ Completed: true
 | Range  |    6 spaces    |
 | Traits |  [[Electric]]  |
 > ###### *Details*
-> Choose one enemy you can see within range. They must make a **Mind** check. On a failure, they take `dice:2d6` **shocking** damage and make their next attack roll without favor. On a success, they take 3 **shocking** damage.
+> Choose one enemy you can see within range. They must make a *basic* **Mind** check, taking `dice:1d8` **electric** damage. On a failure, the target also becomes [[Shocked]] for 1 round or 1 minute on a critical failure. 
+> 

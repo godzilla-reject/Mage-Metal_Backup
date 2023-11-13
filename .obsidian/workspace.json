@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "376094a586dda4f6",
+        "id": "533ddff9bf8513a8",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c25de9f3c3b839",
+            "id": "1b80726acd681c21",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -606.6510242987836,
-                  "y": -844.3790367829857,
-                  "zoom": -0.4528782437862392
-                }
+                "file": "General Rules/Combat/Damage Types, Resistance, and Weakness.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Combat/Damage Types, Resistance, and Weakness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Combat/Damage Types, Resistance, and Weakness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/Combat/Damage Types, Resistance, and Weakness.md"
               }
             }
           },
@@ -237,40 +235,42 @@
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "obsidian-memos:Memos": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e8c25de9f3c3b839",
+  "active": "1b80726acd681c21",
   "lastOpenFiles": [
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spell Grimoire.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spellcasting Catalyst.md",
+    "Utilities/Design References/Spell Damage by Rank Chart.md",
+    "Utilities/Lists/Conditions List.md",
+    "Utilities/Lists/Trait List.md",
+    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md",
+    "General Rules/Traits Catalog/Spell-Only/Aura.md",
+    "General Rules/Traits Catalog/Weapon-Only/Reach.md",
+    "General Rules/Traits Catalog/Weapon-Only/Reliable.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
+    "General Rules/Traits Catalog/Armor-Only/Stalwart.md",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
+    "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md",
+    "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
+    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator's Sight.md",
+    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Patch-Up.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Retrace.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Sniper's Mark.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
+    "General Rules/Conditions Catalog/Beneficial/Regeneration.md",
     "Utilities/Dashboard.canvas",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
-    "README.md",
-    "Templates/Markdown Templates/DevHelper Templates/Rollers/Magical Quirk Roller Template.md",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
-    "Utilities/Rolltables/Magical Quirks.md",
-    "Testers.md",
     "Utilities/Rolltables",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spellcasting Resonator.md",
-    "General Rules/Traits Catalog/Magical.md",
-    "General Rules/Traits Catalog/Spell-Only/Resonance.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Bio-Software's Biomonitor Solutions.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/net-Hack Toolkit.md",
-    "General Rules/Traits Catalog/Equipment-Only/Program.md",
-    "General Rules/Traits Catalog/Legality.md",
-    "General Rules/Traits Catalog/Traits Database.md",
-    "General Rules/Traits Catalog/Test Blarg.md",
-    "Templates/Markdown Templates/General Templates/Trait Template.md",
-    "General Rules/Traits Catalog/Equipment-Only/Computer.md",
-    "General Rules/Traits Catalog/General/Requirement.md",
-    "Templates/Markdown Templates/Reference Templates/Equipment Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md",
-    "Cybermagistic’s Grimoire Solutions.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md",
     "Templates/Markdown Templates/DevHelper Templates",
     "General Rules/Conditions Catalog/Unsorted",
     "README.txt",

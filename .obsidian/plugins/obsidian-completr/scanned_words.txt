@@ -340,6 +340,8 @@ gels
 group
 granthall
 gmail
+grace
+gradient
 from
 first
 freeform
@@ -673,6 +675,7 @@ corporation
 catch
 conjuction
 crisis
+coursing
 before
 being
 be
@@ -811,6 +814,7 @@ necessary
 nanofiber
 noted
 network
+nd
 afraid
 and
 aesthetic
@@ -962,6 +966,7 @@ adventurers
 asteroid
 atmosphere
 administer
+additionally
 wear
 with
 war
@@ -1282,6 +1287,8 @@ surgery
 slot
 susceptible
 should
+send
+successful
 LANCER
 Learn
 Lancer
@@ -1378,6 +1385,7 @@ Thruster
 Tower
 Theater
 Toolkit
+Touch
 oriented
 of
 on
@@ -1430,6 +1438,7 @@ opened
 original
 operating
 object
+optics
 designer
 drag
 do
@@ -1554,6 +1563,7 @@ dispersing
 deploy
 difficulties
 denoted
+detecting
 ever
 expand
 easy
@@ -1659,6 +1669,7 @@ ends
 easily
 executable
 entry
+electrifying
 played
 pilot
 play
@@ -1857,6 +1868,8 @@ Resistant
 Replacement
 Release
 Road
+Reliable
+Reach
 high
 heavily
 hopes
@@ -1926,6 +1939,8 @@ healed
 handheld
 hospital
 hacker
+hi
+heatsight
 refine
 robust
 required
@@ -2029,6 +2044,9 @@ ray
 rope
 referenced
 resonator
+reach
+return
+radii
 Pathfinder
 PF
 Philosophy
@@ -2153,6 +2171,7 @@ An
 Attached
 Applied
 Author
+Area
 metal
 magic
 mechanics
@@ -2280,6 +2299,7 @@ mix
 medical
 moderately
 mega
+miss
 GURPS
 Google
 Greyhawk
@@ -2612,6 +2632,7 @@ journal
 jump
 join
 job
+jolt
 Hate
 Homebrew
 Historically
@@ -2650,6 +2671,7 @@ Head
 He
 Held
 Hall
+Heatsight
 you
 your
 yourself
@@ -2965,6 +2987,7 @@ Brilliant
 Being
 Backup
 Bio
+Buff
 Varies
 Vast
 Void

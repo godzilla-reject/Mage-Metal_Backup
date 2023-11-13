@@ -15,4 +15,4 @@ Completed: true
 | Range  |           12 spaces           |
 | Traits | [[Attack]], [[Move]], [[Air]] |
 > ###### *Details*
-> You weave a bow of air and loose a powerful arrow. Make a ranged spell attack against a target within range. If it hits, the target takes `dice:1d8` damage. You can Move 2 spaces as a part of casting this spell, before or after the attack roll.
+> You weave a bow of air and loose a powerful arrow. Make a ranged spell attack against a target within range, dealing `dice:1d4` **cutting** damage. You can Move 2 spaces as a part of casting this spell, before or after the attack roll.

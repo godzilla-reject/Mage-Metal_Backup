@@ -17,7 +17,7 @@
 - - -
 - Overview: 
 	- Most entries are a range, but some are static (mostly when dice would go below 1d4.)
+	- **Buff** spells use the "Basic AoE" track.
 	- Single-Target Spells with riders are treated as **1** level lower than shown.
-	- AoE spells are treated as **2** levels lower than shown. 
 	- Spells with conditional effects (such as Immolation) are treated as **1** level lower for the base effect, but **1** level *higher* when condition is met. 
 	- Any spell can deal **true** damage if lowered by **2** ranks. 
