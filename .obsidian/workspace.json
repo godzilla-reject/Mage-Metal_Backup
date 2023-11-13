@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f1fa27f1bcb053d",
+            "id": "23c7dc4e443adb02",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -241,12 +241,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9f1fa27f1bcb053d",
+  "active": "23c7dc4e443adb02",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "General Rules/Traits Catalog/General/Attack.md",
     "General Rules/Traits Catalog/General/Melee.md",
     "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
     "General Rules/Traits Catalog/General/Somatic.md",
@@ -269,7 +269,6 @@
     "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md",
     "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
     "Utilities/Rolltables",
