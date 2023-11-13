@@ -14,5 +14,10 @@
   "ITS@@select": "none",
   "ITS-AT@@s-d": false,
   "ITS@@dataview-regular-table": true,
-  "ITS@@dataview-table-auto": true
+  "ITS@@dataview-table-auto": true,
+  "supercharged-links@@5b3e-6b47-color": "#FF0000",
+  "supercharged-links@@5b3e-6b47-weight": "bold",
+  "supercharged-links@@5b3e-6b47-decoration": "underline",
+  "supercharged-links@@c-5b3e-6b47-use-background": false,
+  "supercharged-links@@5b3e-6b47-background-color": "#FFFFFF"
 }

@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Somatic",
+      "path": "General Rules/Traits Catalog/General/Somatic.md"
+    },
+    {
+      "basename": "Arcane Salvo",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
+    },
+    {
+      "basename": "Melanie's Shared Suffering",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md"
+    },
+    {
+      "basename": "Hemaspike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
+    },
+    {
+      "basename": "Arcane Barrier",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
+    },
+    {
+      "basename": "Twister",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
+      "basename": "Aerostrike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
     },
     {
       "basename": "Damage Types, Resistance, and Weakness",
@@ -45,24 +81,12 @@
       "path": "General Rules/Traits Catalog/Armor-Only/Stalwart.md"
     },
     {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Twister",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md"
-    },
-    {
       "basename": "Flusterdome",
       "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
     },
     {
       "basename": "Fleeting Featherstep",
       "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
-    },
-    {
-      "basename": "Arcane Barrier",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
     },
     {
       "basename": "Earthen Armor",
@@ -105,10 +129,6 @@
       "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
     },
     {
-      "basename": "Arcane Salvo",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
-    },
-    {
       "basename": "Regeneration",
       "path": "General Rules/Conditions Catalog/Beneficial/Regeneration.md"
     },
@@ -123,10 +143,6 @@
     {
       "basename": "Shield Crush",
       "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Shield Crush.md"
-    },
-    {
-      "basename": "Aerostrike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
     },
     {
       "basename": "Arcane Surge",
@@ -183,22 +199,6 @@
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "Spell Grimoire",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spell Grimoire.md"
-    },
-    {
-      "basename": "Spellcasting Catalyst",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spellcasting Catalyst.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Magical Quirk Roller Template",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Rollers/Magical Quirk Roller Template.md"
     }
   ],
   "omittedPaths": [],

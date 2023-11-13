@@ -11,14 +11,9 @@
             "id": "6be8c442900bbe90",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.42840472301667265
-                }
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
           }
@@ -80,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
+    "width": 351.5,
     "collapsed": true
   },
   "right": {
@@ -97,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
           },
@@ -243,6 +238,16 @@
   },
   "active": "6be8c442900bbe90",
   "lastOpenFiles": [
+    "General Rules/Traits Catalog/General/Somatic.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md",
+    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md",
+    "Utilities/Dashboard.canvas",
+    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md",
     "General Rules/Combat/Damage Types, Resistance, and Weakness.md",
     "Utilities/Design References/Spell Damage by Rank Chart.md",
     "Utilities/Lists/Conditions List.md",
@@ -253,23 +258,13 @@
     "General Rules/Traits Catalog/Weapon-Only/Reliable.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "General Rules/Traits Catalog/Armor-Only/Stalwart.md",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
-    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md",
     "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md",
     "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md",
-    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator's Sight.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Patch-Up.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Retrace.md",
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Sniper's Mark.md",
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md",
-    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
-    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
     "Utilities/Rolltables",
