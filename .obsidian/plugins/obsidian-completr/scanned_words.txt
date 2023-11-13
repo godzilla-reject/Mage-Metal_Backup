@@ -776,6 +776,7 @@ backpack
 bashed
 brings
 bridge
+blow
 not
 never
 no
@@ -1290,6 +1291,7 @@ susceptible
 should
 send
 successful
+strike
 LANCER
 Learn
 Lancer
@@ -1871,6 +1873,8 @@ Release
 Road
 Reliable
 Reach
+Repeated
+RAP
 high
 heavily
 hopes
@@ -2372,6 +2376,7 @@ uncertain
 unmodified
 upgrades
 upgrade
+unarmed
 letting
 look
 like

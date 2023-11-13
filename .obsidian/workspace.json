@@ -11,14 +11,12 @@
             "id": "4f6f266dd15ab0b4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.42840472301667265
-                }
+                "file": "General Rules/Traits Catalog/General/Attack.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Traits Catalog/General/Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Traits Catalog/General/Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/Traits Catalog/General/Attack.md"
               }
             }
           },
@@ -243,15 +241,16 @@
   },
   "active": "4f6f266dd15ab0b4",
   "lastOpenFiles": [
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "General Rules/Traits Catalog/General/Melee.md",
     "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
     "General Rules/Traits Catalog/General/Somatic.md",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md",
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
     "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md",
-    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/Spell Template.md",
     "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md",
     "General Rules/Combat/Damage Types, Resistance, and Weakness.md",
@@ -269,7 +268,6 @@
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator's Sight.md",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
     "Utilities/Rolltables",
