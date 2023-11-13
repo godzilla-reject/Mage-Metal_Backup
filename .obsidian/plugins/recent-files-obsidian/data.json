@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
     {
-      "basename": "Somatic",
-      "path": "General Rules/Traits Catalog/General/Somatic.md"
+      "basename": "Ignition",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
     },
     {
       "basename": "Arcane Salvo",
       "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
+    },
+    {
+      "basename": "Somatic",
+      "path": "General Rules/Traits Catalog/General/Somatic.md"
     },
     {
       "basename": "Melanie's Shared Suffering",
@@ -27,10 +35,6 @@
     {
       "basename": "Twister",
       "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Spell Template",
@@ -123,10 +127,6 @@
     {
       "basename": "Sniper's Mark",
       "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Sniper's Mark.md"
-    },
-    {
-      "basename": "Ignition",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
     },
     {
       "basename": "Regeneration",

@@ -1,8 +1,6 @@
 ---
 School: Pyrophasia
 Rank: "0"
-tags:
-  - Pyrophasia
 Tags:
   - Spell
 Completed: true

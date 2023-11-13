@@ -15,9 +15,12 @@
   "ITS-AT@@s-d": false,
   "ITS@@dataview-regular-table": true,
   "ITS@@dataview-table-auto": true,
-  "supercharged-links@@5b3e-6b47-color": "#FF0000",
+  "supercharged-links@@5b3e-6b47-color": "#FFB000",
   "supercharged-links@@5b3e-6b47-weight": "bold",
   "supercharged-links@@5b3e-6b47-decoration": "underline",
   "supercharged-links@@c-5b3e-6b47-use-background": false,
-  "supercharged-links@@5b3e-6b47-background-color": "#FFFFFF"
+  "supercharged-links@@5b3e-6b47-background-color": "#FFFFFF",
+  "supercharged-links@@de54-5dd8-weight": "normal",
+  "supercharged-links@@de54-5dd8-color": "#4526AC",
+  "supercharged-links@@de54-5dd8-before": "🪄"
 }
