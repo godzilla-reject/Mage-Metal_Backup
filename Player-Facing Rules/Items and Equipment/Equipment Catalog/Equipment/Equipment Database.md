@@ -180,6 +180,7 @@ columns:
       - { label: "Traversal", value: "Traversal", color: "hsl(214, 95%, 90%)"}
       - { label: "Catalyst", value: "Catalyst", color: "hsl(318, 95%, 90%)"}
       - { label: "Resonator", value: "Resonator", color: "hsl(338, 95%, 90%)"}
+      - { label: "Grimoire", value: "Grimoire", color: "hsl(100, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

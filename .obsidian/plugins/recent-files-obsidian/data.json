@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Spellcasting Catalyst",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spellcasting Catalyst.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
       "basename": "Spell Grimoire",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spell Grimoire.md"
     },
     {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "History Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Magical Quirk Roller Template",
@@ -23,10 +31,6 @@
     {
       "basename": "Magical Quirks",
       "path": "Utilities/Rolltables/Magical Quirks.md"
-    },
-    {
-      "basename": "Spellcasting Catalyst",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spellcasting Catalyst.md"
     },
     {
       "basename": "Spellcasting Resonator",
@@ -195,10 +199,6 @@
     {
       "basename": "Pilot Role Template",
       "path": "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md"
-    },
-    {
-      "basename": "Battlefield Support",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
     }
   ],
   "omittedPaths": [],
