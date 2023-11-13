@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e9f38b7246f2f3a",
+        "id": "7454eff2eccff207",
         "type": "tabs",
         "children": [
           {
-            "id": "6be8c442900bbe90",
+            "id": "4f6f266dd15ab0b4",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.42840472301667265
+                }
               }
             }
           }
@@ -92,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -236,10 +241,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6be8c442900bbe90",
+  "active": "4f6f266dd15ab0b4",
   "lastOpenFiles": [
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md",
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
     "General Rules/Traits Catalog/General/Somatic.md",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md",
