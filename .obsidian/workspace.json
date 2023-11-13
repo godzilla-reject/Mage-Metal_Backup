@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cc797faa610d469",
+        "id": "376094a586dda4f6",
         "type": "tabs",
         "children": [
           {
-            "id": "72f52f90c7303d1c",
+            "id": "e8c25de9f3c3b839",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -207,12 +207,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +234,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "templater-obsidian:Templater": false,
-      "obsidian-memos:Memos": false,
-      "chronology:Open Chronology": false
+      "chronology:Open Chronology": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "72f52f90c7303d1c",
+  "active": "e8c25de9f3c3b839",
   "lastOpenFiles": [
     "README.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Spell Grimoire.md",
