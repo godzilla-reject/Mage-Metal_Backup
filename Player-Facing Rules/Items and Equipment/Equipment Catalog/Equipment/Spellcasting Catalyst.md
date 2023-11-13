@@ -23,4 +23,4 @@ Completed: true
 > This is a catch-all equipment entry to represent any general catalyst. Catalysts are the way a Mage brings a spell to life; it is step two in the bridge from The Slip to real-space. 
 > Each School grants a starting catalyst, but players should feel free to replace that one with one of their own creation. A catalyst should be functional and possess a unique, weak, magical quirk. 
 
-- [ ] #todo Create a [[Magical Quirks]] d100 roll table. 🔽
+- [ ] #todo Fill out the [[Magical Quirks]] d100 roll table. 🔽
