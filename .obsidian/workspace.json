@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a11c55a568527d03",
+        "id": "aaba1e39c4502b70",
         "type": "tabs",
         "children": [
           {
-            "id": "23c7dc4e443adb02",
+            "id": "3d591ddcfa2b90e8",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.42840472301667265
+                  "zoom": -0.644925777151695
                 }
               }
             }
@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,12 +235,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
-      "obsidian-memos:Memos": false,
       "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "23c7dc4e443adb02",
+  "active": "3d591ddcfa2b90e8",
   "lastOpenFiles": [
     "Utilities/Dashboard.canvas",
     "General Rules/Traits Catalog/General/Attack.md",
