@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Progress Bars",
+      "path": "Utilities/Dashboard Notes/Progress Bars.md"
+    },
+    {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Regeneration",
       "path": "General Rules/Conditions Catalog/Beneficial/Regeneration.md"
-    },
-    {
-      "basename": "Aquastrike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Aquastrike.md"
     }
   ],
   "omittedPaths": [],
