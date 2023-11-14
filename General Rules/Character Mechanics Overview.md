@@ -172,7 +172,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >
 
 ### Weaponry Proficiencies
->[!column]- ### **:**
+>[!column]- ### **Simple Ranged**
 >> [!note] ####*Description*
 >> **Key Attribute:**
 >
