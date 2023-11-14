@@ -1,9 +1,7 @@
 ---
 tags: 
 Category: Equipment-Only
-Completed: 
-Tags:
-  - Trait
+Completed:
 ---
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`

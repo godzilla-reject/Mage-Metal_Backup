@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Flusterdome",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
+    },
+    {
+      "basename": "Fleeting Featherstep",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
+    },
+    {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
     },
     {
-      "basename": "Flusterdome",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
+      "basename": "Magical",
+      "path": "General Rules/Traits Catalog/General/Magical.md"
+    },
+    {
+      "basename": "Legality",
+      "path": "General Rules/Traits Catalog/General/Legality.md"
+    },
+    {
+      "basename": "Program",
+      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
     },
     {
       "basename": "Twister",
@@ -15,10 +35,6 @@
     {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Fleeting Featherstep",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
     },
     {
       "basename": "Spell Template",
@@ -173,10 +189,6 @@
       "path": "General Rules/Traits Catalog/General/Graceful.md"
     },
     {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
       "basename": "Starting Wealth Chart",
       "path": "Utilities/Design References/Starting Wealth Chart.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Species Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "History Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
-    },
-    {
-      "basename": "Hegemony Nomad",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
     }
   ],
   "omittedPaths": [],

@@ -969,6 +969,7 @@ asteroid
 atmosphere
 administer
 additionally
+assumed
 wear
 with
 war
@@ -1567,6 +1568,7 @@ deploy
 difficulties
 denoted
 detecting
+denotes
 ever
 expand
 easy
@@ -2454,6 +2456,8 @@ locations
 length
 landing
 license
+legal
+lacks
 Ease
 Excel
 Escalation

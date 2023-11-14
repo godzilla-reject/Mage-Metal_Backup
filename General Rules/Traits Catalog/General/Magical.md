@@ -1,7 +1,9 @@
 ---
 tags: 
-Category: Unsorted
-Completed:
+Category: General
+Completed: 
+Tags:
+  - Trait
 ---
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`

@@ -2509,19 +2509,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 40,
+      "wordCount": 87,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 303,
-      "nonWhitespaceCharacterCount": 185,
-      "readingTimeInMinutes": 0.1509433962264151,
-      "linkCount": 0,
+      "pageCount": 0.29,
+      "characterCount": 597,
+      "nonWhitespaceCharacterCount": 411,
+      "readingTimeInMinutes": 0.3283018867924528,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698996723635,
-      "modifiedDate": 1699152701192,
-      "sizeInBytes": 355
+      "modifiedDate": 1699924237657,
+      "sizeInBytes": 649
     },
     "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md": {
       "isCountable": true,
@@ -4397,24 +4397,6 @@
       "modifiedDate": 1698483012081,
       "sizeInBytes": 319
     },
-    "General Rules/Traits Catalog/Magical.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 12,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 83,
-      "nonWhitespaceCharacterCount": 70,
-      "readingTimeInMinutes": 0.045283018867924525,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699777339921,
-      "modifiedDate": 1699777340681,
-      "sizeInBytes": 127
-    },
     "General Rules/Traits Catalog/Unsorted/Fated.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4448,7 +4430,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734102124,
-      "modifiedDate": 1699865228582,
+      "modifiedDate": 1699923977439,
       "sizeInBytes": 4712
     },
     "General Rules/Traits Catalog/Spell-Only/Vocal.md": {
@@ -5153,24 +5135,6 @@
       "modifiedDate": 1698997035825,
       "sizeInBytes": 278
     },
-    "General Rules/Traits Catalog/Legality.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 37,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.12333333333333334,
-      "characterCount": 213,
-      "nonWhitespaceCharacterCount": 175,
-      "readingTimeInMinutes": 0.13962264150943396,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699775975167,
-      "modifiedDate": 1699776073413,
-      "sizeInBytes": 257
-    },
     "General Rules/Traits Catalog/Equipment-Only/Upgrade.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -5204,8 +5168,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699775422160,
-      "modifiedDate": 1699776270719,
-      "sizeInBytes": 410
+      "modifiedDate": 1699923940343,
+      "sizeInBytes": 393
     },
     "General Rules/Traits Catalog/Equipment-Only/Computer.md": {
       "isCountable": true,
@@ -5890,6 +5854,42 @@
       "createdDate": 1698734101888,
       "modifiedDate": 1695339669279,
       "sizeInBytes": 3055
+    },
+    "General Rules/Traits Catalog/General/Legality.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 37,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 213,
+      "nonWhitespaceCharacterCount": 175,
+      "readingTimeInMinutes": 0.13962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699775975167,
+      "modifiedDate": 1699924001019,
+      "sizeInBytes": 277
+    },
+    "General Rules/Traits Catalog/General/Magical.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 83,
+      "nonWhitespaceCharacterCount": 70,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699777339921,
+      "modifiedDate": 1699924011506,
+      "sizeInBytes": 143
     }
   }
 }
