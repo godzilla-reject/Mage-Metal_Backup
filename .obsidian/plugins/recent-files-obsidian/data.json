@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Flusterdome",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
+    },
+    {
+      "basename": "Twister",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md"
     },
     {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Fleeting Featherstep",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Spell Damage by Rank Chart",
+      "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
     },
     {
       "basename": "Attack",
@@ -41,32 +73,12 @@
       "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
     },
     {
-      "basename": "Twister",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
-    },
-    {
       "basename": "Aerostrike",
       "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
     },
     {
       "basename": "Damage Types, Resistance, and Weakness",
       "path": "General Rules/Combat/Damage Types, Resistance, and Weakness.md"
-    },
-    {
-      "basename": "Spell Damage by Rank Chart",
-      "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Blood Cry",
@@ -91,14 +103,6 @@
     {
       "basename": "Stalwart",
       "path": "General Rules/Traits Catalog/Armor-Only/Stalwart.md"
-    },
-    {
-      "basename": "Flusterdome",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
-    },
-    {
-      "basename": "Fleeting Featherstep",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
     },
     {
       "basename": "Earthen Armor",
@@ -171,10 +175,6 @@
     {
       "basename": "Traits Database",
       "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
     },
     {
       "basename": "Starting Wealth Chart",
