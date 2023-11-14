@@ -21,8 +21,24 @@
                 }
               }
             }
+          },
+          {
+            "id": "aefba643ebcc218b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.9988599801533312
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,12 +223,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +255,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "81961e899771614f",
+  "active": "aefba643ebcc218b",
   "lastOpenFiles": [
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Utilities/Dashboard.canvas",
