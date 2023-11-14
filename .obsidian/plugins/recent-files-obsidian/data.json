@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Novice Blood Mage",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md"
+    },
+    {
+      "basename": "Special Perks Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
+    },
+    {
+      "basename": "Battlemage",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Battlemage.md"
+    },
+    {
+      "basename": "Mercurial Magics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Mercurial Magics.md"
+    },
+    {
+      "basename": "Lifebringer",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Lifebringer.md"
+    },
+    {
+      "basename": "Hyper-Specialized",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md"
+    },
+    {
+      "basename": "Evil-Tainted Magic",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Evil-Tainted Magic.md"
+    },
+    {
+      "basename": "Arcane Addict",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -167,34 +199,6 @@
     {
       "basename": "Melee",
       "path": "General Rules/Traits Catalog/General/Melee.md"
-    },
-    {
-      "basename": "Ignition",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
-    },
-    {
-      "basename": "Somatic",
-      "path": "General Rules/Traits Catalog/General/Somatic.md"
-    },
-    {
-      "basename": "Melanie's Shared Suffering",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md"
-    },
-    {
-      "basename": "Hemaspike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
-    },
-    {
-      "basename": "Aerostrike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
-    },
-    {
-      "basename": "Damage Types, Resistance, and Weakness",
-      "path": "General Rules/Combat/Damage Types, Resistance, and Weakness.md"
-    },
-    {
-      "basename": "Blood Cry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md"
     }
   ],
   "omittedPaths": [],

@@ -810,7 +810,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100508,
-      "modifiedDate": 1699612191738,
+      "modifiedDate": 1699956498700,
       "sizeInBytes": 5140
     },
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Tome Mage.md": {
@@ -871,19 +871,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 91,
+      "wordCount": 92,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.30333333333333334,
-      "characterCount": 491,
-      "nonWhitespaceCharacterCount": 396,
-      "readingTimeInMinutes": 0.3433962264150943,
-      "linkCount": 1,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 485,
+      "nonWhitespaceCharacterCount": 389,
+      "readingTimeInMinutes": 0.3471698113207547,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100524,
-      "modifiedDate": 1697774236020,
-      "sizeInBytes": 563
+      "modifiedDate": 1699956740475,
+      "sizeInBytes": 557
     },
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Mercurial Magics.md": {
       "isCountable": true,
@@ -1026,8 +1026,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698789492856,
-      "modifiedDate": 1698789982165,
-      "sizeInBytes": 952
+      "modifiedDate": 1699956509285,
+      "sizeInBytes": 968
     },
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md": {
       "isCountable": true,
