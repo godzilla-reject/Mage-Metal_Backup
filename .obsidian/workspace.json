@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aaba1e39c4502b70",
+        "id": "167414fac5c693c8",
         "type": "tabs",
         "children": [
           {
-            "id": "3d591ddcfa2b90e8",
+            "id": "1ca591c17165be5b",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.644925777151695
+                  "zoom": -0.42840472301667265
                 }
               }
             }
@@ -212,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,13 +241,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3d591ddcfa2b90e8",
+  "active": "1ca591c17165be5b",
   "lastOpenFiles": [
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Utilities/Dashboard.canvas",
     "General Rules/Traits Catalog/General/Attack.md",
     "General Rules/Traits Catalog/General/Melee.md",
     "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
     "General Rules/Traits Catalog/General/Somatic.md",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md",

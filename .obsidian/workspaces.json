@@ -6,12 +6,26 @@
         "type": "split",
         "children": [
           {
-            "id": "376094a586dda4f6",
+            "id": "aaba1e39c4502b70",
             "type": "tabs",
-            "dimension": 60.21276595744681,
             "children": [
               {
-                "id": "e8c25de9f3c3b839",
+                "id": "3d591ddcfa2b90e8",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Utilities/Dashboard.canvas",
+                    "viewState": {
+                      "x": -530,
+                      "y": -1010,
+                      "zoom": -0.644925777151695
+                    }
+                  }
+                }
+              },
+              {
+                "id": "46718cc72be89e5d",
                 "type": "leaf",
                 "state": {
                   "type": "database-plugin",
@@ -20,66 +34,8 @@
                   }
                 }
               }
-            ]
-          },
-          {
-            "id": "533ddff9bf8513a8",
-            "type": "tabs",
-            "dimension": 39.787234042553195,
-            "children": [
-              {
-                "id": "dc544ddcfb76b704",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Utilities/Lists/Trait List.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "6d03a4911c1c0254",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Utilities/Lists/Conditions List.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "a11c42ba76f3e918",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Utilities/Design References/Spell Damage by Rank Chart.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "1b80726acd681c21",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "General Rules/Combat/Damage Types, Resistance, and Weakness.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -137,7 +93,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 257.5,
+        "width": 351.5,
         "collapsed": true
       },
       "right": {
@@ -154,7 +110,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Utilities/Lists/Trait List.md",
+                    "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -171,7 +127,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Utilities/Lists/Trait List.md",
+                    "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -194,7 +150,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Utilities/Lists/Trait List.md"
+                    "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
                   }
                 }
               },
@@ -293,12 +249,12 @@
           "obsidian-excalidraw-plugin:Create new drawing": false,
           "advanced-random-note:Open random note modal": false,
           "chronology:Open Chronology": false,
-          "obsidian-memos:Memos": false,
           "templater-obsidian:Templater": false,
-          "workspaces:Manage workspace layouts": false
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-memos:Memos": false
         }
       },
-      "active": "dc544ddcfb76b704"
+      "active": "46718cc72be89e5d"
     }
   },
   "active": "Spell Creation"
