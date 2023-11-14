@@ -4,29 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "167414fac5c693c8",
+        "id": "aaba1e39c4502b70",
         "type": "tabs",
         "children": [
           {
-            "id": "1ca591c17165be5b",
+            "id": "46718cc72be89e5d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.42840472301667265
-                }
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
           },
           {
-            "id": "d99d80f27f89bb80",
+            "id": "18e69e970699ad89",
             "type": "leaf",
             "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "type": "empty",
               "state": {}
             }
           }
@@ -106,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Utilities/Dashboard.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -250,7 +241,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d99d80f27f89bb80",
+  "active": "18e69e970699ad89",
   "lastOpenFiles": [
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Utilities/Dashboard.canvas",
