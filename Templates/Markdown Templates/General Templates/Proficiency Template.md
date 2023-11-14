@@ -1,4 +1,4 @@
->[!column]+ ### **:**
+>[!column]- ### **:**
 >> [!note] ####*Description*
 >> **Key Attribute:**
 >

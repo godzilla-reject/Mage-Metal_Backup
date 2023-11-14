@@ -2528,6 +2528,7 @@ USH
 Unfavorable
 Upgrade
 Utility
+UnComp
 Complexity
 Could
 Conflicted
@@ -2924,6 +2925,7 @@ Slip
 Slipbridge
 Sustained
 Slash
+SpellComp
 Jackson
 Jack
 Juggernaut

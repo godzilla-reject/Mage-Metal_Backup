@@ -66,7 +66,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 - Each character is trained in one more types of armor. These armor forms are pilot-wearable suits that enhance a Mage's protections when their boots are on the ground. Armor training *also* influences how well a Mage can utilize their Metal's armor, as well. The armor forms are as follows, and are explored in-depth in the [[Armor Overview]].
 
 >[!column]- ### **Infiltrator Armor**
->> [!note] ####*Description*
+>> [!note] #### *Description*
 >> 
 >> **Key Attribute: Reflex**
 >
@@ -84,7 +84,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >
 
 >[!column]- ### **Mobile Armor**
->> [!note] ####*Description*
+>> [!note] #### *Description*
 >> 
 >> **Key Attribute: Body**
 >
@@ -101,7 +101,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 
 >[!column]- ### **Powered Armor**
->> [!note] ####*Description*
+>> [!note] #### *Description*
 >> 
 >> **Key Attribute: Power**
 >
@@ -118,7 +118,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >
 ### General Proficiencies
->[!column]+ ### **Perception:**
+>[!column]- ### **Perception:**
 >> [!note] #### *Description*
 >> Perception is how well a character is trained at spotting subtle details, as well as a measure of reaction speed.
 >> **Key Attribute: Mind**
@@ -135,7 +135,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> [!metadata|right] *Legendary Perk:*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 
->[!column]+ ### **Piloting**
+>[!column]- ### **Piloting**
 >> [!note] #### *Description*
 >> Piloting is arguably the most important proficiency in *Metal*. All PCs, and nearly all NPCs will have it to at least some degree of it. It is a measure of a pilot's skill, but it also a measure of how well-connected to their Metal they are.
 >> **Key Attribute: Reflex+Potential**
@@ -153,7 +153,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >
 
->[!column]+ ### **Spell-Work**
+>[!column]- ### **Spell-Work**
 >> [!note] #### *Description*
 >> Spell-Work is just a fancy way to say "casting," specifically spells that are *not* cantrips. When outside of a Metal, a Mage must make a Spell-Work roll to cast a spell, and when in their Metal, they typically roll Spell Working to cast a spell when severely damaged or out of mana. 
 >> **Key Attribute: Mind+Poential**
@@ -172,3 +172,19 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >
 
 ### Weaponry Proficiencies
+>[!column]- ### **:**
+>> [!note] ####*Description*
+>> **Key Attribute:**
+>
+>> [!metadata|right] *Trained Perk:*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Expertise Perk:*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Masterful Perk:*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>
+>> [!metadata|right] *Legendary Perk:*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>
