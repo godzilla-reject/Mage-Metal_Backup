@@ -5,16 +5,16 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
       "basename": "Arcane Sphere-Artifacteomancy",
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
     },
     {
       "basename": "Proficiency Template",
       "path": "Templates/Markdown Templates/General Templates/Proficiency Template.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
     },
     {
       "basename": "Arcane Sphere-Elemancy",

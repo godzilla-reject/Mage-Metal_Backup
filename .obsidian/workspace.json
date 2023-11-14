@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d38d3d15ae07b589",
+        "id": "bbe52a07ce592ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "a559f80362bebd3c",
+            "id": "81961e899771614f",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,66 +16,27 @@
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
                   "x": -530,
-                  "y": -1110,
+                  "y": -1010,
                   "zoom": -0.726548978220868
                 }
               }
             }
           },
           {
-            "id": "0f7a085ede9584f3",
+            "id": "2b0d213272c93dea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4565de461e0548e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5386f660e367e277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1cbe57b3f3757216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
+                "file": "General Rules/Character Mechanics Overview.md"
               }
             }
           },
@@ -293,15 +254,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1cbe57b3f3757216",
+  "active": "2b0d213272c93dea",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
     "Templates/Markdown Templates/General Templates/Proficiency Template.md",
     "General Rules/Character Mechanics Overview.md",
-    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md",
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md",
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Metallomancy.md",
@@ -322,7 +283,6 @@
     "Utilities/Lists/Conditions List.md",
     "Templates/Markdown Templates/General Templates/Trait Template.md",
     "General Rules/Traits Catalog/General/Magical.md",
-    "General Rules/Traits Catalog/Traits Database.md",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
     "Utilities/Rolltables",
