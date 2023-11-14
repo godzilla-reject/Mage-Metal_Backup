@@ -5,6 +5,10 @@
       "path": "General Rules/Character Mechanics Overview.md"
     },
     {
+      "basename": "fuck you brody",
+      "path": "fuck you brody.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Blood Cry",
       "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md"
-    },
-    {
-      "basename": "Aura",
-      "path": "General Rules/Traits Catalog/Spell-Only/Aura.md"
     }
   ],
   "omittedPaths": [],
