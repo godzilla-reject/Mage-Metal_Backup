@@ -1,9 +1,8 @@
 ---
-tags: 
+tags:
+  - Trait
 Category: General
 Completed: true
-Tags:
-  - Trait
 ---
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`

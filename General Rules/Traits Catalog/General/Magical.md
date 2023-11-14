@@ -1,5 +1,4 @@
 ---
-tags: 
 Category: General
 Completed: 
 Tags:

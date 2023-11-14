@@ -1,36 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Flusterdome",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
-    },
-    {
-      "basename": "Fleeting Featherstep",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Magical",
-      "path": "General Rules/Traits Catalog/General/Magical.md"
-    },
-    {
-      "basename": "Legality",
-      "path": "General Rules/Traits Catalog/General/Legality.md"
-    },
-    {
-      "basename": "Program",
-      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
-    },
-    {
-      "basename": "Twister",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Twister.md"
     },
     {
       "basename": "Spells Database",
@@ -41,16 +17,84 @@
       "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Conditions List",
       "path": "Utilities/Lists/Conditions List.md"
     },
     {
+      "basename": "Trait Template",
+      "path": "Templates/Markdown Templates/General Templates/Trait Template.md"
+    },
+    {
+      "basename": "Magical",
+      "path": "General Rules/Traits Catalog/General/Magical.md"
+    },
+    {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
+      "basename": "Legality",
+      "path": "General Rules/Traits Catalog/General/Legality.md"
+    },
+    {
       "basename": "Spell Damage by Rank Chart",
       "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
+    },
+    {
+      "basename": "Unknown",
+      "path": "General Rules/Conditions Catalog/Unknown.md"
+    },
+    {
+      "basename": "Power-Word 'Haste'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
+    },
+    {
+      "basename": "Shocked",
+      "path": "General Rules/Conditions Catalog/Detrimental/Shocked.md"
+    },
+    {
+      "basename": "Flustered",
+      "path": "General Rules/Conditions Catalog/Detrimental/Flustered.md"
+    },
+    {
+      "basename": "Arcane Salvo",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
+    },
+    {
+      "basename": "Arcane Barrier",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
+    },
+    {
+      "basename": "Buckler",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md"
+    },
+    {
+      "basename": "Ane's Screaming Cyclone",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Ane's Screaming Cyclone.md"
+    },
+    {
+      "basename": "Lightning Bolt",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md"
+    },
+    {
+      "basename": "Flusterdome",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
+    },
+    {
+      "basename": "Defensive",
+      "path": "General Rules/Traits Catalog/General/Defensive.md"
+    },
+    {
+      "basename": "Area",
+      "path": "General Rules/Traits Catalog/General/Area.md"
+    },
+    {
+      "basename": "Fleeting Featherstep",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
+    },
+    {
+      "basename": "Program",
+      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
     },
     {
       "basename": "Utility Notes",
@@ -69,10 +113,6 @@
       "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
     },
     {
-      "basename": "Arcane Salvo",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
-    },
-    {
       "basename": "Somatic",
       "path": "General Rules/Traits Catalog/General/Somatic.md"
     },
@@ -83,10 +123,6 @@
     {
       "basename": "Hemaspike",
       "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
-    },
-    {
-      "basename": "Arcane Barrier",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
     },
     {
       "basename": "Aerostrike",
@@ -163,42 +199,6 @@
     {
       "basename": "Aquastrike",
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Aquastrike.md"
-    },
-    {
-      "basename": "Lightning Bolt",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md"
-    },
-    {
-      "basename": "Shield Crush",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Shield Crush.md"
-    },
-    {
-      "basename": "Arcane Surge",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Arcane Surge.md"
-    },
-    {
-      "basename": "Electroflex",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
-    },
-    {
-      "basename": "Shockjolt",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Shockjolt.md"
-    },
-    {
-      "basename": "Graceful",
-      "path": "General Rules/Traits Catalog/General/Graceful.md"
-    },
-    {
-      "basename": "Starting Wealth Chart",
-      "path": "Utilities/Design References/Starting Wealth Chart.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "Species Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
     }
   ],
   "omittedPaths": [],
