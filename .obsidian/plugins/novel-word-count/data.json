@@ -2142,7 +2142,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100766,
-      "modifiedDate": 1699928507197,
+      "modifiedDate": 1699955774165,
       "sizeInBytes": 5535
     },
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Sniper's Mark.md": {
@@ -5908,24 +5908,6 @@
       "createdDate": 1699926255337,
       "modifiedDate": 1699926256042,
       "sizeInBytes": 188
-    },
-    "fuck you brody.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 259,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8633333333333333,
-      "characterCount": 1775,
-      "nonWhitespaceCharacterCount": 1515,
-      "readingTimeInMinutes": 0.9773584905660377,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699935712790,
-      "modifiedDate": 1699935781773,
-      "sizeInBytes": 1775
     }
   }
 }

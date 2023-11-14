@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "fuck you brody",
-      "path": "fuck you brody.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
     },
     {
       "basename": "Arcane Sphere-Artifacteomancy",
@@ -59,10 +59,6 @@
     {
       "basename": "Spell List-Runeurgy",
       "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Runeurgy.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
     {
       "basename": "Spell List Dataview",
