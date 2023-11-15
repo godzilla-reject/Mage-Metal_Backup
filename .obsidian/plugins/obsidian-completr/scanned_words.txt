@@ -182,6 +182,7 @@ instance
 item
 includes
 ill
+iron
 the
 takes
 titans
@@ -293,6 +294,7 @@ table
 twist
 tunnel
 torrents
+trap
 great
 game
 gaming
@@ -474,6 +476,7 @@ forces
 former
 funnel
 forth
+fails
 came
 combines
 combat
@@ -689,6 +692,7 @@ coursing
 cyclone
 connection
 corruption
+collapses
 before
 being
 be
@@ -789,6 +793,10 @@ bashed
 brings
 bridge
 blow
+bleed
+bellow
+boiling
+bear
 not
 never
 no
@@ -983,6 +991,7 @@ administer
 additionally
 assumed
 animals
+assemble
 wear
 with
 war
@@ -1063,6 +1072,7 @@ winner
 wins
 weakness
 wilt
+wail
 sleeve
 some
 something
@@ -1307,6 +1317,11 @@ should
 send
 successful
 strike
+solid
+scream
+sound
+spiked
+scraps
 LANCER
 Learn
 Lancer
@@ -1692,6 +1707,7 @@ executable
 entry
 electrifying
 every
+except
 played
 pilot
 play
@@ -1838,6 +1854,7 @@ possibly
 permeates
 presence
 plants
+placed
 RP
 RPGs
 Ryutama
@@ -2078,6 +2095,7 @@ reach
 return
 radii
 receive
+resembling
 Pathfinder
 PF
 Philosophy
@@ -2334,6 +2352,8 @@ mega
 miss
 motions
 mortalkind
+mighty
+mouth
 GURPS
 Google
 Greyhawk
@@ -2484,6 +2504,7 @@ landing
 license
 legal
 lacks
+linking
 Ease
 Excel
 Escalation
@@ -2746,6 +2767,7 @@ vulnerable
 vs
 version
 ve
+violently
 Function
 Form
 Fleshed
@@ -3033,6 +3055,7 @@ Being
 Backup
 Bio
 Buff
+Bleeding
 Varies
 Vast
 Void

@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Conjure Simple Weaponry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md"
+    },
+    {
+      "basename": "Conjure Martial Weaponry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md"
+    },
+    {
+      "basename": "Conjure Advanced Weaponry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
+      "basename": "Battlemage",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Battlemage.md"
+    },
+    {
+      "basename": "Material",
+      "path": "General Rules/Traits Catalog/Material.md"
+    },
+    {
+      "basename": "Cedrik's Mini-Many-Minefield",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Cedrik's Mini-Many-Minefield.md"
+    },
+    {
+      "basename": "Auto-Shot Turret",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
+    },
+    {
+      "basename": "Techno-Babble",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md"
+    },
+    {
+      "basename": "Eunard's Grinding Gears",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Grinding Gears.md"
+    },
+    {
+      "basename": "Clamorous Clang",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamorous Clang.md"
+    },
+    {
+      "basename": "Clamp-Maw Trap",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
+    },
+    {
+      "basename": "Eunard's Portable Cover",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md"
+    },
+    {
+      "basename": "Spell Damage by Rank Chart",
+      "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
+    },
+    {
+      "basename": "Melanie's Wail of Blood",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md"
+    },
+    {
+      "basename": "Melanie's Shared Suffering",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md"
+    },
+    {
+      "basename": "Blood Cry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md"
+    },
+    {
+      "basename": "Hemaspike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -11,10 +91,6 @@
     {
       "basename": "Special Perks Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
-    },
-    {
-      "basename": "Battlemage",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Battlemage.md"
     },
     {
       "basename": "Mercurial Magics",
@@ -35,10 +111,6 @@
     {
       "basename": "Arcane Addict",
       "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
     {
       "basename": "Character Mechanics Overview",
@@ -101,14 +173,6 @@
       "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
-    },
-    {
       "basename": "Conditions List",
       "path": "Utilities/Lists/Conditions List.md"
     },
@@ -129,76 +193,12 @@
       "path": "General Rules/Traits Catalog/General/Legality.md"
     },
     {
-      "basename": "Spell Damage by Rank Chart",
-      "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
-    },
-    {
       "basename": "Unknown",
       "path": "General Rules/Conditions Catalog/Unknown.md"
     },
     {
       "basename": "Power-Word 'Haste'",
       "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
-    },
-    {
-      "basename": "Shocked",
-      "path": "General Rules/Conditions Catalog/Detrimental/Shocked.md"
-    },
-    {
-      "basename": "Flustered",
-      "path": "General Rules/Conditions Catalog/Detrimental/Flustered.md"
-    },
-    {
-      "basename": "Arcane Salvo",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
-    },
-    {
-      "basename": "Arcane Barrier",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
-    },
-    {
-      "basename": "Buckler",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md"
-    },
-    {
-      "basename": "Ane's Screaming Cyclone",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Ane's Screaming Cyclone.md"
-    },
-    {
-      "basename": "Lightning Bolt",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md"
-    },
-    {
-      "basename": "Flusterdome",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
-    },
-    {
-      "basename": "Defensive",
-      "path": "General Rules/Traits Catalog/General/Defensive.md"
-    },
-    {
-      "basename": "Area",
-      "path": "General Rules/Traits Catalog/General/Area.md"
-    },
-    {
-      "basename": "Fleeting Featherstep",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
-    },
-    {
-      "basename": "Program",
-      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Attack",
-      "path": "General Rules/Traits Catalog/General/Attack.md"
-    },
-    {
-      "basename": "Melee",
-      "path": "General Rules/Traits Catalog/General/Melee.md"
     }
   ],
   "omittedPaths": [],
