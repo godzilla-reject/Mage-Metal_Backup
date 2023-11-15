@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Dolman's Scorcher",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md"
+    },
+    {
+      "basename": "Fiery Dissipation",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
     },
     {
       "basename": "Battlemage",
@@ -191,14 +199,6 @@
     {
       "basename": "Legality",
       "path": "General Rules/Traits Catalog/General/Legality.md"
-    },
-    {
-      "basename": "Unknown",
-      "path": "General Rules/Conditions Catalog/Unknown.md"
-    },
-    {
-      "basename": "Power-Word 'Haste'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
     }
   ],
   "omittedPaths": [],
