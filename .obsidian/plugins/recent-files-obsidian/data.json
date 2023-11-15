@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Dolman's Scorcher",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md"
-    },
-    {
-      "basename": "Fiery Dissipation",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Spell Template",
@@ -15,6 +11,14 @@
     {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Dolman's Scorcher",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md"
+    },
+    {
+      "basename": "Fiery Dissipation",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md"
     },
     {
       "basename": "Conjure Simple Weaponry",
@@ -87,10 +91,6 @@
     {
       "basename": "Hemaspike",
       "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Novice Blood Mage",
