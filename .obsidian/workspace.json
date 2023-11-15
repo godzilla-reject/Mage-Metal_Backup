@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe52a07ce592ee1",
+        "id": "0c6694f9ed55d9a8",
         "type": "tabs",
         "children": [
           {
-            "id": "45dae628c1114224",
+            "id": "8443022bc6a25cef",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -239,7 +239,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "45dae628c1114224",
+  "active": "8443022bc6a25cef",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Battlemage.md",
