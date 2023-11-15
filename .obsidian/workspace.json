@@ -6,7 +6,7 @@
       {
         "id": "aaba1e39c4502b70",
         "type": "tabs",
-        "dimension": 62.34042553191489,
+        "dimension": 54.09574468085107,
         "children": [
           {
             "id": "46718cc72be89e5d",
@@ -19,7 +19,7 @@
             }
           },
           {
-            "id": "0224eaba8baf7b69",
+            "id": "005fbbcf750f711d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,14 +30,53 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dd1e2e8ee3545c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f21b2bfaed709b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6c304aee71773c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "5b334d47cf2336dd",
         "type": "tabs",
-        "dimension": 37.659574468085104,
+        "dimension": 45.90425531914893,
         "children": [
           {
             "id": "ad97175794b3bddf",
@@ -90,9 +129,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "99d8675e0b513636",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +214,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +230,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +251,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md"
-              }
+              "state": {}
             }
           },
           {
@@ -311,9 +354,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0224eaba8baf7b69",
+  "active": "99d8675e0b513636",
   "lastOpenFiles": [
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md",
+    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md",
     "General Rules/Traits Catalog/General/Variable.md",
@@ -321,7 +369,6 @@
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md",
     "Utilities/Design References/Spell Damage by Rank Chart.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Relieve Malediction.md",
-    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Patch-Up.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator's Sight.md",
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Heal'.md",
@@ -335,11 +382,7 @@
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md",
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
     "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md",
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md",
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md",
     "Utilities/Dashboard.canvas",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md",
     "Testers",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
