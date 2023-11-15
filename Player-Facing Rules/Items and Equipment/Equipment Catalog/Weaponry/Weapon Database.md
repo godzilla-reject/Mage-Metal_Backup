@@ -271,6 +271,7 @@ columns:
       - { label: "1d6", value: "1d6", color: "hsl(0,0%,0%)"}
       - { label: "1d10", value: "1d10", color: "hsl(0,0%,0%)"}
       - { label: "1d12", value: "1d12", color: "hsl(0,0%,0%)"}
+      - { label: "1", value: "1", color: "hsl(0,0%,0%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

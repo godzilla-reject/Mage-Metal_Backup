@@ -1,36 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Weaponry Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
-    },
-    {
-      "basename": "Escaton's Boulder Fists",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
-    },
-    {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Earthen Armor",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md"
     },
     {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
     {
+      "basename": "Escaton's Seismic Shudder",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md"
+    },
+    {
+      "basename": "Escaton's Boulder Fists",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
+    },
+    {
+      "basename": "Earthen Armor",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md"
+    },
+    {
       "basename": "Earthen Spikes",
       "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md"
     },
     {
-      "basename": "Escaton's Seismic Shudder",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md"
+      "basename": "Boulder Fists",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Weaponry Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
     },
     {
       "basename": "Spell Template",
@@ -195,10 +199,6 @@
     {
       "basename": "Novice Blood Mage",
       "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md"
-    },
-    {
-      "basename": "Special Perks Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
     }
   ],
   "omittedPaths": [],
