@@ -129,17 +129,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "99d8675e0b513636",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,6 +184,21 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "99d8675e0b513636",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -1.6079541433473854
+                }
+              }
+            }
           }
         ]
       }
@@ -214,6 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +260,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Utilities/Dashboard.canvas"
+              }
             }
           },
           {
@@ -354,8 +365,49 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "99d8675e0b513636",
+  "floating": {
+    "id": "5ff6c2473d145880",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bd384e8152b991d4",
+        "type": "window",
+        "children": [
+          {
+            "id": "806077b63ee5f563",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "01e0b88704e3d876",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Utilities/Dashboard.canvas",
+                    "viewState": {
+                      "x": -530,
+                      "y": -1010,
+                      "zoom": -1.6079541433473854
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1627,
+        "y": 23,
+        "width": 863,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "01e0b88704e3d876",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
@@ -381,8 +433,6 @@
     "General Rules/Conditions Catalog/Immobilized.md",
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md",
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md",
-    "Utilities/Dashboard.canvas",
     "Testers",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
