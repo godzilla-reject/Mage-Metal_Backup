@@ -16,4 +16,4 @@ Completed: true
 |   Duration     |        Instant                           |
 | Traits | [[Swift]], [[Auditory]], [[Vocal]], [[Void]] |
 > ###### *Details*
-> Your voice echoes across the battlefield, and you utter a single esoteric word that carries an echo of the Empty Nothing on its clamor. Pick one target within range. They must make a **Tenacity** check. On a failure, they take `dice:1d4` **void** damage the next time they would take damage. On a success, the target takes 2 **void** damage.  
+> Your voice echoes across the battlefield, and you utter a single esoteric word that carries an echo of the Empty Nothing on its clamor. Pick one target within range. They must make a **Tenacity** check. On a failure, they take `dice:1d4+2` **void** damage the next time they would take damage. On a success, the target takes 2 **void** damage.  

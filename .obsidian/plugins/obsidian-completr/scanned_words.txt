@@ -295,6 +295,8 @@ twist
 tunnel
 torrents
 trap
+tiers
+touch
 great
 game
 gaming
@@ -693,6 +695,7 @@ cyclone
 connection
 corruption
 collapses
+commands
 before
 being
 be
@@ -797,6 +800,8 @@ bleed
 bellow
 boiling
 bear
+burst
+bolstering
 not
 never
 no
@@ -992,6 +997,8 @@ additionally
 assumed
 animals
 assemble
+attacker
+attacking
 wear
 with
 war
@@ -1073,6 +1080,8 @@ wins
 weakness
 wilt
 wail
+writhe
+wears
 sleeve
 some
 something
@@ -1600,6 +1609,7 @@ detecting
 denotes
 despicable
 discolor
+differ
 ever
 expand
 easy
@@ -1708,6 +1718,7 @@ entry
 electrifying
 every
 except
+erupt
 played
 pilot
 play
@@ -1855,6 +1866,7 @@ permeates
 presence
 plants
 placed
+provided
 RP
 RPGs
 Ryutama
@@ -1988,6 +2000,7 @@ hi
 heatsight
 howling
 had
+harming
 refine
 robust
 required
@@ -2096,6 +2109,7 @@ return
 radii
 receive
 resembling
+reinforcing
 Pathfinder
 PF
 Philosophy
@@ -2732,6 +2746,7 @@ He
 Held
 Hall
 Heatsight
+Hastened
 you
 your
 yourself
@@ -2768,6 +2783,7 @@ vs
 version
 ve
 violently
+vitality
 Function
 Form
 Fleshed

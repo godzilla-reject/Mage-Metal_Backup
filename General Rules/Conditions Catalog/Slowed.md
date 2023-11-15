@@ -1,11 +1,10 @@
 ---
-tags:
+Tags:
   - Condition
-Category: Beneficial
+Category: Detrimental
 ---
 > [!infobox|left]+ Condition Entry
 > # `=this.file.name`
 > ###### Condition Information
 > Category: `=this.Category`
-> 
-> ######  *Stage One*
+> This condition will always have a qualifier.

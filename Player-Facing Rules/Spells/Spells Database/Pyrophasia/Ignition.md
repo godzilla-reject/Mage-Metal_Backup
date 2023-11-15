@@ -18,4 +18,4 @@ Completed: true
 > You brandish your catalyst, creating a plume of flame within range. Make a melee spell attack, dealing `dice: 1d4` **fire** damage. The target then must make a **Body** check, with favor. On a failure, they gain the [[Ignited]] condition. 
 > - - -
 > ***Immolation Effect***
-> If the target has the [[Ignited]], Ignition deals `dice: 1d8` **fire** damage instead.
+> If the target has the [[Ignited]] condition, Ignition deals `dice: 1d8` **fire** damage instead.

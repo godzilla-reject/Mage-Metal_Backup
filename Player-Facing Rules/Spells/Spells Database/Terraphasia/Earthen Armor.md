@@ -13,7 +13,7 @@ Completed: true
 |   Rank   |       `=this.Rank`       |
 |  School  |      `=this.School`      |
 |  Range   |           Self           |
-| Duration |        1 minute.         |
+| Duration |        1 minute         |
 |  Traits  | [[Defensive]], [[Earth]] |
 > ###### *Details*
 > You mold earth around yourself to form dense armor that protects well but slows you.

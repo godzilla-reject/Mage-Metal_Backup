@@ -16,4 +16,4 @@ Completed: true
 | Duration |     Instant     |
 |  Traits  |   [[Healing]], [[Area\|Area (12-sp Burst)]]   |
 > ###### *Details*
-> You release a weak wave of healing around you. All allies within the Area regain 1 Health.
+> You release a weak wave of healing around you. All allies within the Area regain `dice:1d4` Health.

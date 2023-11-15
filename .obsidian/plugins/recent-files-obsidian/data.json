@@ -1,24 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "Earthen Armor",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md"
+    },
+    {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Heal Wounds",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
+    },
+    {
+      "basename": "Harm Wounds",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md"
+    },
+    {
+      "basename": "Variable",
+      "path": "General Rules/Traits Catalog/General/Variable.md"
+    },
+    {
+      "basename": "Arcane Salvo",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
+    },
+    {
+      "basename": "Reinforce Vitality",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md"
+    },
+    {
+      "basename": "Spell Damage by Rank Chart",
+      "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
+    },
+    {
+      "basename": "Relieve Malediction",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Relieve Malediction.md"
     },
     {
       "basename": "Spell Template",
       "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Patch-Up",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Patch-Up.md"
+    },
+    {
+      "basename": "Predator's Sight",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator's Sight.md"
+    },
+    {
+      "basename": "Power-Word 'Heal'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Heal'.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Hastened",
+      "path": "General Rules/Conditions Catalog/Beneficial/Hastened.md"
+    },
+    {
+      "basename": "Slowed",
+      "path": "General Rules/Conditions Catalog/Slowed.md"
+    },
+    {
+      "basename": "Power-Word 'Haste'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
+    },
+    {
+      "basename": "Unknown",
+      "path": "General Rules/Conditions Catalog/Unknown.md"
+    },
+    {
+      "basename": "Immobilized",
+      "path": "General Rules/Conditions Catalog/Immobilized.md"
+    },
+    {
+      "basename": "Power-Word 'Ache'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
+    },
+    {
+      "basename": "Power-Word 'Harm'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md"
     },
     {
       "basename": "Dolman's Scorcher",
       "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md"
     },
     {
+      "basename": "Ignition",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
+    },
+    {
+      "basename": "Fireball",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md"
+    },
+    {
       "basename": "Fiery Dissipation",
       "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Conjure Simple Weaponry",
@@ -31,10 +119,6 @@
     {
       "basename": "Conjure Advanced Weaponry",
       "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Battlemage",
@@ -71,10 +155,6 @@
     {
       "basename": "Eunard's Portable Cover",
       "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md"
-    },
-    {
-      "basename": "Spell Damage by Rank Chart",
-      "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
     },
     {
       "basename": "Melanie's Wail of Blood",
@@ -119,86 +199,6 @@
     {
       "basename": "Arcane Addict",
       "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Arcane Sphere-Artifacteomancy",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
-    },
-    {
-      "basename": "Proficiency Template",
-      "path": "Templates/Markdown Templates/General Templates/Proficiency Template.md"
-    },
-    {
-      "basename": "Arcane Sphere-Elemancy",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md"
-    },
-    {
-      "basename": "Arcane Sphere-Humaana",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md"
-    },
-    {
-      "basename": "Arcane Sphere-Technomynism",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
-    },
-    {
-      "basename": "Spell List-Terraphasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md"
-    },
-    {
-      "basename": "Spell List-Pyrophasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md"
-    },
-    {
-      "basename": "Spell List-Metallomancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Metallomancy.md"
-    },
-    {
-      "basename": "Spell List-Hydrophasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Hydrophasia.md"
-    },
-    {
-      "basename": "Spell List-Electromancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Electromancy.md"
-    },
-    {
-      "basename": "Spell List-Aerophasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md"
-    },
-    {
-      "basename": "Spell List-Runeurgy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Runeurgy.md"
-    },
-    {
-      "basename": "Spell List Dataview",
-      "path": "Templates/Dataview Templates/Spell List Dataview.md"
-    },
-    {
-      "basename": "Spell List-Glyphiamancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Trait Template",
-      "path": "Templates/Markdown Templates/General Templates/Trait Template.md"
-    },
-    {
-      "basename": "Magical",
-      "path": "General Rules/Traits Catalog/General/Magical.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Legality",
-      "path": "General Rules/Traits Catalog/General/Legality.md"
     }
   ],
   "omittedPaths": [],

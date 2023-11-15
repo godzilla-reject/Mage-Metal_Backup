@@ -1,7 +1,7 @@
 ---
-tags:
+Tags:
   - Condition
-Category: Beneficial
+Category: Detrimental
 ---
 > [!infobox|left]+ Condition Entry
 > # `=this.file.name`
