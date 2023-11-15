@@ -4,25 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "93b0831ce6846f23",
+        "id": "aaba1e39c4502b70",
         "type": "tabs",
+        "dimension": 54.09574468085107,
         "children": [
           {
-            "id": "e6eebf0ab36f08e4",
+            "id": "46718cc72be89e5d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.42840472301667265
-                }
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
           }
         ]
+      },
+      {
+        "id": "5b334d47cf2336dd",
+        "type": "tabs",
+        "dimension": 45.90425531914893,
+        "children": [
+          {
+            "id": "ad97175794b3bddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "14eb68de340edd6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "25406087a6361eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Design References/Spell Damage by Rank Chart.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0ca4d1b0612b5e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Mage Templates/Spell Template.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
           },
@@ -241,10 +297,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e6eebf0ab36f08e4",
+  "active": "46718cc72be89e5d",
   "lastOpenFiles": [
     "Templates/Markdown Templates/Mage Templates/Spell Template.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md",
     "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md",
@@ -265,11 +322,9 @@
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Mercurial Magics.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Lifebringer.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md",
     "Testers",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
