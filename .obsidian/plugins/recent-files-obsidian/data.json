@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Weaponry Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
     },
     {
       "basename": "Escaton's Boulder Fists",
       "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Earthen Armor",
@@ -191,14 +199,6 @@
     {
       "basename": "Special Perks Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
-    },
-    {
-      "basename": "Mercurial Magics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Mercurial Magics.md"
-    },
-    {
-      "basename": "Lifebringer",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Lifebringer.md"
     }
   ],
   "omittedPaths": [],

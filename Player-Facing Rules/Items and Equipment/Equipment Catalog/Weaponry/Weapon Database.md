@@ -94,6 +94,7 @@ columns:
       - { label: "Sword", value: "Sword", color: "hsl(179, 95%, 90%)"}
       - { label: "Axe", value: "Axe", color: "hsl(189, 95%, 90%)"}
       - { label: "Handguns", value: "Handguns", color: "hsl(291, 95%, 90%)"}
+      - { label: "Spell", value: "Spell", color: "hsl(339, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

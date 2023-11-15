@@ -2823,6 +2823,7 @@ Flight
 Fired
 Full
 Flustered
+Fist
 Dungeons
 Dragons
 Definitely
@@ -3074,6 +3075,7 @@ Backup
 Bio
 Buff
 Bleeding
+Boulder
 Varies
 Vast
 Void

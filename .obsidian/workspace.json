@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
               }
             }
           },
@@ -376,19 +376,35 @@
           {
             "id": "806077b63ee5f563",
             "type": "tabs",
+            "dimension": 60.872395833333336,
             "children": [
               {
-                "id": "01e0b88704e3d876",
+                "id": "28f01b6dac010892",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "database-plugin",
                   "state": {
-                    "file": "Utilities/Dashboard.canvas",
-                    "viewState": {
-                      "x": -530,
-                      "y": -1010,
-                      "zoom": -1.6079541433473854
-                    }
+                    "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "246b1bae65b7aa3a",
+            "type": "tabs",
+            "dimension": 39.12760416666667,
+            "children": [
+              {
+                "id": "57f454179b685c17",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
                   }
                 }
               }
@@ -396,19 +412,22 @@
           }
         ],
         "direction": "vertical",
-        "x": 1627,
-        "y": 23,
-        "width": 863,
-        "height": 992,
-        "maximize": false,
+        "x": -1300,
+        "y": 289,
+        "width": 864,
+        "height": 993,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "01e0b88704e3d876",
+  "active": "57f454179b685c17",
   "lastOpenFiles": [
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Spell",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Spell/Boulder Fists.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md",
@@ -432,7 +451,6 @@
     "General Rules/Conditions Catalog/Unknown.md",
     "General Rules/Conditions Catalog/Immobilized.md",
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
     "Testers",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
@@ -441,7 +459,6 @@
     "General Rules/Conditions Catalog/Unsorted",
     "README.txt",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal",
-    "Utilities/Lists",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General"
+    "Utilities/Lists"
   ]
 }
