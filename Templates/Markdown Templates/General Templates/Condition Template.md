@@ -1,6 +1,5 @@
 ---
 Tags:
-  - Condition
 Category: Unsorted
 ---
 > [!infobox|left]+ Condition Entry

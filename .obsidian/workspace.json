@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b5b3f5ec775a95",
+        "id": "8594533cc3f26e63",
         "type": "tabs",
         "children": [
           {
-            "id": "224687177c42fab1",
+            "id": "450b2be155fc2a2b",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.42840472301667265
+                  "zoom": -0.726548978220868
                 }
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:##todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -241,8 +240,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "224687177c42fab1",
+  "active": "450b2be155fc2a2b",
   "lastOpenFiles": [
+    "Utilities/Lists/Conditions List.md",
+    "General Rules/Conditions Catalog/Beneficial/Hastened.md",
+    "Utilities/Lists/Trait List.md",
+    "General Rules/Traits Catalog/General/Magical.md",
+    "Templates/Dataview Templates/Spell List Dataview.md",
+    "Templates/Markdown Templates/General Templates/Condition Template.md",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md",
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md",
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md",
+    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md",
+    "General Rules/Traits Catalog/Spell-Only/Aura.md",
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md",
+    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
+    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
@@ -251,26 +265,11 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
     "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
-    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Placeholder-Body.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
-    "Utilities/Dashboard Notes/To-Do List.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
-    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md",
-    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
-    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
-    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Spell",
     "Testers",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",

@@ -8,12 +8,13 @@ Completed: true
 > [!infobox|left]+ Spell Entry
 > # `=this.file.name`
 > ###### Spell Information
-|        |                                 |
-|:------:|:-------------------------------:|
-|  Rank  |          `=this.Rank`           |
-| School |         `=this.School`          |
-| Range  |            3 spaces             |
-| Traits | [[Modal]], [[Water]] |
+|          |                      |
+|:--------:|:--------------------:|
+|   Rank   |     `=this.Rank`     |
+|  School  |    `=this.School`    |
+|  Range   |       3 spaces       |
+| Duration |       Instant        |
+|  Traits  | [[Modal]], [[Water]] |
 > ###### *Details*
 > *Whenever you cast this spell, pick one of the following modes.*
 > 

@@ -10,7 +10,7 @@ cssclasses:
 		- [ ] Traits Overview
 		- [ ] Conditions Overview
 		- [ ] Combat Basics
-		- [ ] Running The Game
+		- [ ] Playing The Game
 	- [ ]  To-Do For: Mage Section of Character Creation (YAY)
 		- [ ]  ⏫ Get Spells Database to 100% complete markers.
 			- [ ] Add rank 1, 2 and 3 Hydrophasia spells.

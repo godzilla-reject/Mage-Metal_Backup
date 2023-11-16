@@ -1,7 +1,7 @@
 ---
 Sphere: Elemancy
 Attribute: Potential
-Spell: "[[Aquastrike]]"
+Spell: "[[Steam-Spike]]"
 Path1: the All-Consuming Tsunami
 Path2: the Shifting Tides
 Tags:

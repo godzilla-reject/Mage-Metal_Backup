@@ -54,7 +54,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699599392802,
-      "modifiedDate": 1699599692955,
+      "modifiedDate": 1700123010099,
       "sizeInBytes": 105
     },
     "Utilities/Lists/Conditions List.md": {
@@ -72,7 +72,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699599616295,
-      "modifiedDate": 1699599663201,
+      "modifiedDate": 1700123028772,
       "sizeInBytes": 109
     },
     "Utilities/Lists/Equipment List.md": {
@@ -198,7 +198,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100910,
-      "modifiedDate": 1700115538100,
+      "modifiedDate": 1700120549181,
       "sizeInBytes": 1447
     },
     "Utilities/Dashboard Notes/Databases.md": {
@@ -522,8 +522,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100874,
-      "modifiedDate": 1699612004080,
-      "sizeInBytes": 188
+      "modifiedDate": 1700122898249,
+      "sizeInBytes": 174
     },
     "Templates/Markdown Templates/DevHelper Templates/Symbols/Two Actions.md": {
       "isCountable": true,
@@ -1123,19 +1123,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 37,
+      "wordCount": 43,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.12333333333333334,
-      "characterCount": 221,
-      "nonWhitespaceCharacterCount": 184,
-      "readingTimeInMinutes": 0.13962264150943396,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 254,
+      "nonWhitespaceCharacterCount": 211,
+      "readingTimeInMinutes": 0.16226415094339622,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734102222,
-      "modifiedDate": 1698483015375,
-      "sizeInBytes": 281
+      "modifiedDate": 1700121791389,
+      "sizeInBytes": 314
     },
     "General Rules/Traits Catalog/Traits Database.md": {
       "isCountable": true,
@@ -2862,7 +2862,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100766,
-      "modifiedDate": 1700026775765,
+      "modifiedDate": 1700120563486,
       "sizeInBytes": 5613
     },
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Sniper's Mark.md": {
@@ -3224,24 +3224,6 @@
       "createdDate": 1700013871569,
       "modifiedDate": 1700014492844,
       "sizeInBytes": 992
-    },
-    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Aquastrike.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 143,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4766666666666667,
-      "characterCount": 951,
-      "nonWhitespaceCharacterCount": 703,
-      "readingTimeInMinutes": 0.539622641509434,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1698734100804,
-      "modifiedDate": 1699866518964,
-      "sizeInBytes": 1020
     },
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md": {
       "isCountable": true,
@@ -4862,8 +4844,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100582,
-      "modifiedDate": 1700116795662,
-      "sizeInBytes": 2447
+      "modifiedDate": 1700120714159,
+      "sizeInBytes": 2448
     },
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md": {
       "isCountable": true,
@@ -6070,6 +6052,78 @@
       "createdDate": 1698734100435,
       "modifiedDate": 1700119642840,
       "sizeInBytes": 1053
+    },
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 148,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.49333333333333335,
+      "characterCount": 944,
+      "nonWhitespaceCharacterCount": 712,
+      "readingTimeInMinutes": 0.5584905660377358,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1698734100804,
+      "modifiedDate": 1700121154482,
+      "sizeInBytes": 1013
+    },
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 145,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.48333333333333334,
+      "characterCount": 866,
+      "nonWhitespaceCharacterCount": 646,
+      "readingTimeInMinutes": 0.5471698113207547,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700120899996,
+      "modifiedDate": 1700122805834,
+      "sizeInBytes": 935
+    },
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 61,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 426,
+      "nonWhitespaceCharacterCount": 286,
+      "readingTimeInMinutes": 0.23018867924528302,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700121073082,
+      "modifiedDate": 1700122800952,
+      "sizeInBytes": 496
+    },
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 152,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5066666666666667,
+      "characterCount": 1117,
+      "nonWhitespaceCharacterCount": 771,
+      "readingTimeInMinutes": 0.5735849056603773,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700121013123,
+      "modifiedDate": 1700122806614,
+      "sizeInBytes": 1186
     }
   }
 }

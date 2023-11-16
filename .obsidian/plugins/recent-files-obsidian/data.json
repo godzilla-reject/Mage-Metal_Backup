@@ -5,6 +5,66 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Hastened",
+      "path": "General Rules/Conditions Catalog/Beneficial/Hastened.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Magical",
+      "path": "General Rules/Traits Catalog/General/Magical.md"
+    },
+    {
+      "basename": "Spell List Dataview",
+      "path": "Templates/Dataview Templates/Spell List Dataview.md"
+    },
+    {
+      "basename": "Condition Template",
+      "path": "Templates/Markdown Templates/General Templates/Condition Template.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Wormik's Torrent",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
+    },
+    {
+      "basename": "Shifting Tides",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md"
+    },
+    {
+      "basename": "Hydro-Oscillation Field",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md"
+    },
+    {
+      "basename": "Blood Cry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md"
+    },
+    {
+      "basename": "Aura",
+      "path": "General Rules/Traits Catalog/Spell-Only/Aura.md"
+    },
+    {
+      "basename": "Steam-Spike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Skill Template",
       "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
@@ -35,14 +95,6 @@
     {
       "basename": "Weapon Template",
       "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "History Database",
@@ -83,10 +135,6 @@
     {
       "basename": "Armor Overview",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
     {
       "basename": "Escaton's Seismic Shudder",
@@ -151,54 +199,6 @@
     {
       "basename": "Predator's Sight",
       "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator's Sight.md"
-    },
-    {
-      "basename": "Power-Word 'Heal'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Heal'.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Hastened",
-      "path": "General Rules/Conditions Catalog/Beneficial/Hastened.md"
-    },
-    {
-      "basename": "Slowed",
-      "path": "General Rules/Conditions Catalog/Slowed.md"
-    },
-    {
-      "basename": "Power-Word 'Haste'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
-    },
-    {
-      "basename": "Unknown",
-      "path": "General Rules/Conditions Catalog/Unknown.md"
-    },
-    {
-      "basename": "Immobilized",
-      "path": "General Rules/Conditions Catalog/Immobilized.md"
-    },
-    {
-      "basename": "Power-Word 'Ache'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
-    },
-    {
-      "basename": "Power-Word 'Harm'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md"
-    },
-    {
-      "basename": "Dolman's Scorcher",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md"
-    },
-    {
-      "basename": "Ignition",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
     }
   ],
   "omittedPaths": [],

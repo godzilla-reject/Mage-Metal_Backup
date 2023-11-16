@@ -106,6 +106,7 @@ Matthew
 Margins
 Modifier
 Map
+Moisture
 in
 inspiration
 it
@@ -703,6 +704,7 @@ collapses
 commands
 condense
 clad
+counts
 before
 being
 be
@@ -1338,6 +1340,7 @@ sound
 spiked
 scraps
 stacking
+swap
 LANCER
 Learn
 Lancer
@@ -1436,6 +1439,7 @@ Theater
 Toolkit
 Touch
 Tol
+Tide
 oriented
 of
 on
@@ -1489,6 +1493,7 @@ original
 operating
 object
 optics
+opposite
 designer
 drag
 do
@@ -2252,6 +2257,7 @@ Applied
 Author
 Area
 Animals
+Allied
 metal
 magic
 mechanics
@@ -2844,6 +2850,7 @@ Fired
 Full
 Flustered
 Fist
+Frost
 Dungeons
 Dragons
 Definitely
@@ -3007,6 +3014,8 @@ Sustained
 Slash
 SpellComp
 Section
+Sustaining
+Sustain
 Jackson
 Jack
 Juggernaut

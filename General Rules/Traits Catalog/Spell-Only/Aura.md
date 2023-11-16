@@ -7,4 +7,4 @@ Completed: true
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`
 > ###### Trait Information
-> Spells with this trait generate a field that grants an effect to creatures within it. Spells with this trait always have a range in radii.
+> This trait will always have a qualifier. Spells with this trait generate a field that grants an effect to creatures within it, the area of which is given in the qualifier.
