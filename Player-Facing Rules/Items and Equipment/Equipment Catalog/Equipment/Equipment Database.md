@@ -20,8 +20,8 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: -1
-    isSorted: false
+    sortIndex: 1
+    isSorted: true
     isSortedDesc: false
     config:
       enable_media_view: true
@@ -67,6 +67,8 @@ columns:
     position: 8
     isHidden: false
     sortIndex: -1
+    isSorted: false
+    isSortedDesc: true
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -161,8 +163,8 @@ columns:
     position: 5
     skipPersist: false
     isHidden: false
-    sortIndex: 0
-    isSorted: true
+    sortIndex: -1
+    isSorted: false
     isSortedDesc: false
     options:
       - { label: "Adventuring", value: "Adventuring", color: "hsl(132, 95%, 90%)"}

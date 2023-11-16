@@ -4,25 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "8c5b2f9014305409",
+        "id": "4a10650b0184e4bc",
         "type": "tabs",
         "children": [
           {
-            "id": "57e5c96ac0bea108",
+            "id": "3cf8b176659142ff",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.726548978220868
-                }
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf8c78db40be4382",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -96,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Utilities/Dashboard.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -240,10 +239,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "57e5c96ac0bea108",
+  "active": "cf8c78db40be4382",
   "lastOpenFiles": [
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md",
     "Untitled.md",
@@ -274,9 +277,6 @@
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
     "Utilities/Rolltables",
-    "Templates/Markdown Templates/DevHelper Templates",
-    "General Rules/Conditions Catalog/Unsorted",
-    "README.txt",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal"
+    "Templates/Markdown Templates/DevHelper Templates"
   ]
 }

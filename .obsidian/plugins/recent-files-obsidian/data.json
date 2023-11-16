@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "Pilot Role Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
-    },
-    {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
       "basename": "Personal Scanner",
