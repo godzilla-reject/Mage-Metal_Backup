@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "166545b5436ea398",
+        "id": "8c5b2f9014305409",
         "type": "tabs",
         "children": [
           {
-            "id": "d9545b0fa218adfa",
+            "id": "57e5c96ac0bea108",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -565.1009841020661,
-                  "y": -739.7224224140913,
-                  "zoom": -0.22654897822086795
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.726548978220868
                 }
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -240,7 +240,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d9545b0fa218adfa",
+  "active": "57e5c96ac0bea108",
   "lastOpenFiles": [
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
     "Utilities/Dashboard.canvas",
