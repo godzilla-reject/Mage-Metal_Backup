@@ -5,6 +5,8 @@ Tags:
   - Skills
 ---
 # Skill Description-`=this.file.name`
+Notes:
+- Can be used on Melee or Ranged, but has a penalty when used in Engagement. 
 
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category** | `=this.Category`   

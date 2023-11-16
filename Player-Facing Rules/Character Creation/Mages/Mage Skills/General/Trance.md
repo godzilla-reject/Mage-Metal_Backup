@@ -1,5 +1,5 @@
 ---
-Category: Unsorted
+Category: General
 Attribute: Body
 Tags:
   - Skills

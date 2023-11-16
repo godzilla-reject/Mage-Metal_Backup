@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Blocking",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Blocking.md"
+    },
+    {
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
+      "basename": "Prowess",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md"
+    },
+    {
       "basename": "Trance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Trance.md"
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
     },
     {
       "basename": "Weapon Template",
@@ -183,22 +199,6 @@
     {
       "basename": "Ignition",
       "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
-    },
-    {
-      "basename": "Fireball",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md"
-    },
-    {
-      "basename": "Fiery Dissipation",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md"
-    },
-    {
-      "basename": "Conjure Simple Weaponry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md"
-    },
-    {
-      "basename": "Conjure Martial Weaponry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md"
     }
   ],
   "omittedPaths": [],

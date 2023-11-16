@@ -1,8 +1,6 @@
 ---
-Category: Unsorted
-Attribute: Power
-tags:
-  - Skills
+Category: Practical
+Attribute: Mind
 Tags:
   - Skills
 ---

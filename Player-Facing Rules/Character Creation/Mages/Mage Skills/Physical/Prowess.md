@@ -1,6 +1,6 @@
 ---
-Category: General
-Attribute: Mind
+Category: Physical
+Attribute: Power
 Tags:
   - Skills
 ---

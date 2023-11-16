@@ -5517,55 +5517,37 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 475,
+      "wordCount": 482,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5833333333333333,
-      "characterCount": 2904,
-      "nonWhitespaceCharacterCount": 2417,
-      "readingTimeInMinutes": 1.7924528301886793,
+      "pageCount": 1.6066666666666667,
+      "characterCount": 2960,
+      "nonWhitespaceCharacterCount": 2462,
+      "readingTimeInMinutes": 1.818867924528302,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699150940820,
-      "modifiedDate": 1699163098504,
-      "sizeInBytes": 2980
-    },
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Shielding.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 112,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.37333333333333335,
-      "characterCount": 812,
-      "nonWhitespaceCharacterCount": 684,
-      "readingTimeInMinutes": 0.4226415094339623,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1698734100435,
-      "modifiedDate": 1699153278144,
-      "sizeInBytes": 872
+      "modifiedDate": 1700119820427,
+      "sizeInBytes": 3036
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 112,
+      "wordCount": 129,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.37333333333333335,
-      "characterCount": 812,
-      "nonWhitespaceCharacterCount": 684,
-      "readingTimeInMinutes": 0.4226415094339623,
+      "pageCount": 0.43,
+      "characterCount": 897,
+      "nonWhitespaceCharacterCount": 751,
+      "readingTimeInMinutes": 0.4867924528301887,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100428,
-      "modifiedDate": 1699153279154,
-      "sizeInBytes": 873
+      "modifiedDate": 1700119551572,
+      "sizeInBytes": 958
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Theology.md": {
       "isCountable": true,
@@ -5999,24 +5981,6 @@
       "modifiedDate": 1695339669279,
       "sizeInBytes": 3055
     },
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Hacking.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 188,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6266666666666667,
-      "characterCount": 1313,
-      "nonWhitespaceCharacterCount": 1109,
-      "readingTimeInMinutes": 0.7094339622641509,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699588243439,
-      "modifiedDate": 1699588276720,
-      "sizeInBytes": 1371
-    },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Placeholder-Body.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6035,7 +5999,7 @@
       "modifiedDate": 1700117670226,
       "sizeInBytes": 1389
     },
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Placeholder-Power.md": {
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -6050,10 +6014,10 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1700117652377,
-      "modifiedDate": 1700117673225,
-      "sizeInBytes": 1390
+      "modifiedDate": 1700119280782,
+      "sizeInBytes": 1373
     },
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Trance.md": {
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -6068,8 +6032,44 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1700117644651,
-      "modifiedDate": 1700117842062,
-      "sizeInBytes": 1372
+      "modifiedDate": 1700119320454,
+      "sizeInBytes": 1371
+    },
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 188,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6266666666666667,
+      "characterCount": 1313,
+      "nonWhitespaceCharacterCount": 1109,
+      "readingTimeInMinutes": 0.7094339622641509,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699588243439,
+      "modifiedDate": 1700119329322,
+      "sizeInBytes": 1373
+    },
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Blocking.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 142,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.47333333333333333,
+      "characterCount": 993,
+      "nonWhitespaceCharacterCount": 835,
+      "readingTimeInMinutes": 0.5358490566037736,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1698734100435,
+      "modifiedDate": 1700119642840,
+      "sizeInBytes": 1053
     }
   }
 }

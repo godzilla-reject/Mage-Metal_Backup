@@ -5,6 +5,9 @@ Tags:
   - Skills
 ---
 # Skill Description-`=this.file.name`
+Notes:
+- Cannot be used against Ranged attacks (until Master, and then still has high penalties.)
+- Want to encourage Dodging for ranged, Blocking for melee, and Pain-Tol for both.
 
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category** | `=this.Category`   
