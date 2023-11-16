@@ -11,10 +11,11 @@ cssclasses:
 	- [ ] Laser Cutter (Aux)
 	- [ ] Vulkan Cannons (Nagging weapons) (Aux)
 - [ ] #todo 🔺 Get Spells Database to 100% complete markers.
-- [x] #todo ⏫ Clarify skills in the Histories. ✅ 2023-11-10
-- [x] #todo 🔺 Get Equipment Database to 100% complete. ✅ 2023-11-13
+	- [ ] Add rank 1, 2 and 3 Hydrophasia spells.
 - [ ] #todo 🔺  Get Konnar to do a character creation.
 - [ ] #todo List for Monsters:
+	- [ ] Monster Design Overview
+	- [ ] Monster Balancing Guidelines and Rules
 	- [ ] Mage//Metal Monster Statblock layout
 	- [ ] Monster Database Creation
 	- [ ] Monster Template Creation

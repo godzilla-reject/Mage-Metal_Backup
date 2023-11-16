@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hemaspike",
       "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
-    },
-    {
-      "basename": "Novice Blood Mage",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md"
     }
   ],
   "omittedPaths": [],

@@ -15,14 +15,28 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
+                  "x": -525.3090234857849,
+                  "y": -994.3634116192829,
                   "zoom": -0.644925777151695
                 }
               }
             }
+          },
+          {
+            "id": "9097e19a7d9d9a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Dashboard Notes/To-Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Dashboard Notes/To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Utilities/Dashboard Notes/To-Do List.md"
               }
             }
           },
@@ -212,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,8 +255,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "54b90d4207c25c39",
+  "active": "9097e19a7d9d9a5f",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
@@ -251,7 +267,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Spell",
-    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/Spell Template.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md",
@@ -269,7 +284,6 @@
     "General Rules/Conditions Catalog/Slowed.md",
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md",
     "General Rules/Conditions Catalog/Unknown.md",
-    "General Rules/Conditions Catalog/Immobilized.md",
     "Testers",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
