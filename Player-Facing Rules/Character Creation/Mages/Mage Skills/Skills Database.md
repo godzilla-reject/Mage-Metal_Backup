@@ -20,7 +20,7 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: 0
+    sortIndex: 2
     isSorted: true
     isSortedDesc: false
     config:
@@ -98,6 +98,7 @@ columns:
       - { label: "Craftwork", value: "Craftwork", color: "hsl(303, 95%, 90%)"}
       - { label: "Practical", value: "Practical", color: "hsl(73, 95%, 90%)"}
       - { label: "Defenses", value: "Defenses", color: "hsl(176, 95%, 90%)"}
+      - { label: "Unsorted", value: "Unsorted", color: "hsl(262, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -114,7 +115,7 @@ columns:
     key: Completed?
     id: Completed?
     label: Completed?
-    position: 3
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -125,8 +126,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
-      footer_type: none
+      footer_type: percent_filled
       persist_changes: false
+      footer_formula: 
   Attribute:
     input: select
     accessorKey: Attribute
@@ -136,8 +138,8 @@ columns:
     position: 5
     skipPersist: false
     isHidden: false
-    sortIndex: -1
-    isSorted: false
+    sortIndex: 0
+    isSorted: true
     isSortedDesc: false
     options:
       - { label: "Power", value: "Power", color: "hsl(235, 95%, 90%)"}
@@ -162,7 +164,7 @@ columns:
     key: Tags
     id: Tags
     label: Tags
-    position: 2
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -205,7 +207,7 @@ config:
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
-  enable_footer: false
+  enable_footer: true
   implementation: default
 filters:
   enabled: false

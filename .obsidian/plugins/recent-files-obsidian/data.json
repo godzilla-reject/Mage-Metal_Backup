@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Trance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Trance.md"
+    },
+    {
+      "basename": "Weapon Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "History Database",
@@ -39,10 +59,6 @@
     {
       "basename": "Personal Scanner",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Utility Notes",
@@ -83,10 +99,6 @@
     {
       "basename": "Weaponry Overview",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
     },
     {
       "basename": "Heal Wounds",
@@ -187,18 +199,6 @@
     {
       "basename": "Conjure Martial Weaponry",
       "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md"
-    },
-    {
-      "basename": "Conjure Advanced Weaponry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md"
-    },
-    {
-      "basename": "Battlemage",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Battlemage.md"
-    },
-    {
-      "basename": "Material",
-      "path": "General Rules/Traits Catalog/Material.md"
     }
   ],
   "omittedPaths": [],

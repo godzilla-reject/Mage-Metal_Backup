@@ -1,7 +1,6 @@
 ---
-Category: Physical
-Attribute: Power
-cssclasses: []
+Category: Unsorted
+Attribute: Body
 Tags:
   - Skills
 ---

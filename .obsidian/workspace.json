@@ -15,14 +15,25 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.726548978220868
+                  "x": -816.9621103755317,
+                  "y": -940.3574697586275,
+                  "zoom": -0.22654897822086795
                 }
               }
             }
+          },
+          {
+            "id": "4f15183fedaf07ac",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
               }
             }
           },
@@ -240,9 +251,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "18718f3d6e81a73d",
+  "active": "4f15183fedaf07ac",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Trance.md",
+    "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
+    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
+    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Placeholder-Power.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Placeholder-Body.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
@@ -263,13 +281,7 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Spell",
-    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md",
-    "General Rules/Traits Catalog/General/Variable.md",
-    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md",
-    "Utilities/Design References/Spell Damage by Rank Chart.md",
     "Testers",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",
@@ -277,7 +289,6 @@
     "Templates/Markdown Templates/DevHelper Templates",
     "General Rules/Conditions Catalog/Unsorted",
     "README.txt",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal",
-    "Utilities/Lists"
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal"
   ]
 }
