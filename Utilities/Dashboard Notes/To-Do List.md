@@ -13,9 +13,15 @@ cssclasses:
 		- [ ] Playing The Game
 	- [ ]  To-Do For: Mage Section of Character Creation (YAY)
 		- [ ]  ⏫ Get Spells Database to 100% complete markers.
+			- [ ] Add two Resonance Spells
+				- [ ] Summoning Resonance
+				- [ ] Combination Resonance
+			- [ ] Add 2-4 Escalation Spells
+				- [ ] Something that is life for damage (one shot spell)
+				- [ ] Something that revives a fallen ally.
 			- [ ] Add rank 1, 2 and 3 Hydrophasia spells.
 		- [ ]  ⏫  Get Skills Database to 100% complete markers.
-		- [ ]  ⏫   Get Matthew to redo character creation.
+		- [ ]  ⏫  Get Matthew to redo character creation.
 	- [ ]  🔽  To-Do For: Metal Section of Character Creation
 		- [ ]  Metal Equipment Ideas:
 			- [ ] Great-Blade (Super-Primary)

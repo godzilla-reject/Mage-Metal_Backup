@@ -17,8 +17,18 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.726548978220868
+                  "zoom": -0.22654897822086795
                 }
+              }
+            }
+          },
+          {
+            "id": "0880e2a5a960bea3",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "General Rules/Conditions Catalog/Conditions Database.md"
               }
             }
           }
@@ -242,12 +252,20 @@
   },
   "active": "450b2be155fc2a2b",
   "lastOpenFiles": [
-    "Utilities/Lists/Conditions List.md",
+    "General Rules/Conditions Catalog/Conditions Database.md",
     "General Rules/Conditions Catalog/Beneficial/Hastened.md",
+    "General Rules/Conditions Catalog/Beneficial/Regeneration.md",
+    "General Rules/Conditions Catalog/Detrimental/Soaked.md",
+    "General Rules/Conditions Catalog/Detrimental/Bloodied.md",
+    "General Rules/Conditions Catalog/Slowed.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md",
+    "Templates/Markdown Templates/General Templates/Condition Template.md",
+    "General Rules/Conditions Catalog/Unknown.md",
+    "Utilities/Dashboard.canvas",
+    "Utilities/Lists/Conditions List.md",
     "Utilities/Lists/Trait List.md",
     "General Rules/Traits Catalog/General/Magical.md",
     "Templates/Dataview Templates/Spell List Dataview.md",
-    "Templates/Markdown Templates/General Templates/Condition Template.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md",
     "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md",
@@ -256,20 +274,12 @@
     "General Rules/Traits Catalog/Spell-Only/Aura.md",
     "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md",
     "Templates/Markdown Templates/Mage Templates/Spell Template.md",
-    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
-    "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Placeholder-Body.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Spell",
     "Testers",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",

@@ -187,19 +187,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 264,
+      "wordCount": 309,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.88,
-      "characterCount": 1391,
-      "nonWhitespaceCharacterCount": 1048,
-      "readingTimeInMinutes": 0.9962264150943396,
+      "pageCount": 1.03,
+      "characterCount": 1630,
+      "nonWhitespaceCharacterCount": 1221,
+      "readingTimeInMinutes": 1.1660377358490566,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100910,
-      "modifiedDate": 1700120549181,
-      "sizeInBytes": 1447
+      "modifiedDate": 1700123524048,
+      "sizeInBytes": 1686
     },
     "Utilities/Dashboard Notes/Databases.md": {
       "isCountable": true,
@@ -522,7 +522,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100874,
-      "modifiedDate": 1700122898249,
+      "modifiedDate": 1700123087108,
       "sizeInBytes": 174
     },
     "Templates/Markdown Templates/DevHelper Templates/Symbols/Two Actions.md": {
@@ -2142,26 +2142,26 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699926255337,
-      "modifiedDate": 1700022703718,
+      "modifiedDate": 1700123065587,
       "sizeInBytes": 190
     },
     "General Rules/Conditions Catalog/Slowed.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 22,
+      "wordCount": 50,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 165,
-      "nonWhitespaceCharacterCount": 142,
-      "readingTimeInMinutes": 0.0830188679245283,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 316,
+      "nonWhitespaceCharacterCount": 264,
+      "readingTimeInMinutes": 0.18867924528301888,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1700023189982,
-      "modifiedDate": 1700023256281,
-      "sizeInBytes": 214
+      "modifiedDate": 1700123225529,
+      "sizeInBytes": 381
     },
     "General Rules/Conditions Catalog/Immobilized.md": {
       "isCountable": true,
@@ -2214,8 +2214,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101963,
-      "modifiedDate": 1695517802353,
-      "sizeInBytes": 407
+      "modifiedDate": 1700123231957,
+      "sizeInBytes": 423
     },
     "General Rules/Conditions Catalog/Detrimental/Shocked.md": {
       "isCountable": true,
@@ -2232,8 +2232,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101955,
-      "modifiedDate": 1699926140977,
-      "sizeInBytes": 476
+      "modifiedDate": 1700123127039,
+      "sizeInBytes": 492
     },
     "General Rules/Conditions Catalog/Detrimental/Ignited.md": {
       "isCountable": true,
@@ -2250,8 +2250,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101943,
-      "modifiedDate": 1697445801229,
-      "sizeInBytes": 464
+      "modifiedDate": 1700123125808,
+      "sizeInBytes": 480
     },
     "General Rules/Conditions Catalog/Detrimental/Frozen.md": {
       "isCountable": true,
@@ -2268,8 +2268,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101941,
-      "modifiedDate": 1695517520959,
-      "sizeInBytes": 447
+      "modifiedDate": 1700123123251,
+      "sizeInBytes": 463
     },
     "General Rules/Conditions Catalog/Detrimental/Flustered.md": {
       "isCountable": true,
@@ -2286,8 +2286,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101938,
-      "modifiedDate": 1699926092593,
-      "sizeInBytes": 424
+      "modifiedDate": 1700123122493,
+      "sizeInBytes": 440
     },
     "General Rules/Conditions Catalog/Detrimental/Coated.md": {
       "isCountable": true,
@@ -2304,8 +2304,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101934,
-      "modifiedDate": 1695518864686,
-      "sizeInBytes": 480
+      "modifiedDate": 1700123121084,
+      "sizeInBytes": 496
     },
     "General Rules/Conditions Catalog/Detrimental/Deafened.md": {
       "isCountable": true,
@@ -2340,8 +2340,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101932,
-      "modifiedDate": 1695517314543,
-      "sizeInBytes": 346
+      "modifiedDate": 1700123120098,
+      "sizeInBytes": 362
     },
     "General Rules/Conditions Catalog/Detrimental/Bleeding.md": {
       "isCountable": true,
@@ -2365,19 +2365,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 328,
+      "wordCount": 364,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.0933333333333333,
-      "characterCount": 3833,
-      "nonWhitespaceCharacterCount": 2895,
-      "readingTimeInMinutes": 1.2377358490566037,
+      "pageCount": 1.2133333333333334,
+      "characterCount": 4255,
+      "nonWhitespaceCharacterCount": 3191,
+      "readingTimeInMinutes": 1.3735849056603773,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101916,
-      "modifiedDate": 1699612639656,
-      "sizeInBytes": 3879
+      "modifiedDate": 1700123104525,
+      "sizeInBytes": 4301
     },
     "General Rules/Conditions Catalog/Beneficial/Regeneration.md": {
       "isCountable": true,
@@ -2387,15 +2387,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3,
-      "characterCount": 573,
-      "nonWhitespaceCharacterCount": 480,
+      "characterCount": 571,
+      "nonWhitespaceCharacterCount": 478,
       "readingTimeInMinutes": 0.33962264150943394,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101926,
-      "modifiedDate": 1699866645423,
-      "sizeInBytes": 621
+      "modifiedDate": 1700123240695,
+      "sizeInBytes": 635
     },
     "General Rules/Conditions Catalog/Beneficial/Hastened.md": {
       "isCountable": true,
@@ -2412,8 +2412,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101921,
-      "modifiedDate": 1695519369446,
-      "sizeInBytes": 854
+      "modifiedDate": 1700123112013,
+      "sizeInBytes": 870
     },
     "General Rules/Conditions Catalog/Beneficial/Hidden.md": {
       "isCountable": true,
@@ -2923,19 +2923,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 96,
+      "wordCount": 83,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.32,
-      "characterCount": 641,
-      "nonWhitespaceCharacterCount": 469,
-      "readingTimeInMinutes": 0.3622641509433962,
-      "linkCount": 4,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 570,
+      "nonWhitespaceCharacterCount": 411,
+      "readingTimeInMinutes": 0.3132075471698113,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698806531677,
-      "modifiedDate": 1700023533662,
-      "sizeInBytes": 707
+      "modifiedDate": 1700123150580,
+      "sizeInBytes": 636
     },
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md": {
       "isCountable": true,

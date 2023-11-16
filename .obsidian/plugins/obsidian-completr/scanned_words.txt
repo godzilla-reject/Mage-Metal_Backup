@@ -301,6 +301,8 @@ torrents
 trap
 tiers
 touch
+timestream
+temporarily
 great
 game
 gaming
@@ -1007,6 +1009,7 @@ animals
 assemble
 attacker
 attacking
+accelerates
 wear
 with
 war
@@ -2192,6 +2195,7 @@ Practice
 Portable
 Program
 Players
+Playing
 ABCs
 Apotheosis
 Accessibility
@@ -2812,6 +2816,7 @@ version
 ve
 violently
 vitality
+vulnerability
 Function
 Form
 Fleshed
@@ -3016,6 +3021,7 @@ SpellComp
 Section
 Sustaining
 Sustain
+Soaked
 Jackson
 Jack
 Juggernaut
@@ -3109,6 +3115,7 @@ Bleeding
 Boulder
 Balancing
 Blocking
+Bloodied
 Varies
 Vast
 Void

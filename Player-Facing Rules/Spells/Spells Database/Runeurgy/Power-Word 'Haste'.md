@@ -16,4 +16,4 @@ Completed: true
 | Duration |    Sustained, up to 1 minute.            |
 |  Traits  |    [[Auditory]], [[Vocal]]            |
 > ###### *Details*
-> You utter a single word that accelerates an ally's timestream temporarily. Choose 1 ally within range. That ally becomes [[Hastened\|Lesser Hastened]] for as long as you Sustain the spell, up to the duration. At the end of the duration, that ally becomes [[Slowed]] for 1 minute.
+> You utter a single word that accelerates an ally's timestream temporarily. Choose 1 ally within range. That ally becomes [[Hastened\|Lesser Hastened]] for as long as you Sustain the spell, up to the duration.

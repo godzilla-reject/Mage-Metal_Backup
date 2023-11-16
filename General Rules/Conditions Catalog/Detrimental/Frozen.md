@@ -2,6 +2,7 @@
 Tags:
   - Condition
 Category: Detrimental
+Completed: true
 ---
 > [!infobox|left]+ Condition Entry
 > # `=this.file.name`
