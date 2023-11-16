@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Heal Wounds",
       "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
-    },
-    {
-      "basename": "Harm Wounds",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md"
     }
   ],
   "omittedPaths": [],
