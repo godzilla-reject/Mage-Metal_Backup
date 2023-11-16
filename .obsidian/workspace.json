@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f148dba87d77e02e",
+        "id": "cc42d8d31e9d05ec",
         "type": "tabs",
         "children": [
           {
-            "id": "1847f15f19405638",
+            "id": "54b90d4207c25c39",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.42840472301667265
+                  "zoom": -0.644925777151695
                 }
               }
             }
@@ -74,21 +74,6 @@
             "state": {
               "type": "recent-files",
               "state": {}
-            }
-          },
-          {
-            "id": "99d8675e0b513636",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -1.6079541433473854
-                }
-              }
             }
           }
         ]
@@ -227,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,7 +240,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1847f15f19405638",
+  "active": "54b90d4207c25c39",
   "lastOpenFiles": [
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md",
