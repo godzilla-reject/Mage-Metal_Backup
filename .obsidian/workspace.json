@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8594533cc3f26e63",
+        "id": "cde0b8a0940a4328",
         "type": "tabs",
         "children": [
           {
-            "id": "450b2be155fc2a2b",
+            "id": "ff604f2ea79c82ca",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,18 +17,8 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.22654897822086795
+                  "zoom": -0.726548978220868
                 }
-              }
-            }
-          },
-          {
-            "id": "0880e2a5a960bea3",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "General Rules/Conditions Catalog/Conditions Database.md"
               }
             }
           }
@@ -250,7 +240,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "450b2be155fc2a2b",
+  "active": "ff604f2ea79c82ca",
   "lastOpenFiles": [
     "General Rules/Conditions Catalog/Conditions Database.md",
     "General Rules/Conditions Catalog/Beneficial/Hastened.md",
