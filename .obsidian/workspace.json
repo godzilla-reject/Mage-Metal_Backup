@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "cc42d8d31e9d05ec",
+        "id": "18836c0fc00fc031",
         "type": "tabs",
         "children": [
           {
-            "id": "54b90d4207c25c39",
+            "id": "18718f3d6e81a73d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -525.3090234857849,
-                  "y": -994.3634116192829,
-                  "zoom": -0.644925777151695
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.726548978220868
                 }
               }
             }
-          },
-          {
-            "id": "9097e19a7d9d9a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -111,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -255,9 +240,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9097e19a7d9d9a5f",
+  "active": "18718f3d6e81a73d",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
+    "Utilities/Dashboard Notes/To-Do List.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
@@ -274,16 +270,6 @@
     "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md",
     "Utilities/Design References/Spell Damage by Rank Chart.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Relieve Malediction.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Patch-Up.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator's Sight.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Heal'.md",
-    "Utilities/Lists/Conditions List.md",
-    "Utilities/Lists/Trait List.md",
-    "General Rules/Conditions Catalog/Beneficial/Hastened.md",
-    "General Rules/Conditions Catalog/Slowed.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md",
-    "General Rules/Conditions Catalog/Unknown.md",
     "Testers",
     "Templates/Markdown Templates/DevHelper Templates/Rollers",
     "Templates/Markdown Templates/DevHelper Templates/Symbols",

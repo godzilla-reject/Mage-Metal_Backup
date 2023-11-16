@@ -2,6 +2,8 @@
 Wealth: Moderate
 Boost: Power
 Perk: Well-Stocked Workshop
+Tags:
+  - History
 ---
 # Description-`=this.file.name`
 You sit at the heart of the economy: the working class. You repair, destroy, or otherwise work on vehicles, of which the kind has little bearing. This knowledge is practical, and while hard work, wrench monkeys never run out of work.

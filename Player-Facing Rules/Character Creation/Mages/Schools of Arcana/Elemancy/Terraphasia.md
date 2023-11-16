@@ -4,6 +4,8 @@ Attribute: Body
 Spell: "[[Earthen Armor]]"
 Path1: the Tectonic Bastion
 Path2: the Crystal Watchtower
+Tags:
+  - School
 ---
 # School of  `=this.file.name`
 With stubbornness and unyielding loyalty, Terramancers are stalwart warriors who forge weapons and armor from the earth below them.

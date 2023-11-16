@@ -82,7 +82,7 @@ columns:
     key: Wealth
     id: Wealth
     label: Wealth
-    position: 2
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: 0
@@ -128,7 +128,7 @@ columns:
     key: Boost
     id: Attribute
     label: Attribute
-    position: 3
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -149,6 +149,46 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  Tags:
+    input: tags
+    accessorKey: Tags
+    key: Tags
+    id: Tags
+    label: Tags
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "History", value: "History", color: "hsl(50, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Completed:
+    input: checkbox
+    accessorKey: Completed
+    key: Completed
+    id: Completed
+    label: Completed
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal

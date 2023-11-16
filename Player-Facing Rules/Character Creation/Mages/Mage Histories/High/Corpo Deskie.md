@@ -2,6 +2,8 @@
 Wealth: High
 Boost: Mind
 Perk: Ready-Access Loans
+Tags:
+  - History
 ---
 # Description-`=this.file.name`
 

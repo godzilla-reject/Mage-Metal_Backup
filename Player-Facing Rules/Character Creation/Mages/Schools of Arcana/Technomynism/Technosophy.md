@@ -4,6 +4,8 @@ Sphere: Technomynism
 Spell: "[[Techno-Babble]]"
 Path1: the Technosorcerer
 Path2: the Biotechnician
+Tags:
+  - School
 ---
 # School of  `=this.file.name`
 Technomancers have a special relationship with the Metals; instead of seeing them as resonators for magical power, they view them as extensions of the self. Most technomancers augment their bodies with cybernetics and magitech in order to feel closer to their Metals.

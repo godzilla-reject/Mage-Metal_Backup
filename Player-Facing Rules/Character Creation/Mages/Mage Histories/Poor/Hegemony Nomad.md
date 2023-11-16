@@ -2,6 +2,8 @@
 Wealth: Poor
 Boost: Potential
 Perk: Wanderer Arcana
+Tags:
+  - History
 ---
 # Description-`=this.file.name`
 The Nomads are a small fleet of highly powerful hedge mages that exist outside of the Circles of Magi, but still within the Hegemony jurisdiction.  You are one of these Nomads. Despite powerful magic, your lifestyle is minimalistic and poor, and your people's perceptions by the general populous does not help either.

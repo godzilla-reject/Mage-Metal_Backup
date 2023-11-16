@@ -59,7 +59,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 9
+    position: 10
     isHidden: false
     sortIndex: -1
     config:
@@ -81,7 +81,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 8
+    position: 9
     isHidden: false
     sortIndex: -1
     config:
@@ -99,7 +99,7 @@ columns:
     key: Spell
     id: Spell
     label: Spell
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -118,7 +118,7 @@ columns:
     key: Attribute
     id: Attribute
     label: Attribute
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -145,7 +145,7 @@ columns:
     key: Sphere
     id: Sphere
     label: Sphere
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -168,7 +168,7 @@ columns:
     key: Path1
     id: Path1
     label: Path1
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -187,10 +187,31 @@ columns:
     key: Path2
     id: Path2
     label: Path2
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Tags:
+    input: tags
+    accessorKey: Tags
+    key: Tags
+    id: Tags
+    label: Tags
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "School", value: "School", color: "hsl(250, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

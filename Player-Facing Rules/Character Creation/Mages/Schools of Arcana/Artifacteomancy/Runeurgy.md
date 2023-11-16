@@ -4,6 +4,8 @@ Sphere: Artifacteomancy
 Spell: "[[Power-Word 'Harm']]"
 Path1: the Rune-Scribed
 Path2: the Word-Caller
+Tags:
+  - School
 ---
 # School of  `=this.file.name`
 Sometimes called scribes, runeurgists are masterful practitioners of the most basic component of spell-work: language. Magic is a language a Mage speaks with the universe, and runeurgists are exceptionally fluent. 

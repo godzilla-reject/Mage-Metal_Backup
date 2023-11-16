@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "History Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "Schools Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
+    },
+    {
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Integrated Weapon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md"
+    },
+    {
+      "basename": "High-Integrity Torque Converter",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md"
+    },
+    {
+      "basename": "Cyber-Arm",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
+    },
+    {
+      "basename": "Personal Scanner",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
+    },
+    {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
+      "basename": "Armor Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
     },
     {
       "basename": "Spells Database",
@@ -155,50 +199,6 @@
     {
       "basename": "Material",
       "path": "General Rules/Traits Catalog/Material.md"
-    },
-    {
-      "basename": "Cedrik's Mini-Many-Minefield",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Cedrik's Mini-Many-Minefield.md"
-    },
-    {
-      "basename": "Auto-Shot Turret",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
-    },
-    {
-      "basename": "Techno-Babble",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md"
-    },
-    {
-      "basename": "Eunard's Grinding Gears",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Grinding Gears.md"
-    },
-    {
-      "basename": "Clamorous Clang",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamorous Clang.md"
-    },
-    {
-      "basename": "Clamp-Maw Trap",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
-    },
-    {
-      "basename": "Eunard's Portable Cover",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md"
-    },
-    {
-      "basename": "Melanie's Wail of Blood",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md"
-    },
-    {
-      "basename": "Melanie's Shared Suffering",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md"
-    },
-    {
-      "basename": "Blood Cry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md"
-    },
-    {
-      "basename": "Hemaspike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
     }
   ],
   "omittedPaths": [],

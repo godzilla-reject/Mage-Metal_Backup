@@ -3,11 +3,10 @@ Tier: 1
 Price: 400
 Heft: 0
 Type: Cybernetic
-tags:
-  - rename
 Completed: true
 Tags:
   - Equipment
+  - rename
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

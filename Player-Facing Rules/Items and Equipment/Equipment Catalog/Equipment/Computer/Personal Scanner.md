@@ -3,11 +3,10 @@ Price: 45
 Tier: 0
 Heft: 1
 Type: Computer
-tags:
-  - reword
 Completed: true
 Tags:
   - Equipment
+  - reword
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -17,7 +16,7 @@ Tags:
 | **Price**  | `=this.Price` un. |
 | **Type** | `=this.Type` |
 |  **Tier**  |   `=this.Tier`    |
-| **Usage**  |      Attached to a [[Personal Scanner]].             |
+| **Usage**  |      Attached to a [[Personal Computer]].             |
 |  **Heft**  | `=this.Heft` lbs  |
 | **Traits** |     [[Upgrade\|Upgrade (Computer)]]              |
 > ###### *Description*

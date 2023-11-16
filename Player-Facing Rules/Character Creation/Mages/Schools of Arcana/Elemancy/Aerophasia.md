@@ -4,6 +4,8 @@ Attribute: Reflex
 Spell: "[[Aerostrike]]"
 Path1: the Valliant Zephyr
 Path2: the Wind Dancer
+Tags:
+  - School
 ---
 # School of  `=this.file.name`
 Aeromancers are the masters of mobility and ranged combat, slinging arrows and dashing around on the screaming squails of the torrential winds.

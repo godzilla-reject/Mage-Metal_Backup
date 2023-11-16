@@ -2,6 +2,8 @@
 Wealth: High
 Boost: Tenacity
 Perk: Adoring Fans
+Tags:
+  - History
 ---
 # Description-`=this.file.name`
 Whether it be from musical talent, video essays, or an All_Your_Fans, you sit at the height of a media community cultivated by your own hand. You maintain a wealthy, comfortable lifestyle in the Terrarium, but also live at the mercy of trends and your fanbase. After all, without them you are *nothing*.

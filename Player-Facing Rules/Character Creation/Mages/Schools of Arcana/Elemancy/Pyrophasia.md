@@ -4,6 +4,8 @@ Spell: "[[Ignition]]"
 Path1: the White Phoenix's Down
 Path2: the Lion Emperor's Flame
 Sphere: Elemancy
+Tags:
+  - School
 ---
 # School of  `=this.file.name`
 Harnessing the power of wicked flame, practitioners of this school, typically known as *pyromancers,* bring immolation through desolate flame. Despite this wanton destruction, their flames can give new life the chance to rise.

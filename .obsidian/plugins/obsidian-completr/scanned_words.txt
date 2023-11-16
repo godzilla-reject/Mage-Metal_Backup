@@ -183,6 +183,9 @@ item
 includes
 ill
 iron
+incredibly
+invasive
+injury
 the
 takes
 titans
@@ -480,6 +483,7 @@ former
 funnel
 forth
 fails
+factor
 came
 combines
 combat
@@ -1931,6 +1935,7 @@ Reliable
 Reach
 Repeated
 RAP
+Running
 high
 heavily
 hopes
@@ -2005,6 +2010,7 @@ heatsight
 howling
 had
 harming
+hardware
 refine
 robust
 required
@@ -2114,6 +2120,9 @@ radii
 receive
 resembling
 reinforcing
+rank
+redo
+replaces
 Pathfinder
 PF
 Philosophy
@@ -2175,6 +2184,7 @@ Pack
 Practice
 Portable
 Program
+Players
 ABCs
 Apotheosis
 Accessibility
@@ -2372,6 +2382,7 @@ motions
 mortalkind
 mighty
 mouth
+multiplies
 GURPS
 Google
 Greyhawk
@@ -2402,6 +2413,7 @@ Gaining
 Grafted
 Game
 Grant
+Guidelines
 utmost
 use
 up
@@ -2653,6 +2665,7 @@ Created
 Catalysts
 Completion
 Conjured
+Combat
 We
 While
 Write
@@ -2988,6 +3001,7 @@ Slipbridge
 Sustained
 Slash
 SpellComp
+Section
 Jackson
 Jack
 Juggernaut
@@ -3079,6 +3093,7 @@ Bio
 Buff
 Bleeding
 Boulder
+Balancing
 Varies
 Vast
 Void
@@ -3095,6 +3110,7 @@ Vulnerability
 Vulnerable
 You
 Your
+YAY
 Zephyr
 quill
 quilted

@@ -203,6 +203,8 @@ columns:
     sortIndex: -1
     options:
       - { label: "Equipment", value: "Equipment", color: "hsl(13, 95%, 90%)"}
+      - { label: "reword", value: "reword", color: "hsl(76, 95%, 90%)"}
+      - { label: "rename", value: "rename", color: "hsl(213, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

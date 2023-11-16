@@ -4,6 +4,8 @@ Attribute: Potential
 Spell: "[[Aquastrike]]"
 Path1: the All-Consuming Tsunami
 Path2: the Shifting Tides
+Tags:
+  - School
 ---
 # School of  `=this.file.name`
 The most spiritual of the Elemancy schools, hydromancers flow from state to state, using frozen ice as well as scalding steam to bring calamity.

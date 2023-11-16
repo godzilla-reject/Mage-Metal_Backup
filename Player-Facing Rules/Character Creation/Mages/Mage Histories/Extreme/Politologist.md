@@ -2,6 +2,8 @@
 Wealth: Extreme
 Boost: Mind
 Perk: Impromptu Speech
+Tags:
+  - History
 ---
 # Description-`=this.file.name`
 You are a Politologist, a scholar-philosopher who sits at the nexus of the Hegemony's long history of both Politics and Science. You have studied these things deeply, and now you are a leader within your community who must justify their politics with science.
