@@ -1435,6 +1435,7 @@ Tower
 Theater
 Toolkit
 Touch
+Tol
 oriented
 of
 on
@@ -1726,6 +1727,7 @@ electrifying
 every
 except
 erupt
+encourage
 played
 pilot
 play
@@ -2666,6 +2668,7 @@ Catalysts
 Completion
 Conjured
 Combat
+Cannot
 We
 While
 Write
@@ -2705,6 +2708,7 @@ Worn
 Whitebeard
 Weak
 Wielded
+Want
 keeping
 keep
 kek
@@ -2888,6 +2892,7 @@ Defenses
 Distributed
 Deployed
 Decrease
+Dodging
 Steve
 Sheets
 Segway
@@ -3094,6 +3099,7 @@ Buff
 Bleeding
 Boulder
 Balancing
+Blocking
 Varies
 Vast
 Void

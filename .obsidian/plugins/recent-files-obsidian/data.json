@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Blocking",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Blocking.md"
-    },
-    {
-      "basename": "Dodge",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Block",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
     {
       "basename": "Prowess",
@@ -31,14 +39,6 @@
     {
       "basename": "Spell Template",
       "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "To-Do List",
