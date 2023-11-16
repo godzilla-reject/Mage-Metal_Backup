@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cde0b8a0940a4328",
+        "id": "166545b5436ea398",
         "type": "tabs",
         "children": [
           {
-            "id": "ff604f2ea79c82ca",
+            "id": "d9545b0fa218adfa",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,61 +16,9 @@
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
                   "x": -530,
-                  "y": -856.115107913669,
+                  "y": -1010,
                   "zoom": -0.726548978220868
                 }
-              }
-            }
-          },
-          {
-            "id": "b687135e651b0ee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3f2c459027a63a68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "53676ab2a5cdf168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c4e6f95d751bd941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
               }
             }
           }
@@ -292,7 +240,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ff604f2ea79c82ca",
+  "active": "d9545b0fa218adfa",
   "lastOpenFiles": [
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
     "Utilities/Dashboard.canvas",
