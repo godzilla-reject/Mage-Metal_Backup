@@ -487,6 +487,7 @@ funnel
 forth
 fails
 factor
+fallen
 came
 combines
 combat
@@ -2133,6 +2134,7 @@ reinforcing
 rank
 redo
 replaces
+revives
 Pathfinder
 PF
 Philosophy
@@ -2679,6 +2681,7 @@ Completion
 Conjured
 Combat
 Cannot
+Combination
 We
 While
 Write
@@ -3022,6 +3025,8 @@ Section
 Sustaining
 Sustain
 Soaked
+Summoning
+Something
 Jackson
 Jack
 Juggernaut

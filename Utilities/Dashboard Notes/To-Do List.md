@@ -20,6 +20,9 @@ cssclasses:
 				- [ ] Something that is life for damage (one shot spell)
 				- [ ] Something that revives a fallen ally.
 			- [ ] Add rank 1, 2 and 3 Hydrophasia spells.
+				- [x] 1 ✅ 2023-11-16
+				- [x] 2 ✅ 2023-11-16
+				- [ ] 3 
 		- [ ]  ⏫  Get Skills Database to 100% complete markers.
 		- [ ]  ⏫  Get Matthew to redo character creation.
 	- [ ]  🔽  To-Do For: Metal Section of Character Creation
