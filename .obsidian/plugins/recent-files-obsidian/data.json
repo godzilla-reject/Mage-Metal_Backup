@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Wormik's Torrent",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -77,14 +89,6 @@
       "path": "Templates/Dataview Templates/Spell List Dataview.md"
     },
     {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Wormik's Torrent",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
-    },
-    {
       "basename": "Shifting Tides",
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "Steam-Spike",
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
     },
     {
       "basename": "Skill Template",
