@@ -11,14 +11,12 @@
             "id": "55e6ea595e1c8e81",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
-                }
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -80,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -212,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,10 +240,10 @@
   },
   "active": "55e6ea595e1c8e81",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md",
     "Templates/Markdown Templates/Mage Templates/Spell Template.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator",
@@ -271,7 +269,6 @@
     "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md",
     "General Rules/Traits Catalog/Spell-Only/Aura.md",
-    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Spell",
     "Testers",
