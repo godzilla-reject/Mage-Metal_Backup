@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
@@ -13,16 +21,8 @@
       "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Cyber-Arm",

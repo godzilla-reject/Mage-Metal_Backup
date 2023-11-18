@@ -19,7 +19,7 @@ cssclasses:
 			- [ ] Add 2-4 Escalation Spells
 				- [ ] Something that is life for damage (one shot spell)
 				- [ ] Something that revives a fallen ally.
-			- [ ] Add rank 1, 2 and 3 Hydrophasia spells.
+			- [x] Add rank 1, 2 and 3 Hydrophasia spells. ✅ 2023-11-17
 				- [x] 1 ✅ 2023-11-16
 				- [x] 2 ✅ 2023-11-16
 				- [ ] 3 
