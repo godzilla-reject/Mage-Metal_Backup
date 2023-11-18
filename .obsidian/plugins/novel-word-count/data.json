@@ -2090,7 +2090,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100766,
-      "modifiedDate": 1700252095767,
+      "modifiedDate": 1700287666560,
       "sizeInBytes": 5613
     },
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Retrace.md": {
@@ -6124,6 +6124,42 @@
       "createdDate": 1698734101888,
       "modifiedDate": 1695339669279,
       "sizeInBytes": 3055
+    },
+    "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 40,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 303,
+      "nonWhitespaceCharacterCount": 185,
+      "readingTimeInMinutes": 0.1509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700287706562,
+      "modifiedDate": 1700287755088,
+      "sizeInBytes": 372
+    },
+    "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Combination Resonance.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 40,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 303,
+      "nonWhitespaceCharacterCount": 185,
+      "readingTimeInMinutes": 0.1509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700287714863,
+      "modifiedDate": 1700287761095,
+      "sizeInBytes": 372
     }
   }
 }

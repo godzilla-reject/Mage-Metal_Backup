@@ -5,6 +5,14 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -13,16 +21,8 @@
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
       "basename": "Wormik's Torrent",
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
     },
     {
       "basename": "Equipment Database",
