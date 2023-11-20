@@ -187,6 +187,8 @@ iron
 incredibly
 invasive
 injury
+impedance
+increasing
 the
 takes
 titans
@@ -708,6 +710,8 @@ commands
 condense
 clad
 counts
+chest
+crafted
 before
 being
 be
@@ -813,6 +817,8 @@ boiling
 bear
 burst
 bolstering
+barricade
+break
 not
 never
 no
@@ -1011,6 +1017,7 @@ assemble
 attacker
 attacking
 accelerates
+ages
 wear
 with
 war
@@ -1094,6 +1101,7 @@ wilt
 wail
 writhe
 wears
+weight
 sleeve
 some
 something
@@ -1345,6 +1353,8 @@ spiked
 scraps
 stacking
 swap
+shut
+stage
 LANCER
 Learn
 Lancer
@@ -1373,6 +1383,7 @@ Like
 Level
 Loaded
 Lists
+Lockpicking
 The
 Tenets
 This
@@ -1627,6 +1638,7 @@ denotes
 despicable
 discolor
 differ
+door
 ever
 expand
 easy
@@ -1886,6 +1898,7 @@ plants
 placed
 provided
 pair
+preventing
 RP
 RPGs
 Ryutama
@@ -1947,6 +1960,7 @@ Reach
 Repeated
 RAP
 Running
+Rating
 high
 heavily
 hopes
@@ -2200,6 +2214,9 @@ Players
 Playing
 Push
 Pull
+Physicue
+Physique
+Pheidippidian
 ABCs
 Apotheosis
 Accessibility
@@ -2400,6 +2417,7 @@ mortalkind
 mighty
 mouth
 multiplies
+masterfully
 GURPS
 Google
 Greyhawk
@@ -2552,6 +2570,8 @@ license
 legal
 lacks
 linking
+locked
+lock
 Ease
 Excel
 Escalation
@@ -2592,6 +2612,7 @@ Energy
 Expand
 Economy
 Esoteric
+Extraordinary
 Use
 Usable
 Unsorted
@@ -2745,6 +2766,7 @@ jump
 join
 job
 jolt
+jammed
 Hate
 Homebrew
 Historically
