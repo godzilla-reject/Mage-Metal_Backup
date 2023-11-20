@@ -168,6 +168,42 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "Attribute",
+      "value": "Mind",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "736f-ebcc",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "Attribute",
+      "value": "Potential",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "c656-e12d",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "Attribute",
+      "value": "Tenacity",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "6b28-6e1a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

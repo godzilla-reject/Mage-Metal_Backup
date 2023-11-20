@@ -14,12 +14,15 @@ Tags:
 # Skill Actions
 #### Untrained Actions
 These actions can be performed without any training in `=this.file.name `; they are available to any character. 
-##### Jump (●)
-**Limit:** You can only take this action at the **end** of your normal Move.
-When you take this action, choose if you are doing a High Jump or a Far Jump. 
-- High Jump: At the end of your Move, you jump vertically. Make an **Athletics** check. You leap upwards 1 space, plus 1 more space for each 4 margins of success. (For example, a result of 10 on an **Athletics** skill of 18 would allow you to ascend 3 spaces.) On a failure, you leap upward only 1 space, and on a critical failure, you fall prone in the space you ended your move in.
-- Far Jump: At the end of your Move, you jump horizontally. Make an **Athletics** check. You leap forwards 3 spaces, plus 1 more space for each 2 margins of success. On a failure, you leap forward 1 space, and on a critical failure, you fall prone in the space you ended your move in.
-##### Force Open (●)
+>[!info] ##### Jump `=[[Dev Helpers]].one-action`
+>[[Modal]]
+>- - -
+>**Limit:** You can only take this action at the **end** of your normal Move.
+>When you take this action, choose one of the following modes: 
+>- High Jump: At the end of your Move, you jump vertically. Make an **Athletics** check. You leap upwards 1 space, plus 1 more space for each 4 margins of success. (For example, a result of 10 on an **Athletics** skill of 18 would allow you to ascend 3 spaces.) On a failure, you leap upward only 1 space, and on a critical failure, you fall prone in the space you ended your move in.
+>- Far Jump: At the end of your Move, you jump horizontally. Make an **Athletics** check. You leap forwards 3 spaces, plus 1 more space for
+each 2 margins of success. On a failure, you leap forward 1 space, and on a critical failure, you fall prone in the space you ended your move in.
+>[!info] ##### Force Open `=[[Dev Helpers]].one-action`
 
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.

@@ -143,6 +143,17 @@
       "injectColor": true,
       "noTitle": true,
       "copy": false
+    },
+    "action": {
+      "type": "action",
+      "color": "#7d7d7d",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-diamond"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

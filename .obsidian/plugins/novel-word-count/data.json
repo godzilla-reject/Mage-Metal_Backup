@@ -3728,7 +3728,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100403,
-      "modifiedDate": 1700514326518,
+      "modifiedDate": 1700516844016,
       "sizeInBytes": 5766
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md": {
@@ -3771,19 +3771,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 529,
+      "wordCount": 531,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.7633333333333334,
-      "characterCount": 3205,
-      "nonWhitespaceCharacterCount": 2656,
-      "readingTimeInMinutes": 1.9962264150943396,
-      "linkCount": 1,
+      "pageCount": 1.77,
+      "characterCount": 3281,
+      "nonWhitespaceCharacterCount": 2730,
+      "readingTimeInMinutes": 2.0037735849056606,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699150940908,
-      "modifiedDate": 1699162324573,
-      "sizeInBytes": 3289
+      "modifiedDate": 1700517142168,
+      "sizeInBytes": 3361
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md": {
       "isCountable": true,
@@ -3969,19 +3969,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 482,
+      "wordCount": 484,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.6066666666666667,
-      "characterCount": 2960,
-      "nonWhitespaceCharacterCount": 2462,
-      "readingTimeInMinutes": 1.818867924528302,
+      "pageCount": 1.6133333333333333,
+      "characterCount": 2965,
+      "nonWhitespaceCharacterCount": 2465,
+      "readingTimeInMinutes": 1.8264150943396227,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699150940820,
-      "modifiedDate": 1700119820427,
-      "sizeInBytes": 3036
+      "modifiedDate": 1700517068272,
+      "sizeInBytes": 3041
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md": {
       "isCountable": true,
@@ -6160,6 +6160,24 @@
       "createdDate": 1698734101906,
       "modifiedDate": 1699935863937,
       "sizeInBytes": 11266
+    },
+    "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 9,
+      "nonWhitespaceCharacterCount": 8,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700517187355,
+      "modifiedDate": 1700517395158,
+      "sizeInBytes": 9
     }
   }
 }

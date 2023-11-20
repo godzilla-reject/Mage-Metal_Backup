@@ -16,7 +16,7 @@ Pain-Tolerance governs one's ability to withstand trauma, agony, and other forms
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
 >[!note] ##### Withstand Pain `=[[Dev Helpers]].reaction`
 >[[Modal]]
->
+>- - -
 >**Trigger:** You are successfully hit with a damaging effect that does not deal **true** damage. 
 >You steel your resolve, withstanding pain and resisting shock. Make a **Pain-Tolerance** check. If you succeed, choose an effect:
 >-  You roll with favor when making any checks to resist an effect associated with the trigger, and reduce your Toughness against the damage by 3+your Tier.
