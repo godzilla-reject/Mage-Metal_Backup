@@ -14,7 +14,7 @@ Tags:
 # Skill Actions
 #### Untrained Actions
 These actions can be performed without any training in `=this.file.name `; they are available to any character. 
->[!info] ##### Jump `=[[Dev Helpers]].one-action`
+>[!info]+ ##### Jump `=[[Dev Helpers]].one-action`
 >[[Modal]]
 >- - -
 >**Limit:** You can only take this action at the **end** of your normal Move.
@@ -26,18 +26,24 @@ each 2 margins of success. On a failure, you leap forward 1 space, and on a crit
 
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
-##### Shove (●)
-##### Grapple (●)
+> [!note]+ ##### Shove ●
+>
+>- - -
+
+> [!note]+ ##### Grapple ●
+>
+>- - -
 
 #### Expert Actions 
 These actions can be performed by characters who are *Experts* in `=this.file.name`; they are not available to characters with lesser training.
-##### Climb (●)
-[[Move]]
-**Limit:** You have at least one hand free.
-You move across or about an incline. Make an **Athletics** check, with a modifier, based on circumstance, determined by your GM. 
-- Success: You move 1 space in a direction of your choosing, plus 1 more space for each 2 margins of success, up to your Speed.
-- Failure: You move 1 space in a direction of your GM's choosing.
-- Critical Failure: You fall.
+>[!info]+ ##### Climb ●
+>[[Move]]
+>- - -
+>**Limit:** You have at least one hand free.
+> You move across or about an incline. Make an **Athletics** check, with a modifier, based on circumstance, determined by your GM. 
+>	- Success: You move 1 space in a direction of your choosing, plus 1 more space for each 2 margins of success, up to your Speed.
+>	- Failure: You move 1 space in a direction of your GM's choosing.
+>	- Critical Failure: You fall.
 - - -
 # Perks
 >> [!info|text-Center clear]+  Trained Perk: Rough-Housing

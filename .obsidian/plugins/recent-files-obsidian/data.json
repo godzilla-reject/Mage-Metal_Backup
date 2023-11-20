@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Activity Inserter",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md"
-    },
-    {
-      "basename": "New Equipment Template",
-      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
-    },
-    {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
     {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+      "basename": "Trance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
     },
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
+      "basename": "Activity Inserter",
+      "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md"
+    },
+    {
+      "basename": "Dev Helpers",
+      "path": "Utilities/Dashboard Notes/Dev Helpers.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "New Equipment Template",
+      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
     },
     {
       "basename": "To-Do List",
@@ -149,10 +157,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md"
     },
     {
-      "basename": "Trance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
-    },
-    {
       "basename": "Weapon Template",
       "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Earthen Spikes",
       "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md"
-    },
-    {
-      "basename": "Boulder Fists",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md"
     }
   ],
   "omittedPaths": [],
