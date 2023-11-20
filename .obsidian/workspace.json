@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -299,9 +299,9 @@
   },
   "active": "ddcb57ed939ca627",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
     "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md",
     "Utilities/Dashboard Notes/Dev Helpers.md",
     "Utilities/Dashboard.canvas",

@@ -5,12 +5,12 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
     {
-      "basename": "Trance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
-    },
-    {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Trance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
     },
     {
       "basename": "Activity Inserter",
