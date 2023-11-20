@@ -22,7 +22,20 @@ These actions can be performed without any training in `=this.file.name `; they 
 >- High Jump: At the end of your Move, you jump vertically. Make an **Athletics** check. You leap upwards 1 space, plus 1 more space for each 4 margins of success. (For example, a result of 10 on an **Athletics** skill of 18 would allow you to ascend 3 spaces.) On a failure, you leap upward only 1 space, and on a critical failure, you fall prone in the space you ended your move in.
 >- Far Jump: At the end of your Move, you jump horizontally. Make an **Athletics** check. You leap forwards 3 spaces, plus 1 more space for
 each 2 margins of success. On a failure, you leap forward 1 space, and on a critical failure, you fall prone in the space you ended your move in.
->[!info] ##### Force Open `=[[Dev Helpers]].one-action`
+
+> [!note]+ ##### Force Open ●
+>
+>- - -
+
+
+>[!info]+ ##### Climb ●
+>[[Move]]
+>- - -
+>**Limit:** You have at least one hand free.
+> You move across or about an incline. Make an **Athletics** check, with a modifier, based on circumstance, determined by your GM. 
+>	- Success: You move 1 space in a direction of your choosing, plus 1 more space for each 2 margins of success, up to your Speed.
+>	- Failure: You move 1 space in a direction of your GM's choosing.
+>	- Critical Failure: You fall.
 
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
@@ -34,16 +47,6 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 >
 >- - -
 
-#### Expert Actions 
-These actions can be performed by characters who are *Experts* in `=this.file.name`; they are not available to characters with lesser training.
->[!info]+ ##### Climb ●
->[[Move]]
->- - -
->**Limit:** You have at least one hand free.
-> You move across or about an incline. Make an **Athletics** check, with a modifier, based on circumstance, determined by your GM. 
->	- Success: You move 1 space in a direction of your choosing, plus 1 more space for each 2 margins of success, up to your Speed.
->	- Failure: You move 1 space in a direction of your GM's choosing.
->	- Critical Failure: You fall.
 - - -
 # Perks
 >> [!info|text-Center clear]+  Trained Perk: Rough-Housing
