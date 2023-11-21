@@ -4,6 +4,7 @@ Attribute: Body
 cssclasses: []
 Tags:
   - Skills
+Completed?: true
 ---
 # Skill Description-`=this.file.name`
 **Athletics** governs feats of physical prowess and bodily performance. **Athletics** can also be used in place of a **Power** check when attempting to escape a Grapple. 
@@ -34,19 +35,31 @@ each 2 margins of success. On a failure, you leap forward 1 space, and on a crit
 >- - -
 >**Limit:** You have at least one hand free.
 > You move across or about an incline. Make an **Athletics** check, with a modifier, based on circumstance, determined by your GM. 
->- Success: You move 1 space in a direction of your choosing, plus 1 more space for each 2 margins of success, up to your Speed.
->- Failure: You move 1 space in a direction of your GM's choosing.
->- Critical Failure: You fall.
+>- **Success**: You move 1 space in a direction of your choosing, plus 1 more space for each 2 margins of success, up to your Speed.
+>- **Failure**: You move 1 space in a direction of your GM's choosing.
+>- **Critical Failure**: You fall.
 
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
 > [!note]+ ##### Shove ●
->
+>[[Attack]]
 >- - -
+>**Limit:** You have at least one hand free. Your target cannot be more than one size larger than you.
+>
+> You push a creature or object out of the way. Make an **Athletics** contest with the target. On a 
+> - **Critical Success**: As success, but for each 2 margins of success instead.
+> - **Success**: You displace the target 1 space backward, plus 1 more for each 4 margins of success. You may Move up to the same amount of spaces, but you must end this Move closer to the target.
+> - **Critical Failure**: You trip and fall [[Prone]].
 
 > [!note]+ ##### Grapple ●
->
+>[[Attack]]
 >- - -
+>**Limit:** You have at least one hand free, or your target is [[Restrained]] by you. Your target cannot be more than one size larger than you.
+>
+> You attempt to grab ahold of a creature or object using your free hand. Make an **Athletics** contest with the target. If you attempt to Grapple a creature you already have Restrained, you do not need a free hand.
+> - **Success**: Your target is Restrained by you, or, if they already were, they become [[Immobilized]] as well. This lasts until the end of your next turn, unless you Move or the target can Escape.
+> - **Failure**: You fail to grab your target.
+> - **Critical Failure**: You fail to grab your target. If your target was a creature, it can grab you, as if it succeeded using this action, or trip you, causing you to fall [[Prone]].
 
 - - -
 # Perks
