@@ -18,6 +18,7 @@ The nine **energy** damage types are:
 - Brilliant ([[Brilliant]])
 - Void ([[Void]])
 - Poison ()
+
 Any spell, and most weapons, that deal one of these damage types will have an associated trait.
 
 ## Damage Resistance and Immunity 

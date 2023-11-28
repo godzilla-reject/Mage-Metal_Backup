@@ -28,16 +28,19 @@ These actions can be performed by characters who are *Experts* in `=this.file.na
 >> [!info|text-Center clear]+ Trained Perk: Flowing Water 
 >> *When you become Trained in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 
->> 
+>> You evade attacks like water flowing in a stream. Whenever you successfully Evade an attack, you become [[Agile\|Agile 1]], or increase your Agile condition by 1 if you are Agile already.
 
->> [!info|text-Center clear]+ Expertise Perk: 
+>> [!info|text-Center clear]+ Expertise Perk: Howling Wind
 >> *When you become an Expert in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 
+>> The speed of your movements while dodging generates howling wind. Whenever you roll a Dodge check, you can surround yourself in a gale of wind. The next time you would deal damage to a creature or Evade a creature's attack, this wind causes them to take 1dE of **cutting** damage, and then dissipates. 
 
->> [!info|text-Center clear]+ Masterful Perk: 
+>> [!info|text-Center clear]+ Masterful Perk: Patient Earth
 >> *When you become a Master in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 
+>>  You gain a stacking +1 circumstance bonus to your next attack roll made against a creature for each of it's attacks you successfully Evade.
 
->> [!info|text-Center clear]+ Legendary Perk: 
+>> [!info|text-Center clear]+ Legendary Perk: Tranquil Fire
 >> *When you become a Legend in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 
+>> If you did not attack or cast a damaging spell on your most recent turn, you can ignore all penalties to Dodge checks you make.

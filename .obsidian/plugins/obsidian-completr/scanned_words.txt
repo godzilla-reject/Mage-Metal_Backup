@@ -191,6 +191,8 @@ invasive
 injury
 impedance
 increasing
+interacted
+instances
 the
 takes
 titans
@@ -377,6 +379,7 @@ granite
 granting
 grab
 gears
+generates
 from
 first
 freeform
@@ -506,6 +509,7 @@ factor
 fallen
 feat
 fail
+flowing
 came
 combines
 combat
@@ -1130,6 +1134,7 @@ writhe
 wears
 weight
 workshop
+wind
 sleeve
 some
 something
@@ -1390,6 +1395,8 @@ stores
 spout
 start
 succeeded
+subject
+surround
 LANCER
 Learn
 Lancer
@@ -1678,6 +1685,7 @@ discolor
 differ
 door
 displace
+dodging
 ever
 expand
 easy
@@ -1790,6 +1798,8 @@ erupt
 encourage
 engage
 edge
+expressed
+evade
 played
 pilot
 play
@@ -2336,6 +2346,7 @@ Area
 Animals
 Allied
 Activity
+Agile
 metal
 magic
 mechanics
@@ -2470,6 +2481,8 @@ mighty
 mouth
 multiplies
 masterfully
+mainly
+movements
 GURPS
 Google
 Greyhawk
@@ -2872,6 +2885,7 @@ Heatsight
 Hastened
 Heroes
 However
+Howling
 you
 your
 yourself
