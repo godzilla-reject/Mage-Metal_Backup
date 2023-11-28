@@ -108,6 +108,7 @@ Modifier
 Map
 Moisture
 Meanwhile
+Material
 in
 inspiration
 it
@@ -310,6 +311,8 @@ teleport
 thisSphere
 thaumaturgy
 technomynism
+threatens
+tear
 great
 game
 gaming
@@ -720,6 +723,7 @@ clad
 counts
 chest
 crafted
+cascade
 before
 being
 be
@@ -2516,6 +2520,7 @@ unmodified
 upgrades
 upgrade
 unarmed
+unleash
 letting
 look
 like
@@ -2642,6 +2647,7 @@ Esoteric
 Extraordinary
 Engagement
 Evade
+Essomancy
 Use
 Usable
 Unsorted

@@ -102,6 +102,7 @@ columns:
       - { label: "Electromancy", value: "Electromancy", color: "hsl(16, 95%, 90%)"}
       - { label: "Resonancia", value: "Resonancia", color: "hsl(97, 95%, 90%)"}
       - { label: "Unsorted", value: "Unsorted", color: "hsl(225, 95%, 90%)"}
+      - { label: "Essomancy", value: "Essomancy", color: "hsl(331, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

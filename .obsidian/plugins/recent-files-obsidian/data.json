@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Aurora Mortum",
+      "path": "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Mortum.md"
+    },
+    {
+      "basename": "Spell Damage by Rank Chart",
+      "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
+    },
+    {
       "basename": "Spell Template",
       "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
+      "basename": "Aurora Vitam",
+      "path": "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Vitam.md"
+    },
+    {
+      "basename": "Material",
+      "path": "General Rules/Traits Catalog/Material.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Spell List-Essomancy",
@@ -53,20 +77,12 @@
       "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
     },
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
       "basename": "Simple Metal Combination Resonance",
       "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Simple Metal Combination Resonance.md"
     },
     {
       "basename": "Metal Summoning Resonance",
       "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Dodge",
@@ -183,22 +199,6 @@
     {
       "basename": "Hydro-Oscillation Field",
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md"
-    },
-    {
-      "basename": "Blood Cry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md"
-    },
-    {
-      "basename": "Aura",
-      "path": "General Rules/Traits Catalog/Spell-Only/Aura.md"
-    },
-    {
-      "basename": "Steam-Spike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md"
-    },
-    {
-      "basename": "Prowess",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md"
     }
   ],
   "omittedPaths": [],
