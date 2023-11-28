@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Armor Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
+    },
+    {
+      "basename": "Verocloth",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md"
+    },
+    {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
+      "basename": "Carbon Alloy Plate",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md"
+    },
+    {
+      "basename": "Block",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Heater",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -21,10 +57,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
     {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
       "basename": "Dice Overview",
       "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
     },
@@ -37,16 +69,8 @@
       "path": "General Rules/The Favor System/Favor System Primer.md"
     },
     {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
       "basename": "Design Note-Axillary Resources",
       "path": "Design Bible/Design Notes/Design Note-Axillary Resources.md"
-    },
-    {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
     },
     {
       "basename": "Damage Types, Resistance, and Weakness",
@@ -59,14 +83,6 @@
     {
       "basename": "Mage Creation Steps",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Block",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
     },
     {
       "basename": "Aerophasia",
@@ -183,22 +199,6 @@
     {
       "basename": "New Equipment Template",
       "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
-    },
-    {
-      "basename": "Spell List-Glyphiamancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
-    },
-    {
-      "basename": "Simple Metal Combination Resonance",
-      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Simple Metal Combination Resonance.md"
-    },
-    {
-      "basename": "Metal Summoning Resonance",
-      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md"
-    },
-    {
-      "basename": "Trance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
     }
   ],
   "omittedPaths": [],

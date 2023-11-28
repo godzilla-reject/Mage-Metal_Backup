@@ -39,6 +39,7 @@ Interaction
 Installation
 Installed
 Increase
+Interact
 Mage
 Metal
 Mecha
@@ -193,6 +194,8 @@ impedance
 increasing
 interacted
 instances
+integral
+imposes
 the
 takes
 titans
@@ -318,6 +321,9 @@ tear
 triggers
 thumbs
 trip
+temperatures
+targeted
+triggering
 great
 game
 gaming
@@ -381,6 +387,8 @@ grab
 gears
 generates
 gale
+governed
+gun
 from
 first
 freeform
@@ -737,6 +745,11 @@ cascade
 crush
 causing
 causes
+contrary
+coincidentally
+coincidence
+confers
+confer
 before
 being
 be
@@ -848,6 +861,10 @@ build
 brand
 blazing
 backward
+belief
+block
+blows
+blocking
 not
 never
 no
@@ -1051,6 +1068,10 @@ ages
 alterations
 actual
 ahold
+acts
+adjusted
+attempted
+affcc
 wear
 with
 war
@@ -1137,6 +1158,8 @@ wears
 weight
 workshop
 wind
+ward
+weighs
 sleeve
 some
 something
@@ -1399,6 +1422,13 @@ start
 succeeded
 subject
 surround
+strong
+strictly
+swing
+snap
+swat
+situation
+shows
 LANCER
 Learn
 Lancer
@@ -1557,6 +1587,7 @@ optics
 opposite
 our
 opens
+oncoming
 designer
 drag
 do
@@ -1690,6 +1721,12 @@ door
 displace
 dodging
 dissipates
+differently
+depleted
+disable
+durability
+disabled
+deactivated
 ever
 expand
 easy
@@ -1804,6 +1841,9 @@ engage
 edge
 expressed
 evade
+encounter
+explained
+everthing
 played
 pilot
 play
@@ -1959,6 +1999,12 @@ pushing
 pulled
 put
 push
+popular
+pieces
+parry
+parrying
+projectiles
+price
 RP
 RPGs
 Ryutama
@@ -2023,6 +2069,13 @@ Running
 Rating
 Resonancia
 Restrained
+Raised
+Raise
+Recharged
+Reactive
+Riposte
+Rapid
+Recharger
 high
 heavily
 hopes
@@ -2100,6 +2153,8 @@ harming
 hardware
 him
 hangar
+heater
+here
 refine
 robust
 required
@@ -2216,6 +2271,16 @@ revives
 roars
 renew
 recent
+recharge
+remains
+raised
+reaches
+recharged
+remainder
+reflexively
+reliant
+right
+read
 Pathfinder
 PF
 Philosophy
@@ -2285,6 +2350,8 @@ Physicue
 Physique
 Pheidippidian
 Patient
+Parry
+Parried
 ABCs
 Apotheosis
 Accessibility
@@ -2489,6 +2556,9 @@ multiplies
 masterfully
 mainly
 movements
+mage
+matter
+meets
 GURPS
 Google
 Greyhawk
@@ -2562,6 +2632,8 @@ upgrades
 upgrade
 unarmed
 unleash
+units
+untyped
 letting
 look
 like
@@ -2646,6 +2718,8 @@ locked
 lock
 larger
 line
+learned
+lightest
 Ease
 Excel
 Escalation
@@ -2785,6 +2859,7 @@ Combat
 Cannot
 Combination
 Can
+Clad
 We
 While
 Write
@@ -2840,6 +2915,7 @@ kinds
 knows
 kit
 knocked
+know
 just
 jurisdiction
 justify
@@ -2971,6 +3047,7 @@ Flustered
 Fist
 Frost
 Flowing
+Flycatcher
 Dungeons
 Dragons
 Definitely
@@ -3020,6 +3097,7 @@ Distributed
 Deployed
 Decrease
 Dodging
+Defender
 Steve
 Sheets
 Segway
@@ -3140,6 +3218,7 @@ Soaked
 Summoning
 Something
 Spout
+Shielding
 Jackson
 Jack
 Juggernaut
@@ -3235,6 +3314,7 @@ Boulder
 Balancing
 Blocking
 Bloodied
+Block
 Varies
 Vast
 Void

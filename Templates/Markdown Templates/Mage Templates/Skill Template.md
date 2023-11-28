@@ -9,7 +9,7 @@ Tags:
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category:** `=this.Category`   
 >**Attribute:** `=this.Attribute`
----
+- - -
 # Skill Actions
 #### Untrained Actions
 These actions can be performed without any training in `=this.file.name `; they are available to any character. 
