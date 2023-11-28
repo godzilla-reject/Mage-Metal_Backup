@@ -86,6 +86,8 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >
 
+^059684
+
 >[!column]- ### **Mobile Armor**
 >> [!note] #### *Description*
 >> 
@@ -102,6 +104,8 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >
 >> [!metadata|right] *Legendary Perk:*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+
+^85f3b3
 
 >[!column]- ### **Powered Armor**
 >> [!note] #### *Description*
@@ -120,6 +124,9 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> [!metadata|right] *Legendary Perk:*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >
+
+^83a377
+
 ### General Proficiencies
 >[!column]- ### **Perception:**
 >> [!note] #### *Description*

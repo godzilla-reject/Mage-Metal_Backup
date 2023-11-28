@@ -752,6 +752,7 @@ coincidence
 confers
 confer
 copied
+compromises
 before
 being
 be
@@ -1432,6 +1433,7 @@ swat
 situation
 shows
 sacrificed
+stealth
 LANCER
 Learn
 Lancer
@@ -1848,6 +1850,7 @@ evade
 encounter
 explained
 everthing
+entirely
 played
 pilot
 play
@@ -2009,6 +2012,7 @@ parry
 parrying
 projectiles
 price
+protected
 RP
 RPGs
 Ryutama
@@ -2563,6 +2567,7 @@ movements
 mage
 matter
 meets
+middle
 GURPS
 Google
 Greyhawk
@@ -2724,6 +2729,7 @@ larger
 line
 learned
 lightest
+locomote
 Ease
 Excel
 Escalation

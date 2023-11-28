@@ -5,12 +5,16 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
     },
     {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
+      "basename": "Armor  Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md"
     },
     {
       "basename": "Verocloth",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md"
+    },
+    {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
     },
     {
       "basename": "Carbon Alloy Plate",
@@ -195,10 +199,6 @@
     {
       "basename": "Spell List-Resonancia",
       "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md"
-    },
-    {
-      "basename": "New Equipment Template",
-      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
     }
   ],
   "omittedPaths": [],

@@ -28,9 +28,23 @@ In `=[[Dev Helpers]].game-short`, there are three types of armor, each of which 
 
 Each armor's proficiency perks are copied here for reference, and can originally be found in the [[Character Mechanics Overview]].
 ## Infiltrator
-This is the lightest form of armor in the game, and compromises nearly entirely on protection in order to allow the wearer high levels of mobility and stealth. 
+This is the lightest form of armor in the game, and compromises nearly entirely on protection in order to allow the wearer high levels of casting flexibility and stealth. 
+##### Infiltrator Armor Example
+![[Syn-theather]]
+##### Infiltrator Armor Perks
+![[Character Mechanics Overview#^059684]]
 ## Mobile
+Mobile armor is the middle ground between the light Infiltrator and the heavy Powered armors. It allows the wearer to locomote easily but also remain protected from lighter attacks and weapons fire.
+##### Mobile Armor Example
+![[Filament Scalemail]]
+##### Mobile Armor Perks
+![[Character Mechanics Overview#^85f3b3]]
 ## Powered 
+The heaviest of the armor types, Powered armor can turn the wearer into a walking tank, although readily compromising their stealth and spellcasting capabilities due to the amount of material present.
+##### Powered Armor  Example
+![[Carbon Alloy Plate]]
+##### Powered Armor Perks
+![[Character Mechanics Overview#^83a377]]
 # Shields 
 In `=[[Dev Helpers]].game-short`, shields work a little differently from other pieces of armor; below is an example of a shield.
 ![[Heater]]
