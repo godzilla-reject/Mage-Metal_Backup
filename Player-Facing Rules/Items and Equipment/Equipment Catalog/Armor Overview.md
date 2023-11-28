@@ -2,7 +2,7 @@
 - [x] #todo  Add shields to this page. ✅ 2023-11-28
 - - -
 # Overview 
-Armor in `=[[Dev Helpers]].game-short` is integral to every character; every mage, no matter how reliant on magic, will encounter a situation (such as a gun) where a simple ward might not stop them from being damaged (such as when shot at, with a gun.) In these cases, even the lightest armor might be enough to save the Mage-Pilot's life. In order to determine what armor set is right for your Mage-Pilot, you'll need to know how to read an entry, which is explained below. 
+Armor in `=[[Dev Helpers]].game-full` is integral to every character; every mage, no matter how reliant on magic, will encounter a situation (such as a gun) where a simple ward might not stop them from being damaged (such as when shot at, with a gun.) In these cases, even the lightest armor might be enough to save the Mage-Pilot's life. In order to determine what armor set is right for your Mage-Pilot, you'll need to know how to read an entry, which is explained below. 
 
 # Reading an Armor Entry 
 Armor is presented, much like everthing else, in a stat block. This example shows the structure of the block and how to read it.
@@ -24,8 +24,11 @@ Armor is presented, much like everthing else, in a stat block. This example show
 
 
 # Types of Armor 
+In `=[[Dev Helpers]].game-short`, there are three types of armor, each of which is governed by their own proficiencies. These three armor types are ordered in terms of how "heavy" the armor is, as in how much mobility is sacrificed for protection, or vice versa if you want to view it that way. 
 
+Each armor's proficiency perks are copied here for reference, and can originally be found in the [[Character Mechanics Overview]].
 ## Infiltrator
+This is the lightest form of armor in the game, and compromises nearly entirely on protection in order to allow the wearer high levels of mobility and stealth. 
 ## Mobile
 ## Powered 
 # Shields 

@@ -324,6 +324,7 @@ trip
 temperatures
 targeted
 triggering
+terms
 great
 game
 gaming
@@ -750,6 +751,7 @@ coincidentally
 coincidence
 confers
 confer
+copied
 before
 being
 be
@@ -1429,6 +1431,7 @@ snap
 swat
 situation
 shows
+sacrificed
 LANCER
 Learn
 Lancer
@@ -1588,6 +1591,7 @@ opposite
 our
 opens
 oncoming
+ordered
 designer
 drag
 do
@@ -3007,6 +3011,8 @@ violently
 vitality
 vulnerability
 vortex
+vice
+versa
 Function
 Form
 Fleshed
