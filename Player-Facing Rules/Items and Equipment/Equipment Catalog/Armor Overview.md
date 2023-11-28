@@ -16,7 +16,7 @@ Armor is presented, much like everthing else, in a stat block. This example show
 |  **Armor Category**   |    This denotes what proficiency governs the armor.       |
 |    **Armor Group**    |       This details the material of the armor, which determines the armor's Specialization Effect. |
 |  **Toughness Bonus**  | This is the *untyped* bonus to Toughness the armor grants. |
-|   **Check Penalty**   |  This is the penalty the armor imposes on any [[Character Mechanics Overview#Reflex\|Reflex]] and/or [[Character Mechanics Overview#Mind\|MInd]] checks made while wearing it.  |
+|   **Check Penalty**   |  This is the penalty the armor imposes on any [[Character Mechanics Overview#Reflex\|Reflex]] and/or [[Character Mechanics Overview#Potential\|Potential]] checks made while wearing it.  |
 | **Armor Requirement** |   If the wearer meets the requirement(s) listed here, they reduce the Check Penalty by half.  |
 |    **Armor Heft**     |     This is how much the armor weighs when *not* equipped.     |
 |      Traits       |        These are the traits that the armor has.                    |

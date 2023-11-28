@@ -14,38 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Rules/Character Mechanics Overview.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7146056c4095ed9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "96bba1c0fb19e88f",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "194f7646a8e878ea",
@@ -90,22 +66,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "410eb211c6a10969",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -324,12 +287,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7146056c4095ed9b",
+  "active": "724b9641caf202f0",
   "lastOpenFiles": [
+    "General Rules/Character Mechanics Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md",
-    "General Rules/Character Mechanics Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",

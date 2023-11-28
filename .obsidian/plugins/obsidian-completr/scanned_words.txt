@@ -520,6 +520,7 @@ fallen
 feat
 fail
 flowing
+flexibility
 came
 combines
 combat
@@ -753,6 +754,7 @@ confers
 confer
 copied
 compromises
+compromising
 before
 being
 be
@@ -1075,6 +1077,7 @@ acts
 adjusted
 attempted
 affcc
+although
 wear
 with
 war
@@ -1163,6 +1166,7 @@ workshop
 wind
 ward
 weighs
+walking
 sleeve
 some
 something
@@ -2013,6 +2017,7 @@ parrying
 projectiles
 price
 protected
+present
 RP
 RPGs
 Ryutama
@@ -2163,6 +2168,7 @@ him
 hangar
 heater
 here
+heaviest
 refine
 robust
 required
@@ -2289,6 +2295,7 @@ reflexively
 reliant
 right
 read
+readily
 Pathfinder
 PF
 Philosophy
