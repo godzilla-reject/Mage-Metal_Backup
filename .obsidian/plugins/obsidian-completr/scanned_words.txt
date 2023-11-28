@@ -306,6 +306,10 @@ tiers
 touch
 timestream
 temporarily
+teleport
+thisSphere
+thaumaturgy
+technomynism
 great
 game
 gaming
@@ -1368,6 +1372,8 @@ shut
 stage
 stamina
 subtracts
+slip
+stores
 LANCER
 Learn
 Lancer
@@ -1764,6 +1770,7 @@ every
 except
 erupt
 encourage
+engage
 played
 pilot
 play
@@ -1977,6 +1984,7 @@ Repeated
 RAP
 Running
 Rating
+Resonancia
 high
 heavily
 hopes
@@ -2053,6 +2061,7 @@ had
 harming
 hardware
 him
+hangar
 refine
 robust
 required

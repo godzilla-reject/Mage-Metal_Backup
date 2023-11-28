@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Player-Facing Rules/Spells/Spell School Registry",
+      "template": "Templates/Markdown Templates/General Templates/Spell List Template.md"
+    },
+    {
+      "folder": "Player-Facing Rules/Spells/Arcane Spheres Ledger",
+      "template": "Templates/Markdown Templates/General Templates/Arcane Sphere Template.md"
     }
   ],
   "syntax_highlighting": true,

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f3d78f984d887c0",
+        "id": "79c3b1753b617c99",
         "type": "tabs",
         "children": [
           {
-            "id": "18ba08d6c4cfb755",
+            "id": "d3bd1f6b8f972027",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.644925777151695
+                  "zoom": -0.726548978220868
                 }
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:##todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -241,8 +240,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "18ba08d6c4cfb755",
+  "active": "d3bd1f6b8f972027",
   "lastOpenFiles": [
+    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
+    "Templates/Markdown Templates/General Templates/Spell List Template.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md",
+    "Templates/Markdown Templates/General Templates/Arcane Sphere Template.md",
+    "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md",
+    "Templates/Markdown Templates/DevHelper Templates/Inserts/Related Weapons Dataview.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md",
+    "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Thaumaturgy",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Spells/Spells Database/Resonancia/Simple Metal Combination Resonance.md",
+    "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md",
+    "Utilities/Lists/Trait List.md",
+    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
@@ -251,34 +267,17 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "General Rules/The Favor System/Favor System Primer.md",
     "General Rules/The Favor System/Dice Structure/Dice Overview.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
-    "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md",
     "Utilities/Dashboard Notes/Dev Helpers.md",
-    "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
     "Templates/Markdown Templates/DevHelper Templates/Inserts",
-    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Resonancia",
-    "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Combination Resonance.md",
-    "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md",
     "README.md",
-    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Torque Converter.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Integrated Weapon.md",
-    "Untitled.md",
-    "General Rules/Conditions Catalog/Conditions Database.md",
-    "General Rules/Conditions Catalog/Beneficial/Hastened.md",
-    "General Rules/Conditions Catalog/Beneficial/Regeneration.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Spell",
     "Testers",
-    "Templates/Markdown Templates/DevHelper Templates/Rollers",
-    "Templates/Markdown Templates/DevHelper Templates/Symbols"
+    "Templates/Markdown Templates/DevHelper Templates/Rollers"
   ]
 }

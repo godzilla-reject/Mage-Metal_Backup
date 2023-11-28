@@ -6462,7 +6462,7 @@ var require_react_development = __commonJS({
           }
           return dispatcher.useContext(Context);
         }
-        function useState65(initialState) {
+        function useState66(initialState) {
           var dispatcher = resolveDispatcher();
           return dispatcher.useState(initialState);
         }
@@ -6470,11 +6470,11 @@ var require_react_development = __commonJS({
           var dispatcher = resolveDispatcher();
           return dispatcher.useReducer(reducer2, initialArg, init2);
         }
-        function useRef18(initialValue) {
+        function useRef19(initialValue) {
           var dispatcher = resolveDispatcher();
           return dispatcher.useRef(initialValue);
         }
-        function useEffect19(create4, deps) {
+        function useEffect20(create4, deps) {
           var dispatcher = resolveDispatcher();
           return dispatcher.useEffect(create4, deps);
         }
@@ -7254,15 +7254,15 @@ var require_react_development = __commonJS({
         exports.useContext = useContext9;
         exports.useDebugValue = useDebugValue2;
         exports.useDeferredValue = useDeferredValue;
-        exports.useEffect = useEffect19;
+        exports.useEffect = useEffect20;
         exports.useId = useId;
         exports.useImperativeHandle = useImperativeHandle;
         exports.useInsertionEffect = useInsertionEffect;
         exports.useLayoutEffect = useLayoutEffect3;
         exports.useMemo = useMemo6;
         exports.useReducer = useReducer3;
-        exports.useRef = useRef18;
-        exports.useState = useState65;
+        exports.useRef = useRef19;
+        exports.useState = useState66;
         exports.useSyncExternalStore = useSyncExternalStore;
         exports.useTransition = useTransition;
         exports.version = ReactVersion;
@@ -7831,7 +7831,7 @@ var require_react_dom_development = __commonJS({
         var HostPortal = 4;
         var HostComponent = 5;
         var HostText = 6;
-        var Fragment66 = 7;
+        var Fragment65 = 7;
         var Mode = 8;
         var ContextConsumer = 9;
         var ContextProvider = 10;
@@ -8788,7 +8788,7 @@ var require_react_dom_development = __commonJS({
               return "DehydratedFragment";
             case ForwardRef:
               return getWrappedName$1(type2, type2.render, "ForwardRef");
-            case Fragment66:
+            case Fragment65:
               return "Fragment";
             case HostComponent:
               return type2;
@@ -18118,7 +18118,7 @@ var require_react_dom_development = __commonJS({
             }
           }
           function updateFragment2(returnFiber, current2, fragment2, lanes, key) {
-            if (current2 === null || current2.tag !== Fragment66) {
+            if (current2 === null || current2.tag !== Fragment65) {
               var created = createFiberFromFragment(fragment2, returnFiber.mode, lanes, key);
               created.return = returnFiber;
               return created;
@@ -18520,7 +18520,7 @@ var require_react_dom_development = __commonJS({
               if (child.key === key) {
                 var elementType = element4.type;
                 if (elementType === REACT_FRAGMENT_TYPE) {
-                  if (child.tag === Fragment66) {
+                  if (child.tag === Fragment65) {
                     deleteRemainingChildren(returnFiber, child.sibling);
                     var existing = useFiber(child, element4.props.children);
                     existing.return = returnFiber;
@@ -22562,7 +22562,7 @@ var require_react_dom_development = __commonJS({
               var _resolvedProps2 = workInProgress2.elementType === type2 ? _unresolvedProps2 : resolveDefaultProps(type2, _unresolvedProps2);
               return updateForwardRef(current2, workInProgress2, type2, _resolvedProps2, renderLanes2);
             }
-            case Fragment66:
+            case Fragment65:
               return updateFragment(current2, workInProgress2, renderLanes2);
             case Mode:
               return updateMode(current2, workInProgress2, renderLanes2);
@@ -22829,7 +22829,7 @@ var require_react_dom_development = __commonJS({
             case SimpleMemoComponent:
             case FunctionComponent:
             case ForwardRef:
-            case Fragment66:
+            case Fragment65:
             case Mode:
             case Profiler:
             case ContextConsumer:
@@ -27039,7 +27039,7 @@ var require_react_dom_development = __commonJS({
           return fiber;
         }
         function createFiberFromFragment(elements, mode, lanes, key) {
-          var fiber = createFiber(Fragment66, elements, key, mode);
+          var fiber = createFiber(Fragment65, elements, key, mode);
           fiber.lanes = lanes;
           return fiber;
         }
@@ -28297,7 +28297,7 @@ var require_react_is_development = __commonJS({
         var ContextProvider = REACT_PROVIDER_TYPE;
         var Element3 = REACT_ELEMENT_TYPE;
         var ForwardRef = REACT_FORWARD_REF_TYPE;
-        var Fragment66 = REACT_FRAGMENT_TYPE;
+        var Fragment65 = REACT_FRAGMENT_TYPE;
         var Lazy = REACT_LAZY_TYPE;
         var Memo = REACT_MEMO_TYPE;
         var Portal = REACT_PORTAL_TYPE;
@@ -28356,7 +28356,7 @@ var require_react_is_development = __commonJS({
         exports.ContextProvider = ContextProvider;
         exports.Element = Element3;
         exports.ForwardRef = ForwardRef;
-        exports.Fragment = Fragment66;
+        exports.Fragment = Fragment65;
         exports.Lazy = Lazy;
         exports.Memo = Memo;
         exports.Portal = Portal;
@@ -29064,7 +29064,7 @@ var require_react_is_development2 = __commonJS({
         var ContextProvider = REACT_PROVIDER_TYPE;
         var Element3 = REACT_ELEMENT_TYPE;
         var ForwardRef = REACT_FORWARD_REF_TYPE;
-        var Fragment66 = REACT_FRAGMENT_TYPE;
+        var Fragment65 = REACT_FRAGMENT_TYPE;
         var Lazy = REACT_LAZY_TYPE;
         var Memo = REACT_MEMO_TYPE;
         var Portal = REACT_PORTAL_TYPE;
@@ -29132,7 +29132,7 @@ var require_react_is_development2 = __commonJS({
         exports.ContextProvider = ContextProvider;
         exports.Element = Element3;
         exports.ForwardRef = ForwardRef;
-        exports.Fragment = Fragment66;
+        exports.Fragment = Fragment65;
         exports.Lazy = Lazy;
         exports.Memo = Memo;
         exports.Portal = Portal;
@@ -46090,7 +46090,7 @@ var require_react_is_development3 = __commonJS({
         var ContextProvider = REACT_PROVIDER_TYPE;
         var Element3 = REACT_ELEMENT_TYPE;
         var ForwardRef = REACT_FORWARD_REF_TYPE;
-        var Fragment66 = REACT_FRAGMENT_TYPE;
+        var Fragment65 = REACT_FRAGMENT_TYPE;
         var Lazy = REACT_LAZY_TYPE;
         var Memo = REACT_MEMO_TYPE;
         var Portal = REACT_PORTAL_TYPE;
@@ -46149,7 +46149,7 @@ var require_react_is_development3 = __commonJS({
         exports.ContextProvider = ContextProvider;
         exports.Element = Element3;
         exports.ForwardRef = ForwardRef;
-        exports.Fragment = Fragment66;
+        exports.Fragment = Fragment65;
         exports.Lazy = Lazy;
         exports.Memo = Memo;
         exports.Portal = Portal;
@@ -46377,7 +46377,7 @@ var require_react_is_development4 = __commonJS({
         var ContextProvider = REACT_PROVIDER_TYPE;
         var Element3 = REACT_ELEMENT_TYPE;
         var ForwardRef = REACT_FORWARD_REF_TYPE;
-        var Fragment66 = REACT_FRAGMENT_TYPE;
+        var Fragment65 = REACT_FRAGMENT_TYPE;
         var Lazy = REACT_LAZY_TYPE;
         var Memo = REACT_MEMO_TYPE;
         var Portal = REACT_PORTAL_TYPE;
@@ -46441,7 +46441,7 @@ var require_react_is_development4 = __commonJS({
         exports.ContextProvider = ContextProvider;
         exports.Element = Element3;
         exports.ForwardRef = ForwardRef;
-        exports.Fragment = Fragment66;
+        exports.Fragment = Fragment65;
         exports.Lazy = Lazy;
         exports.Memo = Memo;
         exports.Portal = Portal;
@@ -47689,7 +47689,12 @@ var ElementFactory = class {
   static createElement(app, api2, file) {
     return __async(this, null, function* () {
       const codeblockService = new RpgManagerCodeblockService(app, api2, file);
-      const rpgManagerBlock = yield codeblockService.readCodeblock();
+      let rpgManagerBlock = void 0;
+      try {
+        rpgManagerBlock = yield codeblockService.readCodeblock();
+      } catch (e2) {
+        throw Error("Error reading the RPG Manager YAML in file " + file.path);
+      }
       if (rpgManagerBlock === void 0 || rpgManagerBlock.id === void 0 || rpgManagerBlock.id.type === void 0)
         return void 0;
       const response = new Element2(app, api2, file, rpgManagerBlock);
@@ -47814,7 +47819,7 @@ var ElementFactory = class {
   static updateFileRelationships(app, api2, file, elements) {
     return __async(this, null, function* () {
       const element4 = elements.find((element5) => element5.path === file.path);
-      if (!element4.relationships || element4.relationships.length === 0)
+      if (!element4 || !element4.relationships || element4.relationships.length === 0)
         return;
       const codeblockService = new RpgManagerCodeblockService(app, api2, file);
       codeblockService.updateRelationshipInContent(element4.relationships);
@@ -47829,6 +47834,9 @@ var DatabaseFactory = class {
       const response = [];
       const elementPromises = app.vault.getMarkdownFiles().map((file) => ElementFactory.createElement(app, api2, file).then((element4) => {
         return element4;
+      }).catch((error2) => {
+        console.warn(error2);
+        return void 0;
       }));
       const elements = yield Promise.all(elementPromises);
       elements.filter((element4) => element4 !== void 0).forEach((element4) => response.push(element4));
@@ -51330,6 +51338,7 @@ var i18nEn = {
     option: "Option",
     checkbox: "Checkbox",
     longtext: "Long Text",
+    link: "Link",
     date: "Date",
     availableon: "Available on",
     your: "Your Custom Attributes",
@@ -51809,10 +51818,10 @@ var React3 = __toESM(require_react());
 var ApiContext = React3.createContext(void 0);
 
 // src/components/elements/ChapterComponent.tsx
-var React58 = __toESM(require_react());
+var React59 = __toESM(require_react());
 
 // src/components/attributes/AttributeListComponent.tsx
-var React33 = __toESM(require_react());
+var React34 = __toESM(require_react());
 
 // src/hooks/useApp.ts
 var import_react9 = __toESM(require_react());
@@ -65179,7 +65188,7 @@ var NewRelationshipController = class extends import_obsidian2.FuzzySuggestModal
     return response;
   }
   getItems() {
-    var _a, _b, _c;
+    var _a, _b;
     let allCampaignElements;
     if (!((_a = this._element) == null ? void 0 : _a.campaign) && !this._campaignPath) {
       allCampaignElements = this._api.get(void 0, null);
@@ -65193,6 +65202,7 @@ var NewRelationshipController = class extends import_obsidian2.FuzzySuggestModal
       const globalElements = this._api.get();
       allCampaignElements = allCampaignElements.concat(globalElements);
     }
+    console.log("LIMIT" + this._typeLimit);
     if (this._typeLimit) {
       allCampaignElements = allCampaignElements.filter((element4) => {
         var _a2;
@@ -65202,35 +65212,35 @@ var NewRelationshipController = class extends import_obsidian2.FuzzySuggestModal
     const relatedPaths = this._element ? this._element.relationships.map((relationship) => relationship.path) : [];
     const elementResponse = allCampaignElements.filter((element4) => {
       var _a2;
-      return this._callback || !relatedPaths.includes(element4.path) && element4.path !== ((_a2 = this._element) == null ? void 0 : _a2.path) && element4.type !== "campaign" /* Campaign */ && element4.type !== "adventure" /* Adventure */ && element4.type !== "session" /* Session */ && element4.type !== "scene" /* Scene */;
+      return this._callback || !relatedPaths.includes(element4.path) && element4.path !== ((_a2 = this._element) == null ? void 0 : _a2.path) && element4.type !== "campaign" /* Campaign */;
     });
     const response = [];
     elementResponse.forEach((element4) => {
-      var _a2, _b2, _c2;
+      var _a2, _b2, _c;
       const searchableElement = {
         name: element4.name,
         path: element4.path,
         type: element4.type,
         image: (_a2 = element4.images[0]) != null ? _a2 : void 0,
-        campaignName: (_c2 = (_b2 = element4.campaign) == null ? void 0 : _b2.name) != null ? _c2 : void 0
+        campaignName: (_c = (_b2 = element4.campaign) == null ? void 0 : _b2.name) != null ? _c : void 0
       };
       response.push(searchableElement);
       if (element4.aliases !== void 0 && Array.isArray(element4.aliases) && element4.aliases.length > 0) {
         element4.aliases.forEach((alias) => {
-          var _a3, _b3, _c3;
+          var _a3, _b3, _c2;
           const searchableElementAlias = {
             name: element4.name,
             path: element4.path,
             type: element4.type,
             alias,
             image: (_a3 = element4.images[0]) != null ? _a3 : void 0,
-            campaignName: (_c3 = (_b3 = element4.campaign) == null ? void 0 : _b3.name) != null ? _c3 : void 0
+            campaignName: (_c2 = (_b3 = element4.campaign) == null ? void 0 : _b3.name) != null ? _c2 : void 0
           };
           response.push(searchableElementAlias);
         });
       }
     });
-    if (((_c = this._typeLimit) == null ? void 0 : _c.includes("playercharacter" /* PlayerCharacter */)) && (this._element !== void 0 || this._campaignPath !== void 0))
+    if (this._element !== void 0 || this._campaignPath !== void 0)
       response.push({
         name: "All player characters",
         path: "all-player-characters",
@@ -65461,32 +65471,125 @@ function DefaultAttributeTypeComponent({
   }, content3));
 }
 
+// src/components/attributes/types/LinkAttributeComponent.tsx
+var React18 = __toESM(require_react());
+function LinkAttributeTypeComponent({
+  element: element4,
+  attribute,
+  isEditable
+}) {
+  const { t: t2 } = useTranslation();
+  const api2 = useApi();
+  const app = useApp();
+  if (!attribute.isSet)
+    return null;
+  const [value, setValue] = React18.useState(attribute.value);
+  const [editing, setEditing] = React18.useState(false);
+  const inputTextRef = React18.useRef(null);
+  React18.useEffect(() => {
+    var _a;
+    (_a = inputTextRef.current) == null ? void 0 : _a.focus();
+  }, []);
+  const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
+  function reset() {
+    var _a;
+    setValue((_a = attribute.value) != null ? _a : "");
+    setEditing(false);
+  }
+  function removeAttribute() {
+    codeblockService.updateCodeblockData(attribute.id, void 0).then(() => {
+      setEditing(false);
+    });
+  }
+  function saveAttribute(newValue) {
+    if (newValue === void 0) {
+      setEditing(false);
+      return;
+    }
+    codeblockService.updateCodeblockData(attribute.id, newValue).then(() => {
+      setEditing(false);
+    });
+  }
+  let content3;
+  if (editing) {
+    content3 = /* @__PURE__ */ React18.createElement("div", {
+      className: "grid grid-cols-1"
+    }, /* @__PURE__ */ React18.createElement("div", null, /* @__PURE__ */ React18.createElement("input", {
+      ref: inputTextRef,
+      type: "text",
+      defaultValue: attribute.value,
+      onChange: (e2) => setValue(e2.target.value),
+      className: "w-32 resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
+    })), /* @__PURE__ */ React18.createElement("div", {
+      className: "flex justify-end mt-3"
+    }, /* @__PURE__ */ React18.createElement("button", {
+      className: "rpgm-danger",
+      onClick: removeAttribute
+    }, t2("buttons.delete")), /* @__PURE__ */ React18.createElement("button", {
+      className: "rpgm-secondary",
+      onClick: reset
+    }, t2("buttons.cancel")), /* @__PURE__ */ React18.createElement("button", {
+      className: "rpgm-primary",
+      onClick: () => saveAttribute(value)
+    }, t2("buttons.save"))));
+  } else if (isEditable) {
+    content3 = /* @__PURE__ */ React18.createElement("div", {
+      className: "grid grid-cols-1 lg:grid-cols-2 group"
+    }, /* @__PURE__ */ React18.createElement("div", null, /* @__PURE__ */ React18.createElement("a", {
+      href: attribute.value
+    }, t2("link"))), /* @__PURE__ */ React18.createElement("div", {
+      className: "flex justify-end !ml-3"
+    }, /* @__PURE__ */ React18.createElement("button", {
+      className: "rpgm-secondary",
+      onClick: () => setEditing(!editing)
+    }, t2("buttons.edit"))));
+  } else {
+    content3 = /* @__PURE__ */ React18.createElement("div", null, /* @__PURE__ */ React18.createElement("a", {
+      href: attribute.value
+    }, t2("link")));
+  }
+  return /* @__PURE__ */ React18.createElement("div", {
+    className: "grid grid-cols-1 lg:grid-cols-4"
+  }, /* @__PURE__ */ React18.createElement(AttributeTitleComponent, {
+    attribute
+  }), /* @__PURE__ */ React18.createElement("div", {
+    className: "col-span-3 pl-0 lg:pl-3"
+  }, content3));
+}
+
 // src/components/editors/MarkdownEditorComponent.tsx
 var import_state2 = require("@codemirror/state");
 var import_view = require("@codemirror/view");
 var import_obsidian3 = require("obsidian");
-var React18 = __toESM(require_react());
+var React19 = __toESM(require_react());
 function MarkdownEditorComponent({
   initialValue,
   campaignPath,
   className,
   onChange: onChange2,
+  onBlur,
   forceFocus
 }) {
   const app = useApp();
   const api2 = useApi();
-  const parentDivRef = React18.useRef(null);
-  const [value, setValue] = React18.useState(initialValue || "");
-  const editorViewRef = React18.useRef(null);
-  const lastDetectedPositionRef = React18.useRef(null);
-  const [scope, setScope] = React18.useState(void 0);
-  const [originalScope] = React18.useState(app.scope);
+  const parentDivRef = React19.useRef(null);
+  const [value, setValue] = React19.useState(initialValue || "");
+  const editorViewRef = React19.useRef(null);
+  const lastDetectedPositionRef = React19.useRef(null);
+  const [scope, setScope] = React19.useState(void 0);
+  const [originalScope] = React19.useState(app.scope);
+  const [showRelatioshipModal, setShowRelationshipModal] = React19.useState(false);
   const contentChangeExtension = import_state2.EditorState.changeFilter.of((change) => {
     const newContent = change.state.doc.toString();
     setValue(newContent);
-    onChange2(newContent);
+    if (onChange2)
+      onChange2(newContent);
     return true;
   });
+  const handleBlur = () => {
+    if (onBlur && !showRelatioshipModal)
+      onBlur(value);
+  };
   const handleNewRelationship = () => {
     const relationshipModal = new NewRelationshipController(app, api2, void 0, campaignPath, void 0, replaceSequenceWithModalValue);
     relationshipModal.open();
@@ -65516,12 +65619,14 @@ function MarkdownEditorComponent({
         scrollIntoView: true
       });
       lastDetectedPositionRef.current = null;
+      setShowRelationshipModal(false);
     }
   };
   const doubleBracketKeyBinding = import_view.keymap.of([
     {
       key: "[",
       run: (view) => {
+        setShowRelationshipModal(true);
         const cursorPos = view.state.selection.main.head;
         const beforeCursorChar = view.state.doc.sliceString(cursorPos - 1, cursorPos);
         if (beforeCursorChar === "[") {
@@ -65556,7 +65661,7 @@ function MarkdownEditorComponent({
       editorViewRef.current = view;
     }
   });
-  React18.useEffect(() => {
+  React19.useEffect(() => {
     initializeEditor();
     return () => {
       var _a;
@@ -65566,10 +65671,11 @@ function MarkdownEditorComponent({
       app.keymap.pushScope(originalScope);
     };
   }, []);
-  return /* @__PURE__ */ React18.createElement("div", {
+  return /* @__PURE__ */ React19.createElement("div", {
     id: "rpgm-editor",
-    className: `${className} border-[--text-accent] markdown-editor-component p-3`,
-    ref: parentDivRef
+    className: `border-[--text-accent] markdown-editor-component p-3 ${className}`,
+    ref: parentDivRef,
+    onBlur: handleBlur
   });
 }
 function inlinePlugin() {
@@ -65733,7 +65839,7 @@ function applyItalic(view) {
 }
 
 // src/components/attributes/types/LongTextAttributeComponent.tsx
-var React19 = __toESM(require_react());
+var React20 = __toESM(require_react());
 function LongTextAttributeComponent({
   element: element4,
   attribute,
@@ -65745,8 +65851,8 @@ function LongTextAttributeComponent({
   const app = useApp();
   if (!attribute.isSet)
     return null;
-  const [value, setValue] = React19.useState((_a = attribute.value) != null ? _a : "");
-  const [editing, setEditing] = React19.useState(false);
+  const [value, setValue] = React20.useState((_a = attribute.value) != null ? _a : "");
+  const [editing, setEditing] = React20.useState(false);
   const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
   function reset() {
     var _a2;
@@ -65769,44 +65875,44 @@ function LongTextAttributeComponent({
   }
   let content3;
   if (editing) {
-    content3 = /* @__PURE__ */ React19.createElement("div", {
+    content3 = /* @__PURE__ */ React20.createElement("div", {
       className: "grid grid-cols-1"
-    }, /* @__PURE__ */ React19.createElement("div", null, /* @__PURE__ */ React19.createElement(MarkdownEditorComponent, {
+    }, /* @__PURE__ */ React20.createElement("div", null, /* @__PURE__ */ React20.createElement(MarkdownEditorComponent, {
       initialValue: attribute.value,
       campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaignPath,
       onChange: setValue,
       className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-    })), /* @__PURE__ */ React19.createElement("div", {
+    })), /* @__PURE__ */ React20.createElement("div", {
       className: "flex justify-end mt-3"
-    }, /* @__PURE__ */ React19.createElement("button", {
+    }, /* @__PURE__ */ React20.createElement("button", {
       className: "rpgm-danger",
       onClick: removeAttribute
-    }, t2("buttons.delete")), /* @__PURE__ */ React19.createElement("button", {
+    }, t2("buttons.delete")), /* @__PURE__ */ React20.createElement("button", {
       className: "rpgm-secondary",
       onClick: reset
-    }, t2("buttons.cancel")), /* @__PURE__ */ React19.createElement("button", {
+    }, t2("buttons.cancel")), /* @__PURE__ */ React20.createElement("button", {
       className: "rpgm-primary",
       onClick: () => saveAttribute(value)
     }, t2("buttons.save"))));
   } else if (isEditable) {
-    content3 = /* @__PURE__ */ React19.createElement("div", {
+    content3 = /* @__PURE__ */ React20.createElement("div", {
       onClick: () => setEditing(!editing),
       className: "border border-[--background-modifier-border] hover:border-[--background-modifier-border-hover] rounded-md p-3 cursor-text"
-    }, /* @__PURE__ */ React19.createElement(MarkdownComponent, {
+    }, /* @__PURE__ */ React20.createElement(MarkdownComponent, {
       value: attribute.value
     }));
   } else {
-    content3 = /* @__PURE__ */ React19.createElement("div", null, /* @__PURE__ */ React19.createElement(MarkdownComponent, {
+    content3 = /* @__PURE__ */ React20.createElement("div", null, /* @__PURE__ */ React20.createElement(MarkdownComponent, {
       value: attribute.value
     }));
   }
-  return /* @__PURE__ */ React19.createElement(React19.Fragment, null, /* @__PURE__ */ React19.createElement(AttributeTitleComponent, {
+  return /* @__PURE__ */ React20.createElement(React20.Fragment, null, /* @__PURE__ */ React20.createElement(AttributeTitleComponent, {
     attribute
   }), content3);
 }
 
 // src/components/attributes/types/MajorCluesAttributeComponent.tsx
-var React20 = __toESM(require_react());
+var React21 = __toESM(require_react());
 
 // src/services/HelperService.ts
 var HelperService = class {
@@ -65842,7 +65948,7 @@ function MajorCluesEdit({
       destination: clueData.destination ? api2.get(HelperService.extractPath(clueData.destination)) : void 0
     };
   });
-  const [clues, setClues] = React20.useState(cl);
+  const [clues, setClues] = React21.useState(cl);
   const handleSave = () => {
     const value = [];
     clues.forEach((clue) => {
@@ -65892,26 +65998,26 @@ function MajorCluesEdit({
   const handleDeleteClue = (clue) => {
     setClues(clues.filter((currentClue) => currentClue.clue.path !== clue.clue.path));
   };
-  return /* @__PURE__ */ React20.createElement("div", {
+  return /* @__PURE__ */ React21.createElement("div", {
     className: "w-full p-3 border border-[--background-modifier-border] rounded-lg"
-  }, /* @__PURE__ */ React20.createElement(MajorClueHeader, {
+  }, /* @__PURE__ */ React21.createElement(MajorClueHeader, {
     isEditing: true
-  }), /* @__PURE__ */ React20.createElement("div", {
+  }), /* @__PURE__ */ React21.createElement("div", {
     className: "w-full"
-  }, clues.map((clue, index2) => /* @__PURE__ */ React20.createElement("div", {
+  }, clues.map((clue, index2) => /* @__PURE__ */ React21.createElement("div", {
     key: index2,
     className: "grid grid-cols-6 border-b border-b[--background-modifier-border] pt-2 pb-2 pr-1 group"
-  }, /* @__PURE__ */ React20.createElement("div", {
+  }, /* @__PURE__ */ React21.createElement("div", {
     className: "col-span-1"
-  }, /* @__PURE__ */ React20.createElement("a", {
+  }, /* @__PURE__ */ React21.createElement("a", {
     href: clue.clue.path,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, clue.clue.name), " (", /* @__PURE__ */ React20.createElement("span", {
+  }, clue.clue.name), " (", /* @__PURE__ */ React21.createElement("span", {
     className: "!no-underline cursor-pointer hover:text-[--text-accent-hover]",
     onClick: () => handleSearchClue("replace", clue)
-  }, t2("buttons.replace")), ")"), /* @__PURE__ */ React20.createElement("div", {
+  }, t2("buttons.replace")), ")"), /* @__PURE__ */ React21.createElement("div", {
     className: "col-span-3 pr-1"
-  }, /* @__PURE__ */ React20.createElement(TextInputComponent, {
+  }, /* @__PURE__ */ React21.createElement(TextInputComponent, {
     initialValue: clue.description,
     campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaign.path,
     className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md",
@@ -65922,56 +66028,56 @@ function MajorCluesEdit({
         return currentClue;
       }));
     }
-  })), /* @__PURE__ */ React20.createElement("div", {
+  })), /* @__PURE__ */ React21.createElement("div", {
     className: "col-span-1 pr-1"
-  }, clue.destination ? /* @__PURE__ */ React20.createElement(React20.Fragment, null, /* @__PURE__ */ React20.createElement("a", {
+  }, clue.destination ? /* @__PURE__ */ React21.createElement(React21.Fragment, null, /* @__PURE__ */ React21.createElement("a", {
     href: clue.destination.path,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, clue.destination.name), " (", /* @__PURE__ */ React20.createElement("span", {
+  }, clue.destination.name), " (", /* @__PURE__ */ React21.createElement("span", {
     className: "!no-underline cursor-pointer hover:text-[--text-accent-hover]",
     onClick: () => handleSearchDestination(clue)
-  }, t2("buttons.replace")), ")") : /* @__PURE__ */ React20.createElement("span", {
+  }, t2("buttons.replace")), ")") : /* @__PURE__ */ React21.createElement("span", {
     className: "!no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]",
     onClick: () => handleSearchDestination(clue)
-  }, t2("buttons.adddestination"))), /* @__PURE__ */ React20.createElement("div", {
+  }, t2("buttons.adddestination"))), /* @__PURE__ */ React21.createElement("div", {
     className: "col-span-1 flex justify-end"
-  }, /* @__PURE__ */ React20.createElement("button", {
+  }, /* @__PURE__ */ React21.createElement("button", {
     className: "rpgm-danger opacity-0 group-hover:opacity-100",
     onClick: () => handleDeleteClue(clue)
-  }, t2("buttons.delete"))))), /* @__PURE__ */ React20.createElement("div", {
+  }, t2("buttons.delete"))))), /* @__PURE__ */ React21.createElement("div", {
     className: "grid grid-cols-5 border-b border-b[--background-modifier-border] pt-2 pb-2"
-  }, /* @__PURE__ */ React20.createElement("div", {
+  }, /* @__PURE__ */ React21.createElement("div", {
     className: "col-span-1"
-  }, /* @__PURE__ */ React20.createElement("span", {
+  }, /* @__PURE__ */ React21.createElement("span", {
     className: "!no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]",
     onClick: () => handleSearchClue("add")
-  }, t2("create.add", { context: "clue" }))), /* @__PURE__ */ React20.createElement("div", {
+  }, t2("create.add", { context: "clue" }))), /* @__PURE__ */ React21.createElement("div", {
     className: "col-span-3"
-  }), /* @__PURE__ */ React20.createElement("div", {
+  }), /* @__PURE__ */ React21.createElement("div", {
     className: "col-span-1"
-  })), /* @__PURE__ */ React20.createElement("div", {
+  })), /* @__PURE__ */ React21.createElement("div", {
     className: "flex justify-end mt-3"
-  }, /* @__PURE__ */ React20.createElement("button", {
+  }, /* @__PURE__ */ React21.createElement("button", {
     className: "rpgm-primary",
     onClick: handleSave
   }, t2("buttons.save")))));
 }
 function MajorCluesView({ attribute, edit }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React20.createElement("div", {
+  return /* @__PURE__ */ React21.createElement("div", {
     className: "w-full p-3 border border-[--background-modifier-border] rounded-lg hover:bg-[--background-secondary] cursor-pointer"
-  }, /* @__PURE__ */ React20.createElement(MajorCluesBrowse, {
+  }, /* @__PURE__ */ React21.createElement(MajorCluesBrowse, {
     attribute
-  }), /* @__PURE__ */ React20.createElement("div", {
+  }), /* @__PURE__ */ React21.createElement("div", {
     className: "w-full flex justify-end mt-3"
-  }, /* @__PURE__ */ React20.createElement("button", {
+  }, /* @__PURE__ */ React21.createElement("button", {
     className: "rpgm-secondary",
     onClick: edit
   }, t2("buttons.edit"))));
 }
 function MajorCluesBrowse({ attribute }) {
   if (!attribute.isSet)
-    return /* @__PURE__ */ React20.createElement(React20.Fragment, null);
+    return /* @__PURE__ */ React21.createElement(React21.Fragment, null);
   const api2 = useApi();
   const cluesData = attribute.value;
   const clues = cluesData.map((clueData) => {
@@ -65989,38 +66095,38 @@ function MajorCluesBrowse({ attribute }) {
     }
     return void 0;
   }
-  return /* @__PURE__ */ React20.createElement("div", {
+  return /* @__PURE__ */ React21.createElement("div", {
     className: "w-full"
-  }, /* @__PURE__ */ React20.createElement(MajorClueHeader, {
+  }, /* @__PURE__ */ React21.createElement(MajorClueHeader, {
     isEditing: false
-  }), clues.map((clue, index2) => /* @__PURE__ */ React20.createElement("div", {
+  }), clues.map((clue, index2) => /* @__PURE__ */ React21.createElement("div", {
     key: index2,
     className: "grid grid-cols-5 border-b border-b-[--background-modifier-border] pt-1 pb-1"
-  }, /* @__PURE__ */ React20.createElement("div", {
+  }, /* @__PURE__ */ React21.createElement("div", {
     className: "col-span-1 pr-1"
-  }, clue.clue && /* @__PURE__ */ React20.createElement("a", {
+  }, clue.clue && /* @__PURE__ */ React21.createElement("a", {
     href: clue.clue.path,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, clue.clue.name)), /* @__PURE__ */ React20.createElement("div", {
+  }, clue.clue.name)), /* @__PURE__ */ React21.createElement("div", {
     className: "col-span-3 pr-1"
-  }, /* @__PURE__ */ React20.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React21.createElement(MarkdownComponent, {
     value: clue.description
-  })), /* @__PURE__ */ React20.createElement("div", {
+  })), /* @__PURE__ */ React21.createElement("div", {
     className: "col-span-1"
-  }, clue.destination && /* @__PURE__ */ React20.createElement("a", {
+  }, clue.destination && /* @__PURE__ */ React21.createElement("a", {
     href: clue.destination.path,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
   }, clue.destination.name)))));
 }
 function MajorClueHeader({ isEditing }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React20.createElement("div", {
+  return /* @__PURE__ */ React21.createElement("div", {
     className: `grid ${isEditing ? "grid-cols-6" : "grid-cols-5"} border-b border-b-[--background-modifier-border] mb-2 pb-2`
-  }, /* @__PURE__ */ React20.createElement("div", {
+  }, /* @__PURE__ */ React21.createElement("div", {
     className: "text-xs !text-[--text-faint] col-span-1 pr-1"
-  }, t2("elements.clue", { count: 1 })), /* @__PURE__ */ React20.createElement("div", {
+  }, t2("elements.clue", { count: 1 })), /* @__PURE__ */ React21.createElement("div", {
     className: "text-xs !text-[--text-faint] col-span-3 pr-1"
-  }, t2("clues.description")), /* @__PURE__ */ React20.createElement("div", {
+  }, t2("clues.description")), /* @__PURE__ */ React21.createElement("div", {
     className: `text-xs !text-[--text-faint] ${isEditing ? "col-span-2" : "col-span-1"}`
   }, t2("clues.destination")));
 }
@@ -66029,25 +66135,25 @@ function MajorCluesAttributeComponent({
   attribute,
   isEditable
 }) {
-  const [editing, setEditing] = React20.useState(false);
+  const [editing, setEditing] = React21.useState(false);
   const handleEdit = () => {
     setEditing(true);
   };
-  return /* @__PURE__ */ React20.createElement(React20.Fragment, null, /* @__PURE__ */ React20.createElement(AttributeTitleComponent, {
+  return /* @__PURE__ */ React21.createElement(React21.Fragment, null, /* @__PURE__ */ React21.createElement(AttributeTitleComponent, {
     attribute
-  }), /* @__PURE__ */ React20.createElement("div", null, editing ? /* @__PURE__ */ React20.createElement(MajorCluesEdit, {
+  }), /* @__PURE__ */ React21.createElement("div", null, editing ? /* @__PURE__ */ React21.createElement(MajorCluesEdit, {
     element: element4,
     attribute
-  }) : isEditable ? /* @__PURE__ */ React20.createElement(MajorCluesView, {
+  }) : isEditable ? /* @__PURE__ */ React21.createElement(MajorCluesView, {
     attribute,
     edit: handleEdit
-  }) : /* @__PURE__ */ React20.createElement(MajorCluesBrowse, {
+  }) : /* @__PURE__ */ React21.createElement(MajorCluesBrowse, {
     attribute
   })));
 }
 
 // src/components/attributes/types/MapAttributeComponent.tsx
-var React21 = __toESM(require_react());
+var React22 = __toESM(require_react());
 var import_react_simple_maps = __toESM(require_index_umd());
 function MapAttributeComponent({
   element: element4,
@@ -66057,17 +66163,17 @@ function MapAttributeComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const containerRef = React21.useRef(null);
-  const [editing, setEditing] = React21.useState(false);
-  const [attributeValue, setAttributeValue] = React21.useState(attribute.value);
-  const [isTooltipVisible, setIsTooltipVisible] = React21.useState(false);
-  const [tooltipContent, setTooltipContent] = React21.useState("");
-  const [tooltipX, setTooltipX] = React21.useState(0);
-  const [tooltipY, setTooltipY] = React21.useState(0);
+  const containerRef = React22.useRef(null);
+  const [editing, setEditing] = React22.useState(false);
+  const [attributeValue, setAttributeValue] = React22.useState(attribute.value);
+  const [isTooltipVisible, setIsTooltipVisible] = React22.useState(false);
+  const [tooltipContent, setTooltipContent] = React22.useState("");
+  const [tooltipX, setTooltipX] = React22.useState(0);
+  const [tooltipY, setTooltipY] = React22.useState(0);
   const renderTooltip = () => {
     if (!isTooltipVisible)
       return null;
-    return /* @__PURE__ */ React21.createElement("div", {
+    return /* @__PURE__ */ React22.createElement("div", {
       style: {
         position: "absolute",
         top: tooltipY,
@@ -66103,32 +66209,32 @@ function MapAttributeComponent({
       setEditing(false);
     });
   }
-  const map = /* @__PURE__ */ React21.createElement(import_react_simple_maps.ComposableMap, {
+  const map = /* @__PURE__ */ React22.createElement(import_react_simple_maps.ComposableMap, {
     projection: "geoMercator",
     projectionConfig: {
       scale: 1e3
     }
-  }, /* @__PURE__ */ React21.createElement(import_react_simple_maps.ZoomableGroup, {
+  }, /* @__PURE__ */ React22.createElement(import_react_simple_maps.ZoomableGroup, {
     center: [longitude, latitude],
     zoom: 2
-  }, /* @__PURE__ */ React21.createElement(import_react_simple_maps.Geographies, {
+  }, /* @__PURE__ */ React22.createElement(import_react_simple_maps.Geographies, {
     geography: "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
     fill: "#D6D6DA",
     stroke: "#FFFFFF",
     strokeWidth: 0.5
-  }, ({ geographies }) => geographies.map((geo) => /* @__PURE__ */ React21.createElement(import_react_simple_maps.Geography, {
+  }, ({ geographies }) => geographies.map((geo) => /* @__PURE__ */ React22.createElement(import_react_simple_maps.Geography, {
     key: geo.rsmKey,
     geography: geo
-  }))), /* @__PURE__ */ React21.createElement(import_react_simple_maps.Marker, {
+  }))), /* @__PURE__ */ React22.createElement(import_react_simple_maps.Marker, {
     key: element4.path,
     coordinates: [longitude, latitude]
-  }, /* @__PURE__ */ React21.createElement("circle", {
+  }, /* @__PURE__ */ React22.createElement("circle", {
     r: 3,
     fill: "#FF5533"
   })), allLocations.map((location3) => {
     var _a, _b, _c;
     const [latitude2, longitude2] = (_c = (_b = (_a = location3.attribute("location" /* Location */)) == null ? void 0 : _a.value) == null ? void 0 : _b.split(",")) != null ? _c : [0, 0];
-    return /* @__PURE__ */ React21.createElement(import_react_simple_maps.Marker, {
+    return /* @__PURE__ */ React22.createElement(import_react_simple_maps.Marker, {
       key: location3.path,
       coordinates: [longitude2, latitude2],
       className: "hover:cursor-pointer",
@@ -66145,53 +66251,53 @@ function MapAttributeComponent({
       onMouseLeave: () => {
         setIsTooltipVisible(false);
       }
-    }, /* @__PURE__ */ React21.createElement("circle", {
+    }, /* @__PURE__ */ React22.createElement("circle", {
       r: 3,
       fill: "#5533ff"
     }));
   })));
   let content3;
   if (editing) {
-    content3 = /* @__PURE__ */ React21.createElement("div", null, /* @__PURE__ */ React21.createElement("div", {
+    content3 = /* @__PURE__ */ React22.createElement("div", null, /* @__PURE__ */ React22.createElement("div", {
       className: "grid grid-cols-1 lg:grid-cols-4"
-    }, /* @__PURE__ */ React21.createElement("div", {
+    }, /* @__PURE__ */ React22.createElement("div", {
       className: "!font-bold col-span-1"
-    }, t2("attributes.coordinates")), /* @__PURE__ */ React21.createElement("div", {
+    }, t2("attributes.coordinates")), /* @__PURE__ */ React22.createElement("div", {
       className: "col-span-3 pl-0 lg:pl-3"
-    }, /* @__PURE__ */ React21.createElement("div", null, /* @__PURE__ */ React21.createElement("input", {
+    }, /* @__PURE__ */ React22.createElement("div", null, /* @__PURE__ */ React22.createElement("input", {
       type: "text",
       defaultValue: attribute.value,
       onChange: (e2) => setAttributeValue(e2.target.value),
       className: "!pl-2 !pr-4"
-    })), /* @__PURE__ */ React21.createElement("div", {
+    })), /* @__PURE__ */ React22.createElement("div", {
       className: "flex mt-3"
-    }, /* @__PURE__ */ React21.createElement("button", {
+    }, /* @__PURE__ */ React22.createElement("button", {
       className: "rpgm-danger !ml-0",
       onClick: removeAttribute
-    }, t2("buttons.delete")), /* @__PURE__ */ React21.createElement("button", {
+    }, t2("buttons.delete")), /* @__PURE__ */ React22.createElement("button", {
       className: "rpgm-secondary",
       onClick: () => setEditing(false)
-    }, t2("buttons.cancel")), /* @__PURE__ */ React21.createElement("button", {
+    }, t2("buttons.cancel")), /* @__PURE__ */ React22.createElement("button", {
       className: "rpgm-primary",
       onClick: saveAttribute
     }, t2("buttons.save"))))));
   } else if (isEditable) {
-    content3 = /* @__PURE__ */ React21.createElement("div", null, /* @__PURE__ */ React21.createElement("div", null, map), /* @__PURE__ */ React21.createElement("div", {
+    content3 = /* @__PURE__ */ React22.createElement("div", null, /* @__PURE__ */ React22.createElement("div", null, map), /* @__PURE__ */ React22.createElement("div", {
       className: "flex justify-end ml-3 mt-3"
-    }, /* @__PURE__ */ React21.createElement("button", {
+    }, /* @__PURE__ */ React22.createElement("button", {
       className: "rpgm-secondary",
       onClick: () => setEditing(true)
     }, t2("buttons.edit"))));
   } else {
     content3 = map;
   }
-  return /* @__PURE__ */ React21.createElement("div", {
+  return /* @__PURE__ */ React22.createElement("div", {
     ref: containerRef
   }, renderTooltip(), content3);
 }
 
 // src/components/attributes/types/NonPlayerCharacterTypeAttributeComponent.tsx
-var React22 = __toESM(require_react());
+var React23 = __toESM(require_react());
 
 // src/data/enums/NonPlayerCharacterType.ts
 var NonPlayerCharacterType = /* @__PURE__ */ ((NonPlayerCharacterType2) => {
@@ -66226,37 +66332,37 @@ function NonPlayerCharacterTypeAttributeComponent({
   };
   let content3;
   if (isEditable) {
-    content3 = /* @__PURE__ */ React22.createElement("div", {
+    content3 = /* @__PURE__ */ React23.createElement("div", {
       className: "grid grid-cols-1 lg:grid-cols-2 group"
-    }, /* @__PURE__ */ React22.createElement("div", null, /* @__PURE__ */ React22.createElement("select", {
+    }, /* @__PURE__ */ React23.createElement("div", null, /* @__PURE__ */ React23.createElement("select", {
       defaultValue: attribute.value,
       onChange: (e2) => saveAttribute(e2.target.value),
       className: "!pl-2 !pr-4"
-    }, /* @__PURE__ */ React22.createElement("option", {
+    }, /* @__PURE__ */ React23.createElement("option", {
       value: ""
-    }), Object.entries(NonPlayerCharacterType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React22.createElement("option", {
+    }), Object.entries(NonPlayerCharacterType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React23.createElement("option", {
       key,
       value: index2
-    }, key)))), /* @__PURE__ */ React22.createElement("div", {
+    }, key)))), /* @__PURE__ */ React23.createElement("div", {
       className: "flex justify-end !ml-3"
-    }, /* @__PURE__ */ React22.createElement("button", {
+    }, /* @__PURE__ */ React23.createElement("button", {
       className: "rpgm-danger opacity-0 group-hover:opacity-100",
       onClick: removeAttribute
     }, t2("buttons.delete"))));
   } else {
-    content3 = /* @__PURE__ */ React22.createElement("div", null, Object.keys(NonPlayerCharacterType).find((key) => NonPlayerCharacterType[key] === value));
+    content3 = /* @__PURE__ */ React23.createElement("div", null, Object.keys(NonPlayerCharacterType).find((key) => NonPlayerCharacterType[key] === value));
   }
-  return /* @__PURE__ */ React22.createElement("div", {
+  return /* @__PURE__ */ React23.createElement("div", {
     className: "grid grid-cols-1 lg:grid-cols-4"
-  }, /* @__PURE__ */ React22.createElement(AttributeTitleComponent, {
+  }, /* @__PURE__ */ React23.createElement(AttributeTitleComponent, {
     attribute
-  }), /* @__PURE__ */ React22.createElement("div", {
+  }), /* @__PURE__ */ React23.createElement("div", {
     className: "col-span-3 pl-0 lg:pl-3"
   }, content3));
 }
 
 // src/components/attributes/types/NumberAttributeTypeComponent.tsx
-var React23 = __toESM(require_react());
+var React24 = __toESM(require_react());
 function NumberAttributeTypeComponent({
   element: element4,
   attribute,
@@ -66267,10 +66373,10 @@ function NumberAttributeTypeComponent({
   const app = useApp();
   if (!attribute.isSet)
     return null;
-  const [value, setValue] = React23.useState(attribute.value);
-  const [editing, setEditing] = React23.useState(false);
-  const inputTextRef = React23.useRef(null);
-  React23.useEffect(() => {
+  const [value, setValue] = React24.useState(attribute.value);
+  const [editing, setEditing] = React24.useState(false);
+  const inputTextRef = React24.useRef(null);
+  React24.useEffect(() => {
     var _a;
     (_a = inputTextRef.current) == null ? void 0 : _a.focus();
   }, []);
@@ -66296,45 +66402,45 @@ function NumberAttributeTypeComponent({
   }
   let content3;
   if (editing) {
-    content3 = /* @__PURE__ */ React23.createElement("div", {
+    content3 = /* @__PURE__ */ React24.createElement("div", {
       className: "grid grid-cols-1"
-    }, /* @__PURE__ */ React23.createElement("div", null, /* @__PURE__ */ React23.createElement("input", {
+    }, /* @__PURE__ */ React24.createElement("div", null, /* @__PURE__ */ React24.createElement("input", {
       ref: inputTextRef,
       type: "number",
       defaultValue: attribute.value,
       onChange: (e2) => setValue(e2.target.value ? +e2.target.value : void 0),
       className: "w-32 resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-    })), /* @__PURE__ */ React23.createElement("div", {
+    })), /* @__PURE__ */ React24.createElement("div", {
       className: "flex justify-end mt-3"
-    }, /* @__PURE__ */ React23.createElement("button", {
+    }, /* @__PURE__ */ React24.createElement("button", {
       className: "rpgm-danger",
       onClick: removeAttribute
-    }, t2("buttons.delete")), /* @__PURE__ */ React23.createElement("button", {
+    }, t2("buttons.delete")), /* @__PURE__ */ React24.createElement("button", {
       className: "rpgm-secondary",
       onClick: reset
-    }, t2("buttons.cancel")), /* @__PURE__ */ React23.createElement("button", {
+    }, t2("buttons.cancel")), /* @__PURE__ */ React24.createElement("button", {
       className: "rpgm-primary",
       onClick: () => saveAttribute(value)
     }, t2("buttons.save"))));
   } else if (isEditable) {
-    content3 = /* @__PURE__ */ React23.createElement("div", {
+    content3 = /* @__PURE__ */ React24.createElement("div", {
       onClick: () => setEditing(!editing),
       className: "border border-[--background-modifier-border] hover:border-[--background-modifier-border-hover] rounded-md p-3 cursor-text"
     }, attribute.value);
   } else {
-    content3 = /* @__PURE__ */ React23.createElement("div", null, attribute.value);
+    content3 = /* @__PURE__ */ React24.createElement("div", null, attribute.value);
   }
-  return /* @__PURE__ */ React23.createElement("div", {
+  return /* @__PURE__ */ React24.createElement("div", {
     className: "grid grid-cols-1 lg:grid-cols-4"
-  }, /* @__PURE__ */ React23.createElement(AttributeTitleComponent, {
+  }, /* @__PURE__ */ React24.createElement(AttributeTitleComponent, {
     attribute
-  }), /* @__PURE__ */ React23.createElement("div", {
+  }), /* @__PURE__ */ React24.createElement("div", {
     className: "col-span-3 pl-0 lg:pl-3"
   }, content3));
 }
 
 // src/components/attributes/types/PronounComponent.tsx
-var React24 = __toESM(require_react());
+var React25 = __toESM(require_react());
 function PronounComponent({
   element: element4,
   attribute,
@@ -66352,41 +66458,41 @@ function PronounComponent({
   };
   let content3;
   if (isEditable) {
-    content3 = /* @__PURE__ */ React24.createElement("div", {
+    content3 = /* @__PURE__ */ React25.createElement("div", {
       className: "grid grid-cols-1 lg:grid-cols-2 group"
-    }, /* @__PURE__ */ React24.createElement("div", null, /* @__PURE__ */ React24.createElement("select", {
+    }, /* @__PURE__ */ React25.createElement("div", null, /* @__PURE__ */ React25.createElement("select", {
       defaultValue: attribute.value,
       onChange: (e2) => saveAttribute(e2.target.value),
       className: "!pl-2 !pr-4"
-    }, /* @__PURE__ */ React24.createElement("option", {
+    }, /* @__PURE__ */ React25.createElement("option", {
       value: ""
-    }), /* @__PURE__ */ React24.createElement("option", {
+    }), /* @__PURE__ */ React25.createElement("option", {
       value: "they"
-    }, "They / Them / Themself"), /* @__PURE__ */ React24.createElement("option", {
+    }, "They / Them / Themself"), /* @__PURE__ */ React25.createElement("option", {
       value: "she"
-    }, "She / Her / Herself"), /* @__PURE__ */ React24.createElement("option", {
+    }, "She / Her / Herself"), /* @__PURE__ */ React25.createElement("option", {
       value: "st"
-    }, "She / They / Themself"), /* @__PURE__ */ React24.createElement("option", {
+    }, "She / They / Themself"), /* @__PURE__ */ React25.createElement("option", {
       value: "he"
-    }, "He / Him / Himself"), /* @__PURE__ */ React24.createElement("option", {
+    }, "He / Him / Himself"), /* @__PURE__ */ React25.createElement("option", {
       value: "ht"
-    }, "He / They / Themself"), /* @__PURE__ */ React24.createElement("option", {
+    }, "He / They / Themself"), /* @__PURE__ */ React25.createElement("option", {
       value: "it"
-    }, "It / Its / Itself"), /* @__PURE__ */ React24.createElement("option", {
+    }, "It / Its / Itself"), /* @__PURE__ */ React25.createElement("option", {
       value: "ae"
-    }, "(f)Ae / (f)Aer / (f)Aerself"), /* @__PURE__ */ React24.createElement("option", {
+    }, "(f)Ae / (f)Aer / (f)Aerself"), /* @__PURE__ */ React25.createElement("option", {
       value: "e"
-    }, "E(Ey) / Em / Eirelf"), /* @__PURE__ */ React24.createElement("option", {
+    }, "E(Ey) / Em / Eirelf"), /* @__PURE__ */ React25.createElement("option", {
       value: "per"
-    }, "Per / Per / Perself"), /* @__PURE__ */ React24.createElement("option", {
+    }, "Per / Per / Perself"), /* @__PURE__ */ React25.createElement("option", {
       value: "ve"
-    }, "Ve / Ver / Verself"), /* @__PURE__ */ React24.createElement("option", {
+    }, "Ve / Ver / Verself"), /* @__PURE__ */ React25.createElement("option", {
       value: "xe"
-    }, 'Xe / Xem / Xemself"'), /* @__PURE__ */ React24.createElement("option", {
+    }, 'Xe / Xem / Xemself"'), /* @__PURE__ */ React25.createElement("option", {
       value: "ze"
-    }, "Ze(Zie) / Hir / Hirself"))), /* @__PURE__ */ React24.createElement("div", {
+    }, "Ze(Zie) / Hir / Hirself"))), /* @__PURE__ */ React25.createElement("div", {
       className: "flex justify-end !ml-3"
-    }, /* @__PURE__ */ React24.createElement("button", {
+    }, /* @__PURE__ */ React25.createElement("button", {
       className: "rpgm-danger opacity-0 group-hover:opacity-100",
       onClick: removeAttribute
     }, t2("buttons.delete"))));
@@ -66430,19 +66536,19 @@ function PronounComponent({
         value = "Ze(Zie) / Hir / Hirself";
         break;
     }
-    content3 = /* @__PURE__ */ React24.createElement("div", null, value);
+    content3 = /* @__PURE__ */ React25.createElement("div", null, value);
   }
-  return /* @__PURE__ */ React24.createElement("div", {
+  return /* @__PURE__ */ React25.createElement("div", {
     className: "grid grid-cols-1 lg:grid-cols-4"
-  }, /* @__PURE__ */ React24.createElement(AttributeTitleComponent, {
+  }, /* @__PURE__ */ React25.createElement(AttributeTitleComponent, {
     attribute
-  }), /* @__PURE__ */ React24.createElement("div", {
+  }), /* @__PURE__ */ React25.createElement("div", {
     className: "col-span-3 pl-0 lg:pl-3"
   }, content3));
 }
 
 // src/components/attributes/types/ScaleTypeAttributeComponent.tsx
-var React25 = __toESM(require_react());
+var React26 = __toESM(require_react());
 function ScaleTypeAttributeComponent({
   element: element4,
   attribute,
@@ -66450,24 +66556,24 @@ function ScaleTypeAttributeComponent({
 }) {
   if (attribute === void 0 || !attribute.isSet)
     return null;
-  const [editing, setEditing] = React25.useState(false);
+  const [editing, setEditing] = React26.useState(false);
   const handleEdit = () => {
     setEditing(!editing);
   };
-  return /* @__PURE__ */ React25.createElement("div", {
+  return /* @__PURE__ */ React26.createElement("div", {
     className: "grid grid-cols-1"
-  }, /* @__PURE__ */ React25.createElement(AttributeTitleComponent, {
+  }, /* @__PURE__ */ React26.createElement(AttributeTitleComponent, {
     attribute
-  }), /* @__PURE__ */ React25.createElement("div", {
+  }), /* @__PURE__ */ React26.createElement("div", {
     className: "col-span-3 pl-0 lg:pl-3"
-  }, editing ? /* @__PURE__ */ React25.createElement(EditComponent, {
+  }, editing ? /* @__PURE__ */ React26.createElement(EditComponent, {
     element: element4,
     attribute,
     onSave: handleEdit
-  }) : isEditable ? /* @__PURE__ */ React25.createElement(ViewComponent, {
+  }) : isEditable ? /* @__PURE__ */ React26.createElement(ViewComponent, {
     attribute,
     edit: handleEdit
-  }) : /* @__PURE__ */ React25.createElement(BrowseComponent, {
+  }) : /* @__PURE__ */ React26.createElement(BrowseComponent, {
     attribute
   })));
 }
@@ -66479,8 +66585,8 @@ function EditComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [widthPercentage, setWidthPercentage] = React25.useState(attribute.value / 10 * 100);
-  React25.useEffect(() => {
+  const [widthPercentage, setWidthPercentage] = React26.useState(attribute.value / 10 * 100);
+  React26.useEffect(() => {
     setWidthPercentage(attribute.value / 10 * 100);
   }, [attribute.value]);
   const handleMouseOver = (event) => {
@@ -66502,54 +66608,54 @@ function EditComponent({
       onSave();
     });
   };
-  return /* @__PURE__ */ React25.createElement(React25.Fragment, null, /* @__PURE__ */ React25.createElement("div", {
+  return /* @__PURE__ */ React26.createElement(React26.Fragment, null, /* @__PURE__ */ React26.createElement("div", {
     className: "w-full mt-3 cursor-pointer"
-  }, /* @__PURE__ */ React25.createElement("div", {
+  }, /* @__PURE__ */ React26.createElement("div", {
     className: "relative mr-3 h-2 bg-[--background-primary-alt] rounded-full",
     onMouseMove: handleMouseOver,
     onClick: handleSave
-  }, /* @__PURE__ */ React25.createElement("div", {
+  }, /* @__PURE__ */ React26.createElement("div", {
     style: { width: `${widthPercentage}%` },
     className: "absolute h-2 bg-[--text-accent] rounded-full"
-  })), /* @__PURE__ */ React25.createElement("div", {
+  })), /* @__PURE__ */ React26.createElement("div", {
     className: "text-xs text-[--text-faint] text-center"
-  }, Math.round(widthPercentage / 100 * 10))), /* @__PURE__ */ React25.createElement("div", {
+  }, Math.round(widthPercentage / 100 * 10))), /* @__PURE__ */ React26.createElement("div", {
     className: `w-full flex justify-end mt-3`
-  }, /* @__PURE__ */ React25.createElement("button", {
+  }, /* @__PURE__ */ React26.createElement("button", {
     className: "rpgm-danger",
     onClick: handleDelete
-  }, t2("buttons.delete")), /* @__PURE__ */ React25.createElement("button", {
+  }, t2("buttons.delete")), /* @__PURE__ */ React26.createElement("button", {
     className: "rpgm-secondary",
     onClick: onSave
-  }, t2("buttons.cancel")), /* @__PURE__ */ React25.createElement("button", {
+  }, t2("buttons.cancel")), /* @__PURE__ */ React26.createElement("button", {
     className: "rpgm-primary ml-3",
     onClick: handleSave
   }, t2("buttons.save"))));
 }
 function ViewComponent({ attribute, edit }) {
-  return /* @__PURE__ */ React25.createElement("div", {
+  return /* @__PURE__ */ React26.createElement("div", {
     onClick: edit,
     className: "cursor-pointer"
-  }, /* @__PURE__ */ React25.createElement(BrowseComponent, {
+  }, /* @__PURE__ */ React26.createElement(BrowseComponent, {
     attribute
   }));
 }
 function BrowseComponent({ attribute }) {
   const widthPercentage = attribute.value / 10 * 100;
-  return /* @__PURE__ */ React25.createElement("div", {
+  return /* @__PURE__ */ React26.createElement("div", {
     className: "w-full mt-3"
-  }, /* @__PURE__ */ React25.createElement("div", {
+  }, /* @__PURE__ */ React26.createElement("div", {
     className: "relative mr-3 h-2 bg-[--background-primary-alt] rounded-full"
-  }, /* @__PURE__ */ React25.createElement("div", {
+  }, /* @__PURE__ */ React26.createElement("div", {
     style: { width: `${widthPercentage}%` },
     className: "absolute h-2 bg-[--text-accent] rounded-full"
-  })), /* @__PURE__ */ React25.createElement("div", {
+  })), /* @__PURE__ */ React26.createElement("div", {
     className: "text-xs text-[--text-faint] text-center"
   }, attribute.value));
 }
 
 // src/components/attributes/types/SceneTypeAttributeComponent.tsx
-var React26 = __toESM(require_react());
+var React27 = __toESM(require_react());
 
 // src/data/enums/StoryCircleStage.ts
 var StoryCircleStage = /* @__PURE__ */ ((StoryCircleStage2) => {
@@ -66589,37 +66695,37 @@ function SceneTypeAttributeComponent({
   };
   let content3;
   if (isEditable) {
-    content3 = /* @__PURE__ */ React26.createElement("div", {
+    content3 = /* @__PURE__ */ React27.createElement("div", {
       className: "grid grid-cols-1 lg:grid-cols-2 group"
-    }, /* @__PURE__ */ React26.createElement("div", null, /* @__PURE__ */ React26.createElement("select", {
+    }, /* @__PURE__ */ React27.createElement("div", null, /* @__PURE__ */ React27.createElement("select", {
       defaultValue: attribute.value,
       onChange: (e2) => saveAttribute(e2.target.value),
       className: "!pl-2 !pr-4"
-    }, /* @__PURE__ */ React26.createElement("option", {
+    }, /* @__PURE__ */ React27.createElement("option", {
       value: ""
-    }), Object.entries(SceneType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React26.createElement("option", {
+    }), Object.entries(SceneType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React27.createElement("option", {
       key,
       value: index2
-    }, key + (isSceneActive(index2) ? " (active)" : ""))))), /* @__PURE__ */ React26.createElement("div", {
+    }, key + (isSceneActive(index2) ? " (active)" : ""))))), /* @__PURE__ */ React27.createElement("div", {
       className: "flex justify-end !ml-3"
-    }, /* @__PURE__ */ React26.createElement("button", {
+    }, /* @__PURE__ */ React27.createElement("button", {
       className: "rpgm-danger opacity-0 group-hover:opacity-100",
       onClick: removeAttribute
     }, t2("buttons.delete"))));
   } else {
-    content3 = /* @__PURE__ */ React26.createElement("div", null, Object.keys(StoryCircleStage).find((key) => StoryCircleStage[key] === value));
+    content3 = /* @__PURE__ */ React27.createElement("div", null, Object.keys(StoryCircleStage).find((key) => StoryCircleStage[key] === value));
   }
-  return /* @__PURE__ */ React26.createElement("div", {
+  return /* @__PURE__ */ React27.createElement("div", {
     className: "grid grid-cols-1 lg:grid-cols-4"
-  }, /* @__PURE__ */ React26.createElement(AttributeTitleComponent, {
+  }, /* @__PURE__ */ React27.createElement(AttributeTitleComponent, {
     attribute
-  }), /* @__PURE__ */ React26.createElement("div", {
+  }), /* @__PURE__ */ React27.createElement("div", {
     className: "col-span-3 pl-0 lg:pl-3"
   }, content3));
 }
 
 // src/components/attributes/types/SelectAttributeTypeComponent.tsx
-var React27 = __toESM(require_react());
+var React28 = __toESM(require_react());
 function SelectAttributeTypeComponent({
   element: element4,
   attribute,
@@ -66640,37 +66746,37 @@ function SelectAttributeTypeComponent({
   };
   let content3;
   if (isEditable) {
-    content3 = /* @__PURE__ */ React27.createElement("div", {
+    content3 = /* @__PURE__ */ React28.createElement("div", {
       className: "grid grid-cols-1 lg:grid-cols-2 group"
-    }, /* @__PURE__ */ React27.createElement("div", null, /* @__PURE__ */ React27.createElement("select", {
+    }, /* @__PURE__ */ React28.createElement("div", null, /* @__PURE__ */ React28.createElement("select", {
       defaultValue: attribute.value,
       onChange: (e2) => saveAttribute(e2.target.value),
       className: "!pl-2 !pr-4"
-    }, /* @__PURE__ */ React27.createElement("option", {
+    }, /* @__PURE__ */ React28.createElement("option", {
       value: ""
-    }), (_a = attribute.options) == null ? void 0 : _a.map((key, index2) => /* @__PURE__ */ React27.createElement("option", {
+    }), (_a = attribute.options) == null ? void 0 : _a.map((key, index2) => /* @__PURE__ */ React28.createElement("option", {
       key: index2,
       value: key
-    }, key)))), /* @__PURE__ */ React27.createElement("div", {
+    }, key)))), /* @__PURE__ */ React28.createElement("div", {
       className: "flex justify-end !ml-3"
-    }, /* @__PURE__ */ React27.createElement("button", {
+    }, /* @__PURE__ */ React28.createElement("button", {
       className: "rpgm-danger opacity-0 group-hover:opacity-100",
       onClick: removeAttribute
     }, t2("buttons.delete"))));
   } else {
-    content3 = /* @__PURE__ */ React27.createElement("div", null, (_b = attribute == null ? void 0 : attribute.value) != null ? _b : "");
+    content3 = /* @__PURE__ */ React28.createElement("div", null, (_b = attribute == null ? void 0 : attribute.value) != null ? _b : "");
   }
-  return /* @__PURE__ */ React27.createElement("div", {
+  return /* @__PURE__ */ React28.createElement("div", {
     className: "grid grid-cols-1 lg:grid-cols-4"
-  }, /* @__PURE__ */ React27.createElement(AttributeTitleComponent, {
+  }, /* @__PURE__ */ React28.createElement(AttributeTitleComponent, {
     attribute
-  }), /* @__PURE__ */ React27.createElement("div", {
+  }), /* @__PURE__ */ React28.createElement("div", {
     className: "col-span-3 pl-0 lg:pl-3"
   }, content3));
 }
 
 // src/components/attributes/types/StoryCircleStageAttributeComponent.tsx
-var React28 = __toESM(require_react());
+var React29 = __toESM(require_react());
 function StoryCircleStageAttributeComponent({
   element: element4,
   attribute,
@@ -66691,40 +66797,40 @@ function StoryCircleStageAttributeComponent({
   };
   let content3;
   if (isEditable) {
-    content3 = /* @__PURE__ */ React28.createElement("div", {
+    content3 = /* @__PURE__ */ React29.createElement("div", {
       className: "grid grid-cols-1 lg:grid-cols-2 group"
-    }, /* @__PURE__ */ React28.createElement("div", null, /* @__PURE__ */ React28.createElement("select", {
+    }, /* @__PURE__ */ React29.createElement("div", null, /* @__PURE__ */ React29.createElement("select", {
       defaultValue: attribute.value,
       onChange: (e2) => saveAttribute(e2.target.value),
       className: "!pl-2 !pr-4"
-    }, /* @__PURE__ */ React28.createElement("option", {
+    }, /* @__PURE__ */ React29.createElement("option", {
       value: ""
-    }), Object.entries(StoryCircleStage).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React28.createElement("option", {
+    }), Object.entries(StoryCircleStage).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React29.createElement("option", {
       key,
       value: index2
-    }, key)))), /* @__PURE__ */ React28.createElement("div", {
+    }, key)))), /* @__PURE__ */ React29.createElement("div", {
       className: "flex justify-end !ml-3"
-    }, /* @__PURE__ */ React28.createElement("button", {
+    }, /* @__PURE__ */ React29.createElement("button", {
       className: "rpgm-danger opacity-0 group-hover:opacity-100",
       onClick: removeAttribute
     }, t2("buttons.delete"))));
   } else {
-    content3 = /* @__PURE__ */ React28.createElement("div", null, Object.keys(StoryCircleStage).find((key) => StoryCircleStage[key] === value));
+    content3 = /* @__PURE__ */ React29.createElement("div", null, Object.keys(StoryCircleStage).find((key) => StoryCircleStage[key] === value));
   }
-  return /* @__PURE__ */ React28.createElement("div", {
+  return /* @__PURE__ */ React29.createElement("div", {
     className: "grid grid-cols-1 lg:grid-cols-4"
-  }, /* @__PURE__ */ React28.createElement(AttributeTitleComponent, {
+  }, /* @__PURE__ */ React29.createElement(AttributeTitleComponent, {
     attribute
-  }), /* @__PURE__ */ React28.createElement("div", {
+  }), /* @__PURE__ */ React29.createElement("div", {
     className: "col-span-3 pl-0 lg:pl-3"
   }, content3));
 }
 
 // src/components/attributes/types/StrengthsAttributeComponent.tsx
-var React30 = __toESM(require_react());
+var React31 = __toESM(require_react());
 
 // src/components/editors/StrengthsComponent.tsx
-var React29 = __toESM(require_react());
+var React30 = __toESM(require_react());
 
 // src/data/enums/StrengthType.ts
 var StrengthType = /* @__PURE__ */ ((StrengthType2) => {
@@ -66762,11 +66868,11 @@ function StrengthsComponent({
   const toggleStrength = (strength) => {
     propagateValue(strength);
   };
-  return /* @__PURE__ */ React29.createElement(React29.Fragment, null, /* @__PURE__ */ React29.createElement("div", {
+  return /* @__PURE__ */ React30.createElement(React30.Fragment, null, /* @__PURE__ */ React30.createElement("div", {
     className: "flex flex-wrap"
   }, Object.entries(StrengthType).filter(([key]) => isNaN(Number(key))).map(([key, value]) => {
     const strengthValue = value;
-    return /* @__PURE__ */ React29.createElement("div", {
+    return /* @__PURE__ */ React30.createElement("div", {
       key,
       className: `pl-2 pr-2 cursor-pointer hover:text-[--text-accent-hover] ${(initialValue & strengthValue) === strengthValue ? "text-[--text-accent]" : ""}`,
       onClick: () => toggleStrength(strengthValue)
@@ -66785,8 +66891,8 @@ function StrengthsAttributeComponent({
   const app = useApp();
   if (!attribute.isSet)
     return null;
-  const [editing, setEditing] = React30.useState(false);
-  const [value, setValue] = React30.useState(attribute.value);
+  const [editing, setEditing] = React31.useState(false);
+  const [value, setValue] = React31.useState(attribute.value);
   const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
   const reset = () => {
     setValue(attribute.value);
@@ -66804,57 +66910,57 @@ function StrengthsAttributeComponent({
   };
   let content3;
   if (editing) {
-    content3 = /* @__PURE__ */ React30.createElement(React30.Fragment, null, /* @__PURE__ */ React30.createElement("div", null, /* @__PURE__ */ React30.createElement(StrengthsComponent, {
+    content3 = /* @__PURE__ */ React31.createElement(React31.Fragment, null, /* @__PURE__ */ React31.createElement("div", null, /* @__PURE__ */ React31.createElement(StrengthsComponent, {
       initialValue: value,
       propagateValue: saveAttribute
-    })), /* @__PURE__ */ React30.createElement("div", {
+    })), /* @__PURE__ */ React31.createElement("div", {
       className: "flex justify-end mt-3"
-    }, /* @__PURE__ */ React30.createElement("button", {
+    }, /* @__PURE__ */ React31.createElement("button", {
       className: "rpgm-danger",
       onClick: removeAttribute(attribute)
-    }, t2("buttons.delete")), /* @__PURE__ */ React30.createElement("button", {
+    }, t2("buttons.delete")), /* @__PURE__ */ React31.createElement("button", {
       className: "rpgm-secondary",
       onClick: reset
-    }, t2("buttons.cancel")), /* @__PURE__ */ React30.createElement("button", {
+    }, t2("buttons.cancel")), /* @__PURE__ */ React31.createElement("button", {
       className: "rpgm-primary",
       onClick: updateAttribute
     }, t2("buttons.save"))));
   } else if (isEditable) {
-    content3 = /* @__PURE__ */ React30.createElement("div", {
+    content3 = /* @__PURE__ */ React31.createElement("div", {
       onClick: () => setEditing(!editing),
       className: "flex flex-wrap border border-[--background-modifier-border] hover:border-[--background-modifier-border-hover] rounded-md p-3 cursor-pointer"
     }, Object.entries(StrengthType).filter(([key]) => isNaN(Number(key))).map(([key, currentStrength]) => {
       const strengthValue = currentStrength;
       if ((attribute.value & strengthValue) !== strengthValue)
         return null;
-      return /* @__PURE__ */ React30.createElement("div", {
+      return /* @__PURE__ */ React31.createElement("div", {
         key,
         className: "pl-2 pr-2"
       }, key);
     }));
   } else {
-    content3 = /* @__PURE__ */ React30.createElement("div", {
+    content3 = /* @__PURE__ */ React31.createElement("div", {
       className: "flex flex-wrap p-3"
     }, Object.entries(StrengthType).filter(([key]) => isNaN(Number(key))).map(([key, currentStrength]) => {
       const strengthValue = currentStrength;
       if ((attribute.value & strengthValue) !== strengthValue)
         return null;
-      return /* @__PURE__ */ React30.createElement("div", {
+      return /* @__PURE__ */ React31.createElement("div", {
         key,
         className: "pl-2 pr-2"
       }, key);
     }));
   }
-  return /* @__PURE__ */ React30.createElement(React30.Fragment, null, /* @__PURE__ */ React30.createElement("div", {
+  return /* @__PURE__ */ React31.createElement(React31.Fragment, null, /* @__PURE__ */ React31.createElement("div", {
     className: "!font-bold"
   }, t2("attributes." + attribute.id)), content3);
 }
 
 // src/components/attributes/types/WeaknessesAttributeComponent.tsx
-var React32 = __toESM(require_react());
+var React33 = __toESM(require_react());
 
 // src/components/editors/WeaknessesComponent.tsx
-var React31 = __toESM(require_react());
+var React32 = __toESM(require_react());
 
 // src/data/enums/WeaknessType.ts
 var WeaknessType = /* @__PURE__ */ ((WeaknessType2) => {
@@ -66894,11 +67000,11 @@ function WeaknessesComponent({
   const toggleWeaknesses = (weakness) => {
     propagateValue(weakness);
   };
-  return /* @__PURE__ */ React31.createElement(React31.Fragment, null, /* @__PURE__ */ React31.createElement("div", {
+  return /* @__PURE__ */ React32.createElement(React32.Fragment, null, /* @__PURE__ */ React32.createElement("div", {
     className: "flex flex-wrap"
   }, Object.entries(WeaknessType).filter(([key]) => isNaN(Number(key))).map(([key, value]) => {
     const weaknessValue = value;
-    return /* @__PURE__ */ React31.createElement("div", {
+    return /* @__PURE__ */ React32.createElement("div", {
       key,
       className: `pl-2 pr-2 cursor-pointer hover:text-[--text-accent-hover] ${(initialValue & weaknessValue) === weaknessValue ? "text-[--text-accent]" : ""}`,
       onClick: () => toggleWeaknesses(weaknessValue)
@@ -66917,8 +67023,8 @@ function WeaknessesAttributeComponent({
   const app = useApp();
   if (!attribute.isSet)
     return null;
-  const [editing, setEditing] = React32.useState(false);
-  const [value, setValue] = React32.useState(attribute.value);
+  const [editing, setEditing] = React33.useState(false);
+  const [value, setValue] = React33.useState(attribute.value);
   const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
   function reset() {
     setValue(attribute.value);
@@ -66936,48 +67042,48 @@ function WeaknessesAttributeComponent({
   };
   let content3;
   if (editing) {
-    content3 = /* @__PURE__ */ React32.createElement(React32.Fragment, null, /* @__PURE__ */ React32.createElement("div", null, /* @__PURE__ */ React32.createElement(WeaknessesComponent, {
+    content3 = /* @__PURE__ */ React33.createElement(React33.Fragment, null, /* @__PURE__ */ React33.createElement("div", null, /* @__PURE__ */ React33.createElement(WeaknessesComponent, {
       initialValue: value,
       propagateValue: saveAttribute
-    })), /* @__PURE__ */ React32.createElement("div", {
+    })), /* @__PURE__ */ React33.createElement("div", {
       className: "flex justify-end mt-3"
-    }, /* @__PURE__ */ React32.createElement("button", {
+    }, /* @__PURE__ */ React33.createElement("button", {
       className: "rpgm-danger",
       onClick: removeAttribute(attribute)
-    }, t2("buttons.delete")), /* @__PURE__ */ React32.createElement("button", {
+    }, t2("buttons.delete")), /* @__PURE__ */ React33.createElement("button", {
       className: "rpgm-secondary",
       onClick: reset
-    }, t2("buttons.cancel")), /* @__PURE__ */ React32.createElement("button", {
+    }, t2("buttons.cancel")), /* @__PURE__ */ React33.createElement("button", {
       className: "rpgm-primary",
       onClick: updateAttribute
     }, t2("buttons.save"))));
   } else if (isEditable) {
-    content3 = /* @__PURE__ */ React32.createElement("div", {
+    content3 = /* @__PURE__ */ React33.createElement("div", {
       onClick: () => setEditing(!editing),
       className: "flex flex-wrap border border-[--background-modifier-border] hover:border-[--background-modifier-border-hover] rounded-md p-3 cursor-pointer"
     }, Object.entries(WeaknessType).filter(([key]) => isNaN(Number(key))).map(([key, currentWeaknesses]) => {
       const weaknessesValue = currentWeaknesses;
       if ((attribute.value & weaknessesValue) !== weaknessesValue)
         return null;
-      return /* @__PURE__ */ React32.createElement("div", {
+      return /* @__PURE__ */ React33.createElement("div", {
         key,
         className: "pl-2 pr-2"
       }, key);
     }));
   } else {
-    content3 = /* @__PURE__ */ React32.createElement("div", {
+    content3 = /* @__PURE__ */ React33.createElement("div", {
       className: "flex flex-wrap p-3"
     }, Object.entries(WeaknessType).filter(([key]) => isNaN(Number(key))).map(([key, currentWeaknesses]) => {
       const weaknessesValue = currentWeaknesses;
       if ((attribute.value & weaknessesValue) !== weaknessesValue)
         return null;
-      return /* @__PURE__ */ React32.createElement("div", {
+      return /* @__PURE__ */ React33.createElement("div", {
         key,
         className: "pl-2 pr-2"
       }, key);
     }));
   }
-  return /* @__PURE__ */ React32.createElement(React32.Fragment, null, /* @__PURE__ */ React32.createElement("div", {
+  return /* @__PURE__ */ React33.createElement(React33.Fragment, null, /* @__PURE__ */ React33.createElement("div", {
     className: "!font-bold"
   }, t2("attributes." + attribute.id)), content3);
 }
@@ -66988,122 +67094,129 @@ function AttributeListComponent({
   isEditable
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React33.createElement("div", {
+  return /* @__PURE__ */ React34.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] relative p-3"
-  }, /* @__PURE__ */ React33.createElement("div", null, /* @__PURE__ */ React33.createElement("h2", {
+  }, /* @__PURE__ */ React34.createElement("div", null, /* @__PURE__ */ React34.createElement("h2", {
     className: "!text-2xl !font-bold border-b border-b-[--background-modifier-border]"
-  }, t2("attributes.attribute", { count: 2 }))), /* @__PURE__ */ React33.createElement("div", null, element4.attributes.map((attribute, index2) => {
+  }, t2("attributes.attribute", { count: 2 }))), /* @__PURE__ */ React34.createElement("div", null, element4.attributes.map((attribute, index2) => {
     if (attribute.type === "Description" /* Description */ || attribute.type === "StoryCircle" /* StoryCircle */ || attribute.type === "Kishotenketsu" /* Kishotenketsu */ || attribute.type === "Duration" /* Duration */ || attribute.type === "Parent" /* Parent */ || attribute.type === "Conflict" /* Conflict */ || attribute.type === "SensoryImprint" /* SensoryImprint */ || !attribute.isSet)
       return null;
     let attributeComponent;
     switch (attribute.type) {
       case "Pronoun" /* Pronoun */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(PronounComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(PronounComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "Scale" /* Scale */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(ScaleTypeAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(ScaleTypeAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "SceneType" /* SceneType */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(SceneTypeAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(SceneTypeAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "Map" /* Map */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(MapAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(MapAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "Arc" /* Arc */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(ArcAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(ArcAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "Date" /* Date */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(DateAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(DateAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "Strengths" /* Strengths */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(StrengthsAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(StrengthsAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "Weaknesses" /* Weaknesses */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(WeaknessesAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(WeaknessesAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "LongText" /* LongText */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(LongTextAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(LongTextAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "StoryCircleStage" /* StoryCircleStage */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(StoryCircleStageAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(StoryCircleStageAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "AbtStage" /* AbtStage */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(AbtStageAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(AbtStageAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "Boolean" /* Boolean */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(BooleanAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(BooleanAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "Number" /* Number */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(NumberAttributeTypeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(NumberAttributeTypeComponent, {
+          element: element4,
+          attribute,
+          isEditable
+        });
+        break;
+      case "Link" /* Link */:
+        attributeComponent = /* @__PURE__ */ React34.createElement(LinkAttributeTypeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "Select" /* Select */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(SelectAttributeTypeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(SelectAttributeTypeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "MajorClues" /* MajorClues */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(MajorCluesAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(MajorCluesAttributeComponent, {
           element: element4,
           attribute,
           isEditable
         });
         break;
       case "NonPlayerCharacterType" /* NonPlayerCharacterType */:
-        attributeComponent = /* @__PURE__ */ React33.createElement(NonPlayerCharacterTypeAttributeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(NonPlayerCharacterTypeAttributeComponent, {
           element: element4,
           attribute,
           isEditable
@@ -67111,7 +67224,7 @@ function AttributeListComponent({
         break;
       case "Text" /* Text */:
       default:
-        attributeComponent = /* @__PURE__ */ React33.createElement(DefaultAttributeTypeComponent, {
+        attributeComponent = /* @__PURE__ */ React34.createElement(DefaultAttributeTypeComponent, {
           element: element4,
           attribute,
           isEditable
@@ -67119,7 +67232,7 @@ function AttributeListComponent({
     }
     if (attributeComponent === void 0)
       return null;
-    return /* @__PURE__ */ React33.createElement("div", {
+    return /* @__PURE__ */ React34.createElement("div", {
       className: "!mb-6",
       key: index2
     }, attributeComponent);
@@ -67127,7 +67240,7 @@ function AttributeListComponent({
 }
 
 // src/components/attributes/types/DescriptionAttributeComponent.tsx
-var React34 = __toESM(require_react());
+var React35 = __toESM(require_react());
 function DescriptionAttributeComponent({
   element: element4,
   attribute,
@@ -67137,8 +67250,8 @@ function DescriptionAttributeComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [editing, setEditing] = React34.useState(false);
-  const [description2, setDescription] = React34.useState((_a = attribute.value) != null ? _a : "");
+  const [editing, setEditing] = React35.useState(false);
+  const [description2, setDescription] = React35.useState((_a = attribute.value) != null ? _a : "");
   function reset() {
     var _a2;
     setDescription((_a2 = attribute.value) != null ? _a2 : "");
@@ -67156,43 +67269,43 @@ function DescriptionAttributeComponent({
   };
   let content3;
   if (editing) {
-    content3 = /* @__PURE__ */ React34.createElement("div", {
+    content3 = /* @__PURE__ */ React35.createElement("div", {
       className: "grid grid-cols-1"
-    }, /* @__PURE__ */ React34.createElement("div", null, /* @__PURE__ */ React34.createElement(MarkdownEditorComponent, {
+    }, /* @__PURE__ */ React35.createElement("div", null, /* @__PURE__ */ React35.createElement(MarkdownEditorComponent, {
       initialValue: attribute.value,
       campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaignPath,
       onChange: setDescription,
       className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-    })), /* @__PURE__ */ React34.createElement("div", {
+    })), /* @__PURE__ */ React35.createElement("div", {
       className: "flex justify-end mt-3"
-    }, /* @__PURE__ */ React34.createElement("button", {
+    }, /* @__PURE__ */ React35.createElement("button", {
       className: "rpgm-secondary",
       onClick: reset
-    }, t2("buttons.cancel")), /* @__PURE__ */ React34.createElement("button", {
+    }, t2("buttons.cancel")), /* @__PURE__ */ React35.createElement("button", {
       className: "rpgm-primary",
       onClick: () => updateDescription(description2)
     }, t2("buttons.save"))));
   } else if (isEditable) {
-    content3 = /* @__PURE__ */ React34.createElement("div", {
+    content3 = /* @__PURE__ */ React35.createElement("div", {
       onClick: () => setEditing(!editing),
       className: "p-3 border border-[--background-modifier-border] hover:border-[--background-modifier-border-hover] rounded-md cursor-text"
-    }, /* @__PURE__ */ React34.createElement(MarkdownComponent, {
+    }, /* @__PURE__ */ React35.createElement(MarkdownComponent, {
       value: attribute.value
     }));
   } else {
-    content3 = /* @__PURE__ */ React34.createElement("div", {
+    content3 = /* @__PURE__ */ React35.createElement("div", {
       className: ""
-    }, /* @__PURE__ */ React34.createElement(MarkdownComponent, {
+    }, /* @__PURE__ */ React35.createElement(MarkdownComponent, {
       value: attribute.value
     }));
   }
-  return /* @__PURE__ */ React34.createElement(React34.Fragment, null, /* @__PURE__ */ React34.createElement("h2", {
+  return /* @__PURE__ */ React35.createElement(React35.Fragment, null, /* @__PURE__ */ React35.createElement("h2", {
     className: "!text-2xl !font-bold border-b border-b-[--background-modifier-border]"
-  }, t2("attributes.description")), /* @__PURE__ */ React34.createElement("div", null, content3));
+  }, t2("attributes.description")), /* @__PURE__ */ React35.createElement("div", null, content3));
 }
 
 // src/components/attributes/types/ParentAttributeComponent.tsx
-var React35 = __toESM(require_react());
+var React36 = __toESM(require_react());
 function ParentAttributeComponent({
   element: element4,
   isEditable
@@ -67213,25 +67326,25 @@ function ParentAttributeComponent({
       { name: "positionInParent", value: newPositionInParent + 1 }
     ]);
   };
-  return /* @__PURE__ */ React35.createElement(React35.Fragment, null, /* @__PURE__ */ React35.createElement("div", {
+  return /* @__PURE__ */ React36.createElement(React36.Fragment, null, /* @__PURE__ */ React36.createElement("div", {
     className: "!font-bold"
-  }, t2("parents.parent", { context: element4.parent.type })), /* @__PURE__ */ React35.createElement("div", null, isEditable && /* @__PURE__ */ React35.createElement("select", {
+  }, t2("parents.parent", { context: element4.parent.type })), /* @__PURE__ */ React36.createElement("div", null, isEditable && /* @__PURE__ */ React36.createElement("select", {
     onChange: (e2) => updateParent(e2.target.value),
     className: "min-w-full pl-3",
     defaultValue: element4.parent.file.path
-  }, possibleParents.map((parent) => /* @__PURE__ */ React35.createElement("option", {
+  }, possibleParents.map((parent) => /* @__PURE__ */ React36.createElement("option", {
     key: parent.path,
     value: parent.path
-  }, parent.name))), /* @__PURE__ */ React35.createElement("div", {
+  }, parent.name))), /* @__PURE__ */ React36.createElement("div", {
     className: "!ml-3 text-sm !mt-1"
-  }, /* @__PURE__ */ React35.createElement("a", {
+  }, /* @__PURE__ */ React36.createElement("a", {
     href: element4.parent.path,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
   }, element4.parent.name))));
 }
 
 // src/components/attributes/types/StoryCircleAttributeComponent.tsx
-var React38 = __toESM(require_react());
+var React39 = __toESM(require_react());
 
 // node_modules/@fortawesome/free-solid-svg-icons/index.mjs
 var faPenToSquare = {
@@ -68695,12 +68808,12 @@ function getMutator() {
 function createElementNS(tag) {
   return DOCUMENT.createElementNS("http://www.w3.org/2000/svg", tag);
 }
-function createElement34(tag) {
+function createElement35(tag) {
   return DOCUMENT.createElement(tag);
 }
 function convertSVG(abstractObj) {
   var params = arguments.length > 1 && arguments[1] !== void 0 ? arguments[1] : {};
-  var _params$ceFn = params.ceFn, ceFn = _params$ceFn === void 0 ? abstractObj.tag === "svg" ? createElementNS : createElement34 : _params$ceFn;
+  var _params$ceFn = params.ceFn, ceFn = _params$ceFn === void 0 ? abstractObj.tag === "svg" ? createElementNS : createElement35 : _params$ceFn;
   if (typeof abstractObj === "string") {
     return DOCUMENT.createTextNode(abstractObj);
   }
@@ -70107,7 +70220,7 @@ FontAwesomeIcon.defaultProps = {
 var convertCurry = convert2.bind(null, import_react14.default.createElement);
 
 // src/components/attributes/types/StoryCircleStageComponent.tsx
-var React37 = __toESM(require_react());
+var React38 = __toESM(require_react());
 function StoryCircleStageComponent({
   element: element4,
   attribute,
@@ -70118,9 +70231,9 @@ function StoryCircleStageComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [value, setValue] = React37.useState((_b = (_a = attribute == null ? void 0 : attribute.value) == null ? void 0 : _a[stage.toLowerCase()]) != null ? _b : "");
-  const [editing, setEditing] = React37.useState(false);
-  const [showHelp, setShowHelp] = React37.useState(false);
+  const [value, setValue] = React38.useState((_b = (_a = attribute == null ? void 0 : attribute.value) == null ? void 0 : _a[stage.toLowerCase()]) != null ? _b : "");
+  const [editing, setEditing] = React38.useState(false);
+  const [showHelp, setShowHelp] = React38.useState(false);
   function reset() {
     var _a2, _b2;
     setValue((_b2 = (_a2 = attribute == null ? void 0 : attribute.value) == null ? void 0 : _a2[stage.toLowerCase()]) != null ? _b2 : "");
@@ -70138,46 +70251,46 @@ function StoryCircleStageComponent({
   }
   let content3;
   if (editing) {
-    content3 = /* @__PURE__ */ React37.createElement("div", {
+    content3 = /* @__PURE__ */ React38.createElement("div", {
       className: `${isEditable && "sm:col-span-1 lg:col-span-6"}`
-    }, /* @__PURE__ */ React37.createElement("div", {
+    }, /* @__PURE__ */ React38.createElement("div", {
       className: "grid grid-cols-1"
-    }, /* @__PURE__ */ React37.createElement("div", null, /* @__PURE__ */ React37.createElement(MarkdownEditorComponent, {
+    }, /* @__PURE__ */ React38.createElement("div", null, /* @__PURE__ */ React38.createElement(MarkdownEditorComponent, {
       initialValue: value,
       campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaignPath,
       onChange: setValue,
       className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-    })), /* @__PURE__ */ React37.createElement("div", {
+    })), /* @__PURE__ */ React38.createElement("div", {
       className: "flex justify-end mt-3"
-    }, /* @__PURE__ */ React37.createElement("button", {
+    }, /* @__PURE__ */ React38.createElement("button", {
       className: "rpgm-secondary",
       onClick: reset
-    }, t2("buttons.cancel")), /* @__PURE__ */ React37.createElement("button", {
+    }, t2("buttons.cancel")), /* @__PURE__ */ React38.createElement("button", {
       className: "rpgm-primary",
       onClick: () => saveStage(value)
     }, t2("buttons.save")))));
   } else if (isEditable) {
-    content3 = /* @__PURE__ */ React37.createElement("div", {
+    content3 = /* @__PURE__ */ React38.createElement("div", {
       className: `border border-[--background-modifier-border] hover:border-[--background-modifier-border-hover] rounded-md p-3 cursor-text min-h-[3rem] ${isEditable && "sm:col-span-1 lg:col-span-6"}`,
       onClick: () => setEditing(!editing)
-    }, /* @__PURE__ */ React37.createElement(MarkdownComponent, {
+    }, /* @__PURE__ */ React38.createElement(MarkdownComponent, {
       value: attribute.value[stage.toLowerCase()]
     }));
   } else {
-    content3 = /* @__PURE__ */ React37.createElement("div", null, /* @__PURE__ */ React37.createElement(MarkdownComponent, {
+    content3 = /* @__PURE__ */ React38.createElement("div", null, /* @__PURE__ */ React38.createElement(MarkdownComponent, {
       value: attribute.value[stage.toLowerCase()]
     }));
   }
-  return /* @__PURE__ */ React37.createElement(React37.Fragment, null, /* @__PURE__ */ React37.createElement("div", {
+  return /* @__PURE__ */ React38.createElement(React38.Fragment, null, /* @__PURE__ */ React38.createElement("div", {
     className: `!font-bold ${isEditable && "sm:col-span-1 lg:col-span-1"}`
-  }, /* @__PURE__ */ React37.createElement("div", null, t2("storycircle." + stage.toLowerCase())), /* @__PURE__ */ React37.createElement("div", {
+  }, /* @__PURE__ */ React38.createElement("div", null, t2("storycircle." + stage.toLowerCase())), /* @__PURE__ */ React38.createElement("div", {
     className: "text-xs cursor-pointer text-[--color-base-25] hover:text-[--text-accent-hover]",
     onClick: () => setShowHelp(!showHelp)
-  }, /* @__PURE__ */ React37.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React38.createElement(FontAwesomeIcon, {
     icon: faCircleQuestion
-  }))), content3, showHelp && /* @__PURE__ */ React37.createElement("div", {
+  }))), content3, showHelp && /* @__PURE__ */ React38.createElement("div", {
     className: "col-span-full mb-3 p-3 rounded-lg bg-[--background-primary-alt] text-sm"
-  }, /* @__PURE__ */ React37.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React38.createElement(MarkdownComponent, {
     value: t2("storycircle.description", { context: stage.toLocaleLowerCase() })
   })));
 }
@@ -70189,14 +70302,14 @@ function StoryCircleAttributeComponent({
   isEditable
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React38.createElement("div", {
+  return /* @__PURE__ */ React39.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] overflow-hidden bg-[--background-primary] mb-3 p-3"
-  }, /* @__PURE__ */ React38.createElement("h2", {
+  }, /* @__PURE__ */ React39.createElement("h2", {
     className: "!text-2xl !font-bold border-b border-b-[--background-modifier-border]"
-  }, t2("attributes.storycircle")), /* @__PURE__ */ React38.createElement("div", {
+  }, t2("attributes.storycircle")), /* @__PURE__ */ React39.createElement("div", {
     className: `gap-3 grid grid-cols-1 ${isEditable && "sm:grid-cols-1 lg:grid-cols-7"}`
   }, Object.entries(StoryCircleStage).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => {
-    return /* @__PURE__ */ React38.createElement(StoryCircleStageComponent, {
+    return /* @__PURE__ */ React39.createElement(StoryCircleStageComponent, {
       key,
       element: element4,
       attribute,
@@ -70207,7 +70320,7 @@ function StoryCircleAttributeComponent({
 }
 
 // src/components/conflict/ConflictComponent.tsx
-var React39 = __toESM(require_react());
+var React40 = __toESM(require_react());
 function ConflictComponent({
   element: element4,
   attribute,
@@ -70216,8 +70329,8 @@ function ConflictComponent({
   var _a;
   const api2 = useApi();
   const app = useApp();
-  const [edit, setEdit] = React39.useState(false);
-  const [conflictValue, setConflictValue] = React39.useState((_a = attribute.value) != null ? _a : {
+  const [edit, setEdit] = React40.useState(false);
+  const [conflictValue, setConflictValue] = React40.useState((_a = attribute.value) != null ? _a : {
     status: "planned"
   });
   const save = () => {
@@ -70242,7 +70355,7 @@ function ConflictComponent({
   };
   const campaignPath = element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaignPath;
   if (edit)
-    return /* @__PURE__ */ React39.createElement(Edit, {
+    return /* @__PURE__ */ React40.createElement(Edit, {
       element: element4,
       campaignPath,
       attribute,
@@ -70252,12 +70365,12 @@ function ConflictComponent({
       reset
     });
   if (isEditable)
-    return /* @__PURE__ */ React39.createElement(View, {
+    return /* @__PURE__ */ React40.createElement(View, {
       attribute,
       campaignPath,
       setEdit
     });
-  return /* @__PURE__ */ React39.createElement(Browse, {
+  return /* @__PURE__ */ React40.createElement(Browse, {
     attribute,
     campaignPath
   });
@@ -70272,57 +70385,57 @@ function Edit({
   reset
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React39.createElement("div", {
+  return /* @__PURE__ */ React40.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] overflow-hidden bg-[--background-primary] mb-3 p-3"
-  }, /* @__PURE__ */ React39.createElement("h2", {
+  }, /* @__PURE__ */ React40.createElement("h2", {
     className: "!text-2xl !font-bold border-b border-b-[--background-modifier-border]"
-  }, t2("attributes.conflict")), /* @__PURE__ */ React39.createElement("div", {
+  }, t2("attributes.conflict")), /* @__PURE__ */ React40.createElement("div", {
     className: "gap-3 grid grid-cols-7"
-  }, /* @__PURE__ */ React39.createElement(EditableTitleAttribute, {
+  }, /* @__PURE__ */ React40.createElement(EditableTitleAttribute, {
     attribute,
     campaignPath,
     setValue
-  }), /* @__PURE__ */ React39.createElement(EditableStatusAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableStatusAttribute, {
     attribute,
     setValue
-  }), /* @__PURE__ */ React39.createElement(EditableCategoryAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableCategoryAttribute, {
     attribute,
     setValue
-  }), /* @__PURE__ */ React39.createElement(EditableInvolvementAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableInvolvementAttribute, {
     attribute,
     setValue
-  }), /* @__PURE__ */ React39.createElement(EditableLongTextAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableLongTextAttribute, {
     attribute,
     campaignPath,
     setValue,
     type: "description"
-  }), /* @__PURE__ */ React39.createElement(EditableConflictStakesAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableConflictStakesAttribute, {
     attribute,
     setValue
-  }), /* @__PURE__ */ React39.createElement(EditableRelationshipsAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableRelationshipsAttribute, {
     attribute,
     type: "opposingforces",
     campaignPath,
     setValue
-  }), /* @__PURE__ */ React39.createElement(EditableRelationshipsAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableRelationshipsAttribute, {
     attribute,
     type: "events",
     campaignPath,
     setValue
-  }), /* @__PURE__ */ React39.createElement(EditableLongTextAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableLongTextAttribute, {
     attribute,
     campaignPath,
     setValue,
     type: "outcome"
-  })), /* @__PURE__ */ React39.createElement("div", {
+  })), /* @__PURE__ */ React40.createElement("div", {
     className: "flex justify-end mt-3"
-  }, /* @__PURE__ */ React39.createElement("button", {
+  }, /* @__PURE__ */ React40.createElement("button", {
     className: "rpgm-danger",
     onClick: remove2
-  }, t2("buttons.delete")), /* @__PURE__ */ React39.createElement("button", {
+  }, t2("buttons.delete")), /* @__PURE__ */ React40.createElement("button", {
     className: "rpgm-secondary",
     onClick: reset
-  }, t2("buttons.cancel")), /* @__PURE__ */ React39.createElement("button", {
+  }, t2("buttons.cancel")), /* @__PURE__ */ React40.createElement("button", {
     className: "rpgm-primary",
     onClick: save
   }, t2("buttons.save"))));
@@ -70332,12 +70445,12 @@ function View({
   campaignPath,
   setEdit
 }) {
-  return /* @__PURE__ */ React39.createElement("div", {
+  return /* @__PURE__ */ React40.createElement("div", {
     onClick: () => {
       setEdit(true);
     },
     className: "cursor-pointer hover:bg-[--background-secondary]"
-  }, /* @__PURE__ */ React39.createElement(Browse, {
+  }, /* @__PURE__ */ React40.createElement(Browse, {
     attribute,
     campaignPath
   }));
@@ -70347,34 +70460,34 @@ function Browse({
   campaignPath
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React39.createElement("div", {
+  return /* @__PURE__ */ React40.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] overflow-hidden bg-[--background-primary] mb-3 p-3"
-  }, /* @__PURE__ */ React39.createElement("h2", {
+  }, /* @__PURE__ */ React40.createElement("h2", {
     className: "!text-2xl !font-bold border-b border-b-[--background-modifier-border]"
-  }, t2("attributes.conflict")), /* @__PURE__ */ React39.createElement("div", {
+  }, t2("attributes.conflict")), /* @__PURE__ */ React40.createElement("div", {
     className: "gap-3 grid grid-cols-7"
-  }, /* @__PURE__ */ React39.createElement(EditableTitleAttribute, {
+  }, /* @__PURE__ */ React40.createElement(EditableTitleAttribute, {
     attribute,
     campaignPath
-  }), /* @__PURE__ */ React39.createElement(EditableStatusAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableStatusAttribute, {
     attribute
-  }), /* @__PURE__ */ React39.createElement(EditableCategoryAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableCategoryAttribute, {
     attribute
-  }), /* @__PURE__ */ React39.createElement(EditableInvolvementAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableInvolvementAttribute, {
     attribute
-  }), /* @__PURE__ */ React39.createElement(EditableLongTextAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableLongTextAttribute, {
     attribute,
     campaignPath,
     type: "description"
-  }), /* @__PURE__ */ React39.createElement(EditableConflictStakesAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableConflictStakesAttribute, {
     attribute
-  }), /* @__PURE__ */ React39.createElement(EditableRelationshipsAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableRelationshipsAttribute, {
     attribute,
     type: "opposingforces"
-  }), /* @__PURE__ */ React39.createElement(EditableRelationshipsAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableRelationshipsAttribute, {
     attribute,
     type: "events"
-  }), /* @__PURE__ */ React39.createElement(EditableLongTextAttribute, {
+  }), /* @__PURE__ */ React40.createElement(EditableLongTextAttribute, {
     attribute,
     campaignPath,
     type: "outcome"
@@ -70387,31 +70500,31 @@ function EditableTitleAttribute({
 }) {
   var _a, _b;
   const { t: t2 } = useTranslation();
-  const [showHelp, setShowHelp] = React39.useState(false);
+  const [showHelp, setShowHelp] = React40.useState(false);
   const setTitle = (newValue) => {
     setValue("title", newValue);
   };
-  return /* @__PURE__ */ React39.createElement(React39.Fragment, null, /* @__PURE__ */ React39.createElement("div", {
+  return /* @__PURE__ */ React40.createElement(React40.Fragment, null, /* @__PURE__ */ React40.createElement("div", {
     className: "!font-bold col-span-1"
-  }, /* @__PURE__ */ React39.createElement("div", null, t2("conflict.title")), setValue && /* @__PURE__ */ React39.createElement("div", {
+  }, /* @__PURE__ */ React40.createElement("div", null, t2("conflict.title")), setValue && /* @__PURE__ */ React40.createElement("div", {
     className: "text-xs cursor-pointer text-[--color-base-25] hover:text-[--text-accent-hover]",
     onClick: () => setShowHelp(!showHelp)
-  }, /* @__PURE__ */ React39.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React40.createElement(FontAwesomeIcon, {
     icon: faCircleQuestion
-  }))), /* @__PURE__ */ React39.createElement("div", {
+  }))), /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-6"
-  }, setValue ? /* @__PURE__ */ React39.createElement(TextInputComponent, {
+  }, setValue ? /* @__PURE__ */ React40.createElement(TextInputComponent, {
     className: "min-h-[2em] w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md",
     onChange: setTitle,
     initialValue: (_b = (_a = attribute.value) == null ? void 0 : _a.title) != null ? _b : "",
     campaignPath
-  }) : /* @__PURE__ */ React39.createElement("div", {
+  }) : /* @__PURE__ */ React40.createElement("div", {
     className: "min-h-[2em] p-2 w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: attribute.value.title
-  }))), showHelp && /* @__PURE__ */ React39.createElement("div", {
+  }))), showHelp && /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-full mb-3 p-3 rounded-lg bg-[--background-primary-alt] text-sm"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: t2("conflict.description", { context: "title" })
   })));
 }
@@ -70427,8 +70540,8 @@ function EditableRelationshipsAttribute({
   const app = useApp();
   if (!setValue && !attribute.value[type2])
     return null;
-  const [showHelp, setShowHelp] = React39.useState(false);
-  const [relationships, setRelationships] = React39.useState((_a = attribute.value[type2]) != null ? _a : []);
+  const [showHelp, setShowHelp] = React40.useState(false);
+  const [relationships, setRelationships] = React40.useState((_a = attribute.value[type2]) != null ? _a : []);
   const addRelationship = (newValue) => {
     const value = HelperService.extractPath(newValue);
     setRelationships((prevRelationships) => {
@@ -70453,39 +70566,39 @@ function EditableRelationshipsAttribute({
     const searcher = new NewRelationshipController(app, api2, void 0, campaignPath, limits, addRelationship);
     searcher.open();
   };
-  return /* @__PURE__ */ React39.createElement(React39.Fragment, null, /* @__PURE__ */ React39.createElement("div", {
+  return /* @__PURE__ */ React40.createElement(React40.Fragment, null, /* @__PURE__ */ React40.createElement("div", {
     className: "!font-bold col-span-1"
-  }, /* @__PURE__ */ React39.createElement("div", null, t2("conflict." + type2)), setValue && /* @__PURE__ */ React39.createElement("div", {
+  }, /* @__PURE__ */ React40.createElement("div", null, t2("conflict." + type2)), setValue && /* @__PURE__ */ React40.createElement("div", {
     className: "text-xs cursor-pointer text-[--color-base-25] hover:text-[--text-accent-hover]",
     onClick: () => setShowHelp(!showHelp)
-  }, /* @__PURE__ */ React39.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React40.createElement(FontAwesomeIcon, {
     icon: faCircleQuestion
-  }))), /* @__PURE__ */ React39.createElement("div", {
+  }))), /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-6"
-  }, setValue ? /* @__PURE__ */ React39.createElement(React39.Fragment, null, relationships && relationships.length > 0 && /* @__PURE__ */ React39.createElement("div", {
+  }, setValue ? /* @__PURE__ */ React40.createElement(React40.Fragment, null, relationships && relationships.length > 0 && /* @__PURE__ */ React40.createElement("div", {
     className: "mb-3"
-  }, relationships.map((relationship, index2) => /* @__PURE__ */ React39.createElement("span", {
+  }, relationships.map((relationship, index2) => /* @__PURE__ */ React40.createElement("span", {
     key: index2,
     className: "mb-3"
-  }, /* @__PURE__ */ React39.createElement("a", {
+  }, /* @__PURE__ */ React40.createElement("a", {
     href: relationship,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, api2.get(relationship).name), " (", /* @__PURE__ */ React39.createElement("span", {
+  }, api2.get(relationship).name), " (", /* @__PURE__ */ React40.createElement("span", {
     className: "cursor-pointer text-[--text-muted] text-sm",
     onClick: () => removeRelationship(relationship)
-  }, t2("buttons.delete")), ") "))), /* @__PURE__ */ React39.createElement("div", {
+  }, t2("buttons.delete")), ") "))), /* @__PURE__ */ React40.createElement("div", {
     key: "new-relationship",
     className: "flex mb-3"
-  }, /* @__PURE__ */ React39.createElement("span", {
+  }, /* @__PURE__ */ React40.createElement("span", {
     className: "cursor-pointer text-[--text-muted] text-sm",
     onClick: () => handleSearch()
-  }, "Add ", t2("conflict." + type2)))) : /* @__PURE__ */ React39.createElement("div", {
+  }, "Add ", t2("conflict." + type2)))) : /* @__PURE__ */ React40.createElement("div", {
     className: "min-h-[2em] p-2 w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: rel
-  }))), showHelp && /* @__PURE__ */ React39.createElement("div", {
+  }))), showHelp && /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-full mb-3 p-3 rounded-lg bg-[--background-primary-alt] text-sm"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: t2("conflict.description", { context: type2 })
   })));
 }
@@ -70496,46 +70609,46 @@ function EditableCategoryAttribute({
   const { t: t2 } = useTranslation();
   if (!setValue && !attribute.value.category)
     return null;
-  const [showHelp, setShowHelp] = React39.useState(false);
+  const [showHelp, setShowHelp] = React40.useState(false);
   const setCategory = (newValue) => {
     setValue("category", newValue);
   };
-  return /* @__PURE__ */ React39.createElement(React39.Fragment, null, /* @__PURE__ */ React39.createElement("div", {
+  return /* @__PURE__ */ React40.createElement(React40.Fragment, null, /* @__PURE__ */ React40.createElement("div", {
     className: "!font-bold col-span-1"
-  }, /* @__PURE__ */ React39.createElement("div", null, t2("conflict.category")), setValue && /* @__PURE__ */ React39.createElement("div", {
+  }, /* @__PURE__ */ React40.createElement("div", null, t2("conflict.category")), setValue && /* @__PURE__ */ React40.createElement("div", {
     className: "text-xs cursor-pointer text-[--color-base-25] hover:text-[--text-accent-hover]",
     onClick: () => setShowHelp(!showHelp)
-  }, /* @__PURE__ */ React39.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React40.createElement(FontAwesomeIcon, {
     icon: faCircleQuestion
-  }))), /* @__PURE__ */ React39.createElement("div", {
+  }))), /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-6"
-  }, setValue ? /* @__PURE__ */ React39.createElement("select", {
+  }, setValue ? /* @__PURE__ */ React40.createElement("select", {
     defaultValue: attribute.value.category,
     onChange: (e2) => setCategory(e2.target.value),
     className: "!pl-2 !pr-4"
-  }, /* @__PURE__ */ React39.createElement("option", {
+  }, /* @__PURE__ */ React40.createElement("option", {
     value: ""
-  }), /* @__PURE__ */ React39.createElement("option", {
+  }), /* @__PURE__ */ React40.createElement("option", {
     value: "ambition"
-  }, t2("conflict.category", { context: "ambition" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.category", { context: "ambition" })), /* @__PURE__ */ React40.createElement("option", {
     value: "betrayal"
-  }, t2("conflict.category", { context: "betrayal" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.category", { context: "betrayal" })), /* @__PURE__ */ React40.createElement("option", {
     value: "survival"
-  }, t2("conflict.category", { context: "survival" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.category", { context: "survival" })), /* @__PURE__ */ React40.createElement("option", {
     value: "revenge"
-  }, t2("conflict.category", { context: "revenge" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.category", { context: "revenge" })), /* @__PURE__ */ React40.createElement("option", {
     value: "ideology"
-  }, t2("conflict.category", { context: "ideology" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.category", { context: "ideology" })), /* @__PURE__ */ React40.createElement("option", {
     value: "love"
-  }, t2("conflict.category", { context: "love" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.category", { context: "love" })), /* @__PURE__ */ React40.createElement("option", {
     value: "guilt"
-  }, t2("conflict.category", { context: "guilt" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.category", { context: "guilt" })), /* @__PURE__ */ React40.createElement("option", {
     value: "fear"
-  }, t2("conflict.category", { context: "fear" }))) : /* @__PURE__ */ React39.createElement("div", {
+  }, t2("conflict.category", { context: "fear" }))) : /* @__PURE__ */ React40.createElement("div", {
     className: "min-h-[2em] p-2 w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-  }, t2("conflict.category", { context: attribute.value.category }))), showHelp && /* @__PURE__ */ React39.createElement("div", {
+  }, t2("conflict.category", { context: attribute.value.category }))), showHelp && /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-full mb-3 p-2 rounded-lg bg-[--background-primary-alt] text-sm"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: t2("conflict.description", { context: "category" })
   })));
 }
@@ -70546,40 +70659,40 @@ function EditableInvolvementAttribute({
   const { t: t2 } = useTranslation();
   if (!setValue && !attribute.value.involvement)
     return null;
-  const [showHelp, setShowHelp] = React39.useState(false);
+  const [showHelp, setShowHelp] = React40.useState(false);
   const setCategory = (newValue) => {
     setValue("involvement", newValue);
   };
-  return /* @__PURE__ */ React39.createElement(React39.Fragment, null, /* @__PURE__ */ React39.createElement("div", {
+  return /* @__PURE__ */ React40.createElement(React40.Fragment, null, /* @__PURE__ */ React40.createElement("div", {
     className: "!font-bold col-span-1"
-  }, /* @__PURE__ */ React39.createElement("div", null, t2("conflict.involvement")), setValue && /* @__PURE__ */ React39.createElement("div", {
+  }, /* @__PURE__ */ React40.createElement("div", null, t2("conflict.involvement")), setValue && /* @__PURE__ */ React40.createElement("div", {
     className: "text-xs cursor-pointer text-[--color-base-25] hover:text-[--text-accent-hover]",
     onClick: () => setShowHelp(!showHelp)
-  }, /* @__PURE__ */ React39.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React40.createElement(FontAwesomeIcon, {
     icon: faCircleQuestion
-  }))), /* @__PURE__ */ React39.createElement("div", {
+  }))), /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-6"
-  }, setValue ? /* @__PURE__ */ React39.createElement("select", {
+  }, setValue ? /* @__PURE__ */ React40.createElement("select", {
     defaultValue: attribute.value.involvement,
     onChange: (e2) => setCategory(e2.target.value),
     className: "!pl-2 !pr-4"
-  }, /* @__PURE__ */ React39.createElement("option", {
+  }, /* @__PURE__ */ React40.createElement("option", {
     value: ""
-  }), /* @__PURE__ */ React39.createElement("option", {
+  }), /* @__PURE__ */ React40.createElement("option", {
     value: "active"
-  }, t2("conflict.involvement", { context: "active" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.involvement", { context: "active" })), /* @__PURE__ */ React40.createElement("option", {
     value: "passive"
-  }, t2("conflict.involvement", { context: "passive" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.involvement", { context: "passive" })), /* @__PURE__ */ React40.createElement("option", {
     value: "unaware"
-  }, t2("conflict.involvement", { context: "unaware" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.involvement", { context: "unaware" })), /* @__PURE__ */ React40.createElement("option", {
     value: "forced"
-  }, t2("conflict.involvement", { context: "forced" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.involvement", { context: "forced" })), /* @__PURE__ */ React40.createElement("option", {
     value: "opportunistic"
-  }, t2("conflict.involvement", { context: "opportunistic" }))) : /* @__PURE__ */ React39.createElement("div", {
+  }, t2("conflict.involvement", { context: "opportunistic" }))) : /* @__PURE__ */ React40.createElement("div", {
     className: "min-h-[2em] p-2 w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-  }, t2("conflict.involvement", { context: attribute.value.involvement }))), showHelp && /* @__PURE__ */ React39.createElement("div", {
+  }, t2("conflict.involvement", { context: attribute.value.involvement }))), showHelp && /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-full mb-3 p-3 rounded-lg bg-[--background-primary-alt] text-sm"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: t2("conflict.description", { context: "involvement" })
   })));
 }
@@ -70590,36 +70703,36 @@ function EditableStatusAttribute({
   const { t: t2 } = useTranslation();
   if (!setValue && !attribute.value.status)
     return null;
-  const [showHelp, setShowHelp] = React39.useState(false);
+  const [showHelp, setShowHelp] = React40.useState(false);
   const setStatus = (newValue) => {
     setValue("status", newValue);
   };
-  return /* @__PURE__ */ React39.createElement(React39.Fragment, null, /* @__PURE__ */ React39.createElement("div", {
+  return /* @__PURE__ */ React40.createElement(React40.Fragment, null, /* @__PURE__ */ React40.createElement("div", {
     className: "!font-bold col-span-1"
-  }, /* @__PURE__ */ React39.createElement("div", null, t2("conflict.status")), setValue && /* @__PURE__ */ React39.createElement("div", {
+  }, /* @__PURE__ */ React40.createElement("div", null, t2("conflict.status")), setValue && /* @__PURE__ */ React40.createElement("div", {
     className: "text-xs cursor-pointer text-[--color-base-25] hover:text-[--text-accent-hover]",
     onClick: () => setShowHelp(!showHelp)
-  }, /* @__PURE__ */ React39.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React40.createElement(FontAwesomeIcon, {
     icon: faCircleQuestion
-  }))), /* @__PURE__ */ React39.createElement("div", {
+  }))), /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-6"
-  }, setValue ? /* @__PURE__ */ React39.createElement("select", {
+  }, setValue ? /* @__PURE__ */ React40.createElement("select", {
     defaultValue: attribute.value.status,
     onChange: (e2) => setStatus(e2.target.value),
     className: "!pl-2 !pr-4"
-  }, /* @__PURE__ */ React39.createElement("option", {
+  }, /* @__PURE__ */ React40.createElement("option", {
     value: ""
-  }), /* @__PURE__ */ React39.createElement("option", {
+  }), /* @__PURE__ */ React40.createElement("option", {
     value: "planned"
-  }, t2("conflict.status", { context: "planned" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.status", { context: "planned" })), /* @__PURE__ */ React40.createElement("option", {
     value: "inprogress"
-  }, t2("conflict.status", { context: "inprogress" })), /* @__PURE__ */ React39.createElement("option", {
+  }, t2("conflict.status", { context: "inprogress" })), /* @__PURE__ */ React40.createElement("option", {
     value: "resolved"
-  }, t2("conflict.status", { context: "resolved" }))) : /* @__PURE__ */ React39.createElement("div", {
+  }, t2("conflict.status", { context: "resolved" }))) : /* @__PURE__ */ React40.createElement("div", {
     className: "min-h-[2em] p-2 w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-  }, t2("conflict.status", { context: attribute.value.status }))), showHelp && /* @__PURE__ */ React39.createElement("div", {
+  }, t2("conflict.status", { context: attribute.value.status }))), showHelp && /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-full mb-3 p-3 rounded-lg bg-[--background-primary-alt] text-sm"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: t2("conflict.description", { context: "status" })
   })));
 }
@@ -70632,31 +70745,31 @@ function EditableLongTextAttribute({
   const { t: t2 } = useTranslation();
   if (!setValue && !attribute.value[type2])
     return null;
-  const [showHelp, setShowHelp] = React39.useState(false);
+  const [showHelp, setShowHelp] = React40.useState(false);
   const setSubAttributeValue = (newValue) => {
     setValue(type2, newValue);
   };
-  return /* @__PURE__ */ React39.createElement(React39.Fragment, null, /* @__PURE__ */ React39.createElement("div", {
+  return /* @__PURE__ */ React40.createElement(React40.Fragment, null, /* @__PURE__ */ React40.createElement("div", {
     className: "!font-bold col-span-1"
-  }, /* @__PURE__ */ React39.createElement("div", null, t2("conflict." + type2)), setValue && /* @__PURE__ */ React39.createElement("div", {
+  }, /* @__PURE__ */ React40.createElement("div", null, t2("conflict." + type2)), setValue && /* @__PURE__ */ React40.createElement("div", {
     className: "text-xs cursor-pointer text-[--color-base-25] hover:text-[--text-accent-hover]",
     onClick: () => setShowHelp(!showHelp)
-  }, /* @__PURE__ */ React39.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React40.createElement(FontAwesomeIcon, {
     icon: faCircleQuestion
-  }))), /* @__PURE__ */ React39.createElement("div", {
+  }))), /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-6"
-  }, setValue ? /* @__PURE__ */ React39.createElement(MarkdownEditorComponent, {
+  }, setValue ? /* @__PURE__ */ React40.createElement(MarkdownEditorComponent, {
     className: "min-h-[2em] w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md",
     campaignPath,
     onChange: setSubAttributeValue,
     initialValue: attribute.value[type2]
-  }) : /* @__PURE__ */ React39.createElement("div", {
+  }) : /* @__PURE__ */ React40.createElement("div", {
     className: "min-h-[2em] p-2 w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: attribute.value[type2]
-  }))), showHelp && /* @__PURE__ */ React39.createElement("div", {
+  }))), showHelp && /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-full mb-3 p-3 rounded-lg bg-[--background-primary-alt] text-sm"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: t2("conflict.description", { context: type2 })
   })));
 }
@@ -70668,8 +70781,8 @@ function EditableConflictStakesAttribute({
   const { t: t2 } = useTranslation();
   if (!setValue && (!attribute.value.stakes || attribute.value.stakes.length === 0))
     return null;
-  const [showHelp, setShowHelp] = React39.useState(false);
-  const [selectedStakes, setSelectedStakes] = React39.useState((_a = attribute.value.stakes) != null ? _a : []);
+  const [showHelp, setShowHelp] = React40.useState(false);
+  const [selectedStakes, setSelectedStakes] = React40.useState((_a = attribute.value.stakes) != null ? _a : []);
   const setStakesValue = (newValue) => {
     setSelectedStakes((prevStakes) => {
       let updatedStakes;
@@ -70686,102 +70799,102 @@ function EditableConflictStakesAttribute({
   if (selectedStakes) {
     stakes = selectedStakes.map((stake2) => t2("conflict.stake." + stake2)).join("\\\n");
   }
-  return /* @__PURE__ */ React39.createElement(React39.Fragment, null, /* @__PURE__ */ React39.createElement("div", {
+  return /* @__PURE__ */ React40.createElement(React40.Fragment, null, /* @__PURE__ */ React40.createElement("div", {
     className: "!font-bold col-span-1"
-  }, /* @__PURE__ */ React39.createElement("div", null, t2("conflict.stakes")), setValue && /* @__PURE__ */ React39.createElement("div", {
+  }, /* @__PURE__ */ React40.createElement("div", null, t2("conflict.stakes")), setValue && /* @__PURE__ */ React40.createElement("div", {
     className: "text-xs cursor-pointer text-[--color-base-25] hover:text-[--text-accent-hover]",
     onClick: () => setShowHelp(!showHelp)
-  }, /* @__PURE__ */ React39.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React40.createElement(FontAwesomeIcon, {
     icon: faCircleQuestion
-  }))), /* @__PURE__ */ React39.createElement("div", {
+  }))), /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-6"
-  }, setValue ? /* @__PURE__ */ React39.createElement(React39.Fragment, null, /* @__PURE__ */ React39.createElement("label", {
+  }, setValue ? /* @__PURE__ */ React40.createElement(React40.Fragment, null, /* @__PURE__ */ React40.createElement("label", {
     key: "lifeanddeath",
     className: "block"
-  }, /* @__PURE__ */ React39.createElement("input", {
+  }, /* @__PURE__ */ React40.createElement("input", {
     type: "checkbox",
     checked: selectedStakes.includes("lifeanddeath") || false,
     onChange: (e2) => setStakesValue("lifeanddeath")
-  }), t2("conflict.stake.lifeanddeath")), /* @__PURE__ */ React39.createElement("label", {
+  }), t2("conflict.stake.lifeanddeath")), /* @__PURE__ */ React40.createElement("label", {
     key: "loveandrelationships",
     className: "block"
-  }, /* @__PURE__ */ React39.createElement("input", {
+  }, /* @__PURE__ */ React40.createElement("input", {
     type: "checkbox",
     checked: selectedStakes.includes("loveandrelationships") || false,
     onChange: (e2) => setStakesValue("loveandrelationships")
-  }), t2("conflict.stake.loveandrelationships")), /* @__PURE__ */ React39.createElement("label", {
+  }), t2("conflict.stake.loveandrelationships")), /* @__PURE__ */ React40.createElement("label", {
     key: "powerandcontrol",
     className: "block"
-  }, /* @__PURE__ */ React39.createElement("input", {
+  }, /* @__PURE__ */ React40.createElement("input", {
     type: "checkbox",
     checked: selectedStakes.includes("powerandcontrol") || false,
     onChange: (e2) => setStakesValue("powerandcontrol")
-  }), t2("conflict.stake.powerandcontrol")), /* @__PURE__ */ React39.createElement("label", {
+  }), t2("conflict.stake.powerandcontrol")), /* @__PURE__ */ React40.createElement("label", {
     key: "reputationandhonor",
     className: "block"
-  }, /* @__PURE__ */ React39.createElement("input", {
+  }, /* @__PURE__ */ React40.createElement("input", {
     type: "checkbox",
     checked: selectedStakes.includes("reputationandhonor") || false,
     onChange: (e2) => setStakesValue("reputationandhonor")
-  }), t2("conflict.stake.reputationandhonor")), /* @__PURE__ */ React39.createElement("label", {
+  }), t2("conflict.stake.reputationandhonor")), /* @__PURE__ */ React40.createElement("label", {
     key: "wealthandresources",
     className: "block"
-  }, /* @__PURE__ */ React39.createElement("input", {
+  }, /* @__PURE__ */ React40.createElement("input", {
     type: "checkbox",
     checked: selectedStakes.includes("wealthandresources") || false,
     onChange: (e2) => setStakesValue("wealthandresources")
-  }), t2("conflict.stake.wealthandresources")), /* @__PURE__ */ React39.createElement("label", {
+  }), t2("conflict.stake.wealthandresources")), /* @__PURE__ */ React40.createElement("label", {
     key: "freedomandjustice",
     className: "block"
-  }, /* @__PURE__ */ React39.createElement("input", {
+  }, /* @__PURE__ */ React40.createElement("input", {
     type: "checkbox",
     checked: selectedStakes.includes("freedomandjustice") || false,
     onChange: (e2) => setStakesValue("freedomandjustice")
-  }), t2("conflict.stake.freedomandjustice")), /* @__PURE__ */ React39.createElement("label", {
+  }), t2("conflict.stake.freedomandjustice")), /* @__PURE__ */ React40.createElement("label", {
     key: "knowledgeandinformation",
     className: "block"
-  }, /* @__PURE__ */ React39.createElement("input", {
+  }, /* @__PURE__ */ React40.createElement("input", {
     type: "checkbox",
     checked: selectedStakes.includes("knowledgeandinformation") || false,
     onChange: (e2) => setStakesValue("knowledgeandinformation")
-  }), t2("conflict.stake.knowledgeandinformation")), /* @__PURE__ */ React39.createElement("label", {
+  }), t2("conflict.stake.knowledgeandinformation")), /* @__PURE__ */ React40.createElement("label", {
     key: "moralityandethics",
     className: "block"
-  }, /* @__PURE__ */ React39.createElement("input", {
+  }, /* @__PURE__ */ React40.createElement("input", {
     type: "checkbox",
     checked: selectedStakes.includes("moralityandethics") || false,
     onChange: (e2) => setStakesValue("moralityandethics")
-  }), t2("conflict.stake.moralityandethics")), /* @__PURE__ */ React39.createElement("label", {
+  }), t2("conflict.stake.moralityandethics")), /* @__PURE__ */ React40.createElement("label", {
     key: "beliefsandvalues",
     className: "block"
-  }, /* @__PURE__ */ React39.createElement("input", {
+  }, /* @__PURE__ */ React40.createElement("input", {
     type: "checkbox",
     checked: selectedStakes.includes("beliefsandvalues") || false,
     onChange: (e2) => setStakesValue("beliefsandvalues")
-  }), t2("conflict.stake.beliefsandvalues")), /* @__PURE__ */ React39.createElement("label", {
+  }), t2("conflict.stake.beliefsandvalues")), /* @__PURE__ */ React40.createElement("label", {
     key: "futureandlegacy",
     className: "block"
-  }, /* @__PURE__ */ React39.createElement("input", {
+  }, /* @__PURE__ */ React40.createElement("input", {
     type: "checkbox",
     checked: selectedStakes.includes("futureandlegacy") || false,
     onChange: (e2) => setStakesValue("futureandlegacy")
-  }), t2("conflict.stake.futureandlegacy"))) : /* @__PURE__ */ React39.createElement("div", {
+  }), t2("conflict.stake.futureandlegacy"))) : /* @__PURE__ */ React40.createElement("div", {
     className: "min-h-[2em] p-2 w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: stakes
-  }))), showHelp && /* @__PURE__ */ React39.createElement("div", {
+  }))), showHelp && /* @__PURE__ */ React40.createElement("div", {
     className: "col-span-full mb-3 p-3 rounded-lg bg-[--background-primary-alt] text-sm"
-  }, /* @__PURE__ */ React39.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React40.createElement(MarkdownComponent, {
     value: t2("conflict.description", { context: "stakes" })
   })));
 }
 
 // src/components/headers/BannerComponent.tsx
-var React40 = __toESM(require_react());
+var React41 = __toESM(require_react());
 function BannerComponent({ image: image2 }) {
-  return /* @__PURE__ */ React40.createElement("div", {
+  return /* @__PURE__ */ React41.createElement("div", {
     className: "relative w-full pb-[56.25%] overflow-hidden rounded-lg"
-  }, /* @__PURE__ */ React40.createElement("img", {
+  }, /* @__PURE__ */ React41.createElement("img", {
     src: image2.src,
     alt: image2.caption,
     className: "absolute top-0 left-0 w-full h-full object-cover"
@@ -70789,7 +70902,7 @@ function BannerComponent({ image: image2 }) {
 }
 
 // src/components/headers/HeaderComponent.tsx
-var React41 = __toESM(require_react());
+var React42 = __toESM(require_react());
 function HeaderComponent({
   element: element4,
   isInPopover
@@ -70800,33 +70913,33 @@ function HeaderComponent({
   const siblings = api2.get(void 0, element4.campaign, element4.type, element4.parent);
   const previousElement = siblings.find((sibling) => sibling.positionInParent === element4.positionInParent - 1);
   const nextElement = siblings.find((sibling) => sibling.positionInParent === element4.positionInParent + 1);
-  return /* @__PURE__ */ React41.createElement(React41.Fragment, null, /* @__PURE__ */ React41.createElement("div", {
+  return /* @__PURE__ */ React42.createElement(React42.Fragment, null, /* @__PURE__ */ React42.createElement("div", {
     className: "!m-0 flex justify-end p-1 text-[--text-faint] text-xs absolute right-0 !mt-[-1.25rem]"
-  }, "Rpg Manager ", api2.version), /* @__PURE__ */ React41.createElement("div", {
+  }, "Rpg Manager ", api2.version), /* @__PURE__ */ React42.createElement("div", {
     className: "relative flex flex-col justify-center items-center h-full"
-  }, /* @__PURE__ */ React41.createElement("h1", {
+  }, /* @__PURE__ */ React42.createElement("h1", {
     className: "!text-4xl !font-extralight"
-  }, element4.name), element4.type !== "campaign" /* Campaign */ && element4.campaign === void 0 && /* @__PURE__ */ React41.createElement("h3", {
+  }, element4.name), element4.type !== "campaign" /* Campaign */ && element4.campaign === void 0 && /* @__PURE__ */ React42.createElement("h3", {
     className: "!text-xl !font-extralight !text-[--text-muted] !-mt-3 !mb-3 !italic"
-  }, t2("global")), !isInPopover && /* @__PURE__ */ React41.createElement("div", {
+  }, t2("global")), !isInPopover && /* @__PURE__ */ React42.createElement("div", {
     className: "!font-extralight text-[--text-faint] grid grid-cols-12"
-  }, /* @__PURE__ */ React41.createElement("div", {
+  }, /* @__PURE__ */ React42.createElement("div", {
     className: "text-center col-span-4"
-  }, previousElement ? /* @__PURE__ */ React41.createElement("a", {
+  }, previousElement ? /* @__PURE__ */ React42.createElement("a", {
     href: previousElement.path,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, "<\xA0", previousElement.name) : /* @__PURE__ */ React41.createElement(React41.Fragment, null, "\xA0")), /* @__PURE__ */ React41.createElement("div", {
+  }, "<\xA0", previousElement.name) : /* @__PURE__ */ React42.createElement(React42.Fragment, null, "\xA0")), /* @__PURE__ */ React42.createElement("div", {
     className: "text-center"
-  }, previousElement ? /* @__PURE__ */ React41.createElement(React41.Fragment, null, "|") : /* @__PURE__ */ React41.createElement(React41.Fragment, null, "\xA0")), /* @__PURE__ */ React41.createElement("div", {
+  }, previousElement ? /* @__PURE__ */ React42.createElement(React42.Fragment, null, "|") : /* @__PURE__ */ React42.createElement(React42.Fragment, null, "\xA0")), /* @__PURE__ */ React42.createElement("div", {
     className: "text-center col-span-2"
-  }, t2("elements." + element4.type, { count: 1 })), /* @__PURE__ */ React41.createElement("div", {
+  }, t2("elements." + element4.type, { count: 1 })), /* @__PURE__ */ React42.createElement("div", {
     className: "text-center"
-  }, nextElement ? /* @__PURE__ */ React41.createElement(React41.Fragment, null, "|") : /* @__PURE__ */ React41.createElement(React41.Fragment, null, "\xA0")), /* @__PURE__ */ React41.createElement("div", {
+  }, nextElement ? /* @__PURE__ */ React42.createElement(React42.Fragment, null, "|") : /* @__PURE__ */ React42.createElement(React42.Fragment, null, "\xA0")), /* @__PURE__ */ React42.createElement("div", {
     className: "text-center col-span-4"
-  }, nextElement ? /* @__PURE__ */ React41.createElement("a", {
+  }, nextElement ? /* @__PURE__ */ React42.createElement("a", {
     href: nextElement.path,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, nextElement.name, "\xA0>") : /* @__PURE__ */ React41.createElement(React41.Fragment, null, "\xA0"))), /* @__PURE__ */ React41.createElement("div", {
+  }, nextElement.name, "\xA0>") : /* @__PURE__ */ React42.createElement(React42.Fragment, null, "\xA0"))), /* @__PURE__ */ React42.createElement("div", {
     className: "absolute bottom-0 right-0 flex justify-end p-1 text-[--text-faint] text-xs z-10",
     onClick: () => __async(this, null, function* () {
       app.workspace.detachLeavesOfType("rpg-manager-options");
@@ -70839,17 +70952,17 @@ function HeaderComponent({
       app.workspace.revealLeaf(leaf);
       view.render();
     })
-  }, /* @__PURE__ */ React41.createElement("div", {
+  }, /* @__PURE__ */ React42.createElement("div", {
     className: "ml-4 cursor-pointer"
   }, t2("options.option", { count: 2 })))));
 }
 
 // src/components/images/ImageCarouselComponent.tsx
-var React42 = __toESM(require_react());
+var React43 = __toESM(require_react());
 function ImageCarouselComponent({ element: element4 }) {
   const { t: t2 } = useTranslation();
-  const carouselRef = React42.useRef(null);
-  const [clickedImage, setClickedImage] = React42.useState(void 0);
+  const carouselRef = React43.useRef(null);
+  const [clickedImage, setClickedImage] = React43.useState(void 0);
   const scroll3 = (direction) => {
     if (carouselRef.current) {
       carouselRef.current.scrollBy({
@@ -70859,46 +70972,46 @@ function ImageCarouselComponent({ element: element4 }) {
       });
     }
   };
-  return /* @__PURE__ */ React42.createElement("div", null, /* @__PURE__ */ React42.createElement("h2", {
+  return /* @__PURE__ */ React43.createElement("div", null, /* @__PURE__ */ React43.createElement("h2", {
     className: "!text-2xl !font-bold border-b border-b-[--background-modifier-border]"
-  }, t2("gallery.carousel")), /* @__PURE__ */ React42.createElement("div", {
+  }, t2("gallery.carousel")), /* @__PURE__ */ React43.createElement("div", {
     className: "relative w-full h-48"
-  }, /* @__PURE__ */ React42.createElement("button", {
+  }, /* @__PURE__ */ React43.createElement("button", {
     onClick: () => scroll3("left"),
     className: "absolute left-0 top-1/2 transform -translate-y-1/2 z-10 bg-[--background-primary] p-2 rounded-full shadow-md"
-  }, "<"), /* @__PURE__ */ React42.createElement("div", {
+  }, "<"), /* @__PURE__ */ React43.createElement("div", {
     className: "flex w-full overflow-x-scroll overflow-y-hidden h-48 scrollbar-hide",
     ref: carouselRef
   }, element4.images.map((image2, index2) => {
     var _a;
-    return /* @__PURE__ */ React42.createElement("div", {
+    return /* @__PURE__ */ React43.createElement("div", {
       key: index2,
       className: "flex-none"
-    }, /* @__PURE__ */ React42.createElement("img", {
+    }, /* @__PURE__ */ React43.createElement("img", {
       src: image2.src,
       alt: (_a = image2.caption) != null ? _a : "Image of " + element4.name,
       className: "h-full object-contain mx-2 cursor-zoom-in hover:bg-[--background-primary] hover:opacity-50",
       onClick: () => setClickedImage(image2)
     }));
-  })), /* @__PURE__ */ React42.createElement("button", {
+  })), /* @__PURE__ */ React43.createElement("button", {
     onClick: () => scroll3("right"),
     className: "absolute right-0 top-1/2 transform -translate-y-1/2 z-10 bg-[--background-primary] p-2 rounded-full shadow-md"
-  }, ">"), clickedImage && /* @__PURE__ */ React42.createElement("div", {
+  }, ">"), clickedImage && /* @__PURE__ */ React43.createElement("div", {
     className: "fixed top-0 left-0 p-10 w-full h-full z-[9999] flex flex-col justify-start bg-black bg-opacity-75 cursor-zoom-out",
     onClick: () => setClickedImage(void 0)
-  }, /* @__PURE__ */ React42.createElement("img", {
+  }, /* @__PURE__ */ React43.createElement("img", {
     src: clickedImage.src,
     alt: clickedImage.caption,
     className: "max-w-full max-h-full"
-  }), /* @__PURE__ */ React42.createElement("div", {
+  }), /* @__PURE__ */ React43.createElement("div", {
     className: "text-white text-center text-xl mt-5"
-  }, /* @__PURE__ */ React42.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React43.createElement(MarkdownComponent, {
     value: clickedImage.caption
   })))));
 }
 
 // src/components/kishotenketsu/KishotenketsuComponent.tsx
-var React43 = __toESM(require_react());
+var React44 = __toESM(require_react());
 function KishotenketsuComponent({
   element: element4,
   attribute,
@@ -70907,8 +71020,8 @@ function KishotenketsuComponent({
   var _a;
   const api2 = useApi();
   const app = useApp();
-  const [edit, setEdit] = React43.useState(false);
-  const [kishotenketsuValue, setKishotenketsuValue] = React43.useState((_a = attribute.value) != null ? _a : {});
+  const [edit, setEdit] = React44.useState(false);
+  const [kishotenketsuValue, setKishotenketsuValue] = React44.useState((_a = attribute.value) != null ? _a : {});
   const save = () => {
     const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
     attribute.value = kishotenketsuValue;
@@ -70929,7 +71042,7 @@ function KishotenketsuComponent({
     setEdit(false);
   };
   if (edit)
-    return /* @__PURE__ */ React43.createElement(Edit2, {
+    return /* @__PURE__ */ React44.createElement(Edit2, {
       element: element4,
       attribute,
       setValue,
@@ -70938,11 +71051,11 @@ function KishotenketsuComponent({
       reset
     });
   if (isEditable)
-    return /* @__PURE__ */ React43.createElement(View2, {
+    return /* @__PURE__ */ React44.createElement(View2, {
       attribute,
       setEdit
     });
-  return /* @__PURE__ */ React43.createElement(Browse2, {
+  return /* @__PURE__ */ React44.createElement(Browse2, {
     attribute
   });
 }
@@ -70956,41 +71069,41 @@ function Edit2({
 }) {
   const { t: t2 } = useTranslation();
   const campaignPath = element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaignPath;
-  return /* @__PURE__ */ React43.createElement("div", {
+  return /* @__PURE__ */ React44.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] overflow-hidden bg-[--background-primary] mb-3 p-3"
-  }, /* @__PURE__ */ React43.createElement("h2", {
+  }, /* @__PURE__ */ React44.createElement("h2", {
     className: "!text-2xl !font-bold border-b border-b-[--background-modifier-border]"
-  }, t2("attributes.kishotenketsu")), /* @__PURE__ */ React43.createElement("div", {
+  }, t2("attributes.kishotenketsu")), /* @__PURE__ */ React44.createElement("div", {
     className: "gap-3 grid grid-cols-7"
-  }, /* @__PURE__ */ React43.createElement(EditableAttribute, {
+  }, /* @__PURE__ */ React44.createElement(EditableAttribute, {
     attribute,
     campaignPath,
     subAttribute: "ki",
     setValue
-  }), /* @__PURE__ */ React43.createElement(EditableAttribute, {
+  }), /* @__PURE__ */ React44.createElement(EditableAttribute, {
     attribute,
     campaignPath,
     subAttribute: "sho",
     setValue
-  }), /* @__PURE__ */ React43.createElement(EditableAttribute, {
+  }), /* @__PURE__ */ React44.createElement(EditableAttribute, {
     attribute,
     campaignPath,
     subAttribute: "ten",
     setValue
-  }), /* @__PURE__ */ React43.createElement(EditableAttribute, {
+  }), /* @__PURE__ */ React44.createElement(EditableAttribute, {
     attribute,
     campaignPath,
     subAttribute: "ketsu",
     setValue
-  })), /* @__PURE__ */ React43.createElement("div", {
+  })), /* @__PURE__ */ React44.createElement("div", {
     className: "flex justify-end mt-3"
-  }, /* @__PURE__ */ React43.createElement("button", {
+  }, /* @__PURE__ */ React44.createElement("button", {
     className: "rpgm-danger",
     onClick: remove2
-  }, t2("buttons.delete")), /* @__PURE__ */ React43.createElement("button", {
+  }, t2("buttons.delete")), /* @__PURE__ */ React44.createElement("button", {
     className: "rpgm-secondary",
     onClick: reset
-  }, t2("buttons.cancel")), /* @__PURE__ */ React43.createElement("button", {
+  }, t2("buttons.cancel")), /* @__PURE__ */ React44.createElement("button", {
     className: "rpgm-primary",
     onClick: save
   }, t2("buttons.save"))));
@@ -70999,33 +71112,33 @@ function View2({
   attribute,
   setEdit
 }) {
-  return /* @__PURE__ */ React43.createElement("div", {
+  return /* @__PURE__ */ React44.createElement("div", {
     onClick: () => {
       setEdit(true);
     },
     className: "cursor-pointer"
-  }, /* @__PURE__ */ React43.createElement(Browse2, {
+  }, /* @__PURE__ */ React44.createElement(Browse2, {
     attribute
   }));
 }
 function Browse2({ attribute }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React43.createElement("div", {
+  return /* @__PURE__ */ React44.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] overflow-hidden bg-[--background-primary] mb-3 p-3"
-  }, /* @__PURE__ */ React43.createElement("h2", {
+  }, /* @__PURE__ */ React44.createElement("h2", {
     className: "!text-2xl !font-bold border-b border-b-[--background-modifier-border]"
-  }, t2("attributes.kishotenketsu")), /* @__PURE__ */ React43.createElement("div", {
+  }, t2("attributes.kishotenketsu")), /* @__PURE__ */ React44.createElement("div", {
     className: "gap-3 grid grid-cols-7"
-  }, /* @__PURE__ */ React43.createElement(EditableAttribute, {
+  }, /* @__PURE__ */ React44.createElement(EditableAttribute, {
     attribute,
     subAttribute: "ki"
-  }), /* @__PURE__ */ React43.createElement(EditableAttribute, {
+  }), /* @__PURE__ */ React44.createElement(EditableAttribute, {
     attribute,
     subAttribute: "sho"
-  }), /* @__PURE__ */ React43.createElement(EditableAttribute, {
+  }), /* @__PURE__ */ React44.createElement(EditableAttribute, {
     attribute,
     subAttribute: "ten"
-  }), /* @__PURE__ */ React43.createElement(EditableAttribute, {
+  }), /* @__PURE__ */ React44.createElement(EditableAttribute, {
     attribute,
     subAttribute: "ketsu"
   })));
@@ -71037,48 +71150,48 @@ function EditableAttribute({
   campaignPath
 }) {
   const { t: t2 } = useTranslation();
-  const [showHelp, setShowHelp] = React43.useState(false);
+  const [showHelp, setShowHelp] = React44.useState(false);
   const setSubAttributeValue = (newValue) => {
     setValue(subAttribute, newValue);
   };
-  return /* @__PURE__ */ React43.createElement(React43.Fragment, null, /* @__PURE__ */ React43.createElement("div", {
+  return /* @__PURE__ */ React44.createElement(React44.Fragment, null, /* @__PURE__ */ React44.createElement("div", {
     className: "!font-bold col-span-1"
-  }, /* @__PURE__ */ React43.createElement("div", null, /* @__PURE__ */ React43.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React44.createElement("div", null, /* @__PURE__ */ React44.createElement(MarkdownComponent, {
     value: t2("kishotenketsu." + subAttribute)
-  })), setValue && /* @__PURE__ */ React43.createElement("div", {
+  })), setValue && /* @__PURE__ */ React44.createElement("div", {
     className: "text-xs cursor-pointer text-[--color-base-25] hover:text-[--text-accent-hover]",
     onClick: () => setShowHelp(!showHelp)
-  }, /* @__PURE__ */ React43.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React44.createElement(FontAwesomeIcon, {
     icon: faCircleQuestion
-  }))), /* @__PURE__ */ React43.createElement("div", {
+  }))), /* @__PURE__ */ React44.createElement("div", {
     className: "col-span-6"
-  }, setValue ? /* @__PURE__ */ React43.createElement(MarkdownEditorComponent, {
+  }, setValue ? /* @__PURE__ */ React44.createElement(MarkdownEditorComponent, {
     className: "min-h-[2em] w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md",
     campaignPath,
     onChange: setSubAttributeValue,
     initialValue: attribute.value[subAttribute]
-  }) : /* @__PURE__ */ React43.createElement("div", {
+  }) : /* @__PURE__ */ React44.createElement("div", {
     className: "min-h-[2em] w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md"
-  }, /* @__PURE__ */ React43.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React44.createElement(MarkdownComponent, {
     value: attribute.value[subAttribute]
-  }))), showHelp && /* @__PURE__ */ React43.createElement("div", {
+  }))), showHelp && /* @__PURE__ */ React44.createElement("div", {
     className: "col-span-full mb-3 p-3 rounded-lg bg-[--background-primary-alt] text-sm"
-  }, /* @__PURE__ */ React43.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React44.createElement(MarkdownComponent, {
     value: t2("kishotenketsu.description", { context: subAttribute })
   })));
 }
 
 // src/components/relationships/RelationshipsComponent.tsx
-var React47 = __toESM(require_react());
+var React48 = __toESM(require_react());
 
 // src/components/relationships/RelationshipListComponent.tsx
-var React46 = __toESM(require_react());
+var React47 = __toESM(require_react());
 
 // src/components/relationships/RelationshipComponent.tsx
-var React45 = __toESM(require_react());
+var React46 = __toESM(require_react());
 
 // src/components/relationships/RelationshipDescriptionComponent.tsx
-var React44 = __toESM(require_react());
+var React45 = __toESM(require_react());
 function RelationshipDescriptionComponent({
   element: element4,
   relationship
@@ -71086,10 +71199,10 @@ function RelationshipDescriptionComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [editing, setEditing] = React44.useState(false);
-  const [value, setValue] = React44.useState(relationship.description || "");
-  const [type2, setType] = React44.useState(relationship.type === "reverse" /* Reversed */ ? "bidirectional" /* Bidirectional */ : relationship.type);
-  const textAreaRef = React44.useRef(null);
+  const [editing, setEditing] = React45.useState(false);
+  const [value, setValue] = React45.useState(relationship.description || "");
+  const [type2, setType] = React45.useState(relationship.type === "reverse" /* Reversed */ ? "bidirectional" /* Bidirectional */ : relationship.type);
+  const textAreaRef = React45.useRef(null);
   const resizeTextArea = () => {
     if (textAreaRef.current) {
       textAreaRef.current.style.height = "auto";
@@ -71097,7 +71210,7 @@ function RelationshipDescriptionComponent({
       textAreaRef.current.style.height = textAreaRef.current.scrollHeight + 10 + "px";
     }
   };
-  React44.useEffect(() => {
+  React45.useEffect(() => {
     var _a;
     if (editing) {
       resizeTextArea();
@@ -71134,49 +71247,49 @@ function RelationshipDescriptionComponent({
       codeblockService.updateRelationship(relationship);
     }
   };
-  return /* @__PURE__ */ React44.createElement(React44.Fragment, null, editing ? /* @__PURE__ */ React44.createElement("div", {
+  return /* @__PURE__ */ React45.createElement(React45.Fragment, null, editing ? /* @__PURE__ */ React45.createElement("div", {
     className: "w-full text-sm group"
-  }, /* @__PURE__ */ React44.createElement("div", {
+  }, /* @__PURE__ */ React45.createElement("div", {
     className: "font-bold"
-  }, t2("relationships.relationshiptype")), /* @__PURE__ */ React44.createElement("div", null, /* @__PURE__ */ React44.createElement("select", {
+  }, t2("relationships.relationshiptype")), /* @__PURE__ */ React45.createElement("div", null, /* @__PURE__ */ React45.createElement("select", {
     defaultValue: relationship.type,
     onChange: (e2) => updateRelationshipType(e2.target.value),
     className: "selectBorder w-full \n							!border !border-transparent group-hover:!border-[--background-modifier-border] focus:!border-[--background-modifier-border]\n							h-7 pl-1 \n							focus:!shadow-none !shadow-none\n							bg-transparent group-hover:bg-[--background-modifier-form-field]\n							"
-  }, Object.entries(RelationshipType).filter(([key]) => !(RelationshipType[key] === "reverse" /* Reversed */) && !(element4.type !== relationship.component.type && (RelationshipType[key] === "parent" /* Parent */ || RelationshipType[key] === "child" /* Child */))).map(([key]) => /* @__PURE__ */ React44.createElement("option", {
+  }, Object.entries(RelationshipType).filter(([key]) => !(RelationshipType[key] === "reverse" /* Reversed */) && !(element4.type !== relationship.component.type && (RelationshipType[key] === "parent" /* Parent */ || RelationshipType[key] === "child" /* Child */))).map(([key]) => /* @__PURE__ */ React45.createElement("option", {
     key,
     value: RelationshipType[key]
-  }, key)))), /* @__PURE__ */ React44.createElement("div", null, /* @__PURE__ */ React44.createElement(MarkdownEditorComponent, {
+  }, key)))), /* @__PURE__ */ React45.createElement("div", null, /* @__PURE__ */ React45.createElement(MarkdownEditorComponent, {
     initialValue: value,
     campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaignPath,
     onChange: updateRelationship,
     className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] rounded-md"
-  })), /* @__PURE__ */ React44.createElement("div", null, relationship.type !== "reverse" /* Reversed */ && !relationship.isInContent && !relationship.isAlsoInContent && /* @__PURE__ */ React44.createElement("button", {
+  })), /* @__PURE__ */ React45.createElement("div", null, relationship.type !== "reverse" /* Reversed */ && !relationship.isInContent && !relationship.isAlsoInContent && /* @__PURE__ */ React45.createElement("button", {
     className: "rpgm-danger !ml-0 w-full",
     onClick: () => {
       deleteRelationship();
       setEditing(!editing);
     }
-  }, t2("buttons.delete")), /* @__PURE__ */ React44.createElement("button", {
+  }, t2("buttons.delete")), /* @__PURE__ */ React45.createElement("button", {
     className: "rpgm-secondary w-full !ml-0",
     onClick: () => {
       setEditing(!editing);
     }
-  }, t2("buttons.cancel")), /* @__PURE__ */ React44.createElement("button", {
+  }, t2("buttons.cancel")), /* @__PURE__ */ React45.createElement("button", {
     className: "rpgm-primary w-full !ml-0",
     onClick: () => {
       saveRelationship();
       setEditing(!editing);
     }
-  }, t2("buttons.save")))) : /* @__PURE__ */ React44.createElement("div", {
+  }, t2("buttons.save")))) : /* @__PURE__ */ React45.createElement("div", {
     className: "w-full text-sm group ",
     onClick: () => setEditing(!editing)
-  }, /* @__PURE__ */ React44.createElement("div", {
+  }, /* @__PURE__ */ React45.createElement("div", {
     className: "font-bold"
-  }, t2("relationships.relationshiptype")), /* @__PURE__ */ React44.createElement("div", {
+  }, t2("relationships.relationshiptype")), /* @__PURE__ */ React45.createElement("div", {
     className: "mb-3 border border-transparent group-hover:border-[--background-modifier-border-hover] rounded-md min-h-[2em] cursor-pointer w-full"
-  }, t2("relationships.relationshiptype", { context: relationship.type })), /* @__PURE__ */ React44.createElement("div", {
+  }, t2("relationships.relationshiptype", { context: relationship.type })), /* @__PURE__ */ React45.createElement("div", {
     className: "border border-transparent group-hover:border-[--background-modifier-border-hover] rounded-md min-h-[2em] cursor-text w-full"
-  }, /* @__PURE__ */ React44.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React45.createElement(MarkdownComponent, {
     value
   }))));
 }
@@ -71212,43 +71325,43 @@ function RelationshipComponent({
   let isGeneric = false;
   if (relationship.component.type !== "campaign" /* Campaign */ && !relationship.component.campaign)
     isGeneric = true;
-  return /* @__PURE__ */ React45.createElement("div", {
+  return /* @__PURE__ */ React46.createElement("div", {
     className: "border border-[--background-modifier-border] rounded-lg flex flex-col"
-  }, relationship.component.images.length > 0 && /* @__PURE__ */ React45.createElement("div", {
+  }, relationship.component.images.length > 0 && /* @__PURE__ */ React46.createElement("div", {
     className: "flex justify-center relative"
-  }, /* @__PURE__ */ React45.createElement("div", {
+  }, /* @__PURE__ */ React46.createElement("div", {
     className: "w-full relative pb-[100%]"
-  }, /* @__PURE__ */ React45.createElement("div", {
+  }, /* @__PURE__ */ React46.createElement("div", {
     className: "absolute top-0 left-0 w-full h-full overflow-hidden rounded-tl-lg rounded-tr-lg"
-  }, /* @__PURE__ */ React45.createElement("a", {
+  }, /* @__PURE__ */ React46.createElement("a", {
     href: relationship.component.file.path,
     className: "w-full h-full internal-link flex items-center justify-center"
-  }, /* @__PURE__ */ React45.createElement("img", {
+  }, /* @__PURE__ */ React46.createElement("img", {
     src: relationship.component.images[0].src,
     alt: relationship.component.images[0].caption,
     className: "min-w-full min-h-full object-cover !cursor-pointer"
-  }))))), /* @__PURE__ */ React45.createElement("div", {
+  }))))), /* @__PURE__ */ React46.createElement("div", {
     className: "flex justify-center p-2"
-  }, /* @__PURE__ */ React45.createElement("a", {
+  }, /* @__PURE__ */ React46.createElement("a", {
     href: relationship.component.file.path,
     className: "internal-link !no-underline !text-[--text-normal]"
-  }, /* @__PURE__ */ React45.createElement("h4", {
+  }, /* @__PURE__ */ React46.createElement("h4", {
     className: "!font-extralight !m-0 !text-base"
-  }, relationship.component.file.basename))), campaign !== void 0 && /* @__PURE__ */ React45.createElement("div", {
+  }, relationship.component.file.basename))), campaign !== void 0 && /* @__PURE__ */ React46.createElement("div", {
     className: "flex justify-center -mt-2 mb-2"
-  }, /* @__PURE__ */ React45.createElement("a", {
+  }, /* @__PURE__ */ React46.createElement("a", {
     href: campaign,
     className: "internal-link !no-underline !text-[--text-muted] text-sm mt-0"
-  }, (_c = relationship.component.campaign) == null ? void 0 : _c.name)), isGeneric && /* @__PURE__ */ React45.createElement("div", {
+  }, (_c = relationship.component.campaign) == null ? void 0 : _c.name)), isGeneric && /* @__PURE__ */ React46.createElement("div", {
     className: "flex justify-center -mt-2 mb-2!text-[--text-muted] text-xs italic"
-  }, t2("global")), /* @__PURE__ */ React45.createElement("div", {
+  }, t2("global")), /* @__PURE__ */ React46.createElement("div", {
     className: "flex p-2"
-  }, /* @__PURE__ */ React45.createElement(RelationshipDescriptionComponent, {
+  }, /* @__PURE__ */ React46.createElement(RelationshipDescriptionComponent, {
     element: element4,
     relationship
-  })), /* @__PURE__ */ React45.createElement("div", {
+  })), /* @__PURE__ */ React46.createElement("div", {
     className: "flex align-bottom mt-auto w-full p-2"
-  }, /* @__PURE__ */ React45.createElement("button", {
+  }, /* @__PURE__ */ React46.createElement("button", {
     className: `w-full
 							${relationship.isInContent || relationship.isAlsoInContent || relationship.type === "reverse" /* Reversed */ ? "text-[--text-faint] cursor-not-allowed" : "rpgm-danger"}`,
     disabled: relationship.isInContent || relationship.isAlsoInContent || relationship.type === "reverse" /* Reversed */,
@@ -71280,11 +71393,11 @@ function RelationshipListComponent({
   }
   if (relationships === void 0 || relationships.length === 0)
     return null;
-  return /* @__PURE__ */ React46.createElement("div", null, /* @__PURE__ */ React46.createElement("h3", {
+  return /* @__PURE__ */ React47.createElement("div", null, /* @__PURE__ */ React47.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, title), /* @__PURE__ */ React46.createElement("div", {
+  }, title), /* @__PURE__ */ React47.createElement("div", {
     className: "grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-3"
-  }, relationships.map((relationship) => /* @__PURE__ */ React46.createElement(RelationshipComponent, {
+  }, relationships.map((relationship) => /* @__PURE__ */ React47.createElement(RelationshipComponent, {
     key: relationship.component.file.path,
     element: element4,
     relationship
@@ -71296,13 +71409,13 @@ function RelationshipsComponent({ element: element4 }) {
   if (element4.relationships.length === 0)
     return null;
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React47.createElement("div", null, /* @__PURE__ */ React47.createElement("h2", null, t2("relationships.relationship", { count: 2 })), /* @__PURE__ */ React47.createElement(RelationshipListComponent, {
+  return /* @__PURE__ */ React48.createElement("div", null, /* @__PURE__ */ React48.createElement("h2", null, t2("relationships.relationship", { count: 2 })), /* @__PURE__ */ React48.createElement(RelationshipListComponent, {
     key: element4.type + "parent",
     element: element4,
     type: element4.type,
     parent: true,
     children: false
-  }), /* @__PURE__ */ React47.createElement(RelationshipListComponent, {
+  }), /* @__PURE__ */ React48.createElement(RelationshipListComponent, {
     key: element4.type + "children",
     element: element4,
     type: element4.type,
@@ -71311,7 +71424,7 @@ function RelationshipsComponent({ element: element4 }) {
   }), Object.values(ElementType).map((type2) => {
     if (type2 === "campaign" /* Campaign */ || type2 === "session" /* Session */ || type2 === "scene" /* Scene */)
       return null;
-    return /* @__PURE__ */ React47.createElement(RelationshipListComponent, {
+    return /* @__PURE__ */ React48.createElement(RelationshipListComponent, {
       key: type2,
       element: element4,
       type: type2,
@@ -71322,16 +71435,16 @@ function RelationshipsComponent({ element: element4 }) {
 }
 
 // src/components/tasks/TasksContainerComponent.tsx
-var React57 = __toESM(require_react());
+var React58 = __toESM(require_react());
 
 // src/components/tasks/AllTaskListComponent.tsx
-var React51 = __toESM(require_react());
+var React52 = __toESM(require_react());
 
 // src/components/tasks/AllTaskComponent.tsx
-var React49 = __toESM(require_react());
+var React50 = __toESM(require_react());
 
 // src/components/tasks/TaskDetailComponent.tsx
-var React48 = __toESM(require_react());
+var React49 = __toESM(require_react());
 function TaskDetailComponent({
   element: element4,
   task,
@@ -71341,10 +71454,10 @@ function TaskDetailComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [name, setName] = React48.useState(task.name);
-  const [priority, setPriority] = React48.useState(task.priority);
-  const [description2, setDescription] = React48.useState(task.description);
-  const [mentionedIn, setMentionedIn] = React48.useState((_a = task.mentionedIn) != null ? _a : []);
+  const [name, setName] = React49.useState(task.name);
+  const [priority, setPriority] = React49.useState(task.priority);
+  const [description2, setDescription] = React49.useState(task.description);
+  const [mentionedIn, setMentionedIn] = React49.useState((_a = task.mentionedIn) != null ? _a : []);
   const handleCompleteTask = () => {
     task.click();
     onTaskUpdate(task);
@@ -71372,72 +71485,72 @@ function TaskDetailComponent({
     const searcher = new NewRelationshipController(app, api2, element4, void 0, void 0, handleAddMentionedInPath);
     searcher.open();
   };
-  return /* @__PURE__ */ React48.createElement("div", {
+  return /* @__PURE__ */ React49.createElement("div", {
     className: "grid grid-cols-1 md:grid-cols-4 align-items-start border border-[--background-modifier-border] rounded-lg text-sm m-3 p-3 space-y-3"
-  }, /* @__PURE__ */ React48.createElement("div", {
+  }, /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-4"
-  }, /* @__PURE__ */ React48.createElement("button", {
+  }, /* @__PURE__ */ React49.createElement("button", {
     className: `text-xs p-3 hover:text-[--text-on-accent] hover:!bg-[--interactive-accent-hover] ${task.status === "complete" && "!bg-green-100 hover:!bg-green-100 !text-green-600 hover:!text-green-800 !border-green-600 hover:!border-green-800"}`,
     onClick: handleCompleteTask
-  }, task.status === "complete" ? "Completed" : "Mark complete")), /* @__PURE__ */ React48.createElement("div", {
+  }, task.status === "complete" ? "Completed" : "Mark complete")), /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-4"
-  }, /* @__PURE__ */ React48.createElement("input", {
+  }, /* @__PURE__ */ React49.createElement("input", {
     type: "text",
     defaultValue: name,
     className: "w-full !text-xl p-1",
     onChange: (e2) => setName(e2.target.value)
-  })), /* @__PURE__ */ React48.createElement("div", {
+  })), /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-1 ml-2 text-xs text-[--text-faint] h-7 "
-  }, t2("elements.element", { count: 1 })), /* @__PURE__ */ React48.createElement("div", {
+  }, t2("elements.element", { count: 1 })), /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-3 ml-3 text-sm h-7 "
-  }, /* @__PURE__ */ React48.createElement("a", {
+  }, /* @__PURE__ */ React49.createElement("a", {
     href: task.element.path,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, task.element.name)), /* @__PURE__ */ React48.createElement("div", {
+  }, task.element.name)), /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-1 ml-2 text-xs text-[--text-faint] h-7 "
-  }, t2("tasks.mentionedin")), /* @__PURE__ */ React48.createElement("div", {
+  }, t2("tasks.mentionedin")), /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-3 min-h-[1.75rem]"
   }, mentionedIn.map((path4) => {
     const mentionedInElement = api2.get(path4);
-    return /* @__PURE__ */ React48.createElement("div", {
+    return /* @__PURE__ */ React49.createElement("div", {
       key: mentionedInElement.path,
       className: `ml-3 group w-full`
-    }, /* @__PURE__ */ React48.createElement("a", {
+    }, /* @__PURE__ */ React49.createElement("a", {
       href: mentionedInElement.path,
       className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-    }, mentionedInElement.name), /* @__PURE__ */ React48.createElement("span", {
+    }, mentionedInElement.name), /* @__PURE__ */ React49.createElement("span", {
       className: "ml-5 opacity-0 group-hover:opacity-100 cursor-pointer",
       title: `Remove task from ${mentionedInElement.name}`,
       onClick: () => handleRemoveMentionedIn(mentionedInElement)
-    }, /* @__PURE__ */ React48.createElement(FontAwesomeIcon, {
+    }, /* @__PURE__ */ React49.createElement(FontAwesomeIcon, {
       icon: faTimes
     })));
-  }), /* @__PURE__ */ React48.createElement("div", null, /* @__PURE__ */ React48.createElement("button", {
+  }), /* @__PURE__ */ React49.createElement("div", null, /* @__PURE__ */ React49.createElement("button", {
     className: "!m-0 !mt-2 !p-3\n                            !border-0 hover:!border-0\n                            hover:bg-[--background-secondary] \n                            focus:!shadow-none !shadow-none hover:!shadow-none\n                            text-[--text-muted] hover:text-[--text-normal] text-xs",
     onClick: handleAddmentionedIn
-  }, t2("tasks.mentionedin")))), /* @__PURE__ */ React48.createElement("div", {
+  }, t2("tasks.mentionedin")))), /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-1 ml-2 text-xs text-[--text-faint] h-7 "
-  }, t2("tasks.priority")), /* @__PURE__ */ React48.createElement("div", {
+  }, t2("tasks.priority")), /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-3 h-7 ml-3"
-  }, /* @__PURE__ */ React48.createElement("select", {
+  }, /* @__PURE__ */ React49.createElement("select", {
     onChange: (e2) => setPriority(e2.target.value),
     defaultValue: priority,
     className: "selectBorderVisible !border !border-[--background-modifier-border]\n                    h-7 pl-1 pr-3\n                        focus:!shadow-none !shadow-none selectBorder"
-  }, Object.entries(PriorityType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React48.createElement("option", {
+  }, Object.entries(PriorityType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React49.createElement("option", {
     key,
     value: index2
-  }, key)))), /* @__PURE__ */ React48.createElement("div", {
+  }, key)))), /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-1 ml-2 text-xs text-[--text-faint]"
-  }, t2("tasks.description")), /* @__PURE__ */ React48.createElement("div", {
+  }, t2("tasks.description")), /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-3 ml-3"
-  }, /* @__PURE__ */ React48.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React49.createElement(MarkdownEditorComponent, {
     initialValue: description2,
     campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaign.path,
     onChange: setDescription,
     className: "text-sm w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md focus:!shadow-none !shadow-none"
-  })), /* @__PURE__ */ React48.createElement("div", {
+  })), /* @__PURE__ */ React49.createElement("div", {
     className: "col-span-4 flex justify-end"
-  }, /* @__PURE__ */ React48.createElement("button", {
+  }, /* @__PURE__ */ React49.createElement("button", {
     className: "rpgm-primary",
     onClick: handleSaveTask
   }, t2("buttons.save"))));
@@ -71450,7 +71563,7 @@ function AllTaskComponent({
   onTaskUpdate
 }) {
   const { t: t2 } = useTranslation();
-  const [showDetails, setShowDetails] = React49.useState(false);
+  const [showDetails, setShowDetails] = React50.useState(false);
   const handleTaskAssign = (task2) => {
     task2.mentionedIn = [...task2.mentionedIn, element4.path];
     onTaskUpdate(task2);
@@ -71473,22 +71586,22 @@ function AllTaskComponent({
   };
   let taskIcon;
   if (task.status === "complete" /* Complete */) {
-    taskIcon = /* @__PURE__ */ React49.createElement("svg", {
+    taskIcon = /* @__PURE__ */ React50.createElement("svg", {
       xmlns: "http://www.w3.org/2000/svg",
       className: "h-5 w-5",
       viewBox: "0 0 24 24"
-    }, /* @__PURE__ */ React49.createElement("circle", {
+    }, /* @__PURE__ */ React50.createElement("circle", {
       cx: "12",
       cy: "12",
       r: "10",
       fill: "green"
-    }), /* @__PURE__ */ React49.createElement("path", {
+    }), /* @__PURE__ */ React50.createElement("path", {
       d: "M9 12l2 2l4-4",
       fill: "lightgray",
       stroke: "lightgray"
     }));
   } else {
-    taskIcon = /* @__PURE__ */ React49.createElement("svg", {
+    taskIcon = /* @__PURE__ */ React50.createElement("svg", {
       xmlns: "http://www.w3.org/2000/svg",
       className: "h-5 w-5 text-[--background-modifier-border] group-hover:text-green-500 active:text-green-700 transition-colors duration-200",
       viewBox: "0 0 24 24",
@@ -71497,30 +71610,30 @@ function AllTaskComponent({
       strokeWidth: "1.5",
       strokeLinecap: "round",
       strokeLinejoin: "round"
-    }, /* @__PURE__ */ React49.createElement("circle", {
+    }, /* @__PURE__ */ React50.createElement("circle", {
       cx: "12",
       cy: "12",
       r: "10"
-    }), /* @__PURE__ */ React49.createElement("path", {
+    }), /* @__PURE__ */ React50.createElement("path", {
       d: "M9 12l2 2l4-4"
     }));
   }
-  return /* @__PURE__ */ React49.createElement(React49.Fragment, null, /* @__PURE__ */ React49.createElement("div", {
+  return /* @__PURE__ */ React50.createElement(React50.Fragment, null, /* @__PURE__ */ React50.createElement("div", {
     className: `flex items-center w-full text-sm cursor-pointer group ${!showDetails && "border-b border-b-[--background-modifier-border] hover:bg-[--background-primary-alt]"}`
-  }, /* @__PURE__ */ React49.createElement("div", {
+  }, /* @__PURE__ */ React50.createElement("div", {
     className: "max-w-5 w-5 align-middle items-center !m-2",
     onClick: (e2) => {
       e2.stopPropagation();
       handleStatusChange(task);
     }
-  }, taskIcon), /* @__PURE__ */ React49.createElement("div", {
+  }, taskIcon), /* @__PURE__ */ React50.createElement("div", {
     className: "col-span-1 max-w-[10rem] w-40 align-middle items-center !m-2"
-  }, /* @__PURE__ */ React49.createElement("a", {
+  }, /* @__PURE__ */ React50.createElement("a", {
     href: task.element.path,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, task.element.name)), /* @__PURE__ */ React49.createElement("div", {
+  }, task.element.name)), /* @__PURE__ */ React50.createElement("div", {
     className: "w-full p-1 flex-grow"
-  }, /* @__PURE__ */ React49.createElement("div", {
+  }, /* @__PURE__ */ React50.createElement("div", {
     contentEditable: true,
     suppressContentEditableWarning: true,
     className: "min-w-[60px] rounded-sm p-1 !border !border-transparent bg-[--background-primary] group-hover:!border-[--background-modifier-border] focus:!border-[--background-modifier-border] focus:!shadow-none",
@@ -71534,27 +71647,27 @@ function AllTaskComponent({
         e2.preventDefault();
       }
     }
-  }, task.name)), /* @__PURE__ */ React49.createElement("div", {
+  }, task.name)), /* @__PURE__ */ React50.createElement("div", {
     className: "pr-1 w-32 min-w-[8rem]"
-  }, /* @__PURE__ */ React49.createElement("select", {
+  }, /* @__PURE__ */ React50.createElement("select", {
     defaultValue: task.priority,
     onChange: (e2) => handlePriorityChange(e2.target.value),
     className: "selectBorder w-full \n                        !border !border-transparent group-hover:!border-[--background-modifier-border] focus:!border-[--background-modifier-border]\n                        h-7 pl-1 \n                        focus:!shadow-none !shadow-none\n                        bg-transparent group-hover:bg-[--background-modifier-form-field]\n                        "
-  }, Object.entries(PriorityType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React49.createElement("option", {
+  }, Object.entries(PriorityType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React50.createElement("option", {
     key,
     value: index2
-  }, key)))), /* @__PURE__ */ React49.createElement("div", {
+  }, key)))), /* @__PURE__ */ React50.createElement("div", {
     className: "pr-1 w-28 min-w-[7rem] align-middle items-center opacity-0 group-hover:opacity-100 !text-[--text-muted] hover:!text-[--text-accent]"
-  }, /* @__PURE__ */ React49.createElement("button", {
+  }, /* @__PURE__ */ React50.createElement("button", {
     className: "rpgm-secondary",
     onClick: (e2) => {
       e2.stopPropagation();
       handleTaskAssign(task);
     }
-  }, t2("buttons.assign"))), /* @__PURE__ */ React49.createElement("div", {
+  }, t2("buttons.assign"))), /* @__PURE__ */ React50.createElement("div", {
     className: "pr-1 w-4 min-w-[1rem] align-middle items-center opacity-0 group-hover:opacity-100 !text-[--text-muted] hover:!text-[--text-accent]",
     onClick: () => setShowDetails(!showDetails)
-  }, ">")), showDetails && /* @__PURE__ */ React49.createElement(TaskDetailComponent, {
+  }, ">")), showDetails && /* @__PURE__ */ React50.createElement(TaskDetailComponent, {
     element: element4,
     task,
     onTaskUpdate: handleUpdate
@@ -71562,45 +71675,45 @@ function AllTaskComponent({
 }
 
 // src/components/tasks/TaskPaginatorComponent.tsx
-var React50 = __toESM(require_react());
+var React51 = __toESM(require_react());
 function TaskPaginatorComponent({
   tasks,
   onPageChange
 }) {
   const ITEMS_PER_PAGE = 10;
-  const [currentPage, setCurrentPage] = React50.useState(1);
+  const [currentPage, setCurrentPage] = React51.useState(1);
   const totalPages = Math.ceil(tasks.length / ITEMS_PER_PAGE);
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
   const endIndex = startIndex + ITEMS_PER_PAGE;
   const currentTasks = tasks.slice(startIndex, endIndex);
-  React50.useEffect(() => {
+  React51.useEffect(() => {
     onPageChange(currentTasks);
   }, [currentPage, tasks]);
   if (tasks.length <= ITEMS_PER_PAGE)
     return null;
-  return /* @__PURE__ */ React50.createElement("div", {
+  return /* @__PURE__ */ React51.createElement("div", {
     className: "flex justify-center items-center mt-4"
-  }, currentPage > 1 && /* @__PURE__ */ React50.createElement(React50.Fragment, null, /* @__PURE__ */ React50.createElement("span", {
+  }, currentPage > 1 && /* @__PURE__ */ React51.createElement(React51.Fragment, null, /* @__PURE__ */ React51.createElement("span", {
     onClick: () => setCurrentPage(1),
     className: "!no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, /* @__PURE__ */ React50.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React51.createElement(FontAwesomeIcon, {
     icon: faAngleDoubleLeft
-  })), /* @__PURE__ */ React50.createElement("span", {
+  })), /* @__PURE__ */ React51.createElement("span", {
     onClick: () => setCurrentPage(currentPage - 1),
     className: "!no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover] mx-2"
-  }, /* @__PURE__ */ React50.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React51.createElement(FontAwesomeIcon, {
     icon: faAngleLeft
-  }))), /* @__PURE__ */ React50.createElement("span", {
+  }))), /* @__PURE__ */ React51.createElement("span", {
     className: "mx-4"
-  }, `Page ${currentPage} of ${totalPages}`), currentPage < totalPages && /* @__PURE__ */ React50.createElement(React50.Fragment, null, /* @__PURE__ */ React50.createElement("span", {
+  }, `Page ${currentPage} of ${totalPages}`), currentPage < totalPages && /* @__PURE__ */ React51.createElement(React51.Fragment, null, /* @__PURE__ */ React51.createElement("span", {
     onClick: () => setCurrentPage(currentPage + 1),
     className: "!no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover] mx-2"
-  }, /* @__PURE__ */ React50.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React51.createElement(FontAwesomeIcon, {
     icon: faAngleRight
-  })), /* @__PURE__ */ React50.createElement("span", {
+  })), /* @__PURE__ */ React51.createElement("span", {
     onClick: () => setCurrentPage(totalPages),
     className: "!no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, /* @__PURE__ */ React50.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React51.createElement(FontAwesomeIcon, {
     icon: faAngleDoubleRight
   }))));
 }
@@ -71615,44 +71728,44 @@ function AllTaskListComponent({
   const app = useApp();
   const ITEMS_PER_PAGE = 10;
   const initialTasks = tasks.slice(0, ITEMS_PER_PAGE);
-  const [paginatedTasks, setPaginatedTasks] = React51.useState(initialTasks);
+  const [paginatedTasks, setPaginatedTasks] = React52.useState(initialTasks);
   const handleSave = (task) => {
     const codeblockService = new RpgManagerCodeblockService(app, api2, task.element.file);
     codeblockService.addOrUpdateTask(task);
   };
-  return /* @__PURE__ */ React51.createElement("div", null, /* @__PURE__ */ React51.createElement("div", {
+  return /* @__PURE__ */ React52.createElement("div", null, /* @__PURE__ */ React52.createElement("div", {
     className: "text-xs text-[--text-muted] flex items-center w-full hover:bg-[--background-primary-alt] border-b border-b-[--background-modifier-border] cursor-pointer group"
-  }, /* @__PURE__ */ React51.createElement("div", {
+  }, /* @__PURE__ */ React52.createElement("div", {
     className: "col-span-1 max-w-5 w-5 align-middle items-center !m-2"
-  }, "\xA0"), /* @__PURE__ */ React51.createElement("div", {
+  }, "\xA0"), /* @__PURE__ */ React52.createElement("div", {
     className: "col-span-1 max-w-[10rem] w-40 align-middle items-center !m-2"
-  }, t2("elements.element", { count: 1 })), /* @__PURE__ */ React51.createElement("div", {
+  }, t2("elements.element", { count: 1 })), /* @__PURE__ */ React52.createElement("div", {
     className: "w-full p-1 pl-3 flex-grow"
-  }, t2("tasks.name")), /* @__PURE__ */ React51.createElement("div", {
+  }, t2("tasks.name")), /* @__PURE__ */ React52.createElement("div", {
     className: "pr-1 pl-1 w-64 min-w-[16rem]"
-  }, t2("tasks.priority"))), paginatedTasks.map((task, index2) => /* @__PURE__ */ React51.createElement(AllTaskComponent, {
+  }, t2("tasks.priority"))), paginatedTasks.map((task, index2) => /* @__PURE__ */ React52.createElement(AllTaskComponent, {
     key: task.id,
     element: element4,
     task,
     onTaskUpdate: handleSave
-  })), /* @__PURE__ */ React51.createElement(TaskPaginatorComponent, {
+  })), /* @__PURE__ */ React52.createElement(TaskPaginatorComponent, {
     tasks,
     onPageChange: setPaginatedTasks
   }));
 }
 
 // src/components/tasks/AssignedTaskListComponent.tsx
-var React53 = __toESM(require_react());
+var React54 = __toESM(require_react());
 
 // src/components/tasks/AssignedTaskComponent.tsx
-var React52 = __toESM(require_react());
+var React53 = __toESM(require_react());
 function AssignedTaskComponent({
   element: element4,
   task,
   onTaskUpdate
 }) {
   const { t: t2 } = useTranslation();
-  const [showDetails, setShowDetails] = React52.useState(false);
+  const [showDetails, setShowDetails] = React53.useState(false);
   const handleTaskRemoval = (task2) => {
     task2.mentionedIn = task2.mentionedIn.filter((item) => item !== element4.path);
     onTaskUpdate(task2);
@@ -71675,22 +71788,22 @@ function AssignedTaskComponent({
   };
   let taskIcon;
   if (task.status === "complete" /* Complete */) {
-    taskIcon = /* @__PURE__ */ React52.createElement("svg", {
+    taskIcon = /* @__PURE__ */ React53.createElement("svg", {
       xmlns: "http://www.w3.org/2000/svg",
       className: "h-5 w-5",
       viewBox: "0 0 24 24"
-    }, /* @__PURE__ */ React52.createElement("circle", {
+    }, /* @__PURE__ */ React53.createElement("circle", {
       cx: "12",
       cy: "12",
       r: "10",
       fill: "green"
-    }), /* @__PURE__ */ React52.createElement("path", {
+    }), /* @__PURE__ */ React53.createElement("path", {
       d: "M9 12l2 2l4-4",
       fill: "lightgray",
       stroke: "lightgray"
     }));
   } else {
-    taskIcon = /* @__PURE__ */ React52.createElement("svg", {
+    taskIcon = /* @__PURE__ */ React53.createElement("svg", {
       xmlns: "http://www.w3.org/2000/svg",
       className: "h-5 w-5 text-[--background-modifier-border] group-hover:text-green-500 active:text-green-700 transition-colors duration-200",
       viewBox: "0 0 24 24",
@@ -71699,30 +71812,30 @@ function AssignedTaskComponent({
       strokeWidth: "1.5",
       strokeLinecap: "round",
       strokeLinejoin: "round"
-    }, /* @__PURE__ */ React52.createElement("circle", {
+    }, /* @__PURE__ */ React53.createElement("circle", {
       cx: "12",
       cy: "12",
       r: "10"
-    }), /* @__PURE__ */ React52.createElement("path", {
+    }), /* @__PURE__ */ React53.createElement("path", {
       d: "M9 12l2 2l4-4"
     }));
   }
-  return /* @__PURE__ */ React52.createElement(React52.Fragment, null, /* @__PURE__ */ React52.createElement("div", {
+  return /* @__PURE__ */ React53.createElement(React53.Fragment, null, /* @__PURE__ */ React53.createElement("div", {
     className: `flex items-center w-full text-sm cursor-pointer group ${!showDetails && "border-b border-b-[--background-modifier-border] hover:bg-[--background-primary-alt]"}`
-  }, /* @__PURE__ */ React52.createElement("div", {
+  }, /* @__PURE__ */ React53.createElement("div", {
     className: "max-w-5 w-5 align-middle items-center !m-2",
     onClick: (e2) => {
       e2.stopPropagation();
       handleStatusChange(task);
     }
-  }, taskIcon), /* @__PURE__ */ React52.createElement("div", {
+  }, taskIcon), /* @__PURE__ */ React53.createElement("div", {
     className: "col-span-1 max-w-[10rem] w-40 align-middle items-center !m-2"
-  }, /* @__PURE__ */ React52.createElement("a", {
+  }, /* @__PURE__ */ React53.createElement("a", {
     href: task.element.path,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, task.element.name)), /* @__PURE__ */ React52.createElement("div", {
+  }, task.element.name)), /* @__PURE__ */ React53.createElement("div", {
     className: "w-full p-1 flex-grow"
-  }, /* @__PURE__ */ React52.createElement("div", {
+  }, /* @__PURE__ */ React53.createElement("div", {
     contentEditable: true,
     suppressContentEditableWarning: true,
     className: "min-w-[60px] rounded-sm p-1 !border !border-transparent bg-[--background-primary] group-hover:!border-[--background-modifier-border] focus:!border-[--background-modifier-border] focus:!shadow-none",
@@ -71736,27 +71849,27 @@ function AssignedTaskComponent({
         e2.preventDefault();
       }
     }
-  }, task.name)), /* @__PURE__ */ React52.createElement("div", {
+  }, task.name)), /* @__PURE__ */ React53.createElement("div", {
     className: "pr-1 w-32 min-w-[8rem]"
-  }, /* @__PURE__ */ React52.createElement("select", {
+  }, /* @__PURE__ */ React53.createElement("select", {
     defaultValue: task.priority,
     onChange: (e2) => handlePriorityChange(e2.target.value),
     className: "selectBorder w-full \n                        !border !border-transparent group-hover:!border-[--background-modifier-border] focus:!border-[--background-modifier-border]\n                        h-7 pl-1 \n                        focus:!shadow-none !shadow-none\n                        bg-transparent group-hover:bg-[--background-modifier-form-field]\n                        "
-  }, Object.entries(PriorityType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React52.createElement("option", {
+  }, Object.entries(PriorityType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React53.createElement("option", {
     key,
     value: index2
-  }, key)))), /* @__PURE__ */ React52.createElement("div", {
+  }, key)))), /* @__PURE__ */ React53.createElement("div", {
     className: "pr-1 w-28 min-w-[7rem] align-middle items-center opacity-0 group-hover:opacity-100 !text-[--text-muted] hover:!text-[--text-accent]"
-  }, /* @__PURE__ */ React52.createElement("button", {
+  }, /* @__PURE__ */ React53.createElement("button", {
     className: "rpgm-danger",
     onClick: (e2) => {
       e2.stopPropagation();
       handleTaskRemoval(task);
     }
-  }, t2("buttons.unassign"))), /* @__PURE__ */ React52.createElement("div", {
+  }, t2("buttons.unassign"))), /* @__PURE__ */ React53.createElement("div", {
     className: "pr-1 w-4 min-w-[1rem] align-middle items-center opacity-0 group-hover:opacity-100 !text-[--text-muted] hover:!text-[--text-accent]",
     onClick: () => setShowDetails(!showDetails)
-  }, ">")), showDetails && /* @__PURE__ */ React52.createElement(TaskDetailComponent, {
+  }, ">")), showDetails && /* @__PURE__ */ React53.createElement(TaskDetailComponent, {
     element: element4,
     task,
     onTaskUpdate: handleUpdate
@@ -71773,37 +71886,37 @@ function AssignedTaskListComponent({
   const app = useApp();
   const ITEMS_PER_PAGE = 10;
   const initialTasks = tasks.slice(0, ITEMS_PER_PAGE);
-  const [paginatedTasks, setPaginatedTasks] = React53.useState(initialTasks);
+  const [paginatedTasks, setPaginatedTasks] = React54.useState(initialTasks);
   const handleSave = (task) => {
     const codeblockService = new RpgManagerCodeblockService(app, api2, task.element.file);
     codeblockService.addOrUpdateTask(task);
   };
-  return /* @__PURE__ */ React53.createElement("div", null, /* @__PURE__ */ React53.createElement("div", {
+  return /* @__PURE__ */ React54.createElement("div", null, /* @__PURE__ */ React54.createElement("div", {
     className: "text-xs text-[--text-muted] flex items-center w-full hover:bg-[--background-primary-alt] border-b border-b-[--background-modifier-border] cursor-pointer group"
-  }, /* @__PURE__ */ React53.createElement("div", {
+  }, /* @__PURE__ */ React54.createElement("div", {
     className: "col-span-1 max-w-5 w-5 align-middle items-center !m-2"
-  }, "\xA0"), /* @__PURE__ */ React53.createElement("div", {
+  }, "\xA0"), /* @__PURE__ */ React54.createElement("div", {
     className: "col-span-1 max-w-[10rem] w-40 align-middle items-center !m-2"
-  }, t2("elements.element", { count: 1 })), /* @__PURE__ */ React53.createElement("div", {
+  }, t2("elements.element", { count: 1 })), /* @__PURE__ */ React54.createElement("div", {
     className: "w-full p-1 pl-3 flex-grow"
-  }, t2("tasks.name")), /* @__PURE__ */ React53.createElement("div", {
+  }, t2("tasks.name")), /* @__PURE__ */ React54.createElement("div", {
     className: "pr-1 pl-1 w-64 min-w-[16rem]"
-  }, t2("tasks.priority"))), paginatedTasks.map((task, index2) => /* @__PURE__ */ React53.createElement(AssignedTaskComponent, {
+  }, t2("tasks.priority"))), paginatedTasks.map((task, index2) => /* @__PURE__ */ React54.createElement(AssignedTaskComponent, {
     key: task.id,
     element: element4,
     task,
     onTaskUpdate: handleSave
-  })), /* @__PURE__ */ React53.createElement(TaskPaginatorComponent, {
+  })), /* @__PURE__ */ React54.createElement(TaskPaginatorComponent, {
     tasks,
     onPageChange: setPaginatedTasks
   }));
 }
 
 // src/components/tasks/OwnTaskListComponent.tsx
-var React56 = __toESM(require_react());
+var React57 = __toESM(require_react());
 
 // src/components/tasks/NewTaskComponent.tsx
-var React54 = __toESM(require_react());
+var React55 = __toESM(require_react());
 function NewTaskComponent({
   element: element4,
   onTaskCreation,
@@ -71811,9 +71924,9 @@ function NewTaskComponent({
 }) {
   const { t: t2 } = useTranslation();
   const api2 = useApi();
-  const [name, setName] = React54.useState("");
-  const inputRef = React54.useRef(null);
-  React54.useEffect(() => {
+  const [name, setName] = React55.useState("");
+  const inputRef = React55.useRef(null);
+  React55.useEffect(() => {
     var _a;
     (_a = inputRef.current) == null ? void 0 : _a.focus();
   }, []);
@@ -71822,15 +71935,15 @@ function NewTaskComponent({
     task.name = name;
     onTaskCreation(task);
   };
-  return /* @__PURE__ */ React54.createElement("div", {
+  return /* @__PURE__ */ React55.createElement("div", {
     className: "flex w-full pb-1 mb-1 pt-1"
-  }, /* @__PURE__ */ React54.createElement("div", {
+  }, /* @__PURE__ */ React55.createElement("div", {
     className: "flex"
-  }, /* @__PURE__ */ React54.createElement("div", {
+  }, /* @__PURE__ */ React55.createElement("div", {
     className: "col-span-1 max-w-5 w-5 align-middle items-center !m-2"
-  }, "\xA0"), /* @__PURE__ */ React54.createElement("div", {
+  }, "\xA0"), /* @__PURE__ */ React55.createElement("div", {
     className: "w-full p-1 pl-3 flex-grow"
-  }, /* @__PURE__ */ React54.createElement("div", {
+  }, /* @__PURE__ */ React55.createElement("div", {
     ref: inputRef,
     contentEditable: true,
     suppressContentEditableWarning: true,
@@ -71842,27 +71955,27 @@ function NewTaskComponent({
         e2.preventDefault();
       }
     }
-  }))), /* @__PURE__ */ React54.createElement("div", {
+  }))), /* @__PURE__ */ React55.createElement("div", {
     className: "flex justify-end w-full text-xs"
-  }, /* @__PURE__ */ React54.createElement("button", {
+  }, /* @__PURE__ */ React55.createElement("button", {
     className: "rpgm-secondary pl-3 pr-3 mr-3",
     onClick: () => onCancel(false)
-  }, t2("buttons.cancel")), /* @__PURE__ */ React54.createElement("button", {
+  }, t2("buttons.cancel")), /* @__PURE__ */ React55.createElement("button", {
     className: "rpgm-primary pl-3 pr-3",
     onClick: handleCreateNewTask
   }, t2("create.add", { context: "task" }))));
 }
 
 // src/components/tasks/TaskComponent.tsx
-var React55 = __toESM(require_react());
-var TaskComponent = React55.memo(function TaskComponent2({
+var React56 = __toESM(require_react());
+var TaskComponent = React56.memo(function TaskComponent2({
   element: element4,
   task,
   onTaskDeletion,
   onTaskUpdate
 }) {
   const { t: t2 } = useTranslation();
-  const [showDetails, setShowDetails] = React55.useState(false);
+  const [showDetails, setShowDetails] = React56.useState(false);
   const handleStatusChange = (task2) => {
     task2.click();
     onTaskUpdate(task2);
@@ -71881,22 +71994,22 @@ var TaskComponent = React55.memo(function TaskComponent2({
   };
   let taskIcon;
   if (task.status === "complete" /* Complete */) {
-    taskIcon = /* @__PURE__ */ React55.createElement("svg", {
+    taskIcon = /* @__PURE__ */ React56.createElement("svg", {
       xmlns: "http://www.w3.org/2000/svg",
       className: "h-5 w-5",
       viewBox: "0 0 24 24"
-    }, /* @__PURE__ */ React55.createElement("circle", {
+    }, /* @__PURE__ */ React56.createElement("circle", {
       cx: "12",
       cy: "12",
       r: "10",
       fill: "green"
-    }), /* @__PURE__ */ React55.createElement("path", {
+    }), /* @__PURE__ */ React56.createElement("path", {
       d: "M9 12l2 2l4-4",
       fill: "lightgray",
       stroke: "lightgray"
     }));
   } else if (task.status === "incomplete" /* Incomplete */) {
-    taskIcon = /* @__PURE__ */ React55.createElement("svg", {
+    taskIcon = /* @__PURE__ */ React56.createElement("svg", {
       xmlns: "http://www.w3.org/2000/svg",
       className: "h-5 w-5 text-[--background-modifier-border] group-hover:text-green-500 active:text-green-700 transition-colors duration-200",
       viewBox: "0 0 24 24",
@@ -71905,26 +72018,26 @@ var TaskComponent = React55.memo(function TaskComponent2({
       strokeWidth: "1.5",
       strokeLinecap: "round",
       strokeLinejoin: "round"
-    }, /* @__PURE__ */ React55.createElement("circle", {
+    }, /* @__PURE__ */ React56.createElement("circle", {
       cx: "12",
       cy: "12",
       r: "10"
-    }), /* @__PURE__ */ React55.createElement("path", {
+    }), /* @__PURE__ */ React56.createElement("path", {
       d: "M9 12l2 2l4-4"
     }));
   } else if (task.status === "proposed" /* Proposed */) {
-    taskIcon = /* @__PURE__ */ React55.createElement("svg", {
+    taskIcon = /* @__PURE__ */ React56.createElement("svg", {
       xmlns: "http://www.w3.org/2000/svg",
       className: "h-5 w-5 text-[--text-warning] transition-colors duration-200",
       viewBox: "0 0 24 24"
-    }, /* @__PURE__ */ React55.createElement("circle", {
+    }, /* @__PURE__ */ React56.createElement("circle", {
       cx: "12",
       cy: "12",
       r: "10",
       fill: "none",
       stroke: "currentColor",
       strokeWidth: "1.5"
-    }), /* @__PURE__ */ React55.createElement("text", {
+    }), /* @__PURE__ */ React56.createElement("text", {
       x: "12",
       y: "16",
       fontSize: "10",
@@ -71932,17 +72045,17 @@ var TaskComponent = React55.memo(function TaskComponent2({
       fill: "currentColor"
     }, "?"));
   }
-  return /* @__PURE__ */ React55.createElement(React55.Fragment, null, /* @__PURE__ */ React55.createElement("div", {
+  return /* @__PURE__ */ React56.createElement(React56.Fragment, null, /* @__PURE__ */ React56.createElement("div", {
     className: `flex items-center w-full text-sm cursor-pointer group ${!showDetails && "border-b border-b-[--background-modifier-border] hover:bg-[--background-primary-alt]"}`
-  }, /* @__PURE__ */ React55.createElement("div", {
+  }, /* @__PURE__ */ React56.createElement("div", {
     className: "max-w-5 w-5 align-middle items-center !m-2",
     onClick: (e2) => {
       e2.stopPropagation();
       handleStatusChange(task);
     }
-  }, taskIcon), /* @__PURE__ */ React55.createElement("div", {
+  }, taskIcon), /* @__PURE__ */ React56.createElement("div", {
     className: "w-full p-1 flex-grow"
-  }, /* @__PURE__ */ React55.createElement("div", {
+  }, /* @__PURE__ */ React56.createElement("div", {
     contentEditable: true,
     suppressContentEditableWarning: true,
     className: "min-w-[60px] rounded-sm p-1 !border !border-transparent bg-[--background-primary] group-hover:!border-[--background-modifier-border] focus:!border-[--background-modifier-border] focus:!shadow-none",
@@ -71956,27 +72069,27 @@ var TaskComponent = React55.memo(function TaskComponent2({
         e2.preventDefault();
       }
     }
-  }, task.name)), /* @__PURE__ */ React55.createElement("div", {
+  }, task.name)), /* @__PURE__ */ React56.createElement("div", {
     className: "pr-1 w-32 min-w-[8rem]"
-  }, /* @__PURE__ */ React55.createElement("select", {
+  }, /* @__PURE__ */ React56.createElement("select", {
     defaultValue: task.priority,
     onChange: (e2) => handlePriorityChange(e2.target.value),
     className: "selectBorder w-full \n                        !border !border-transparent group-hover:!border-[--background-modifier-border] focus:!border-[--background-modifier-border]\n                        h-7 pl-1 \n                        focus:!shadow-none !shadow-none\n                        bg-transparent group-hover:bg-[--background-modifier-form-field]\n                        "
-  }, Object.entries(PriorityType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React55.createElement("option", {
+  }, Object.entries(PriorityType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React56.createElement("option", {
     key,
     value: index2
-  }, key)))), /* @__PURE__ */ React55.createElement("div", {
+  }, key)))), /* @__PURE__ */ React56.createElement("div", {
     className: "pr-1 w-28 min-w-[7rem] align-middle items-center opacity-0 group-hover:opacity-100 !text-[--text-muted] hover:!text-[--text-accent]"
-  }, /* @__PURE__ */ React55.createElement("button", {
+  }, /* @__PURE__ */ React56.createElement("button", {
     className: "rpgm-danger",
     onClick: (e2) => {
       e2.stopPropagation();
       onTaskDeletion(task);
     }
-  }, t2("buttons.delete"))), /* @__PURE__ */ React55.createElement("div", {
+  }, t2("buttons.delete"))), /* @__PURE__ */ React56.createElement("div", {
     className: "pr-1 w-4 min-w-[1rem] align-middle items-center opacity-0 group-hover:opacity-100 !text-[--text-muted] hover:!text-[--text-accent]",
     onClick: () => setShowDetails(!showDetails)
-  }, ">")), showDetails && /* @__PURE__ */ React55.createElement(TaskDetailComponent, {
+  }, ">")), showDetails && /* @__PURE__ */ React56.createElement(TaskDetailComponent, {
     element: element4,
     task,
     onTaskUpdate: handleUpdate
@@ -71995,9 +72108,9 @@ function OwnTaskListComponent({
   const app = useApp();
   const ITEMS_PER_PAGE = 10;
   const initialTasks = tasks.slice(0, ITEMS_PER_PAGE);
-  const [paginatedTasks, setPaginatedTasks] = React56.useState(initialTasks);
-  const [newTask, setNewTask] = React56.useState(false);
-  const [showNewTask, setShowNewTask] = React56.useState(allowNewTask);
+  const [paginatedTasks, setPaginatedTasks] = React57.useState(initialTasks);
+  const [newTask, setNewTask] = React57.useState(false);
+  const [showNewTask, setShowNewTask] = React57.useState(allowNewTask);
   const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
   const handleDelete = (task) => {
     codeblockService.deleteTask(task);
@@ -72011,33 +72124,33 @@ function OwnTaskListComponent({
     setNewTask(true);
     setShowNewTask(false);
   }
-  return /* @__PURE__ */ React56.createElement("div", null, /* @__PURE__ */ React56.createElement("div", {
+  return /* @__PURE__ */ React57.createElement("div", null, /* @__PURE__ */ React57.createElement("div", {
     className: "text-xs text-[--text-muted] flex items-center w-full hover:bg-[--background-primary-alt] border-b border-b-[--background-modifier-border] cursor-pointer group"
-  }, /* @__PURE__ */ React56.createElement("div", {
+  }, /* @__PURE__ */ React57.createElement("div", {
     className: "col-span-1 max-w-5 w-5 align-middle items-center !m-2"
-  }, "\xA0"), /* @__PURE__ */ React56.createElement("div", {
+  }, "\xA0"), /* @__PURE__ */ React57.createElement("div", {
     className: "w-full p-1 pl-3 flex-grow"
-  }, t2("tasks.name")), /* @__PURE__ */ React56.createElement("div", {
+  }, t2("tasks.name")), /* @__PURE__ */ React57.createElement("div", {
     className: "pr-1 pl-1 w-64 min-w-[16rem]"
-  }, t2("tasks.priority"))), paginatedTasks.map((task, index2) => /* @__PURE__ */ React56.createElement(TaskComponent_default, {
+  }, t2("tasks.priority"))), paginatedTasks.map((task, index2) => /* @__PURE__ */ React57.createElement(TaskComponent_default, {
     key: task.id,
     element: element4,
     task,
     onTaskDeletion: handleDelete,
     onTaskUpdate: handleSave
-  })), newTask && /* @__PURE__ */ React56.createElement(NewTaskComponent, {
+  })), newTask && /* @__PURE__ */ React57.createElement(NewTaskComponent, {
     element: element4,
     onTaskCreation: handleSave,
     onCancel: () => {
       setNewTask(false);
       setShowNewTask(true);
     }
-  }), allowNewTask && showNewTask && !newTask && /* @__PURE__ */ React56.createElement("div", {
+  }), allowNewTask && showNewTask && !newTask && /* @__PURE__ */ React57.createElement("div", {
     className: "pb-1 mb-1 pt-1 text-xs flex justify-end w-full"
-  }, /* @__PURE__ */ React56.createElement("button", {
+  }, /* @__PURE__ */ React57.createElement("button", {
     className: "rpgm-secondary",
     onClick: handleCreateNewTask
-  }, t2("create.new", { context: "task" }))), /* @__PURE__ */ React56.createElement(TaskPaginatorComponent, {
+  }, t2("create.new", { context: "task" }))), /* @__PURE__ */ React57.createElement(TaskPaginatorComponent, {
     tasks,
     onPageChange: setPaginatedTasks
   }));
@@ -72048,56 +72161,56 @@ function TasksContainerComponent({ element: element4 }) {
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   let tasks = api2.tasks.getMentionedIn(element4);
-  const [viewTasks, setViewTasks] = React57.useState(true);
-  const [viewType, setViewType] = React57.useState(tasks.length > 0 ? "assigned" : "own");
+  const [viewTasks, setViewTasks] = React58.useState(true);
+  const [viewType, setViewType] = React58.useState(tasks.length > 0 ? "assigned" : "own");
   if (viewType === "own") {
     tasks = element4.tasks;
   } else if (viewType === "all") {
     tasks = api2.tasks.getByStatus("incomplete" /* Incomplete */, element4);
   }
-  return /* @__PURE__ */ React57.createElement("div", {
+  return /* @__PURE__ */ React58.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React57.createElement("div", {
+  }, /* @__PURE__ */ React58.createElement("div", {
     className: "flex items-center"
-  }, /* @__PURE__ */ React57.createElement("div", {
+  }, /* @__PURE__ */ React58.createElement("div", {
     onClick: () => setViewTasks(!viewTasks),
     className: "h-5 w-5 mr-2 flex items-center justify-center cursor-pointer"
-  }, /* @__PURE__ */ React57.createElement("svg", {
+  }, /* @__PURE__ */ React58.createElement("svg", {
     className: "transform transition-transform duration-200",
     viewBox: "0 0 24 24",
     style: {
       transform: viewTasks ? "rotate(0deg)" : "rotate(-90deg)"
     }
-  }, /* @__PURE__ */ React57.createElement("path", {
+  }, /* @__PURE__ */ React58.createElement("path", {
     fill: "currentColor",
     d: "M12 16l-8-8h16l-8 8z"
-  }))), /* @__PURE__ */ React57.createElement("h2", {
+  }))), /* @__PURE__ */ React58.createElement("h2", {
     className: "!m-0"
-  }, t2("tasks.task", { count: 2 }))), viewTasks && /* @__PURE__ */ React57.createElement("div", {
+  }, t2("tasks.task", { count: 2 }))), viewTasks && /* @__PURE__ */ React58.createElement("div", {
     className: "w-full mt-3 p-3 rounded-lg border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React57.createElement("div", {
+  }, /* @__PURE__ */ React58.createElement("div", {
     className: "w-full pb-3 mb-3 border-b border-b-[--background-modifier-border] flex justify-between"
-  }, /* @__PURE__ */ React57.createElement("div", {
+  }, /* @__PURE__ */ React58.createElement("div", {
     className: "w-full flex"
-  }, /* @__PURE__ */ React57.createElement("div", {
+  }, /* @__PURE__ */ React58.createElement("div", {
     className: `${viewType === "own" && "text-[--text-accent]"} pr-3 mr-3 border-r border-r-[--background-modifier-border] cursor-pointer hover:text-[--text-accent-hover]`,
     onClick: () => setViewType("own")
-  }, t2("tasks.owned", { variable: element4.name })), /* @__PURE__ */ React57.createElement("div", {
+  }, t2("tasks.owned", { variable: element4.name })), /* @__PURE__ */ React58.createElement("div", {
     className: `${viewType === "assigned" && "text-[--text-accent]"} pr-3 mr-3 border-r border-r-[--background-modifier-border] cursor-pointer hover:text-[--text-accent-hover]`,
     onClick: () => setViewType("assigned")
-  }, t2("tasks.assignedto"), " ", element4.name), /* @__PURE__ */ React57.createElement("div", {
+  }, t2("tasks.assignedto"), " ", element4.name), /* @__PURE__ */ React58.createElement("div", {
     className: `${viewType === "all" && "text-[--text-accent]"} cursor-pointer hover:text-[--text-accent-hover]`,
     onClick: () => setViewType("all")
-  }, t2("tasks.all")))), /* @__PURE__ */ React57.createElement("div", {
+  }, t2("tasks.all")))), /* @__PURE__ */ React58.createElement("div", {
     className: "w-full min-h-[100px] relative"
-  }, viewType === "own" ? /* @__PURE__ */ React57.createElement(OwnTaskListComponent, {
+  }, viewType === "own" ? /* @__PURE__ */ React58.createElement(OwnTaskListComponent, {
     element: element4,
     tasks,
     allowNewTask: viewTasks && viewType === "own"
-  }) : viewType === "assigned" ? /* @__PURE__ */ React57.createElement(AssignedTaskListComponent, {
+  }) : viewType === "assigned" ? /* @__PURE__ */ React58.createElement(AssignedTaskListComponent, {
     element: element4,
     tasks
-  }) : /* @__PURE__ */ React57.createElement(AllTaskListComponent, {
+  }) : /* @__PURE__ */ React58.createElement(AllTaskListComponent, {
     element: element4,
     tasks
   }))));
@@ -72111,68 +72224,68 @@ function ChapterComponent({
   const storyCircle = element4.attribute("StoryCircle" /* StoryCircle */);
   const kishotenketsu2 = element4.attribute("kishotenketsu" /* Kishotenketsu */);
   const conflict2 = element4.attribute("conflict" /* Conflict */);
-  return /* @__PURE__ */ React58.createElement(React58.Fragment, null, /* @__PURE__ */ React58.createElement("div", {
+  return /* @__PURE__ */ React59.createElement(React59.Fragment, null, /* @__PURE__ */ React59.createElement("div", {
     className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React58.createElement(HeaderComponent, {
+  }, /* @__PURE__ */ React59.createElement(HeaderComponent, {
     element: element4,
     isInPopover
-  }), element4.images.length > 0 && /* @__PURE__ */ React58.createElement(BannerComponent, {
+  }), element4.images.length > 0 && /* @__PURE__ */ React59.createElement(BannerComponent, {
     image: element4.images[0]
-  }), /* @__PURE__ */ React58.createElement("div", {
+  }), /* @__PURE__ */ React59.createElement("div", {
     className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
-  }, /* @__PURE__ */ React58.createElement("div", {
+  }, /* @__PURE__ */ React59.createElement("div", {
     className: `col-span-5 sm:col-span-1 lg:col-span-5`
-  }, /* @__PURE__ */ React58.createElement("div", {
+  }, /* @__PURE__ */ React59.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
-  }, /* @__PURE__ */ React58.createElement(DescriptionAttributeComponent, {
+  }, /* @__PURE__ */ React59.createElement(DescriptionAttributeComponent, {
     element: element4,
     attribute: element4.attribute("description" /* Description */),
     isEditable: !isInPopover
-  }), /* @__PURE__ */ React58.createElement(ParentAttributeComponent, {
+  }), /* @__PURE__ */ React59.createElement(ParentAttributeComponent, {
     element: element4,
     isEditable: !isInPopover
-  })), /* @__PURE__ */ React58.createElement(AttributeListComponent, {
+  })), /* @__PURE__ */ React59.createElement(AttributeListComponent, {
     element: element4,
     isEditable: !isInPopover
-  }))), element4.images.length > 1 && /* @__PURE__ */ React58.createElement("div", {
+  }))), element4.images.length > 1 && /* @__PURE__ */ React59.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React58.createElement(ImageCarouselComponent, {
+  }, /* @__PURE__ */ React59.createElement(ImageCarouselComponent, {
     element: element4
-  })), conflict2 && conflict2.isSet && /* @__PURE__ */ React58.createElement("div", {
+  })), conflict2 && conflict2.isSet && /* @__PURE__ */ React59.createElement("div", {
     className: "col-span-1 sm:col-span-1 lg:col-span-6"
-  }, /* @__PURE__ */ React58.createElement(ConflictComponent, {
+  }, /* @__PURE__ */ React59.createElement(ConflictComponent, {
     element: element4,
     attribute: conflict2,
     isEditable: !isInPopover
-  })), kishotenketsu2 && kishotenketsu2.isSet && /* @__PURE__ */ React58.createElement("div", {
+  })), kishotenketsu2 && kishotenketsu2.isSet && /* @__PURE__ */ React59.createElement("div", {
     className: "col-span-1 sm:col-span-1 lg:col-span-6"
-  }, /* @__PURE__ */ React58.createElement(KishotenketsuComponent, {
+  }, /* @__PURE__ */ React59.createElement(KishotenketsuComponent, {
     element: element4,
     attribute: kishotenketsu2,
     isEditable: !isInPopover
-  })), storyCircle && storyCircle.isSet && /* @__PURE__ */ React58.createElement("div", {
+  })), storyCircle && storyCircle.isSet && /* @__PURE__ */ React59.createElement("div", {
     className: "col-span-1 sm:col-span-1 lg:col-span-6"
-  }, /* @__PURE__ */ React58.createElement(StoryCircleAttributeComponent, {
+  }, /* @__PURE__ */ React59.createElement(StoryCircleAttributeComponent, {
     element: element4,
     attribute: storyCircle,
     isEditable: !isInPopover
-  })), !isInPopover && /* @__PURE__ */ React58.createElement(TasksContainerComponent, {
+  })), !isInPopover && /* @__PURE__ */ React59.createElement(TasksContainerComponent, {
     element: element4
-  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React58.createElement("div", {
+  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React59.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React58.createElement(RelationshipsComponent, {
+  }, /* @__PURE__ */ React59.createElement(RelationshipsComponent, {
     element: element4
   }))));
 }
 
 // src/components/elements/ClueComponent.tsx
-var React64 = __toESM(require_react());
+var React65 = __toESM(require_react());
 
 // src/components/groups/MainV1Component.tsx
-var React63 = __toESM(require_react());
+var React64 = __toESM(require_react());
 
 // src/components/attributes/types/OgasAttributeComponent.tsx
-var React59 = __toESM(require_react());
+var React60 = __toESM(require_react());
 function OgasAttributeComponent({ element: element4 }) {
   var _a, _b, _c, _d;
   const { t: t2 } = useTranslation();
@@ -72185,69 +72298,69 @@ function OgasAttributeComponent({ element: element4 }) {
   if (!occupation2 || !stake2 || !goal || !attitude)
     return null;
   const widthPercentage = stake2 / 10 * 100;
-  return /* @__PURE__ */ React59.createElement("div", {
+  return /* @__PURE__ */ React60.createElement("div", {
     className: "space-y-3 mt-3 border border-[--background-modifier-border] grid grid-cols-4 p-3 rounded-lg text-xs"
-  }, /* @__PURE__ */ React59.createElement("div", {
+  }, /* @__PURE__ */ React60.createElement("div", {
     className: "col-span-4 font-bold text-base"
-  }, "OGAS"), /* @__PURE__ */ React59.createElement("div", {
+  }, "OGAS"), /* @__PURE__ */ React60.createElement("div", {
     className: "font-bold"
-  }, t2("attributes.occupation")), /* @__PURE__ */ React59.createElement("div", {
+  }, t2("attributes.occupation")), /* @__PURE__ */ React60.createElement("div", {
     className: "col-span-3"
-  }, /* @__PURE__ */ React59.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React60.createElement(MarkdownComponent, {
     key: "occupation",
     value: occupation2
-  })), /* @__PURE__ */ React59.createElement("div", {
+  })), /* @__PURE__ */ React60.createElement("div", {
     className: "font-bold"
-  }, t2("attributes.goals")), /* @__PURE__ */ React59.createElement("div", {
+  }, t2("attributes.goals")), /* @__PURE__ */ React60.createElement("div", {
     className: "col-span-3"
-  }, /* @__PURE__ */ React59.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React60.createElement(MarkdownComponent, {
     key: "goals",
     value: goal
-  })), /* @__PURE__ */ React59.createElement("div", {
+  })), /* @__PURE__ */ React60.createElement("div", {
     className: "font-bold"
-  }, t2("attributes.attitude")), /* @__PURE__ */ React59.createElement("div", {
+  }, t2("attributes.attitude")), /* @__PURE__ */ React60.createElement("div", {
     className: "col-span-3"
-  }, /* @__PURE__ */ React59.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React60.createElement(MarkdownComponent, {
     key: "attitude",
     value: attitude
-  })), /* @__PURE__ */ React59.createElement("div", {
+  })), /* @__PURE__ */ React60.createElement("div", {
     className: "font-bold"
-  }, t2("attributes.stake")), /* @__PURE__ */ React59.createElement("div", {
+  }, t2("attributes.stake")), /* @__PURE__ */ React60.createElement("div", {
     className: "col-span-3 pt-1"
-  }, /* @__PURE__ */ React59.createElement("div", {
+  }, /* @__PURE__ */ React60.createElement("div", {
     className: "relative mr-3 h-2 bg-[--background-primary-alt] rounded-full"
-  }, /* @__PURE__ */ React59.createElement("div", {
+  }, /* @__PURE__ */ React60.createElement("div", {
     style: { width: `${widthPercentage}%` },
     className: "absolute h-2 bg-[--text-accent] rounded-full"
-  })), /* @__PURE__ */ React59.createElement("div", {
+  })), /* @__PURE__ */ React60.createElement("div", {
     className: "text-xs text-[--text-faint] text-center"
   }, stake2)));
 }
 
 // src/components/attributes/types/SensoryImprintAttributeComponent.tsx
-var React61 = __toESM(require_react());
+var React62 = __toESM(require_react());
 
 // src/components/chatgpt/ChatGptOverlay.tsx
-var React60 = __toESM(require_react());
+var React61 = __toESM(require_react());
 function ChatGptOverlay({ type: type2 }) {
   const { t: t2 } = useTranslation();
-  const [currentMessage, setCurrentMessage] = React60.useState(t2("chatgpt.messages", { returnObjects: true })[0]);
-  React60.useEffect(() => {
+  const [currentMessage, setCurrentMessage] = React61.useState(t2("chatgpt.messages", { returnObjects: true })[0]);
+  React61.useEffect(() => {
     const interval = setInterval(() => {
       const randomMessage = t2("chatgpt.messages", { returnObjects: true })[Math.floor(Math.random() * (t2("chatgpt.messages", { returnObjects: true }).length - 1)) + 1];
       setCurrentMessage(randomMessage);
     }, 5e3);
     return () => clearInterval(interval);
   }, []);
-  return /* @__PURE__ */ React60.createElement("div", {
+  return /* @__PURE__ */ React61.createElement("div", {
     className: "absolute inset-0 z-10 flex items-center justify-center bg-black bg-opacity-50 p-4"
-  }, /* @__PURE__ */ React60.createElement("div", {
+  }, /* @__PURE__ */ React61.createElement("div", {
     className: "text-center space-y-4"
-  }, /* @__PURE__ */ React60.createElement("div", {
+  }, /* @__PURE__ */ React61.createElement("div", {
     className: "text-2xl text-white font-semibold"
-  }, t2("chatgpt.overlaytitle", { context: type2 })), /* @__PURE__ */ React60.createElement("div", {
+  }, t2("chatgpt.overlaytitle", { context: type2 })), /* @__PURE__ */ React61.createElement("div", {
     className: "text-xl text-white"
-  }, t2("chatgpt.overlaydescription")), /* @__PURE__ */ React60.createElement("div", {
+  }, t2("chatgpt.overlaydescription")), /* @__PURE__ */ React61.createElement("div", {
     className: "text-white"
   }, currentMessage)));
 }
@@ -74594,13 +74707,13 @@ function EditComponent2({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [showOverlay, setShowOverlay] = React61.useState(false);
-  const [sensoryImprint, setSensoryImprint] = React61.useState(attribute.value);
-  const [sight, setSight] = React61.useState((_b = (_a = attribute == null ? void 0 : attribute.value) == null ? void 0 : _a.sight) != null ? _b : "");
-  const [hear, setHear] = React61.useState((_d = (_c = attribute == null ? void 0 : attribute.value) == null ? void 0 : _c.hear) != null ? _d : "");
-  const [smell, setSmell] = React61.useState((_f = (_e = attribute == null ? void 0 : attribute.value) == null ? void 0 : _e.smell) != null ? _f : "");
-  const [touch, setTouch] = React61.useState((_h = (_g = attribute == null ? void 0 : attribute.value) == null ? void 0 : _g.touch) != null ? _h : "");
-  const [taste, setTaste] = React61.useState((_j = (_i = attribute == null ? void 0 : attribute.value) == null ? void 0 : _i.taste) != null ? _j : "");
+  const [showOverlay, setShowOverlay] = React62.useState(false);
+  const [sensoryImprint, setSensoryImprint] = React62.useState(attribute.value);
+  const [sight, setSight] = React62.useState((_b = (_a = attribute == null ? void 0 : attribute.value) == null ? void 0 : _a.sight) != null ? _b : "");
+  const [hear, setHear] = React62.useState((_d = (_c = attribute == null ? void 0 : attribute.value) == null ? void 0 : _c.hear) != null ? _d : "");
+  const [smell, setSmell] = React62.useState((_f = (_e = attribute == null ? void 0 : attribute.value) == null ? void 0 : _e.smell) != null ? _f : "");
+  const [touch, setTouch] = React62.useState((_h = (_g = attribute == null ? void 0 : attribute.value) == null ? void 0 : _g.touch) != null ? _h : "");
+  const [taste, setTaste] = React62.useState((_j = (_i = attribute == null ? void 0 : attribute.value) == null ? void 0 : _i.taste) != null ? _j : "");
   let chatGpt = void 0;
   if (api2.settings.chatGptKey !== void 0 && api2.settings.chatGptKey !== "") {
     chatGpt = new ChatGptNonPlayerCharacterModel(api2, element4.type === "campaign" /* Campaign */ ? element4 : element4.campaign, element4.name);
@@ -74632,19 +74745,29 @@ function EditComponent2({
     });
   };
   const handleSightChange = (value) => {
-    setSensoryImprint(__spreadProps(__spreadValues({}, sensoryImprint), { sight: value }));
+    setSensoryImprint((prevSensoryImprint) => {
+      return __spreadProps(__spreadValues({}, prevSensoryImprint), { sight: value });
+    });
   };
   const handleHearChange = (value) => {
-    setSensoryImprint(__spreadProps(__spreadValues({}, sensoryImprint), { hear: value }));
+    setSensoryImprint((prevSensoryImprint) => {
+      return __spreadProps(__spreadValues({}, prevSensoryImprint), { hear: value });
+    });
   };
   const handleTasteChange = (value) => {
-    setSensoryImprint(__spreadProps(__spreadValues({}, sensoryImprint), { taste: value }));
+    setSensoryImprint((prevSensoryImprint) => {
+      return __spreadProps(__spreadValues({}, prevSensoryImprint), { taste: value });
+    });
   };
   const handleTouchChange = (value) => {
-    setSensoryImprint(__spreadProps(__spreadValues({}, sensoryImprint), { touch: value }));
+    setSensoryImprint((prevSensoryImprint) => {
+      return __spreadProps(__spreadValues({}, prevSensoryImprint), { touch: value });
+    });
   };
   const handleSmellChange = (value) => {
-    setSensoryImprint(__spreadProps(__spreadValues({}, sensoryImprint), { smell: value }));
+    setSensoryImprint((prevSensoryImprint) => {
+      return __spreadProps(__spreadValues({}, prevSensoryImprint), { smell: value });
+    });
   };
   const handleDelete = () => {
     const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
@@ -74658,110 +74781,115 @@ function EditComponent2({
       onSave();
     });
   };
-  return /* @__PURE__ */ React61.createElement("div", {
+  return /* @__PURE__ */ React62.createElement("div", {
     className: "relative w-full bg-[--background-primary] p-3 border border-[--background-modifier-border] rounded-lg"
-  }, showOverlay && /* @__PURE__ */ React61.createElement(ChatGptOverlay, {
+  }, showOverlay && /* @__PURE__ */ React62.createElement(ChatGptOverlay, {
     type: "sensoryimprint"
-  }), /* @__PURE__ */ React61.createElement("div", {
+  }), /* @__PURE__ */ React62.createElement("div", {
     className: "w-full flex justify-center mb-3"
-  }, /* @__PURE__ */ React61.createElement("h3", {
+  }, /* @__PURE__ */ React62.createElement("h3", {
     className: "!p-0 !text-xl !font-extralight"
-  }, t2("attributes.sensoryimprints"))), /* @__PURE__ */ React61.createElement("div", {
+  }, t2("attributes.sensoryimprints"))), /* @__PURE__ */ React62.createElement("div", {
     className: `w-full grid grid-cols-5 gap-3 items-start`
-  }, /* @__PURE__ */ React61.createElement("div", {
-    className: "grid items-center justify-center"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }, /* @__PURE__ */ React62.createElement("div", {
+    className: "grid grid-cols-1 items-center justify-center w-full"
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center !text-[--text-faint] mb-1"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faEye,
     title: "Sight"
-  })), /* @__PURE__ */ React61.createElement("div", {
+  })), /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center"
-  }, /* @__PURE__ */ React61.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React62.createElement(MarkdownEditorComponent, {
     key: "sight:" + sight,
     initialValue: sight,
     onChange: handleSightChange,
+    className: "!p-1 m-0 border rounded-md !border-solid !border-[--background-modifier-border] bg-[--background-modifier-form-field] min-w-full min-h[100px] text-xs",
     campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaign.path
-  }))), /* @__PURE__ */ React61.createElement("div", {
-    className: "grid items-center justify-center"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }))), /* @__PURE__ */ React62.createElement("div", {
+    className: "grid grid-cols-1 items-center justify-center w-full mb-3"
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center !text-[--text-faint] mb-1"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faEarListen,
     title: "Hearing"
-  })), /* @__PURE__ */ React61.createElement("div", {
+  })), /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center"
-  }, /* @__PURE__ */ React61.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React62.createElement(MarkdownEditorComponent, {
     key: "hear:" + hear,
     initialValue: hear,
     onChange: handleHearChange,
+    className: "!p-1 m-0 border rounded-md !border-solid !border-[--background-modifier-border] bg-[--background-modifier-form-field] min-w-full min-h[100px] text-xs",
     campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaign.path
-  }))), /* @__PURE__ */ React61.createElement("div", {
-    className: "grid items-center justify-center"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }))), /* @__PURE__ */ React62.createElement("div", {
+    className: "grid grid-cols-1 items-center justify-center w-full"
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center !text-[--text-faint] mb-1"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faWind,
     title: "Smell"
-  })), /* @__PURE__ */ React61.createElement("div", {
+  })), /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center"
-  }, /* @__PURE__ */ React61.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React62.createElement(MarkdownEditorComponent, {
     key: "smell:" + smell,
     initialValue: smell,
     onChange: handleSmellChange,
+    className: "!p-1 m-0 border rounded-md !border-solid !border-[--background-modifier-border] bg-[--background-modifier-form-field] min-w-full min-h[100px] text-xs",
     campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaign.path
-  }))), /* @__PURE__ */ React61.createElement("div", {
-    className: "grid items-center justify-center"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }))), /* @__PURE__ */ React62.createElement("div", {
+    className: "grid grid-cols-1 items-center justify-center w-full"
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center !text-[--text-faint] mb-1"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faHandPointer,
     title: "Touch"
-  })), /* @__PURE__ */ React61.createElement("div", {
+  })), /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center"
-  }, /* @__PURE__ */ React61.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React62.createElement(MarkdownEditorComponent, {
     key: "touch:" + touch,
     initialValue: touch,
     onChange: handleTouchChange,
+    className: "!p-1 m-0 border rounded-md !border-solid !border-[--background-modifier-border] bg-[--background-modifier-form-field] min-w-full min-h[100px] text-xs",
     campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaign.path
-  }))), /* @__PURE__ */ React61.createElement("div", {
-    className: "grid items-center justify-center"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }))), /* @__PURE__ */ React62.createElement("div", {
+    className: "grid grid-cols-1 items-center justify-center w-full"
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center !text-[--text-faint] mb-1"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faTint,
     title: "Taste"
-  })), /* @__PURE__ */ React61.createElement("div", {
+  })), /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center"
-  }, /* @__PURE__ */ React61.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React62.createElement(MarkdownEditorComponent, {
     key: "taste:" + taste,
     initialValue: taste,
     onChange: handleTasteChange,
+    className: "!p-1 m-0 border rounded-md !border-solid !border-[--background-modifier-border] bg-[--background-modifier-form-field] min-w-full min-h[100px] text-xs",
     campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaign.path
-  })))), /* @__PURE__ */ React61.createElement("div", {
+  })))), /* @__PURE__ */ React62.createElement("div", {
     className: `w-full flex justify-end mt-3`
-  }, /* @__PURE__ */ React61.createElement("button", {
+  }, /* @__PURE__ */ React62.createElement("button", {
     className: "rpgm-danger",
     onClick: handleDelete
-  }, t2("buttons.delete")), chatGpt && /* @__PURE__ */ React61.createElement("button", {
+  }, t2("buttons.delete")), chatGpt && /* @__PURE__ */ React62.createElement("button", {
     className: "rpgm-secondary",
     onClick: handleGeneration
-  }, t2("chatgpt.generate")), /* @__PURE__ */ React61.createElement("button", {
+  }, t2("chatgpt.generate")), /* @__PURE__ */ React62.createElement("button", {
     className: "rpgm-secondary",
     onClick: onSave
-  }, t2("buttons.cancel")), /* @__PURE__ */ React61.createElement("button", {
+  }, t2("buttons.cancel")), /* @__PURE__ */ React62.createElement("button", {
     className: "rpgm-primary ml-3",
     onClick: handleSave
   }, t2("buttons.save"))));
 }
 function ViewComponent2({ attribute, edit }) {
-  return /* @__PURE__ */ React61.createElement("div", {
+  return /* @__PURE__ */ React62.createElement("div", {
     className: "relative w-full"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faEdit,
     onClick: edit,
     className: "absolute top-3 right-3 cursor-pointer"
-  }), /* @__PURE__ */ React61.createElement(BrowseComponent2, {
+  }), /* @__PURE__ */ React62.createElement(BrowseComponent2, {
     attribute
   }));
 }
@@ -74769,67 +74897,67 @@ function BrowseComponent2({ attribute }) {
   const { t: t2 } = useTranslation();
   const sensoryImprint = attribute.value;
   const totalSenses = Object.values(sensoryImprint).filter(Boolean).length;
-  return /* @__PURE__ */ React61.createElement("div", {
+  return /* @__PURE__ */ React62.createElement("div", {
     className: "w-full bg-[--background-primary] p-3 border border-[--background-modifier-border] rounded-lg group"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "w-full flex justify-center mb-3"
-  }, /* @__PURE__ */ React61.createElement("h3", {
+  }, /* @__PURE__ */ React62.createElement("h3", {
     className: "!p-0 !text-xl !font-extralight"
-  }, t2("attributes.sensoryimprints"))), /* @__PURE__ */ React61.createElement("div", {
+  }, t2("attributes.sensoryimprints"))), /* @__PURE__ */ React62.createElement("div", {
     className: `w-full grid grid-cols-${totalSenses} gap-3 items-start opacity-0 visibility-hidden max-h-0 pointer-events-none group-hover:opacity-100 group-hover:visibility-visible group-hover:max-h-[300px] group-hover:pointer-events-auto transition-all duration-500 ease-in-out`
-  }, sensoryImprint.sight && /* @__PURE__ */ React61.createElement("div", {
+  }, sensoryImprint.sight && /* @__PURE__ */ React62.createElement("div", {
     className: "grid items-center justify-center"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center !text-[--text-faint]"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faEye
-  })), /* @__PURE__ */ React61.createElement("div", {
+  })), /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center -ml-8 text-sm"
-  }, /* @__PURE__ */ React61.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React62.createElement(MarkdownComponent, {
     value: sensoryImprint.sight,
     specificComponent: "sensory"
-  }))), sensoryImprint.hear && /* @__PURE__ */ React61.createElement("div", {
+  }))), sensoryImprint.hear && /* @__PURE__ */ React62.createElement("div", {
     className: "grid items-center justify-center"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center !text-[--text-faint]"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faEarListen
-  })), /* @__PURE__ */ React61.createElement("div", {
+  })), /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center -ml-8 text-sm"
-  }, /* @__PURE__ */ React61.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React62.createElement(MarkdownComponent, {
     value: sensoryImprint.hear,
     specificComponent: "sensory"
-  }))), sensoryImprint.smell && /* @__PURE__ */ React61.createElement("div", {
+  }))), sensoryImprint.smell && /* @__PURE__ */ React62.createElement("div", {
     className: "grid items-center justify-center"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center !text-[--text-faint]"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faWind
-  })), /* @__PURE__ */ React61.createElement("div", {
+  })), /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center -ml-8 text-sm"
-  }, /* @__PURE__ */ React61.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React62.createElement(MarkdownComponent, {
     value: sensoryImprint.smell,
     specificComponent: "sensory"
-  }))), sensoryImprint.touch && /* @__PURE__ */ React61.createElement("div", {
+  }))), sensoryImprint.touch && /* @__PURE__ */ React62.createElement("div", {
     className: "grid items-center justify-center"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center !text-[--text-faint]"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faHandPointer
-  })), /* @__PURE__ */ React61.createElement("div", {
+  })), /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center -ml-8 text-sm"
-  }, /* @__PURE__ */ React61.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React62.createElement(MarkdownComponent, {
     value: sensoryImprint.touch,
     specificComponent: "sensory"
-  }))), sensoryImprint.taste && /* @__PURE__ */ React61.createElement("div", {
+  }))), sensoryImprint.taste && /* @__PURE__ */ React62.createElement("div", {
     className: "grid items-center justify-center"
-  }, /* @__PURE__ */ React61.createElement("div", {
+  }, /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center !text-[--text-faint]"
-  }, /* @__PURE__ */ React61.createElement(FontAwesomeIcon, {
+  }, /* @__PURE__ */ React62.createElement(FontAwesomeIcon, {
     icon: faTint
-  })), /* @__PURE__ */ React61.createElement("div", {
+  })), /* @__PURE__ */ React62.createElement("div", {
     className: "flex justify-center -ml-8 text-sm"
-  }, /* @__PURE__ */ React61.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React62.createElement(MarkdownComponent, {
     value: sensoryImprint.taste,
     specificComponent: "sensory"
   })))));
@@ -74841,24 +74969,24 @@ function SensoryImprintAttributeComponent({
 }) {
   if (attribute === void 0 || !attribute.isSet)
     return null;
-  const [editing, setEditing] = React61.useState(false);
+  const [editing, setEditing] = React62.useState(false);
   const handleEdit = () => {
     setEditing(!editing);
   };
-  return /* @__PURE__ */ React61.createElement(React61.Fragment, null, editing ? /* @__PURE__ */ React61.createElement(EditComponent2, {
+  return /* @__PURE__ */ React62.createElement(React62.Fragment, null, editing ? /* @__PURE__ */ React62.createElement(EditComponent2, {
     element: element4,
     attribute,
     onSave: handleEdit
-  }) : isEditable ? /* @__PURE__ */ React61.createElement(ViewComponent2, {
+  }) : isEditable ? /* @__PURE__ */ React62.createElement(ViewComponent2, {
     attribute,
     edit: handleEdit
-  }) : /* @__PURE__ */ React61.createElement(BrowseComponent2, {
+  }) : /* @__PURE__ */ React62.createElement(BrowseComponent2, {
     attribute
   }));
 }
 
 // src/components/images/ImageComponent.tsx
-var React62 = __toESM(require_react());
+var React63 = __toESM(require_react());
 
 // src/services/FileUploadService.ts
 var FileUploadService = class {
@@ -74905,7 +75033,7 @@ function ImageComponent({
   element: element4,
   isEditable
 }) {
-  const [currentIndex, setCurrentIndex] = React62.useState(0);
+  const [currentIndex, setCurrentIndex] = React63.useState(0);
   const api2 = useApi();
   const app = useApp();
   const goPrev = () => {
@@ -74931,54 +75059,54 @@ function ImageComponent({
   let content3;
   if (element4.images.length === 0) {
     if (isEditable) {
-      content3 = /* @__PURE__ */ React62.createElement("svg", {
+      content3 = /* @__PURE__ */ React63.createElement("svg", {
         xmlns: "http://www.w3.org/2000/svg",
         className: "w-full h-full border-2 border-dashed p-4",
         viewBox: "0 0 16 16",
         onDrop: handleFileDrop,
         onDragOver: handleDragOver
-      }, /* @__PURE__ */ React62.createElement("path", {
+      }, /* @__PURE__ */ React63.createElement("path", {
         d: "m 4 1 c -1.644531 0 -3 1.355469 -3 3 v 1 h 1 v -1 c 0 -1.109375 0.890625 -2 2 -2 h 1 v -1 z m 2 0 v 1 h 4 v -1 z m 5 0 v 1 h 1 c 1.109375 0 2 0.890625 2 2 v 1 h 1 v -1 c 0 -1.644531 -1.355469 -3 -3 -3 z m -5 4 c -0.550781 0 -1 0.449219 -1 1 s 0.449219 1 1 1 s 1 -0.449219 1 -1 s -0.449219 -1 -1 -1 z m -5 1 v 4 h 1 v -4 z m 13 0 v 4 h 1 v -4 z m -4.5 2 l -2 2 l -1.5 -1 l -2 2 v 0.5 c 0 0.5 0.5 0.5 0.5 0.5 h 7 s 0.472656 -0.035156 0.5 -0.5 v -1 z m -8.5 3 v 1 c 0 1.644531 1.355469 3 3 3 h 1 v -1 h -1 c -1.109375 0 -2 -0.890625 -2 -2 v -1 z m 13 0 v 1 c 0 1.109375 -0.890625 2 -2 2 h -1 v 1 h 1 c 1.644531 0 3 -1.355469 3 -3 v -1 z m -8 3 v 1 h 4 v -1 z m 0 0",
         fill: "#2e3434",
         fillOpacity: "0.34902"
       }));
     } else {
-      content3 = /* @__PURE__ */ React62.createElement(React62.Fragment, null);
+      content3 = /* @__PURE__ */ React63.createElement(React63.Fragment, null);
     }
   } else {
     if (isEditable) {
-      content3 = /* @__PURE__ */ React62.createElement(React62.Fragment, null, /* @__PURE__ */ React62.createElement("img", {
+      content3 = /* @__PURE__ */ React63.createElement(React63.Fragment, null, /* @__PURE__ */ React63.createElement("img", {
         src: element4.images[currentIndex].src,
         alt: element4.images[currentIndex].caption,
         className: "w-full h-full object-cover"
-      }), element4.images[currentIndex].caption && /* @__PURE__ */ React62.createElement("div", {
+      }), element4.images[currentIndex].caption && /* @__PURE__ */ React63.createElement("div", {
         className: "p-2"
-      }, /* @__PURE__ */ React62.createElement(MarkdownComponent, {
+      }, /* @__PURE__ */ React63.createElement(MarkdownComponent, {
         value: element4.images[currentIndex].caption
-      })), element4.images.length > 1 && /* @__PURE__ */ React62.createElement(React62.Fragment, null, /* @__PURE__ */ React62.createElement("div", {
+      })), element4.images.length > 1 && /* @__PURE__ */ React63.createElement(React63.Fragment, null, /* @__PURE__ */ React63.createElement("div", {
         onClick: goPrev,
         className: "absolute left-0 top-0 w-1/2 h-full z-10 cursor-pointer flex items-center justify-start hover:bg-gradient-to-r hover:from-black hover:to-transparent hover:opacity-100 opacity-0"
-      }, /* @__PURE__ */ React62.createElement("span", {
+      }, /* @__PURE__ */ React63.createElement("span", {
         className: "text-[--text-faint] text-6xl ml-2"
-      }, "<")), /* @__PURE__ */ React62.createElement("div", {
+      }, "<")), /* @__PURE__ */ React63.createElement("div", {
         onClick: goNext,
         className: "absolute right-0 top-0 w-1/2 h-full z-10 cursor-pointer flex items-center justify-end hover:bg-gradient-to-l hover:from-black hover:to-transparent hover:opacity-100 opacity-0"
-      }, /* @__PURE__ */ React62.createElement("span", {
+      }, /* @__PURE__ */ React63.createElement("span", {
         className: "text-[--text-faint] text-6xl mr-2"
       }, ">"))));
     } else {
-      content3 = /* @__PURE__ */ React62.createElement(React62.Fragment, null, /* @__PURE__ */ React62.createElement("img", {
+      content3 = /* @__PURE__ */ React63.createElement(React63.Fragment, null, /* @__PURE__ */ React63.createElement("img", {
         src: element4.images[currentIndex].src,
         alt: element4.images[currentIndex].caption,
         className: "w-full h-full object-cover"
-      }), element4.images[currentIndex].caption && /* @__PURE__ */ React62.createElement("div", {
+      }), element4.images[currentIndex].caption && /* @__PURE__ */ React63.createElement("div", {
         className: "p-2"
-      }, /* @__PURE__ */ React62.createElement(MarkdownComponent, {
+      }, /* @__PURE__ */ React63.createElement(MarkdownComponent, {
         value: element4.images[currentIndex].caption
       })));
     }
   }
-  return /* @__PURE__ */ React62.createElement("div", {
+  return /* @__PURE__ */ React63.createElement("div", {
     className: "relative"
   }, content3);
 }
@@ -74988,46 +75116,46 @@ function MainV1Component({
   element: element4,
   isInPopover
 }) {
-  return /* @__PURE__ */ React63.createElement(React63.Fragment, null, /* @__PURE__ */ React63.createElement(HeaderComponent, {
+  return /* @__PURE__ */ React64.createElement(React64.Fragment, null, /* @__PURE__ */ React64.createElement(HeaderComponent, {
     element: element4,
     isInPopover
-  }), element4.attribute("sensoryimprint" /* SensoryImprint */) && /* @__PURE__ */ React63.createElement(SensoryImprintAttributeComponent, {
+  }), element4.attribute("sensoryimprint" /* SensoryImprint */) && /* @__PURE__ */ React64.createElement(SensoryImprintAttributeComponent, {
     element: element4,
     attribute: element4.attribute("sensoryimprint" /* SensoryImprint */),
     isEditable: !isInPopover
-  }), /* @__PURE__ */ React63.createElement("div", {
+  }), /* @__PURE__ */ React64.createElement("div", {
     className: `gap-3 !mb-3 grid grid-cols-1 ${isInPopover ? "" : "sm:grid-cols-1 lg:grid-cols-5"}`
-  }, /* @__PURE__ */ React63.createElement("div", {
+  }, /* @__PURE__ */ React64.createElement("div", {
     className: `grid ${isInPopover ? "grid-cols-1" : "lg:col-span-5 lg:grid-cols-5"} gap-3`
-  }, element4.images.length > 0 && /* @__PURE__ */ React63.createElement("div", {
+  }, element4.images.length > 0 && /* @__PURE__ */ React64.createElement("div", {
     className: `${isInPopover ? "col-span-1" : "lg:col-span-2"} `
-  }, /* @__PURE__ */ React63.createElement("div", {
+  }, /* @__PURE__ */ React64.createElement("div", {
     className: "\n							rounded-lg border border-[--background-modifier-border] \n							overflow-hidden \n							bg-[--background-primary]\n							"
-  }, /* @__PURE__ */ React63.createElement(ImageComponent, {
+  }, /* @__PURE__ */ React64.createElement(ImageComponent, {
     element: element4,
     isEditable: !isInPopover
-  }))), /* @__PURE__ */ React63.createElement("div", {
+  }))), /* @__PURE__ */ React64.createElement("div", {
     className: `${isInPopover ? "col-span-1" : element4.images.length > 0 ? "lg:col-span-3" : "lg:col-span-5"} rounded-lg border border-[--background-modifier-border] overflow-hidden bg-[--background-primary] !mt-0 p-3`
-  }, /* @__PURE__ */ React63.createElement(DescriptionAttributeComponent, {
+  }, /* @__PURE__ */ React64.createElement(DescriptionAttributeComponent, {
     element: element4,
     attribute: element4.attribute("description" /* Description */),
     isEditable: !isInPopover
-  }), element4.type === "nonplayercharacter" /* NonPlayerCharacter */ && /* @__PURE__ */ React63.createElement(OgasAttributeComponent, {
+  }), element4.type === "nonplayercharacter" /* NonPlayerCharacter */ && /* @__PURE__ */ React64.createElement(OgasAttributeComponent, {
     element: element4
-  })), /* @__PURE__ */ React63.createElement("div", {
+  })), /* @__PURE__ */ React64.createElement("div", {
     className: `col-span-1 ${!isInPopover && "lg:col-span-5"}`
-  }, /* @__PURE__ */ React63.createElement(AttributeListComponent, {
+  }, /* @__PURE__ */ React64.createElement(AttributeListComponent, {
     element: element4,
     isEditable: !isInPopover
-  })))), element4.images.length > 0 && /* @__PURE__ */ React63.createElement("div", {
+  })))), element4.images.length > 0 && /* @__PURE__ */ React64.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React63.createElement(ImageCarouselComponent, {
+  }, /* @__PURE__ */ React64.createElement(ImageCarouselComponent, {
     element: element4
-  })), !isInPopover && /* @__PURE__ */ React63.createElement(TasksContainerComponent, {
+  })), !isInPopover && /* @__PURE__ */ React64.createElement(TasksContainerComponent, {
     element: element4
-  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React63.createElement("div", {
+  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React64.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React63.createElement(RelationshipsComponent, {
+  }, /* @__PURE__ */ React64.createElement(RelationshipsComponent, {
     element: element4
   })));
 }
@@ -75037,70 +75165,56 @@ function ClueComponent({
   element: element4,
   isInPopover
 }) {
-  return /* @__PURE__ */ React64.createElement(React64.Fragment, null, /* @__PURE__ */ React64.createElement("div", {
+  return /* @__PURE__ */ React65.createElement(React65.Fragment, null, /* @__PURE__ */ React65.createElement("div", {
     className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React64.createElement(MainV1Component, {
+  }, /* @__PURE__ */ React65.createElement(MainV1Component, {
     element: element4,
     isInPopover
   })));
 }
 
 // src/components/elements/EventComponent.tsx
-var React65 = __toESM(require_react());
-function EventComponent({
-  element: element4,
-  isInPopover
-}) {
-  return /* @__PURE__ */ React65.createElement(React65.Fragment, null, /* @__PURE__ */ React65.createElement("div", {
-    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React65.createElement(HeaderComponent, {
-    element: element4,
-    isInPopover
-  }), element4.images.length > 0 && /* @__PURE__ */ React65.createElement(BannerComponent, {
-    image: element4.images[0]
-  }), /* @__PURE__ */ React65.createElement("div", {
-    className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
-  }, /* @__PURE__ */ React65.createElement("div", {
-    className: `col-span-5 sm:col-span-1 lg:col-span-5`
-  }, /* @__PURE__ */ React65.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
-  }, /* @__PURE__ */ React65.createElement(DescriptionAttributeComponent, {
-    element: element4,
-    attribute: element4.attribute("description" /* Description */),
-    isEditable: !isInPopover
-  })), /* @__PURE__ */ React65.createElement(AttributeListComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  }))), element4.images.length > 1 && /* @__PURE__ */ React65.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React65.createElement(ImageCarouselComponent, {
-    element: element4
-  })), !isInPopover && /* @__PURE__ */ React65.createElement(TasksContainerComponent, {
-    element: element4
-  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React65.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React65.createElement(RelationshipsComponent, {
-    element: element4
-  }))));
-}
-
-// src/components/elements/FactionComponent.tsx
 var React66 = __toESM(require_react());
-function FactionComponent({
+function EventComponent({
   element: element4,
   isInPopover
 }) {
   return /* @__PURE__ */ React66.createElement(React66.Fragment, null, /* @__PURE__ */ React66.createElement("div", {
     className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React66.createElement(MainV1Component, {
+  }, /* @__PURE__ */ React66.createElement(HeaderComponent, {
     element: element4,
     isInPopover
-  })));
+  }), element4.images.length > 0 && /* @__PURE__ */ React66.createElement(BannerComponent, {
+    image: element4.images[0]
+  }), /* @__PURE__ */ React66.createElement("div", {
+    className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
+  }, /* @__PURE__ */ React66.createElement("div", {
+    className: `col-span-5 sm:col-span-1 lg:col-span-5`
+  }, /* @__PURE__ */ React66.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
+  }, /* @__PURE__ */ React66.createElement(DescriptionAttributeComponent, {
+    element: element4,
+    attribute: element4.attribute("description" /* Description */),
+    isEditable: !isInPopover
+  })), /* @__PURE__ */ React66.createElement(AttributeListComponent, {
+    element: element4,
+    isEditable: !isInPopover
+  }))), element4.images.length > 1 && /* @__PURE__ */ React66.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
+  }, /* @__PURE__ */ React66.createElement(ImageCarouselComponent, {
+    element: element4
+  })), !isInPopover && /* @__PURE__ */ React66.createElement(TasksContainerComponent, {
+    element: element4
+  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React66.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
+  }, /* @__PURE__ */ React66.createElement(RelationshipsComponent, {
+    element: element4
+  }))));
 }
 
-// src/components/elements/LocationComponent.tsx
+// src/components/elements/FactionComponent.tsx
 var React67 = __toESM(require_react());
-function LocationComponent({
+function FactionComponent({
   element: element4,
   isInPopover
 }) {
@@ -75112,9 +75226,9 @@ function LocationComponent({
   })));
 }
 
-// src/components/elements/MonsterComponent.tsx
+// src/components/elements/LocationComponent.tsx
 var React68 = __toESM(require_react());
-function MonsterComponent({
+function LocationComponent({
   element: element4,
   isInPopover
 }) {
@@ -75126,9 +75240,9 @@ function MonsterComponent({
   })));
 }
 
-// src/components/elements/ObjectComponent.tsx
+// src/components/elements/MonsterComponent.tsx
 var React69 = __toESM(require_react());
-function ObjectComponent({
+function MonsterComponent({
   element: element4,
   isInPopover
 }) {
@@ -75140,9 +75254,9 @@ function ObjectComponent({
   })));
 }
 
-// src/components/elements/PlayerCharacterComponent.tsx
+// src/components/elements/ObjectComponent.tsx
 var React70 = __toESM(require_react());
-function PlayerCharacterComponent({
+function ObjectComponent({
   element: element4,
   isInPopover
 }) {
@@ -75154,11 +75268,25 @@ function PlayerCharacterComponent({
   })));
 }
 
+// src/components/elements/PlayerCharacterComponent.tsx
+var React71 = __toESM(require_react());
+function PlayerCharacterComponent({
+  element: element4,
+  isInPopover
+}) {
+  return /* @__PURE__ */ React71.createElement(React71.Fragment, null, /* @__PURE__ */ React71.createElement("div", {
+    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
+  }, /* @__PURE__ */ React71.createElement(MainV1Component, {
+    element: element4,
+    isInPopover
+  })));
+}
+
 // src/components/elements/SceneComponent.tsx
 var React73 = __toESM(require_react());
 
 // src/components/attributes/types/DurationAttributeComponent.tsx
-var React71 = __toESM(require_react());
+var React72 = __toESM(require_react());
 
 // src/services/TimerService.ts
 var _TimerService = class {
@@ -75206,9 +75334,9 @@ function DurationAttributeComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [isRunning, setIsRunning] = React71.useState(false);
-  const [duration2, setDuration] = React71.useState(attribute.value || 0);
-  const timerRef = React71.useRef(null);
+  const [isRunning, setIsRunning] = React72.useState(false);
+  const [duration2, setDuration] = React72.useState(attribute.value || 0);
+  const timerRef = React72.useRef(null);
   const handleStartStop = () => {
     if (isRunning)
       TimerService.endTimer(app, api2);
@@ -75216,7 +75344,7 @@ function DurationAttributeComponent({
       TimerService.startTimer(app, api2, element4);
     setIsRunning(!isRunning);
   };
-  React71.useEffect(() => {
+  React72.useEffect(() => {
     if (isRunning) {
       timerRef.current = setInterval(() => {
         setDuration((prev) => prev + 1);
@@ -75234,49 +75362,23 @@ function DurationAttributeComponent({
     const secs = seconds % 60;
     return `${String(hours).padStart(2, "0")}:${String(minutes).padStart(2, "0")}:${String(secs).padStart(2, "0")}`;
   };
-  return /* @__PURE__ */ React71.createElement("div", {
+  return /* @__PURE__ */ React72.createElement("div", {
     className: "flex items-center space-x-4"
-  }, /* @__PURE__ */ React71.createElement("div", {
+  }, /* @__PURE__ */ React72.createElement("div", {
     className: "font-bold"
-  }, t2("attributes.duration")), /* @__PURE__ */ React71.createElement("div", {
+  }, t2("attributes.duration")), /* @__PURE__ */ React72.createElement("div", {
     className: "bg-[--background-secondary] border border-[--background-modifier-border] p-2 rounded cursor-pointer transition-transform duration-300 transform-gpu hover:scale-105",
     onClick: handleStartStop
-  }, isRunning ? /* @__PURE__ */ React71.createElement("div", {
+  }, isRunning ? /* @__PURE__ */ React72.createElement("div", {
     className: "w-4 h-4 bg-[--text-normal]"
-  }) : /* @__PURE__ */ React71.createElement("svg", {
+  }) : /* @__PURE__ */ React72.createElement("svg", {
     viewBox: "0 0 12 14",
     className: "fill-current text-[--text-normal]",
     width: "12",
     height: "14"
-  }, /* @__PURE__ */ React71.createElement("polygon", {
+  }, /* @__PURE__ */ React72.createElement("polygon", {
     points: "0,0 12,7 0,14"
-  }))), /* @__PURE__ */ React71.createElement("div", null, formatDuration(duration2)));
-}
-
-// src/components/groups/ImageAndDescriptionComponent.tsx
-var React72 = __toESM(require_react());
-function ImageAndDescriptionComponent({
-  element: element4,
-  isInPopover,
-  requiresImage,
-  showParent
-}) {
-  const hasImages = element4.images.length > 0;
-  return /* @__PURE__ */ React72.createElement(React72.Fragment, null, (requiresImage || hasImages) && /* @__PURE__ */ React72.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] overflow-hidden bg-[--background-primary] mb-3"
-  }, /* @__PURE__ */ React72.createElement(ImageComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  })), /* @__PURE__ */ React72.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] overflow-hidden bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React72.createElement(DescriptionAttributeComponent, {
-    element: element4,
-    attribute: element4.attribute("description" /* Description */),
-    isEditable: !isInPopover
-  }), showParent && /* @__PURE__ */ React72.createElement(ParentAttributeComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  })));
+  }))), /* @__PURE__ */ React72.createElement("div", null, formatDuration(duration2)));
 }
 
 // src/components/elements/SceneComponent.tsx
@@ -75290,18 +75392,25 @@ function SceneComponent({
   }, /* @__PURE__ */ React73.createElement(HeaderComponent, {
     element: element4,
     isInPopover
-  }), /* @__PURE__ */ React73.createElement("div", {
-    className: `gap-3 !mb-3 grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5`
-  }, /* @__PURE__ */ React73.createElement("div", {
-    className: `lg:col-span-2`
-  }, /* @__PURE__ */ React73.createElement(ImageAndDescriptionComponent, {
+  }), element4.images.length > 0 && /* @__PURE__ */ React73.createElement("div", {
+    className: "max-h-32 h-32 overflow-hidden"
+  }, /* @__PURE__ */ React73.createElement(ImageComponent, {
     element: element4,
-    isInPopover,
-    requiresImage: false,
-    showParent: true
+    isEditable: !isInPopover
   })), /* @__PURE__ */ React73.createElement("div", {
-    className: `lg:col-span-3`
-  }, /* @__PURE__ */ React73.createElement(AttributeListComponent, {
+    className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
+  }, /* @__PURE__ */ React73.createElement("div", {
+    className: `col-span-5 sm:col-span-1 lg:col-span-5`
+  }, /* @__PURE__ */ React73.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
+  }, /* @__PURE__ */ React73.createElement(DescriptionAttributeComponent, {
+    element: element4,
+    attribute: element4.attribute("description" /* Description */),
+    isEditable: !isInPopover
+  }), /* @__PURE__ */ React73.createElement(ParentAttributeComponent, {
+    element: element4,
+    isEditable: !isInPopover
+  })), /* @__PURE__ */ React73.createElement(AttributeListComponent, {
     element: element4,
     isEditable: !isInPopover
   }))), /* @__PURE__ */ React73.createElement("div", {
@@ -83861,7 +83970,7 @@ function ChildSceneComponent({
     href: element4.file.name,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
   }, element4.name))) : /* @__PURE__ */ React81.createElement("div", {
-    className: "grid grid-cols-12 w-full pt-1 pb-1 items-center"
+    className: "grid grid-cols-12 w-full pt-1 pb-1 items-start"
   }, /* @__PURE__ */ React81.createElement("div", {
     className: "col-span-2 pr-1"
   }, /* @__PURE__ */ React81.createElement("input", {
@@ -83884,13 +83993,14 @@ function ChildSceneComponent({
     value: index2
   }, key)))), /* @__PURE__ */ React81.createElement("div", {
     className: "col-span-5 pr-1"
-  }, /* @__PURE__ */ React81.createElement("input", {
-    type: "text",
-    onBlur: (e2) => {
-      saveAttribute("description" /* Description */, e2.target.value);
+  }, /* @__PURE__ */ React81.createElement(MarkdownEditorComponent, {
+    initialValue: (_d = (_c = element4.attribute("description" /* Description */)) == null ? void 0 : _c.value) != null ? _d : "",
+    campaignPath: element4.campaignPath,
+    className: "!p-1 m-0 border rounded-md border-transparent group-hover:!border-solid group-hover:!border-[--background-modifier-border] bg-transparent group-hover:bg-[--background-modifier-form-field]",
+    onBlur: (value) => {
+      saveAttribute("description" /* Description */, value);
     },
-    className: "w-full !border !border-transparent group-hover:!border-[--background-modifier-border] h-5 focus:!border-[--background-modifier-border] focus:!shadow-none",
-    defaultValue: (_d = (_c = element4.attribute("description" /* Description */)) == null ? void 0 : _c.value) != null ? _d : ""
+    forceFocus: false
   })), /* @__PURE__ */ React81.createElement("div", {
     className: "col-span-2 pr-1"
   }, /* @__PURE__ */ React81.createElement("select", {
@@ -87462,7 +87572,8 @@ function Upgrading() {
         automaticMove: false,
         useSceneAnalyser: true,
         version: api2.version,
-        customAttributes: []
+        customAttributes: [],
+        forceFullWidth: false
       };
       api2.saveData(settings);
       setTotal(void 0);
@@ -87608,7 +87719,8 @@ var rpgManagerDefaultSettings = {
   automaticMove: false,
   useSceneAnalyser: true,
   version: "0.0.0",
-  customAttributes: []
+  customAttributes: [],
+  forceFullWidth: true
 };
 var RpgManagerSettings = class extends import_obsidian10.PluginSettingTab {
   constructor(_app, _plugin) {
@@ -87657,6 +87769,15 @@ var RpgManagerSettings = class extends import_obsidian10.PluginSettingTab {
     new import_obsidian10.Setting(containerEl).setName("Keep Element Organised").setDesc("Automatically move new elements in subfolders of their campaign.").addToggle((toggle) => {
       toggle.setValue(this._plugin.settings.automaticMove).onChange((value) => __async(this, null, function* () {
         yield this.saveSettings({ automaticMove: value });
+      }));
+    });
+    new import_obsidian10.Setting(containerEl).setName("Force Full Width").setDesc("Force the markdown editor to use the full width of the screen. This might clash with some themes.").addToggle((toggle) => {
+      toggle.setValue(this._plugin.settings.forceFullWidth).onChange((value) => __async(this, null, function* () {
+        yield this.saveSettings({ forceFullWidth: value });
+        if (value === true)
+          document.body.classList.add("rpgm-toggle-full-width-styles");
+        else
+          document.body.classList.remove("rpgm-toggle-full-width-styles");
       }));
     });
     new import_obsidian10.Setting(containerEl).setName("Image and Assets Folder").setDesc("Select the folder that contains the assets.").addDropdown((dropdown) => {
@@ -87874,7 +87995,9 @@ function CustomAttributeComponent({
     value: "LongText" /* LongText */
   }, t2("customattributes.longtext")), /* @__PURE__ */ React125.createElement("option", {
     value: "Date" /* Date */
-  }, t2("customattributes.date"))), errors.type && /* @__PURE__ */ React125.createElement("div", {
+  }, t2("customattributes.date")), /* @__PURE__ */ React125.createElement("option", {
+    value: "Link" /* Link */
+  }, t2("customattributes.link"))), errors.type && /* @__PURE__ */ React125.createElement("div", {
     className: "text-[--text-error] text-sm"
   }, errors.type)))), type2 === "Select" /* Select */ && /* @__PURE__ */ React125.createElement("div", null, /* @__PURE__ */ React125.createElement("div", null, /* @__PURE__ */ React125.createElement("div", {
     className: "font-bold"
@@ -87895,7 +88018,7 @@ function CustomAttributeComponent({
     type: "checkbox",
     checked: (customTypes == null ? void 0 : customTypes.includes(type3)) || false,
     onChange: (e2) => handleCustomTypeChange(type3, e2.target.checked)
-  }), type3))), errors.customTypes && /* @__PURE__ */ React125.createElement("div", {
+  }), t2(`elements.${type3}`, { count: 2 })))), errors.customTypes && /* @__PURE__ */ React125.createElement("div", {
     className: "text-[--text-error] text-sm"
   }, errors.customTypes))), /* @__PURE__ */ React125.createElement("div", {
     className: "flex w-full justify-end"
@@ -88725,6 +88848,8 @@ var RpgManager = class extends import_obsidian16.Plugin {
         ServiceFactory.initialise(this.app, this);
         this._taskService = new taskService(this._database);
         console.info("RpgManager " + this.manifest.version + " loaded");
+        if (this.settings.forceFullWidth === true)
+          document.body.classList.add("rpgm-toggle-full-width-styles");
         PluginServices.registerEvents(this.app, this, this._database);
         this.app.workspace.trigger("rpgmanager:refresh-views");
         (window["RpgManagerAPI"] = this) && this.register(() => delete window["RpgManagerAPI"]);

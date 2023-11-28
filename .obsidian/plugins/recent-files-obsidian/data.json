@@ -5,6 +5,70 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Spell List-Essomancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md"
+    },
+    {
+      "basename": "Arcane Sphere-Artifacteomancy",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
+    },
+    {
+      "basename": "Spell List Template",
+      "path": "Templates/Markdown Templates/General Templates/Spell List Template.md"
+    },
+    {
+      "basename": "Arcane Sphere-Technomynism",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
+    },
+    {
+      "basename": "Arcane Sphere Template",
+      "path": "Templates/Markdown Templates/General Templates/Arcane Sphere Template.md"
+    },
+    {
+      "basename": "Activity Inserter",
+      "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md"
+    },
+    {
+      "basename": "Related Weapons Dataview",
+      "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Related Weapons Dataview.md"
+    },
+    {
+      "basename": "Spell List-Resonancia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md"
+    },
+    {
+      "basename": "New Equipment Template",
+      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Spell List-Glyphiamancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Simple Metal Combination Resonance",
+      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Simple Metal Combination Resonance.md"
+    },
+    {
+      "basename": "Metal Summoning Resonance",
+      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
       "basename": "Dodge",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
@@ -41,28 +105,8 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
     },
     {
-      "basename": "Activity Inserter",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md"
-    },
-    {
       "basename": "Dev Helpers",
       "path": "Utilities/Dashboard Notes/Dev Helpers.md"
-    },
-    {
-      "basename": "New Equipment Template",
-      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     },
     {
       "basename": "README",
@@ -129,16 +173,8 @@
       "path": "Utilities/Lists/Conditions List.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
       "basename": "Magical",
       "path": "General Rules/Traits Catalog/General/Magical.md"
-    },
-    {
-      "basename": "Spell List Dataview",
-      "path": "Templates/Dataview Templates/Spell List Dataview.md"
     },
     {
       "basename": "Shifting Tides",
@@ -163,42 +199,6 @@
     {
       "basename": "Prowess",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md"
-    },
-    {
-      "basename": "Weapon Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
-    },
-    {
-      "basename": "History Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
-    },
-    {
-      "basename": "Schools Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
-    },
-    {
-      "basename": "Pilot Role Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
-    },
-    {
-      "basename": "Personal Scanner",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Armor Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
-    },
-    {
-      "basename": "Escaton's Seismic Shudder",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md"
-    },
-    {
-      "basename": "Escaton's Boulder Fists",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
     }
   ],
   "omittedPaths": [],

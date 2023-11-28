@@ -109,9 +109,10 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
-      footer_type: none
+      footer_type: count_empty
       persist_changes: false
       option_source: manual
+      footer_formula: 
   Rank:
     input: text
     accessorKey: Rank

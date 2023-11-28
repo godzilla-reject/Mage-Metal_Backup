@@ -7,11 +7,7 @@ This sphere rewards dedication and practice, as many Mages find themselves bored
 Any Mage has access to the spells of this sphere. 
 # Schools
 ```dataview
-
 LIST rows.file.link
-
 FROM #artifacteomancy 
-
 SORT file.name ASC
-
 ```

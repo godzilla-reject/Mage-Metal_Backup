@@ -218,6 +218,10 @@
   margin: 0.5rem !important;
 }
 
+.m-0 {
+  margin: 0px;
+}
+
 .m-1 {
   margin: 0.25rem;
 }
@@ -856,6 +860,10 @@
   border-right-width: 1px;
 }
 
+.\!border-solid {
+  border-style: solid !important;
+}
+
 .border-dashed {
   border-style: dashed;
 }
@@ -904,6 +912,10 @@
 
 .bg-\[--background-modifier-border\] {
   background-color: var(--background-modifier-border);
+}
+
+.bg-\[--background-modifier-form-field\] {
+  background-color: var(--background-modifier-form-field);
 }
 
 .bg-\[--background-primary-alt\] {
@@ -989,6 +1001,10 @@
 
 .\!p-0 {
   padding: 0px !important;
+}
+
+.\!p-1 {
+  padding: 0.25rem !important;
 }
 
 .\!p-3 {
@@ -1323,15 +1339,28 @@
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div,
-.markdown-source-view.mod-cm6.is-readable-line-width .cm-contentContainer.cm-contentContainer > .cm-content > div,
-.markdown-source-view.mod-cm6.is-readable-line-width .cm-contentContainer.cm-contentContainer > .cm-content,
-.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer > .embedded-backlinks,
-.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer > .inline-title,
-.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer > .metadata-container,
-.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer > .cm-contentContainer,
-.markdown-source-view.mod-cm6.is-readable-line-width .cm-content,
-.cm-sizer {
+.rpgm-toggle-full-width-styles .markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div,
+.rpgm-toggle-full-width-styles
+	.markdown-source-view.mod-cm6.is-readable-line-width
+	.cm-contentContainer.cm-contentContainer
+	> .cm-content
+	> div,
+.rpgm-toggle-full-width-styles
+	.markdown-source-view.mod-cm6.is-readable-line-width
+	.cm-contentContainer.cm-contentContainer
+	> .cm-content,
+.rpgm-toggle-full-width-styles .markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer > .embedded-backlinks,
+.rpgm-toggle-full-width-styles .markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer > .inline-title,
+.rpgm-toggle-full-width-styles .markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer > .metadata-container,
+.rpgm-toggle-full-width-styles .markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer > .cm-contentContainer,
+.rpgm-toggle-full-width-styles .markdown-source-view.mod-cm6.is-readable-line-width .cm-content,
+.rpgm-toggle-full-width-styles.markdown-source-view.mod-cm6.is-readable-line-width .cm-line,
+.rpgm-toggle-full-width-styles .cm-sizer {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+#rpgm-editor .cm-editor .cm-scroller .cm-content .cm-line {
   max-width: 100% !important;
   width: 100% !important;
 }
@@ -2407,6 +2436,10 @@ span.flatpickr-day.selected {
 
 .group:hover .group-hover\:max-h-\[300px\] {
   max-height: 300px;
+}
+
+.group:hover .group-hover\:\!border-solid {
+  border-style: solid !important;
 }
 
 .group:hover .group-hover\:\!border-\[--background-modifier-border\] {

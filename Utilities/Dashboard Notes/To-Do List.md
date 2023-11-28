@@ -13,9 +13,9 @@ cssclasses:
 		- [ ] Playing The Game
 	- [ ]  To-Do For: Mage Section of Character Creation (YAY)
 		- [ ]  ⏫ Get Spells Database to 100% complete markers.
-			- [ ] Add two Resonance Spells
-				- [ ] Summoning Resonance
-				- [ ] Combination Resonance
+			- [x] Add two Resonance Spells ✅ 2023-11-28
+				- [x] Summoning Resonance ✅ 2023-11-28
+				- [x] Combination Resonance ✅ 2023-11-28
 			- [ ] Add 2-4 Escalation Spells
 				- [ ] Something that is life for damage (one shot spell)
 				- [ ] Something that revives a fallen ally.
