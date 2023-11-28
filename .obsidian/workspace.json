@@ -4,21 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "b97c2036770e5b08",
+        "id": "18836c0fc00fc031",
         "type": "tabs",
+        "dimension": 66.01063829787233,
         "children": [
           {
-            "id": "368ff08e155c8c0f",
+            "id": "4f15183fedaf07ac",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.726548978220868
-                }
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+              }
+            }
+          },
+          {
+            "id": "ee12b207f47ee9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6c0843c4b5092161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "482ab99fa62b5fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "194f7646a8e878ea",
+        "type": "tabs",
+        "dimension": 33.98936170212766,
+        "children": [
+          {
+            "id": "052f23266c35aaa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
               }
             }
           },
@@ -240,13 +296,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "368ff08e155c8c0f",
+  "active": "6c0843c4b5092161",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md",
     "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
     "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
@@ -267,9 +326,6 @@
     "General Rules/Traits Catalog/Material.md",
     "Player-Facing Rules/Spells/Spells Database/Essomancy",
     "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md",
-    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
-    "Templates/Markdown Templates/General Templates/Spell List Template.md",
-    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md",
     "Player-Facing Rules/Spells/Spell School Registry/Thaumaturgy",
     "Templates/Markdown Templates/DevHelper Templates/Inserts",
     "Player-Facing Rules/Spells/Spells Database/Resonancia",

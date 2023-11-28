@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
     },
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
+      "basename": "Block",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
+    },
+    {
       "basename": "Skill Template",
       "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Aerophasia",
@@ -143,18 +155,6 @@
     {
       "basename": "Metal Summoning Resonance",
       "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md"
-    },
-    {
-      "basename": "Dodge",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
-    },
-    {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
-    },
-    {
-      "basename": "Block",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
     },
     {
       "basename": "Favor System Primer",
