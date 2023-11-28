@@ -5,6 +5,18 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Computer Complexity Chart",
+      "path": "Utilities/Design References/Computer Complexity Chart.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Dodge",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
@@ -113,10 +125,6 @@
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
     },
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Trance",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
-    },
-    {
-      "basename": "Dev Helpers",
-      "path": "Utilities/Dashboard Notes/Dev Helpers.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

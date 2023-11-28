@@ -22,7 +22,7 @@ cssclasses:
 			- [x] Add rank 1, 2 and 3 Hydrophasia spells. ✅ 2023-11-17
 				- [x] 1 ✅ 2023-11-16
 				- [x] 2 ✅ 2023-11-16
-				- [ ] 3 
+				- [x] 3 ✅ 2023-11-28
 		- [ ]  ⏫  Get Skills Database to 100% complete markers.
 		- [ ]  ⏫  Get Matthew to redo character creation.
 	- [ ]  🔽  To-Do For: Metal Section of Character Creation

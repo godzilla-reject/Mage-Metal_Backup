@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc2f8f816abc5492",
+        "id": "c3faae90255d2f36",
         "type": "tabs",
         "children": [
           {
-            "id": "02a2c6088e5d50bd",
+            "id": "5f9d81b7cb4ba692",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.726548978220868
+                  "zoom": -0.9988599801533312
                 }
               }
             }
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,8 +239,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "02a2c6088e5d50bd",
+  "active": "5f9d81b7cb4ba692",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "General Rules/The Favor System/Dice Structure/Dice Overview.md",
@@ -254,7 +254,6 @@
     "General Rules/The Favor System/Action Structure/Actions Overview.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "General Rules/Character Mechanics Overview.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
@@ -268,7 +267,6 @@
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md",
     "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md",
     "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Grinding Gears.md",
-    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md",
     "Player-Facing Rules/Spells/Spells Database/Essomancy",
     "Player-Facing Rules/Spells/Spell School Registry/Thaumaturgy",
     "Templates/Markdown Templates/DevHelper Templates/Inserts",
