@@ -313,6 +313,8 @@ thaumaturgy
 technomynism
 threatens
 tear
+triggers
+thumbs
 great
 game
 gaming
@@ -373,6 +375,7 @@ gestures
 granite
 granting
 grab
+gears
 from
 first
 freeform
@@ -724,6 +727,7 @@ counts
 chest
 crafted
 cascade
+crush
 before
 being
 be
@@ -833,6 +837,7 @@ barricade
 break
 build
 brand
+blazing
 not
 never
 no
@@ -1378,6 +1383,8 @@ stamina
 subtracts
 slip
 stores
+spout
+start
 LANCER
 Learn
 Lancer
@@ -1534,6 +1541,7 @@ object
 optics
 opposite
 our
+opens
 designer
 drag
 do
@@ -1775,6 +1783,7 @@ except
 erupt
 encourage
 engage
+edge
 played
 pilot
 play
@@ -1926,6 +1935,9 @@ provided
 pair
 preventing
 previous
+pushing
+pulled
+put
 RP
 RPGs
 Ryutama
@@ -2179,6 +2191,8 @@ rank
 redo
 replaces
 revives
+roars
+renew
 Pathfinder
 PF
 Philosophy
@@ -2604,6 +2618,7 @@ linking
 locked
 lock
 larger
+line
 Ease
 Excel
 Escalation
@@ -2648,6 +2663,7 @@ Extraordinary
 Engagement
 Evade
 Essomancy
+Escape
 Use
 Usable
 Unsorted
@@ -2795,6 +2811,7 @@ kill
 kinds
 knows
 kit
+knocked
 just
 jurisdiction
 justify
@@ -2884,6 +2901,7 @@ ve
 violently
 vitality
 vulnerability
+vortex
 Function
 Form
 Fleshed
@@ -3091,6 +3109,7 @@ Sustain
 Soaked
 Summoning
 Something
+Spout
 Jackson
 Jack
 Juggernaut
@@ -3200,6 +3219,7 @@ Very
 Versus
 Vulnerability
 Vulnerable
+Vortex
 You
 Your
 YAY

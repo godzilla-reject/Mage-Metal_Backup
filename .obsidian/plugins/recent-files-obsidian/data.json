@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
+      "basename": "Power-Word 'Ache'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
     },
     {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Dolman's Scorcher",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md"
+    },
+    {
+      "basename": "Eunard's Grinding Gears",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Grinding Gears.md"
+    },
+    {
+      "basename": "Clamp-Maw Trap",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
+    },
+    {
+      "basename": "Wormik's Torrent",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Aurora Mortum",
@@ -31,10 +55,6 @@
     {
       "basename": "Material",
       "path": "General Rules/Traits Catalog/Material.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Spell List-Essomancy",
@@ -129,10 +149,6 @@
       "path": "README.md"
     },
     {
-      "basename": "Wormik's Torrent",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
-    },
-    {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Unknown",
       "path": "General Rules/Conditions Catalog/Unknown.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Magical",
-      "path": "General Rules/Traits Catalog/General/Magical.md"
-    },
-    {
-      "basename": "Shifting Tides",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md"
-    },
-    {
-      "basename": "Hydro-Oscillation Field",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md"
     }
   ],
   "omittedPaths": [],

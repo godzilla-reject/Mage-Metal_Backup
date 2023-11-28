@@ -16,9 +16,9 @@ cssclasses:
 			- [x] Add two Resonance Spells ✅ 2023-11-28
 				- [x] Summoning Resonance ✅ 2023-11-28
 				- [x] Combination Resonance ✅ 2023-11-28
-			- [ ] Add 2-4 Escalation Spells
-				- [ ] Something that is life for damage (one shot spell)
-				- [ ] Something that revives a fallen ally.
+			- [x] Add 2-4 Escalation Spells ✅ 2023-11-28
+				- [x] Something that is life for damage (one shot spell) ✅ 2023-11-28
+				- [x] Something that revives a fallen ally. ✅ 2023-11-28
 			- [x] Add rank 1, 2 and 3 Hydrophasia spells. ✅ 2023-11-17
 				- [x] 1 ✅ 2023-11-16
 				- [x] 2 ✅ 2023-11-16

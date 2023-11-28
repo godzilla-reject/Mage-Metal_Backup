@@ -223,19 +223,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 327,
+      "wordCount": 330,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.09,
-      "characterCount": 1745,
-      "nonWhitespaceCharacterCount": 1305,
-      "readingTimeInMinutes": 1.2339622641509433,
+      "pageCount": 1.1,
+      "characterCount": 1784,
+      "nonWhitespaceCharacterCount": 1341,
+      "readingTimeInMinutes": 1.2452830188679245,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100910,
-      "modifiedDate": 1701153211952,
-      "sizeInBytes": 1813
+      "modifiedDate": 1701157469806,
+      "sizeInBytes": 1858
     },
     "Utilities/Dashboard Notes/Databases.md": {
       "isCountable": true,
@@ -2072,7 +2072,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100766,
-      "modifiedDate": 1701155670920,
+      "modifiedDate": 1701157488207,
       "sizeInBytes": 5722
     },
     "Player-Facing Rules/Spells/Spells Database/Runeurgy/Sniper's Mark.md": {
