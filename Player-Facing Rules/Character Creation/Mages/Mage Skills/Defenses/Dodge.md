@@ -3,6 +3,7 @@ Category: Defenses
 Attribute: Reflex
 Tags:
   - Skills
+Completed?: true
 ---
 # Skill Description-`=this.file.name`
 Notes:

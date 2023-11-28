@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Dodge",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "Dice Overview",
@@ -15,10 +23,6 @@
     {
       "basename": "Favor System Primer",
       "path": "General Rules/The Favor System/Favor System Primer.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "Skill Template",
@@ -47,10 +51,6 @@
     {
       "basename": "Character Mechanics Overview",
       "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Block",

@@ -380,6 +380,7 @@ granting
 grab
 gears
 generates
+gale
 from
 first
 freeform
@@ -735,6 +736,7 @@ crafted
 cascade
 crush
 causing
+causes
 before
 being
 be
@@ -1498,6 +1500,7 @@ Touch
 Tol
 Tide
 Thus
+Tranquil
 oriented
 of
 on
@@ -1686,6 +1689,7 @@ differ
 door
 displace
 dodging
+dissipates
 ever
 expand
 easy
@@ -2211,6 +2215,7 @@ replaces
 revives
 roars
 renew
+recent
 Pathfinder
 PF
 Philosophy
@@ -2279,6 +2284,7 @@ Pull
 Physicue
 Physique
 Pheidippidian
+Patient
 ABCs
 Apotheosis
 Accessibility
