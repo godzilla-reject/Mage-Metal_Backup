@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18836c0fc00fc031",
+        "id": "4f3d78f984d887c0",
         "type": "tabs",
         "children": [
           {
-            "id": "4f15183fedaf07ac",
+            "id": "18ba08d6c4cfb755",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -241,7 +241,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4f15183fedaf07ac",
+  "active": "18ba08d6c4cfb755",
   "lastOpenFiles": [
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
