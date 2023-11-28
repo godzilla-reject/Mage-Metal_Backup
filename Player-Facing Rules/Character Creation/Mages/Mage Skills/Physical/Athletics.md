@@ -76,8 +76,9 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 >> [!info|text-Center clear]+ Masterful Perk: Extraordinary Physique  
 >> *When you become a Master in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 
->> Your body is masterfully crafted after ages of hard work and dedication. Add 2 to your Power, Body and Tenacity Attributes, re-calculating your statistics as necessary.  
+>> Your body is masterfully crafted after ages of hard work and dedication. Add 2 to your Power, Body and Tenacity Attributes, re-calculating your Statistics as necessary.  
 
 >> [!info|text-Center clear]+ Legendary Perk: Pheidippidian Stamina
 >> *When you become a Legend in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
+>> 
 >> You have stamina like that of the Heroes of the Old World. You are immune to becoming [[Fatigued]] or [[Exhausted]].

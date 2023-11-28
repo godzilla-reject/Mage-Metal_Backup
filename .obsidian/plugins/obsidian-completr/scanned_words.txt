@@ -315,6 +315,7 @@ threatens
 tear
 triggers
 thumbs
+trip
 great
 game
 gaming
@@ -504,6 +505,7 @@ fails
 factor
 fallen
 feat
+fail
 came
 combines
 combat
@@ -728,6 +730,7 @@ chest
 crafted
 cascade
 crush
+causing
 before
 being
 be
@@ -838,6 +841,7 @@ break
 build
 brand
 blazing
+backward
 not
 never
 no
@@ -1385,6 +1389,7 @@ slip
 stores
 spout
 start
+succeeded
 LANCER
 Learn
 Lancer
@@ -1672,6 +1677,7 @@ despicable
 discolor
 differ
 door
+displace
 ever
 expand
 easy
@@ -1938,6 +1944,7 @@ previous
 pushing
 pulled
 put
+push
 RP
 RPGs
 Ryutama
@@ -2001,6 +2008,7 @@ RAP
 Running
 Rating
 Resonancia
+Restrained
 high
 heavily
 hopes

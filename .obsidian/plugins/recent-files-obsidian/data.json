@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Power-Word 'Ache'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
+      "basename": "Aerophasia",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Shifting Tides",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md"
     },
     {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Escaton's Boulder Fists",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
+    },
+    {
+      "basename": "Conjure Simple Weaponry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md"
+    },
+    {
+      "basename": "Conjure Martial Weaponry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md"
+    },
+    {
+      "basename": "Conjure Advanced Weaponry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md"
+    },
+    {
+      "basename": "Reinforce Vitality",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md"
+    },
+    {
+      "basename": "Power-Word 'Ache'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
     },
     {
       "basename": "Dolman's Scorcher",
@@ -23,10 +67,6 @@
     {
       "basename": "Wormik's Torrent",
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "To-Do List",
@@ -109,24 +149,12 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
     {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
       "basename": "Pain-Tolerance",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
     },
     {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
       "basename": "Block",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
     {
       "basename": "Favor System Primer",
@@ -171,34 +199,6 @@
     {
       "basename": "Hastened",
       "path": "General Rules/Conditions Catalog/Beneficial/Hastened.md"
-    },
-    {
-      "basename": "Regeneration",
-      "path": "General Rules/Conditions Catalog/Beneficial/Regeneration.md"
-    },
-    {
-      "basename": "Soaked",
-      "path": "General Rules/Conditions Catalog/Detrimental/Soaked.md"
-    },
-    {
-      "basename": "Bloodied",
-      "path": "General Rules/Conditions Catalog/Detrimental/Bloodied.md"
-    },
-    {
-      "basename": "Slowed",
-      "path": "General Rules/Conditions Catalog/Slowed.md"
-    },
-    {
-      "basename": "Power-Word 'Haste'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
-    },
-    {
-      "basename": "Condition Template",
-      "path": "Templates/Markdown Templates/General Templates/Condition Template.md"
-    },
-    {
-      "basename": "Unknown",
-      "path": "General Rules/Conditions Catalog/Unknown.md"
     }
   ],
   "omittedPaths": [],
