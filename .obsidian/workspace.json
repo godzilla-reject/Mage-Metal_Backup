@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b5b3f5ec775a95",
+        "id": "d95988b7e9ab750e",
         "type": "tabs",
         "children": [
           {
-            "id": "224687177c42fab1",
+            "id": "cebca4ab33873742",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -669.9574468085106,
-                  "y": -871.3882978723406,
-                  "zoom": -0.42840472301667265
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.9988599801533312
                 }
               }
             }
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +239,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "224687177c42fab1",
+  "active": "cebca4ab33873742",
   "lastOpenFiles": [
     "General Rules/The Favor System/Action Structure/Actions Overview.md",
     "Utilities/Dashboard.canvas",
