@@ -806,7 +806,297 @@
         }
       },
       "active": "224687177c42fab1"
+    },
+    "Weapon Creation": {
+      "main": {
+        "id": "8d1eeee8b5cc10e5",
+        "type": "split",
+        "children": [
+          {
+            "id": "d95988b7e9ab750e",
+            "type": "tabs",
+            "dimension": 66.22340425531915,
+            "children": [
+              {
+                "id": "cebca4ab33873742",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Utilities/Dashboard.canvas",
+                    "viewState": {
+                      "x": -530,
+                      "y": -1010,
+                      "zoom": -0.9988599801533312
+                    }
+                  }
+                }
+              },
+              {
+                "id": "c7f52babdd20af2b",
+                "type": "leaf",
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "6cbf34f6b3b4763d",
+            "type": "tabs",
+            "dimension": 33.77659574468085,
+            "children": [
+              {
+                "id": "89408ffa6ac2dbec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "8db4ad33aff01eb7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Utilities/Lists/Trait List.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c7c8f8b07364a828",
+        "type": "split",
+        "children": [
+          {
+            "id": "0ee470924da31ab3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a6efdbb03f15d137",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d968026dfd4f0b4b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:##todo",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fac67c8071a3cd9d",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3b93557265589f72",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 351.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "69a6a1297e44ad1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "82a6dd916793e22e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "508dc443b848b433",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f90135100ca5f4f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a3b467e93ea37d98",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "3ad2454c886ecebf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+                  }
+                }
+              },
+              {
+                "id": "35bd1d52bac4ea59",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "21cebfc490467c84",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6d5e9e67247021af",
+                "type": "leaf",
+                "state": {
+                  "type": "mathpad-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2563114bbac86f0c",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4739661f3573ba43",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d7a3e427e71d5d3e",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d9993422e933ec23",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "8753d1336babb804",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 262.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "dbfolder:Create a new database table": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": false,
+          "fantasy-content-generator:Fantasy Generators": false,
+          "homepage:Open homepage": false,
+          "mathpad:Open Mathpad": false,
+          "rpg-manager:RPG Manager": false,
+          "initiative-tracker:Initiative Tracker Encounter Builder": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "obsidian-5e-statblocks:Open Creature Pane": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "advanced-random-note:Open random note modal": false,
+          "chronology:Open Chronology": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "c7f52babdd20af2b"
     }
   },
-  "active": "Dashboard"
+  "active": "Weapon Creation"
 }

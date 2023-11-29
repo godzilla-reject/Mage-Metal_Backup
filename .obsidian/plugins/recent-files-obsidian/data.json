@@ -9,12 +9,32 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     },
     {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+    },
+    {
+      "basename": "Scatter",
+      "path": "General Rules/Traits Catalog/Weapon-Only/Scatter.md"
+    },
+    {
       "basename": "Lazerpike",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
     },
     {
-      "basename": "Grabenkanon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Program",
+      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
+    },
+    {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
+      "basename": "Area",
+      "path": "General Rules/Traits Catalog/General/Area.md"
     },
     {
       "basename": "Dashboard",
@@ -173,32 +193,12 @@
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
       "basename": "Aurora Mortum",
       "path": "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Mortum.md"
     },
     {
       "basename": "Spell Damage by Rank Chart",
       "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
-    },
-    {
-      "basename": "Aurora Vitam",
-      "path": "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Vitam.md"
-    },
-    {
-      "basename": "Material",
-      "path": "General Rules/Traits Catalog/Material.md"
-    },
-    {
-      "basename": "Spell List-Essomancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md"
     }
   ],
   "omittedPaths": [],

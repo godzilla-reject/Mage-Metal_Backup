@@ -22,14 +22,14 @@ Once the weapon's flaws have been chose, the final pool of points for the weapon
 ### Weapon Boons
 Weapons can then spend their points on boons, which define the weapon's characteristics. 
 
-|         Lesser (1 point)          |      Greater (2 Points)       |         Major (3 Points)          |
-|:---------------------------------:|:-----------------------------:|:---------------------------------:|
-|           [[Graceful]]            |         [[Forceful]]          |             [[Reach]]             |
-|          [[Integrated]]           | [[Repeating]](per extra shot) |           [[Critical]]            |
-|             [[Dual]]              |  [[Capacity]] (per 2 shots.)  |   [[Flurry]] (per extra attack)   |
-|      [[Thrown]] (per 4 sp)      |          [[Channel]]          |         [[High-Powered]]          |
-|          [[Anti-Ablative]]           |           [[Parrying]]           |           [[Area]]           |
-| [[Reliable]] (Ranged, per 1 die.) |        [[Devastating]]        | [[Reliable]]  (Melee, per 1 die.) |
-|                                   |                               |                                   |
+|          Lesser (1 point)           |      Greater (2 Points)       |         Major (3 Points)          |
+|:-----------------------------------:|:-----------------------------:|:---------------------------------:|
+|            [[Graceful]]             |         [[Forceful]]          |             [[Reach]]             |
+|           [[Integrated]]            | [[Repeating]](per extra shot) |           [[Critical]]            |
+|              [[Dual]]               |  [[Capacity]] (per 2 shots.)  |   [[Flurry]] (per extra attack)   |
+|        [[Thrown]] (per 4 sp)        |          [[Channel]]          |         [[High-Powered]]          |
+|          [[Anti-Ablative]]          |         [[Parrying]]          |             [[Area]]              |
+|  [[Reliable]] (Ranged, per 1 die.)  |        [[Devastating]]        | [[Reliable]]  (Melee, per 1 die.) |
+| [[Scatter]] (1 point per die size.) |                               |                                   |
 
 ### Finishing Up

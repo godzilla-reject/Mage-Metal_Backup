@@ -755,6 +755,8 @@ confer
 copied
 compromises
 compromising
+cylinder
+cartridges
 before
 being
 be
@@ -1438,6 +1440,9 @@ situation
 shows
 sacrificed
 stealth
+scattergun
+shells
+scattershells
 LANCER
 Learn
 Lancer
@@ -1467,6 +1472,7 @@ Level
 Loaded
 Lists
 Lockpicking
+Lazerpike
 The
 Tenets
 This
@@ -2018,6 +2024,7 @@ projectiles
 price
 protected
 present
+pellet
 RP
 RPGs
 Ryutama
@@ -2297,6 +2304,8 @@ reliant
 right
 read
 readily
+revolving
+response
 Pathfinder
 PF
 Philosophy
@@ -2738,6 +2747,7 @@ line
 learned
 lightest
 locomote
+loaded
 Ease
 Excel
 Escalation
