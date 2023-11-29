@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
               }
             }
           },
@@ -286,12 +286,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "89408ffa6ac2dbec",
+  "active": "c7f52babdd20af2b",
   "lastOpenFiles": [
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Channeler's Tome.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
     "General Rules/Traits Catalog/Weapon-Only/Scatter.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
     "Utilities/Lists/Trait List.md",
     "General Rules/Traits Catalog/Equipment-Only/Program.md",
@@ -314,7 +315,6 @@
     "Untitled.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
-    "General Rules/The Favor System/Dice Structure/Dice Overview.md",
     "Player-Facing Rules/Spells/Spells Database/Essomancy",
     "Player-Facing Rules/Spells/Spell School Registry/Thaumaturgy",
     "Templates/Markdown Templates/DevHelper Templates/Inserts",
