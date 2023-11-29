@@ -5,6 +5,14 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     },
     {
+      "basename": "Channeler's Tome",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
+    },
+    {
+      "basename": "Bonerazer",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bonerazer.md"
+    },
+    {
       "basename": "Weaponry Overview",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Wormik's Torrent",
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
-    },
-    {
-      "basename": "Aurora Mortum",
-      "path": "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Mortum.md"
-    },
-    {
-      "basename": "Spell Damage by Rank Chart",
-      "path": "Utilities/Design References/Spell Damage by Rank Chart.md"
     }
   ],
   "omittedPaths": [],

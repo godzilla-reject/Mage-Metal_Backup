@@ -1,14 +1,14 @@
 ---
-Type:
+Type: 
 Tags:
   - Weapon
-Category:
+Category: 
 Group: Unsorted
-Handed-ness:
-Price:
-Heft:
-Damage_Type:
-Damage_Die:
+Handed-ness: 
+Price: 
+Heft: 
+Damage_Type: 
+Damage_Die: 
 Completed: false
 ---
 > [!infobox|left]+ Weapon Entry
