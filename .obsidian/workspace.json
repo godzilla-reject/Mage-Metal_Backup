@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Lists/Trait List.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Lists/Trait List.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Lists/Trait List.md"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
               }
             }
           },
@@ -313,8 +313,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8db4ad33aff01eb7",
+  "active": "2b155fcbae4b6f34",
   "lastOpenFiles": [
+    "Utilities/Lists/Trait List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",
@@ -323,7 +324,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
     "General Rules/Traits Catalog/Weapon-Only/Scatter.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
-    "Utilities/Lists/Trait List.md",
     "General Rules/Traits Catalog/Equipment-Only/Program.md",
     "General Rules/Traits Catalog/Traits Database.md",
     "General Rules/Traits Catalog/General/Area.md",
