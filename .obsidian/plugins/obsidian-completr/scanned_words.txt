@@ -2089,6 +2089,7 @@ Reactive
 Riposte
 Rapid
 Recharger
+Reword
 high
 heavily
 hopes
