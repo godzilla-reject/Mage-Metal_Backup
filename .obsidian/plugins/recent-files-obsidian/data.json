@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Weaponry Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Lazerpike",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
+    },
+    {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Weapon Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
       "basename": "Actions Overview",
@@ -175,30 +199,6 @@
     {
       "basename": "Spell List-Essomancy",
       "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md"
-    },
-    {
-      "basename": "Arcane Sphere-Artifacteomancy",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
-    },
-    {
-      "basename": "Spell List Template",
-      "path": "Templates/Markdown Templates/General Templates/Spell List Template.md"
-    },
-    {
-      "basename": "Arcane Sphere-Technomynism",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
-    },
-    {
-      "basename": "Arcane Sphere Template",
-      "path": "Templates/Markdown Templates/General Templates/Arcane Sphere Template.md"
-    },
-    {
-      "basename": "Activity Inserter",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md"
-    },
-    {
-      "basename": "Related Weapons Dataview",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Related Weapons Dataview.md"
     }
   ],
   "omittedPaths": [],

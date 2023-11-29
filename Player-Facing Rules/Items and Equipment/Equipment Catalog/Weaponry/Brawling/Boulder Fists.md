@@ -9,7 +9,7 @@ Price: 0
 Heft: 13
 Damage_Type: crushing
 Damage_Die: "1"
-Completed: false
+Completed: true
 ---
 > [!infobox|left]+ Weapon Entry
 > # `=this.file.name`

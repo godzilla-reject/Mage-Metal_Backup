@@ -95,6 +95,7 @@ columns:
       - { label: "Axe", value: "Axe", color: "hsl(189, 95%, 90%)"}
       - { label: "Handguns", value: "Handguns", color: "hsl(291, 95%, 90%)"}
       - { label: "Spell", value: "Spell", color: "hsl(339, 95%, 90%)"}
+      - { label: "Unsorted", value: "Unsorted", color: "hsl(115, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -299,8 +300,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
-      footer_type: none
+      footer_type: percent_filled
       persist_changes: false
+      footer_formula: 
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -329,7 +331,7 @@ config:
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
-  enable_footer: false
+  enable_footer: true
   implementation: default
 filters:
   enabled: false
