@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Channeler's Tome",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     },
     {
       "basename": "Bonerazer",
@@ -27,10 +31,6 @@
     {
       "basename": "Lazerpike",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Program",

@@ -248,6 +248,7 @@ columns:
       - { label: "electric", value: "electric", color: "hsl(178, 95%, 90%)"}
       - { label: "piercing", value: "piercing", color: "hsl(231, 95%, 90%)"}
       - { label: "cutting", value: "cutting", color: "hsl(327, 95%, 90%)"}
+      - { label: "channeled", value: "channeled", color: "hsl(346, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
