@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Weaponry Overview",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Spell Grimoire",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire/Spell Grimoire.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Grabenkanon",
