@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Channeler's Tome",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     },
     {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
     },
     {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+      "basename": "Bonerazer",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonerazer.md"
     },
     {
-      "basename": "Bonerazer",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bonerazer.md"
+      "basename": "Channeler's Tome",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
+    },
+    {
+      "basename": "Spell Grimoire",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire/Spell Grimoire.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Weaponry Overview",
@@ -195,10 +199,6 @@
     {
       "basename": "Clamp-Maw Trap",
       "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
-    },
-    {
-      "basename": "Wormik's Torrent",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
     }
   ],
   "omittedPaths": [],

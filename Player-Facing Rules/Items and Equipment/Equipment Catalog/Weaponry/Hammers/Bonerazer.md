@@ -3,7 +3,7 @@ Type:
 Tags:
   - Weapon
 Category: 
-Group: Unsorted
+Group: Hammers
 Handed-ness: 
 Price: 
 Heft: 

@@ -6,9 +6,10 @@
       {
         "id": "d95988b7e9ab750e",
         "type": "tabs",
+        "dimension": 66.22340425531915,
         "children": [
           {
-            "id": "c7f52babdd20af2b",
+            "id": "cebca4ab33873742",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,12 +18,70 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.644925777151695
+                  "zoom": -0.9988599801533312
                 }
               }
             }
+          },
+          {
+            "id": "c7f52babdd20af2b",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+              }
+            }
+          },
+          {
+            "id": "b118e06ef90a621c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonerazer.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6cbf34f6b3b4763d",
+        "type": "tabs",
+        "dimension": 33.77659574468085,
+        "children": [
+          {
+            "id": "89408ffa6ac2dbec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8db4ad33aff01eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
               }
             }
           },
@@ -212,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,10 +303,13 @@
   "active": "c7f52babdd20af2b",
   "lastOpenFiles": [
     "Utilities/Lists/Trait List.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonerazer.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire/Spell Grimoire.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bonerazer.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
     "General Rules/Traits Catalog/Weapon-Only/Scatter.md",
@@ -254,7 +317,6 @@
     "General Rules/Traits Catalog/Equipment-Only/Program.md",
     "General Rules/Traits Catalog/Traits Database.md",
     "General Rules/Traits Catalog/General/Area.md",
-    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "General Rules/The Favor System/Action Structure/Actions Overview.md",
@@ -268,7 +330,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
-    "Untitled.md",
     "Player-Facing Rules/Spells/Spells Database/Essomancy",
     "Player-Facing Rules/Spells/Spell School Registry/Thaumaturgy",
     "Templates/Markdown Templates/DevHelper Templates/Inserts",
@@ -276,7 +337,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Spell"
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General"
   ]
 }

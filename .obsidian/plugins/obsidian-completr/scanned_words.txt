@@ -325,6 +325,8 @@ temperatures
 targeted
 triggering
 terms
+tomes
+tap
 great
 game
 gaming
@@ -758,6 +760,7 @@ compromising
 cylinder
 cartridges
 channeled
+capable
 before
 being
 be
@@ -1444,6 +1447,7 @@ stealth
 scattergun
 shells
 scattershells
+storing
 LANCER
 Learn
 Lancer
@@ -2027,6 +2031,8 @@ price
 protected
 present
 pellet
+proverbial
+pulling
 RP
 RPGs
 Ryutama
@@ -2308,6 +2314,8 @@ read
 readily
 revolving
 response
+represents
+reservoirs
 Pathfinder
 PF
 Philosophy
@@ -2618,6 +2626,7 @@ Grafted
 Game
 Grant
 Guidelines
+Grimoires
 utmost
 use
 up
@@ -3383,4 +3392,5 @@ Konnar
 Key
 Knowledge
 Quantum
+Quirks
 zero

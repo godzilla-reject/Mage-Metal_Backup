@@ -97,6 +97,7 @@ columns:
       - { label: "Spell", value: "Spell", color: "hsl(339, 95%, 90%)"}
       - { label: "Unsorted", value: "Unsorted", color: "hsl(115, 95%, 90%)"}
       - { label: "Tome", value: "Tome", color: "hsl(156, 95%, 90%)"}
+      - { label: "Hammers", value: "Hammers", color: "hsl(257, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
