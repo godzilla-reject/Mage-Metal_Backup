@@ -80,8 +80,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
               }
             }
           },
@@ -300,10 +299,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c7f52babdd20af2b",
+  "active": "89408ffa6ac2dbec",
   "lastOpenFiles": [
-    "Utilities/Lists/Trait List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Utilities/Lists/Trait List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonerazer.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
