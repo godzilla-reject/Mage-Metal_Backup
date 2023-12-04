@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Arcane Addict",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md"
+    },
+    {
+      "basename": "Novice Blood Mage",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md"
+    },
+    {
+      "basename": "Confused",
+      "path": "General Rules/Conditions Catalog/Confused.md"
+    },
+    {
+      "basename": "Fatigued",
+      "path": "General Rules/Conditions Catalog/Fatigued.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Exhausted",
+      "path": "General Rules/Conditions Catalog/Exhausted.md"
+    },
+    {
+      "basename": "Restrained",
+      "path": "General Rules/Conditions Catalog/Restrained.md"
+    },
+    {
+      "basename": "Prone",
+      "path": "General Rules/Conditions Catalog/Prone.md"
+    },
+    {
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
+      "basename": "Sustained",
+      "path": "General Rules/Traits Catalog/Sustained.md"
+    },
+    {
+      "basename": "Agile",
+      "path": "General Rules/Conditions Catalog/Agile.md"
+    },
+    {
+      "basename": "Off-Guard",
+      "path": "General Rules/Conditions Catalog/Off-Guard.md"
+    },
+    {
+      "basename": "Electroflex",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
+    },
+    {
+      "basename": "Energized",
+      "path": "General Rules/Conditions Catalog/Energized.md"
+    },
+    {
+      "basename": "Metal Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
+    },
+    {
       "basename": "Hidden",
       "path": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "Block",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
-    },
-    {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
-    },
-    {
-      "basename": "Heater",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
-    },
-    {
-      "basename": "Computer Complexity Chart",
-      "path": "Utilities/Design References/Computer Complexity Chart.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Dodge",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
-    },
-    {
-      "basename": "Dice Overview",
-      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
-    },
-    {
-      "basename": "Aura",
-      "path": "General Rules/Traits Catalog/Spell-Only/Aura.md"
-    },
-    {
-      "basename": "Design Note-Axillary Resources",
-      "path": "Design Bible/Design Notes/Design Note-Axillary Resources.md"
-    },
-    {
-      "basename": "Damage Types, Resistance, and Weakness",
-      "path": "General Rules/Combat/Damage Types, Resistance, and Weakness.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "Aerophasia",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Shifting Tides",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Escaton's Boulder Fists",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
-    },
-    {
-      "basename": "Conjure Simple Weaponry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md"
-    },
-    {
-      "basename": "Conjure Martial Weaponry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md"
     }
   ],
   "omittedPaths": [],

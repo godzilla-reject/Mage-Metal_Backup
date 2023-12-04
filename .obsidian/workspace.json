@@ -4,82 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "18836c0fc00fc031",
+        "id": "aaba1e39c4502b70",
         "type": "tabs",
-        "dimension": 66.01063829787233,
+        "dimension": 65.07521255722695,
         "children": [
           {
-            "id": "4f15183fedaf07ac",
+            "id": "46718cc72be89e5d",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-              }
-            }
-          },
-          {
-            "id": "1709137d188d8cf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "970ea1f7412d460a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Theft.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "59e25e671dd44312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "edb43587052d5053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Rules/The Favor System/Favor System Primer.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "194f7646a8e878ea",
+        "id": "5b334d47cf2336dd",
         "type": "tabs",
-        "dimension": 33.98936170212766,
+        "dimension": 34.92478744277305,
         "children": [
           {
-            "id": "c1a24b4b5cf720c2",
+            "id": "ad97175794b3bddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +39,7 @@
             }
           },
           {
-            "id": "6cdefebe00b36905",
+            "id": "14eb68de340edd6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -105,12 +52,12 @@
             }
           },
           {
-            "id": "b0340d3875b99d4c",
+            "id": "25406087a6361eed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Rules/Conditions Catalog/Unknown.md",
+                "file": "Utilities/Design References/Spell Damage by Rank Chart.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -118,25 +65,12 @@
             }
           },
           {
-            "id": "052f23266c35aaa3",
+            "id": "0ca4d1b0612b5e99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a77e8ba74a6bb297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Rules/Conditions Catalog/Beneficial/Hidden.md",
+                "file": "Templates/Markdown Templates/Mage Templates/Spell Template.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -144,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:##todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -219,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Rules/Conditions Catalog/Beneficial/Hidden.md",
+                "file": "Templates/Markdown Templates/Mage Templates/Spell Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Rules/Conditions Catalog/Beneficial/Hidden.md",
+                "file": "Templates/Markdown Templates/Mage Templates/Spell Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
+                "file": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
               }
             }
           },
@@ -339,6 +272,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -363,8 +297,27 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a77e8ba74a6bb297",
+  "active": "0ca4d1b0612b5e99",
   "lastOpenFiles": [
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Player-Facing Rules/Spells/Spells Database/Rite of Harmony.md",
+    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md",
+    "General Rules/Conditions Catalog/Confused.md",
+    "General Rules/Conditions Catalog/Fatigued.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+    "General Rules/Conditions Catalog/Exhausted.md",
+    "General Rules/Conditions Catalog/Restrained.md",
+    "General Rules/Conditions Catalog/Prone.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
+    "General Rules/Traits Catalog/Sustained.md",
+    "General Rules/Conditions Catalog/Agile.md",
+    "General Rules/Conditions Catalog/Off-Guard.md",
+    "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md",
+    "General Rules/Conditions Catalog/Energized.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
+    "General Rules/Conditions Catalog/Beneficial/Hidden.md",
     "Utilities/Lists/Conditions List.md",
     "General Rules/Conditions Catalog/Unknown.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md",
@@ -372,28 +325,9 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
     "General Rules/The Favor System/Favor System Primer.md",
     "General Rules/The Favor System/Action Structure/Actions Overview.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Utilities/Lists/Trait List.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Utilities/Dashboard.canvas",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire/Spell Grimoire.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
-    "General Rules/Traits Catalog/Weapon-Only/Scatter.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
-    "General Rules/Traits Catalog/Equipment-Only/Program.md",
-    "General Rules/Traits Catalog/Traits Database.md",
-    "General Rules/Traits Catalog/General/Area.md",
-    "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "General Rules/Traits Catalog/Equipment-Only/Parrying.md",
-    "General Rules/Character Mechanics Overview.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
     "Player-Facing Rules/Spells/Spells Database/Essomancy",
     "Player-Facing Rules/Spells/Spell School Registry/Thaumaturgy",
     "Templates/Markdown Templates/DevHelper Templates/Inserts",
