@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d95988b7e9ab750e",
+        "id": "8446f4e5df9c928c",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f52babdd20af2b",
+            "id": "95e53ddf45494462",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.644925777151695
+                  "zoom": -0.9988599801533312
                 }
               }
             }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -240,7 +239,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c7f52babdd20af2b",
+  "active": "95e53ddf45494462",
   "lastOpenFiles": [
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
