@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Hidden",
+      "path": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Unknown",
+      "path": "General Rules/Conditions Catalog/Unknown.md"
+    },
+    {
+      "basename": "Sneak",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md"
+    },
+    {
+      "basename": "Theft",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Theft.md"
+    },
+    {
+      "basename": "Acrobatics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
+    },
+    {
+      "basename": "Favor System Primer",
+      "path": "General Rules/The Favor System/Favor System Primer.md"
+    },
+    {
+      "basename": "Actions Overview",
+      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Weapon Database",
@@ -23,10 +63,6 @@
     {
       "basename": "Weaponry Overview",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Channeler's Tome",
@@ -69,10 +105,6 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
-      "basename": "Actions Overview",
-      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
-    },
-    {
       "basename": "Parrying",
       "path": "General Rules/Traits Catalog/Equipment-Only/Parrying.md"
     },
@@ -109,10 +141,6 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
     },
     {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
       "basename": "Computer Complexity Chart",
       "path": "Utilities/Design References/Computer Complexity Chart.md"
     },
@@ -131,10 +159,6 @@
     {
       "basename": "Aura",
       "path": "General Rules/Traits Catalog/Spell-Only/Aura.md"
-    },
-    {
-      "basename": "Favor System Primer",
-      "path": "General Rules/The Favor System/Favor System Primer.md"
     },
     {
       "basename": "Design Note-Axillary Resources",
@@ -175,30 +199,6 @@
     {
       "basename": "Conjure Martial Weaponry",
       "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md"
-    },
-    {
-      "basename": "Conjure Advanced Weaponry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md"
-    },
-    {
-      "basename": "Reinforce Vitality",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md"
-    },
-    {
-      "basename": "Power-Word 'Ache'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
-    },
-    {
-      "basename": "Dolman's Scorcher",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md"
-    },
-    {
-      "basename": "Eunard's Grinding Gears",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Grinding Gears.md"
-    },
-    {
-      "basename": "Clamp-Maw Trap",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
     }
   ],
   "omittedPaths": [],

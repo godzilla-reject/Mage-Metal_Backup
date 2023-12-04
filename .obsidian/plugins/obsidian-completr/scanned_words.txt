@@ -523,6 +523,7 @@ feat
 fail
 flowing
 flexibility
+foes
 came
 combines
 combat
@@ -1084,6 +1085,7 @@ adjusted
 attempted
 affcc
 although
+aware
 wear
 with
 war
@@ -2033,6 +2035,7 @@ present
 pellet
 proverbial
 pulling
+perceived
 RP
 RPGs
 Ryutama
@@ -2899,6 +2902,7 @@ Cannot
 Combination
 Can
 Clad
+Criminal
 We
 While
 Write
@@ -3007,6 +3011,7 @@ Hastened
 Heroes
 However
 Howling
+Hidden
 you
 your
 yourself
