@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Skill Template",
       "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Conditions List",
       "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Conditions Database",
