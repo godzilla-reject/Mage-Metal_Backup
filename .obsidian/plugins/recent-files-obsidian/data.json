@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Sneak",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Acrobatics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Traits Database",
