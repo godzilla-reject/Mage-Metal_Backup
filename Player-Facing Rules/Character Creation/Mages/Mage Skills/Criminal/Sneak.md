@@ -42,6 +42,7 @@ These actions can be performed without any training in `=this.file.name `; they 
 >> [!info|text-Center clear]+ Expertise Perk: 
 >> *When you become an Expert in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 
+>> 
 
 >> [!info|text-Center clear]+ Masterful Perk: Swift Sneaking
 >> *When you become a Master in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
@@ -51,4 +52,4 @@ These actions can be performed without any training in `=this.file.name `; they 
 >> [!info|text-Center clear]+ Legendary Perk: One With Shadows 
 >> *When you become a Legend in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 
->> You can become [[Invisible]] as long as you are in total darkness. Additionally, if you kill an enemy with an attack that deals Sneak Attack damage, you become [[Invisible]] for one minute.
+>> You can become [[Invisible]] as long as you are in total darkness (this invisibility ends if you leave the darkness or light is cast on you.) Additionally, if you kill an enemy with an attack that deals Sneak Attack damage, you become [[Invisible]] for one minute.
