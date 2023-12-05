@@ -1,6 +1,6 @@
 ---
-School: Unsorted
-Rank:
+School: Essomancy
+Rank: "10"
 Tags:
   - Spell
 Completed: false

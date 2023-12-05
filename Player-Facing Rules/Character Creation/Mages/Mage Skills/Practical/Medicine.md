@@ -17,6 +17,13 @@ These actions can be performed without any training in `=this.file.name `; they 
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
 ##### First Aid (●)
+
+> [!note]+ ##### Staunch Bleeding ●
+>
+>- - -
+
+^47b51e
+
 #### Expert Actions
 These actions can be performed by characters who are *Experts* in `=this.file.name`; they are not available to characters with lesser training.
 ##### Battlefield Reprieve (●●)

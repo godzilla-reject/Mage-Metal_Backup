@@ -14,4 +14,4 @@ Completed: true
 > ######  *Tier Two:* **Hastened**
 > - For the duration of the effect, you gain an extra action on your turn, and you double your Speed.
 > ######  *Tier Three:* **Greater Hastened**
-> - For the duration of the effect, you gain two extra actions on your turn, and you *triple* your Speed. Whenever Greater Hastened wears off, you also take become [[Exhausted]]. 
+> - For the duration of the effect, you gain two extra actions on your turn, and you *triple* your Speed. Whenever Greater Hastened wears off, you also become [[Exhausted]]. 

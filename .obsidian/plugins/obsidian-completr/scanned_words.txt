@@ -110,6 +110,7 @@ Map
 Moisture
 Meanwhile
 Material
+Masters
 in
 inspiration
 it
@@ -196,6 +197,7 @@ interacted
 instances
 integral
 imposes
+inflicting
 the
 takes
 titans
@@ -327,6 +329,9 @@ triggering
 terms
 tomes
 tap
+tree
+tired
+terrain
 great
 game
 gaming
@@ -392,6 +397,7 @@ generates
 gale
 governed
 gun
+gathered
 from
 first
 freeform
@@ -918,6 +924,7 @@ noted
 network
 nd
 narrow
+night
 afraid
 and
 aesthetic
@@ -1086,6 +1093,10 @@ attempted
 affcc
 although
 aware
+ahead
+ambush
+aside
+asleep
 wear
 with
 war
@@ -1175,6 +1186,7 @@ wind
 ward
 weighs
 walking
+wake
 sleeve
 some
 something
@@ -1450,6 +1462,11 @@ scattergun
 shells
 scattershells
 storing
+shadows
+slink
+staunched
+spare
+sight
 LANCER
 Learn
 Lancer
@@ -1751,6 +1768,7 @@ disable
 durability
 disabled
 deactivated
+depend
 ever
 expand
 easy
@@ -1869,6 +1887,8 @@ encounter
 explained
 everthing
 entirely
+engagement
+exiting
 played
 pilot
 play
@@ -2036,6 +2056,7 @@ pellet
 proverbial
 pulling
 perceived
+partially
 RP
 RPGs
 Ryutama
@@ -2108,6 +2129,8 @@ Riposte
 Rapid
 Recharger
 Reword
+Reprieve
+Resuscitation
 high
 heavily
 hopes
@@ -2319,6 +2342,9 @@ revolving
 response
 represents
 reservoirs
+remove
+recover
+relaxation
 Pathfinder
 PF
 Philosophy
@@ -2390,6 +2416,7 @@ Pheidippidian
 Patient
 Parry
 Parried
+Predation
 ABCs
 Apotheosis
 Accessibility
@@ -2458,6 +2485,7 @@ Animals
 Allied
 Activity
 Agile
+Aid
 metal
 magic
 mechanics
@@ -2598,6 +2626,7 @@ mage
 matter
 meets
 middle
+main
 GURPS
 Google
 Greyhawk
@@ -2807,6 +2836,7 @@ Engagement
 Evade
 Essomancy
 Escape
+Estimate
 Use
 Usable
 Unsorted
@@ -2903,6 +2933,7 @@ Combination
 Can
 Clad
 Criminal
+Communications
 We
 While
 Write
@@ -3012,6 +3043,7 @@ Heroes
 However
 Howling
 Hidden
+Hunters
 you
 your
 yourself
@@ -3094,6 +3126,8 @@ Fist
 Frost
 Flowing
 Flycatcher
+First
+Fatigue
 Dungeons
 Dragons
 Definitely
@@ -3265,6 +3299,10 @@ Summoning
 Something
 Spout
 Shielding
+Scouts
+Scouting
+Sneak
+Staunch
 Jackson
 Jack
 Juggernaut

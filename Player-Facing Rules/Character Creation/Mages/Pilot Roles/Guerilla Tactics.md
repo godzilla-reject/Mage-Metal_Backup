@@ -14,7 +14,7 @@ Spec_1: Scout
 Skill_1: Survivalism
 Spell_1: "[[Retrace]]"
 Spec_2: Hunter
-Skill_2: Stealth
+Skill_2: Sneak
 Spell_2: "[[Predator's Sight]]"
 ---
 # Role: `=this.file.name`
@@ -31,8 +31,9 @@ Guerilla Specialists gather information, scout out battles, and recon for potent
 >>[!info] ### `=this.Spec_1` Mechanics
 >Scouts get ahead of their allies, using information gathered from the shadows to help them line up the perfect ambush.
 > **Specialty Skill:** `=link(this.Skill_1)`
-> **Starting Spell:** `=this.Spell_1`
-> 
+>>
+> **Starting Spell:** `=link(this.Spell_1)`
+>  
 >> [!metadata] *Trained Perk: Scouting Communications*
 >> *When you become Trained in this Role, you gain the following benefits.*
 >> You can double the range of any spell you cast with the [[Communication]] trait. Additionally, whenever you reduce a foes to 0 Health, you heal for a number of Health equal to your level.
@@ -52,7 +53,8 @@ OR
 >>[!info|left] ### `=this.Spec_2` Mechanics
 >Hunters slink through the edge of the tree-line, taking out key targets with speed before the main engagement begins.
 > **Specialty Skill:** `=link(this.Skill_2)`
-> **Starting Spell:** `=this.Spell_2`
+>> 
+> **Starting Spell:** `=link(this.Spell_2)`
 > 
 >> [!metadata] *Trained Perk: Predation*
 >> *When you become Trained in this Role, you gain the following benefits.*

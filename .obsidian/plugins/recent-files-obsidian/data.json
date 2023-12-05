@@ -1,12 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
+      "basename": "Theft",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Theft.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Sneak",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md"
+    },
+    {
+      "basename": "Acrobatics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Conditions Database",
+      "path": "General Rules/Conditions Catalog/Conditions Database.md"
+    },
+    {
+      "basename": "Blinded",
+      "path": "General Rules/Conditions Catalog/Detrimental/Blinded.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Unconscious",
+      "path": "General Rules/Conditions Catalog/Detrimental/Unconscious.md"
+    },
+    {
+      "basename": "Bleeding",
+      "path": "General Rules/Conditions Catalog/Detrimental/Bleeding.md"
+    },
+    {
+      "basename": "Restrained",
+      "path": "General Rules/Conditions Catalog/Detrimental/Restrained.md"
+    },
+    {
+      "basename": "Prone",
+      "path": "General Rules/Conditions Catalog/Detrimental/Prone.md"
+    },
+    {
+      "basename": "Off-Guard",
+      "path": "General Rules/Conditions Catalog/Detrimental/Off-Guard.md"
+    },
+    {
+      "basename": "Immobilized",
+      "path": "General Rules/Conditions Catalog/Detrimental/Immobilized.md"
+    },
+    {
+      "basename": "Fatigued",
+      "path": "General Rules/Conditions Catalog/Detrimental/Fatigued.md"
+    },
+    {
+      "basename": "Exhausted",
+      "path": "General Rules/Conditions Catalog/Detrimental/Exhausted.md"
+    },
+    {
+      "basename": "Hastened",
+      "path": "General Rules/Conditions Catalog/Beneficial/Hastened.md"
+    },
+    {
+      "basename": "Agile",
+      "path": "General Rules/Conditions Catalog/Beneficial/Agile.md"
+    },
+    {
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
+      "basename": "Energized",
+      "path": "General Rules/Conditions Catalog/Beneficial/Energized.md"
+    },
+    {
+      "basename": "Confused",
+      "path": "General Rules/Conditions Catalog/Detrimental/Confused.md"
+    },
+    {
+      "basename": "Deafened",
+      "path": "General Rules/Conditions Catalog/Detrimental/Deafened.md"
+    },
+    {
+      "basename": "Medicine",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md"
+    },
+    {
+      "basename": "Unknown",
+      "path": "General Rules/Conditions Catalog/Beneficial/Unknown.md"
+    },
+    {
+      "basename": "Hidden",
+      "path": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
+    },
+    {
+      "basename": "Guerilla Tactics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
     },
     {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
     },
     {
       "basename": "Arcane Addict",
@@ -17,80 +129,20 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md"
     },
     {
-      "basename": "Confused",
-      "path": "General Rules/Conditions Catalog/Confused.md"
-    },
-    {
-      "basename": "Fatigued",
-      "path": "General Rules/Conditions Catalog/Fatigued.md"
-    },
-    {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Exhausted",
-      "path": "General Rules/Conditions Catalog/Exhausted.md"
-    },
-    {
-      "basename": "Restrained",
-      "path": "General Rules/Conditions Catalog/Restrained.md"
-    },
-    {
-      "basename": "Prone",
-      "path": "General Rules/Conditions Catalog/Prone.md"
-    },
-    {
-      "basename": "Dodge",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
     {
       "basename": "Sustained",
       "path": "General Rules/Traits Catalog/Sustained.md"
     },
     {
-      "basename": "Agile",
-      "path": "General Rules/Conditions Catalog/Agile.md"
-    },
-    {
-      "basename": "Off-Guard",
-      "path": "General Rules/Conditions Catalog/Off-Guard.md"
-    },
-    {
       "basename": "Electroflex",
       "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
     },
     {
-      "basename": "Energized",
-      "path": "General Rules/Conditions Catalog/Energized.md"
-    },
-    {
       "basename": "Metal Creation Steps",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
-    },
-    {
-      "basename": "Hidden",
-      "path": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Unknown",
-      "path": "General Rules/Conditions Catalog/Unknown.md"
-    },
-    {
-      "basename": "Sneak",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md"
-    },
-    {
-      "basename": "Theft",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Theft.md"
-    },
-    {
-      "basename": "Acrobatics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
     },
     {
       "basename": "Favor System Primer",
@@ -101,24 +153,8 @@
       "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
     },
     {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
       "basename": "Weapon Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "To-Do List",
@@ -163,42 +199,6 @@
     {
       "basename": "Area",
       "path": "General Rules/Traits Catalog/General/Area.md"
-    },
-    {
-      "basename": "Weapon Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
-    },
-    {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "Parrying",
-      "path": "General Rules/Traits Catalog/Equipment-Only/Parrying.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Armor Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
-    },
-    {
-      "basename": "Armor  Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Armor  Database.md"
-    },
-    {
-      "basename": "Verocloth",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md"
-    },
-    {
-      "basename": "Carbon Alloy Plate",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md"
-    },
-    {
-      "basename": "Block",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
     }
   ],
   "omittedPaths": [],

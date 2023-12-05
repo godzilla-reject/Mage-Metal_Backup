@@ -141,8 +141,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
-      footer_type: none
+      footer_type: percent_filled
       persist_changes: false
+      footer_formula: 
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -171,7 +172,7 @@ config:
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
-  enable_footer: false
+  enable_footer: true
   implementation: default
 filters:
   enabled: false
