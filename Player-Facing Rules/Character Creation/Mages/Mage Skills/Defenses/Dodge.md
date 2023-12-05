@@ -19,10 +19,9 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 >- - -
 > You attempt to get out of the way of an attack. Make a Dodge check, with a -2 penalty for each time you've used Evade this round, and another -4 penalty if you are attempting to Evade a Melee attack. On a success, you take no damage from the attack and you may Move 1 space. On a failure, you are [[Off-Guard]] until the beginning of your next turn or until you successfully use Evade.
 
-^1060e2
+^8b0f15
 
-#### Expert Actions
-These actions can be performed by characters who are *Experts* in `=this.file.name`; they are not available to characters with lesser training.
+^1060e2
 - - -
 # Perks
 >> [!info|text-Center clear]+ Trained Perk: Flowing Water 

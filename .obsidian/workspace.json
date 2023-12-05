@@ -4,25 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "e048ed7a22307244",
+        "id": "18836c0fc00fc031",
         "type": "tabs",
+        "dimension": 63.05290546400695,
         "children": [
           {
-            "id": "0ec8e5c102b87533",
+            "id": "4f15183fedaf07ac",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
-                }
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+              }
+            }
+          },
+          {
+            "id": "52b4940e3854f625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e3ea7f6e8011f2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "194f7646a8e878ea",
+        "type": "tabs",
+        "dimension": 36.94709453599306,
+        "children": [
+          {
+            "id": "c1a24b4b5cf720c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e532a6cbf95d346f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "052f23266c35aaa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
               }
             }
           },
@@ -212,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,20 +312,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0ec8e5c102b87533",
+  "active": "e3ea7f6e8011f2fd",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md",
-    "Utilities/Lists/Conditions List.md",
-    "General Rules/Conditions Catalog/Beneficial/Hidden.md",
-    "Utilities/Lists/Trait List.md",
-    "General Rules/Traits Catalog/Secret.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
-    "General Rules/Traits Catalog/Manipulate.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "General Rules/Conditions Catalog/Panache.md",
+    "Utilities/Lists/Conditions List.md",
+    "Utilities/Lists/Trait List.md",
+    "General Rules/Conditions Catalog/Detrimental/Bloodied.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md",
+    "General Rules/Conditions Catalog/Invisible.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md",
     "Utilities/Dashboard.canvas",
+    "General Rules/Conditions Catalog/Beneficial/Hidden.md",
+    "General Rules/Traits Catalog/Secret.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md",
+    "General Rules/Traits Catalog/Manipulate.md",
     "General Rules/Traits Catalog/Traits Database.md",
     "General Rules/Traits Catalog/Spell-Only/Sustained.md",
     "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md",
@@ -267,9 +341,6 @@
     "General Rules/Traits Catalog/Equipment-Only/Program.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "General Rules/Conditions Catalog/Conditions Database.md",
-    "General Rules/Conditions Catalog/Detrimental/Blinded.md",
-    "General Rules/Conditions Catalog/Detrimental/Unconscious.md",
-    "General Rules/Conditions Catalog/Detrimental/Bleeding.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",

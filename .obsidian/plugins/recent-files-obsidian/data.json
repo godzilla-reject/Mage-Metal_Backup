@@ -1,52 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Sneak",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Hidden",
-      "path": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Secret",
-      "path": "General Rules/Traits Catalog/Secret.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Roguery",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md"
-    },
-    {
-      "basename": "Set of Tools",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
+      "basename": "Acrobatics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
     },
     {
       "basename": "Dodge",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
     {
-      "basename": "Manipulate",
-      "path": "General Rules/Traits Catalog/Manipulate.md"
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
-      "basename": "Acrobatics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
+      "basename": "Panache",
+      "path": "General Rules/Conditions Catalog/Panache.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Bloodied",
+      "path": "General Rules/Conditions Catalog/Detrimental/Bloodied.md"
+    },
+    {
+      "basename": "Sneak",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md"
+    },
+    {
+      "basename": "Invisible",
+      "path": "General Rules/Conditions Catalog/Invisible.md"
+    },
+    {
+      "basename": "Roguery",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Hidden",
+      "path": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
+    },
+    {
+      "basename": "Secret",
+      "path": "General Rules/Traits Catalog/Secret.md"
+    },
+    {
+      "basename": "Set of Tools",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
+    },
+    {
+      "basename": "Manipulate",
+      "path": "General Rules/Traits Catalog/Manipulate.md"
     },
     {
       "basename": "Traits Database",
@@ -187,18 +199,6 @@
     {
       "basename": "Electroflex",
       "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
-    },
-    {
-      "basename": "Metal Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
-    },
-    {
-      "basename": "Favor System Primer",
-      "path": "General Rules/The Favor System/Favor System Primer.md"
-    },
-    {
-      "basename": "Actions Overview",
-      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
     }
   ],
   "omittedPaths": [],

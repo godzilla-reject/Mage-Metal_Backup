@@ -3,6 +3,7 @@ Category: Criminal
 Attribute: Reflex
 Tags:
   - Skills
+Completed?: true
 ---
 # Skill Description-`=this.file.name`
 Theft is a broad stroke for a particular set of abilities favored by thieves, miscreants, and charlatans.  

@@ -112,6 +112,9 @@ Meanwhile
 Material
 Masters
 Maintenance
+Maser
+Maintain
+Maneuver
 in
 inspiration
 it
@@ -200,6 +203,7 @@ integral
 imposes
 inflicting
 inconspicuous
+invisibility
 the
 takes
 titans
@@ -542,6 +546,7 @@ flexibility
 foes
 favored
 fabricator
+finisher
 came
 combines
 combat
@@ -1608,6 +1613,9 @@ Tome
 Theft
 Tools
 Thief
+Tumble
+Through
+Tumbler
 oriented
 of
 on
@@ -1815,6 +1823,8 @@ decided
 device
 devices
 disabling
+darkness
+declare
 ever
 expand
 easy
@@ -2188,6 +2198,7 @@ Reword
 Reprieve
 Resuscitation
 Regardless
+Roguery
 high
 heavily
 hopes
@@ -2407,6 +2418,7 @@ rearm
 rating
 requiring
 replacement
+regains
 Pathfinder
 PF
 Philosophy
@@ -2481,6 +2493,7 @@ Parried
 Predation
 Palming
 Potioncraft
+Panache
 ABCs
 Apotheosis
 Accessibility
@@ -2550,6 +2563,7 @@ Allied
 Activity
 Agile
 Aid
+Acrobatic
 metal
 magic
 mechanics
@@ -2725,6 +2739,7 @@ Grant
 Guidelines
 Grimoires
 Guard
+Graceful
 utmost
 use
 up
@@ -3062,6 +3077,7 @@ knows
 kit
 knocked
 know
+kills
 just
 jurisdiction
 justify
@@ -3204,6 +3220,7 @@ Flycatcher
 First
 Fatigue
 Forcing
+Flair
 Dungeons
 Dragons
 Definitely
@@ -3388,6 +3405,8 @@ Steal
 Snatch
 Sabotage
 Searching
+Sneaking
+Shadows
 Jackson
 Jack
 Juggernaut

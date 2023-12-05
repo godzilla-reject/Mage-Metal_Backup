@@ -3,6 +3,7 @@ Category: Criminal
 Attribute: Reflex
 Tags:
   - Skills
+Completed?: true
 ---
 # Skill Description-`=this.file.name`
 
@@ -39,10 +40,10 @@ These actions can be performed without any training in `=this.file.name `; they 
 >> 
 >> Whenever you make an attack with favor, you deal an extra 1d4 weapon damage. This increases to 1d6 when you become an Expert in Sneak, 1d8 when you become a Maser, and 1d10 when you become Legendary. 
 
->> [!info|text-Center clear]+ Expertise Perk: 
+>> [!info|text-Center clear]+ Expertise Perk: Exploit Initiative 
 >> *When you become an Expert in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 
->> 
+>> Whenever you enter initiative, you can also attempt to Hide. If you begin combat [[Hidden]] or [[Unknown]], you gain a +4 circumstance bonus to the first attack you make against any creature that comes after you in initiative order.
 
 >> [!info|text-Center clear]+ Masterful Perk: Swift Sneaking
 >> *When you become a Master in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
