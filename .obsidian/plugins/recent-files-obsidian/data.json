@@ -9,6 +9,10 @@
       "path": "Utilities/Lists/Conditions List.md"
     },
     {
+      "basename": "Hidden",
+      "path": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
+    },
+    {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
     },
@@ -155,10 +159,6 @@
     {
       "basename": "Unknown",
       "path": "General Rules/Conditions Catalog/Beneficial/Unknown.md"
-    },
-    {
-      "basename": "Hidden",
-      "path": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
     },
     {
       "basename": "Guerilla Tactics",

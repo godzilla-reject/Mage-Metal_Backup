@@ -6,7 +6,7 @@
       {
         "id": "18836c0fc00fc031",
         "type": "tabs",
-        "dimension": 77.4468085106383,
+        "dimension": 81.22340425531915,
         "children": [
           {
             "id": "4f15183fedaf07ac",
@@ -50,7 +50,7 @@
       {
         "id": "194f7646a8e878ea",
         "type": "tabs",
-        "dimension": 22.5531914893617,
+        "dimension": 18.77659574468085,
         "children": [
           {
             "id": "c1a24b4b5cf720c2",
@@ -328,8 +328,9 @@
   "active": "6b511c0512490172",
   "lastOpenFiles": [
     "Utilities/Lists/Conditions List.md",
-    "Utilities/Lists/Trait List.md",
+    "General Rules/Conditions Catalog/Beneficial/Hidden.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md",
+    "Utilities/Lists/Trait List.md",
     "General Rules/Traits Catalog/Secret.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md",
@@ -353,7 +354,6 @@
     "General Rules/Conditions Catalog/Detrimental/Blinded.md",
     "General Rules/Conditions Catalog/Detrimental/Unconscious.md",
     "General Rules/Conditions Catalog/Detrimental/Bleeding.md",
-    "General Rules/Conditions Catalog/Detrimental/Wounded.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",

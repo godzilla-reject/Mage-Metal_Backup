@@ -34,9 +34,10 @@ These actions can be performed without any training in `=this.file.name `; they 
 
 - - -
 # Perks
->> [!info|text-Center clear]+ Trained Perk: 
+>> [!info|text-Center clear]+ Trained Perk: Sneak Attack
 >> *When you become Trained in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 
+>> Whenever you make an attack with favor, 
 
 >> [!info|text-Center clear]+ Expertise Perk: 
 >> *When you become an Expert in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
