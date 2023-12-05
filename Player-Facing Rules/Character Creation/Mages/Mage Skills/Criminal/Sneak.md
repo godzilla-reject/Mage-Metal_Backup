@@ -37,7 +37,7 @@ These actions can be performed without any training in `=this.file.name `; they 
 >> [!info|text-Center clear]+ Trained Perk: Sneak Attack
 >> *When you become Trained in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 
->> Whenever you make an attack with favor, 
+>> Whenever you make an attack with favor, you deal an extra 1d4 weapon damage. This increases to 1d6 when you become an Expert in Sneak, 1d8 when you become a Maser, and 1d10 when you become Legendary. 
 
 >> [!info|text-Center clear]+ Expertise Perk: 
 >> *When you become an Expert in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
