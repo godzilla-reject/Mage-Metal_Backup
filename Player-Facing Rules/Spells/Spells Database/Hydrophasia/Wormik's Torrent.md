@@ -13,7 +13,7 @@ Completed: true
 |  Rank  |  `=this.Rank`  |
 | School | `=this.School` |
 | Range  |    12 sp            |
-|  Duration     |    Sustained, up to 1 minute            |
+|  Duration     |    [[Sustained]], up to 1 minute            |
 | Traits |   [[Modal]], [[Area\|Area (4-space Burst)]] [[Water]]             |
 > ###### *Details*
 > *Whenever you cast this spell, pick one of the following modes.*

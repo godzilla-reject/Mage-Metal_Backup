@@ -13,7 +13,7 @@ Completed: true
 |   Rank   |                 `=this.Rank`                  |
 |  School  |                `=this.School`                 |
 |  Range   |                     Self                      |
-| Duration |           Sustained, up to 1 minute           |
+| Duration |           [[Sustained]], up to 1 minute           |
 |  Traits  | [[Modal]], [[Aura\|Aura (10 sp.)]], [[Water]] |
 > ###### *Details*
 > *Whenever you cast this spell, pick one of the following modes.*

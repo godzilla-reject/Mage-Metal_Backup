@@ -4,25 +4,108 @@
     "type": "split",
     "children": [
       {
-        "id": "f32816af422d5fe4",
+        "id": "18836c0fc00fc031",
         "type": "tabs",
+        "dimension": 77.4468085106383,
         "children": [
           {
-            "id": "cf9186c7b1b89c0d",
+            "id": "4f15183fedaf07ac",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.42840472301667265
-                }
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+              }
+            }
+          },
+          {
+            "id": "04816d8eea6a2c50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6b511c0512490172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "194f7646a8e878ea",
+        "type": "tabs",
+        "dimension": 22.5531914893617,
+        "children": [
+          {
+            "id": "c1a24b4b5cf720c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "96f7b2f63c12e505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "70bdc92650e5cde0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "052f23266c35aaa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md"
               }
             }
           },
@@ -242,35 +325,35 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cf9186c7b1b89c0d",
+  "active": "6b511c0512490172",
   "lastOpenFiles": [
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Theft.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
     "Utilities/Lists/Conditions List.md",
+    "Utilities/Lists/Trait List.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md",
+    "General Rules/Traits Catalog/Secret.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
+    "General Rules/Traits Catalog/Manipulate.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
     "Utilities/Dashboard.canvas",
+    "General Rules/Traits Catalog/Traits Database.md",
+    "General Rules/Traits Catalog/Spell-Only/Sustained.md",
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md",
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md",
+    "General Rules/Traits Catalog/General/Magical.md",
+    "General Rules/Traits Catalog/Spell-Only/Material.md",
+    "General Rules/Traits Catalog/Equipment-Only/Program.md",
+    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "General Rules/Conditions Catalog/Conditions Database.md",
     "General Rules/Conditions Catalog/Detrimental/Blinded.md",
-    "Utilities/Lists/Trait List.md",
     "General Rules/Conditions Catalog/Detrimental/Unconscious.md",
     "General Rules/Conditions Catalog/Detrimental/Bleeding.md",
     "General Rules/Conditions Catalog/Detrimental/Wounded.md",
-    "General Rules/Conditions Catalog/Detrimental/Restrained.md",
-    "General Rules/Conditions Catalog/Detrimental/Prone.md",
-    "General Rules/Conditions Catalog/Detrimental/Off-Guard.md",
-    "General Rules/Conditions Catalog/Detrimental/Immobilized.md",
-    "General Rules/Conditions Catalog/Detrimental/Fatigued.md",
-    "General Rules/Conditions Catalog/Detrimental/Exhausted.md",
-    "General Rules/Conditions Catalog/Beneficial/Hastened.md",
-    "General Rules/Conditions Catalog/Beneficial/Agile.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
-    "General Rules/Conditions Catalog/Beneficial/Energized.md",
-    "General Rules/Conditions Catalog/Detrimental/Confused.md",
-    "General Rules/Conditions Catalog/Detrimental/Deafened.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
-    "General Rules/Conditions Catalog/Beneficial/Unknown.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",

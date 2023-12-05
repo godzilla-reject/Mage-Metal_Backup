@@ -1,32 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Sneak",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md"
     },
     {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
     },
     {
-      "basename": "Theft",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Theft.md"
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Secret",
+      "path": "General Rules/Traits Catalog/Secret.md"
     },
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
-      "basename": "Sneak",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md"
+      "basename": "Roguery",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md"
+    },
+    {
+      "basename": "Set of Tools",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
+    },
+    {
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
+      "basename": "Manipulate",
+      "path": "General Rules/Traits Catalog/Manipulate.md"
     },
     {
       "basename": "Acrobatics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
     },
     {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
+      "basename": "Sustained",
+      "path": "General Rules/Traits Catalog/Spell-Only/Sustained.md"
+    },
+    {
+      "basename": "Wormik's Torrent",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
+    },
+    {
+      "basename": "Power-Word 'Haste'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
+    },
+    {
+      "basename": "Power-Word 'Ache'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
+    },
+    {
+      "basename": "Flusterdome",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
+    },
+    {
+      "basename": "Hydro-Oscillation Field",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md"
+    },
+    {
+      "basename": "Magical",
+      "path": "General Rules/Traits Catalog/General/Magical.md"
+    },
+    {
+      "basename": "Material",
+      "path": "General Rules/Traits Catalog/Spell-Only/Material.md"
+    },
+    {
+      "basename": "Program",
+      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
     {
       "basename": "Conditions Database",
@@ -35,10 +95,6 @@
     {
       "basename": "Blinded",
       "path": "General Rules/Conditions Catalog/Detrimental/Blinded.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Unconscious",
@@ -79,10 +135,6 @@
     {
       "basename": "Agile",
       "path": "General Rules/Conditions Catalog/Beneficial/Agile.md"
-    },
-    {
-      "basename": "Dodge",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
     {
       "basename": "Energized",
@@ -133,10 +185,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
     {
-      "basename": "Sustained",
-      "path": "General Rules/Traits Catalog/Sustained.md"
-    },
-    {
       "basename": "Electroflex",
       "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Actions Overview",
       "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
-    },
-    {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "Bonesplitter",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md"
-    },
-    {
-      "basename": "Weaponry Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
-    },
-    {
-      "basename": "Channeler's Tome",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
-    },
-    {
-      "basename": "Spell Grimoire",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire/Spell Grimoire.md"
-    },
-    {
-      "basename": "Grabenkanon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
-      "basename": "Scatter",
-      "path": "General Rules/Traits Catalog/Weapon-Only/Scatter.md"
-    },
-    {
-      "basename": "Lazerpike",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
-    },
-    {
-      "basename": "Program",
-      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Area",
-      "path": "General Rules/Traits Catalog/General/Area.md"
     }
   ],
   "omittedPaths": [],

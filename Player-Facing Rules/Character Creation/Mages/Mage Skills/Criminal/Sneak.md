@@ -13,10 +13,25 @@ Tags:
 # Skill Actions
 #### Untrained Actions
 These actions can be performed without any training in `=this.file.name `; they are available to any character. 
-#### Trained Actions
-These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
-#### Expert Actions
-These actions can be performed by characters who are *Experts* in `=this.file.name`; they are not available to characters with lesser training.
+> [!note]+ ##### Conceal ●
+> [[Manipulate]], [[Secret]]
+>- - -
+>  You attempt to hide an object on your person in an inconspicuous way. Whenever you pass by a creature you are attempting to Conceal an object from, make a secret **Sneak** contest against the observer's passive **Perception**. 
+>  
+>  You can also Conceal an object somewhere other than your person. In this case, creatures Searching the area make a **Perception** contest against your passive **Sneak** to try to find the object.
+>  
+>  On a success, the object is [[Unknown]] to the observer. On a failure, it is found. 
+
+> [!note]+ ##### Hide ●
+> [[Secret]]
+>- - -
+>  You use nearby cover or the shadows that envelop you to become [[Hidden]] from creatures that are observing you. Make a **Sneak** contest against the **Perception** of creatures that are observing you. On a success, you become [[Hidden]]
+
+> [!note]+ ##### Sneak ●
+>[[Move]], [[Secret]]
+>- - -
+>  You try to move from one place to another while remaining undetected. Move up to half your Speed; at the end of this movement, make a secret **Sneak** contest against the passive **Perception** of any creature you were [[Hidden]] from or [[Unknown]] to at the start of your movement. You automatically fail this contest against any creature you are not concealed from. On a success, you are undetected by the creature(s) during your movement and remain so at the end of it; you become [[Unknown]] to creatures observing you. On a failure, you slip up, giving away your position, though you remain [[Hidden]]. On a critical failure, you are immediately spotted, becoming observed!
+
 - - -
 # Perks
 >> [!info|text-Center clear]+ Trained Perk: 

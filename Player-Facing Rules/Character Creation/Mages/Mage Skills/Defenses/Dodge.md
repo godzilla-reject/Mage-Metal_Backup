@@ -6,9 +6,6 @@ Tags:
 Completed?: true
 ---
 # Skill Description-`=this.file.name`
-Notes:
-- Can be used on Melee or Ranged, but has a penalty when used in Engagement. 
-
 Dodge is one's ability to move out of the way of attacks. It can be rolled in place of **Reflex** checks when spells or weapons call for it.
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category:** `=this.Category`   

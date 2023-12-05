@@ -1,8 +1,8 @@
 ---
-tags: 
+tags:
   - Trait
 Category: Equipment-Only
-Completed: 
+Completed: true
 Tags:
   - Trait
 ---
