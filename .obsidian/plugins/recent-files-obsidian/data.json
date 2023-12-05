@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Acrobatics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Roguery",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Hidden",
