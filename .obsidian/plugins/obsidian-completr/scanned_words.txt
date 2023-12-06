@@ -346,6 +346,7 @@ tampering
 towards
 triggered
 try
+traditional
 great
 game
 gaming
@@ -412,6 +413,8 @@ gale
 governed
 gun
 gathered
+gauges
+gauge
 from
 first
 freeform
@@ -909,6 +912,7 @@ block
 blows
 blocking
 broad
+batches
 not
 never
 no
@@ -1505,6 +1509,8 @@ stroke
 spotted
 swapping
 somewhere
+shotgun
+stowed
 LANCER
 Learn
 Lancer
@@ -1827,6 +1833,7 @@ disabling
 darkness
 declare
 densely
+disposing
 ever
 expand
 easy
@@ -2125,6 +2132,7 @@ particular
 procurement
 passive
 position
+polymer
 RP
 RPGs
 Ryutama
@@ -2421,6 +2429,7 @@ rating
 requiring
 replacement
 regains
+replaced
 Pathfinder
 PF
 Philosophy
@@ -3022,6 +3031,7 @@ Clad
 Criminal
 Communications
 Conceal
+City
 We
 While
 Write
@@ -3409,6 +3419,7 @@ Sabotage
 Searching
 Sneaking
 Shadows
+Slicker
 Jackson
 Jack
 Juggernaut

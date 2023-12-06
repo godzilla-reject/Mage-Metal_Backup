@@ -2,6 +2,7 @@
 Type: Ammunition
 Tags:
   - Equipment
+Completed: true
 ---
 
 > [!infobox|left]+ Equipment Entry
