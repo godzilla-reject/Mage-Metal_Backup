@@ -6,7 +6,7 @@ Tags:
 Completed?: true
 ---
 # Skill Description-`=this.file.name`
-Theft is a broad stroke for a particular set of abilities favored by thieves, miscreants, and charlatans.  
+This skill is a broad stroke for a particular set of abilities favored by thieves, miscreants, and charlatans.  
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category:** `=this.Category`   
 >**Attribute:** `=this.Attribute`

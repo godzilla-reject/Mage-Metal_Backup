@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Acrobatics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
+    },
+    {
+      "basename": "Roguery",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md"
+    },
+    {
+      "basename": "Sneakery",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Equipment Database",
@@ -29,10 +49,6 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
     },
     {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
       "basename": "Weapon Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     },
@@ -41,16 +57,8 @@
       "path": "General Rules/Traits Catalog/General/Melee.md"
     },
     {
-      "basename": "Acrobatics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
-    },
-    {
       "basename": "Dodge",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "Panache",
@@ -65,16 +73,8 @@
       "path": "General Rules/Conditions Catalog/Detrimental/Bloodied.md"
     },
     {
-      "basename": "Sneak",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md"
-    },
-    {
       "basename": "Invisible",
       "path": "General Rules/Conditions Catalog/Invisible.md"
-    },
-    {
-      "basename": "Roguery",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md"
     },
     {
       "basename": "Hidden",

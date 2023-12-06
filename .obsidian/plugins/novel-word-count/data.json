@@ -3974,7 +3974,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100403,
-      "modifiedDate": 1701764712785,
+      "modifiedDate": 1701850613837,
       "sizeInBytes": 5766
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md": {
@@ -4179,19 +4179,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 351,
+      "wordCount": 594,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.17,
-      "characterCount": 2252,
-      "nonWhitespaceCharacterCount": 1882,
-      "readingTimeInMinutes": 1.3245283018867924,
+      "pageCount": 1.98,
+      "characterCount": 3598,
+      "nonWhitespaceCharacterCount": 2983,
+      "readingTimeInMinutes": 2.241509433962264,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100469,
-      "modifiedDate": 1701767364761,
-      "sizeInBytes": 2319
+      "modifiedDate": 1701851747485,
+      "sizeInBytes": 3682
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md": {
       "isCountable": true,
@@ -4337,41 +4337,23 @@
       "modifiedDate": 1701208730827,
       "sizeInBytes": 4656
     },
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneak.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 564,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.88,
-      "characterCount": 3441,
-      "nonWhitespaceCharacterCount": 2848,
-      "readingTimeInMinutes": 2.128301886792453,
-      "linkCount": 16,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1698734100418,
-      "modifiedDate": 1701765327980,
-      "sizeInBytes": 3525
-    },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 762,
+      "wordCount": 763,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.54,
-      "characterCount": 4572,
-      "nonWhitespaceCharacterCount": 3776,
-      "readingTimeInMinutes": 2.8754716981132074,
+      "pageCount": 2.5433333333333334,
+      "characterCount": 4577,
+      "nonWhitespaceCharacterCount": 3780,
+      "readingTimeInMinutes": 2.879245283018868,
       "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100422,
-      "modifiedDate": 1701764785715,
-      "sizeInBytes": 4662
+      "modifiedDate": 1701851661639,
+      "sizeInBytes": 4667
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md": {
       "isCountable": true,
@@ -6640,6 +6622,24 @@
       "createdDate": 1701847118807,
       "modifiedDate": 1701850004776,
       "sizeInBytes": 1064
+    },
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 589,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9633333333333334,
+      "characterCount": 3590,
+      "nonWhitespaceCharacterCount": 2973,
+      "readingTimeInMinutes": 2.2226415094339624,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1698734100418,
+      "modifiedDate": 1701851645680,
+      "sizeInBytes": 3674
     }
   }
 }
