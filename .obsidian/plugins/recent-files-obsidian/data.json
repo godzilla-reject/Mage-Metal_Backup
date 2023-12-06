@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Low-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
+      "basename": "Large-Gauge Scattershells",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
+    },
+    {
+      "basename": "High-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
     },
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
-      "basename": "Grabenkanon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Low-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
     },
     {
       "basename": "Conditions List",
@@ -191,14 +199,6 @@
     {
       "basename": "Unknown",
       "path": "General Rules/Conditions Catalog/Beneficial/Unknown.md"
-    },
-    {
-      "basename": "Guerilla Tactics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     }
   ],
   "omittedPaths": [],
