@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Low-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Melee",
+      "path": "General Rules/Traits Catalog/General/Melee.md"
     },
     {
       "basename": "Acrobatics",
@@ -19,10 +43,6 @@
     {
       "basename": "Panache",
       "path": "General Rules/Conditions Catalog/Panache.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
     },
     {
       "basename": "Trait List",
@@ -179,26 +199,6 @@
     {
       "basename": "Spells Database",
       "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
-    },
-    {
-      "basename": "Arcane Addict",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md"
-    },
-    {
-      "basename": "Novice Blood Mage",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Electroflex",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
     }
   ],
   "omittedPaths": [],
