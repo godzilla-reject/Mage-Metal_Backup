@@ -16,7 +16,7 @@ Tags:
 |  **Heft**  |        `=this.Heft` lbs        |
 | **Traits** |               -                |
 > ###### *Description*
-> In the modern day of the Hegemony, standardization is the name of the game. Many of the old-world gauges of the traditional "shotgun" have been replaced by the slick, new, modern Unified Solar Hegemony Military-Standard (USH-S)
+> In the modern day of the Hegemony, standardization is the name of the game. Many of the old-world gauges of the traditional "shotgun" have been replaced by the slick, new, modern Unified Solar Hegemony Military-Standard (USH-S) self-disposing 10 gauge "City-Slicker" round. Due to using burn-away polymer shells, these rounds can be stowed in small, densely-packed, containers. These rounds are sold in batches of 32.
 > > ##### Related Weapons
 > ```dataview
 > LIST 
