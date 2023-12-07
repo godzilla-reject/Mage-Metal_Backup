@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Species Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
+      "basename": "Species Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
     },
     {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "Species Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
     },
     {
       "basename": "Conditions List",
@@ -23,6 +15,14 @@
     {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Species Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
     },
     {
       "basename": "Elves",
