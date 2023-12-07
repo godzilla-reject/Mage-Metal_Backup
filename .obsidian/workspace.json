@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b5b3f5ec775a95",
+        "id": "ad1396887a5076eb",
         "type": "tabs",
         "children": [
           {
-            "id": "224687177c42fab1",
+            "id": "9d15540ca9737fbf",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.42840472301667265
+                  "zoom": -0.644925777151695
                 }
               }
             }
@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,7 +241,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "224687177c42fab1",
+  "active": "9d15540ca9737fbf",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
