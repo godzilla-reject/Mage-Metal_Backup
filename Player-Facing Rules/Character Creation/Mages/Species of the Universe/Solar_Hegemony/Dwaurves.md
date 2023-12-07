@@ -26,12 +26,29 @@ Dwaurves are shorter than the standard Human by about one foot, standing around 
 
 The Dwaurves of Mars typically mature into adulthood around age 50, though each clan has more specific coming-of-age ceremonies that draw the line of adulthood in other ways. A dwaurf's lifespan is around 400 years, though death is typically regarded as something a dwaurf must agree to.
 ## Society and Culture
+Long before the Venusian Elves claimed the moons of Saturn, or mankind grasped the dust of their moon, the Dwaurves fought against the other *natives* of Mars: the Starbeasts. Natively named for the sounds Dwaurven hunters made when running from them, these animals represent the bulk of the history of the Dwaurves; that is, an arms race against a species of ever-evolving megafauna. As such, craftsmanship of new and better weapons was the name of the game, and the only place they could do so was deep in the caverns of Mars.
 
+Today's dwaurves, having nearly hunted the Starbeasts to extinction, still maintain a production-based, group-minded culture. This is merely a broad-stroke for them, however. Culture varies vastly between the different stone-cities, and even between clades within the cities. Most dwaurves, even still, share a passion for the finer aspects of metallurgy, stonework, masonry, and gem-cutting. Most enjoy bare-hand brawling, architectures, and mining as well. 
+
+Each dwaurf is given an *icon* at birth; this represents their clan and clade. This icon is typically a weapon, though it varies. To have an icon taken is an ultimate crime, and to freely part with it is an ultimate dishonor. 
 ## Morality and Religion
+While quite a bit more secular than both humans and elves, dwaurves do have a primary religion: The Steel Pact, which is named such for the original Dwaurf, Adaman, forging a pact with the Serpent of the Heavenly Steels at the dawn of creation. This pact afforded a boon to Adaman: he was granted the ability to wield the Six Heavenly Steels, which are mythical metal alloys that hold magical properties. In modern times, the Pact is highly metaphorical; each alloy represents a balancing act between two opposing forces in the world, such as the Sixth Steel, Tyrannium, representing the balance between the need for leadership and the desire of tyranny. 
 
+Most dwaurves are lawful in nature, and while they are quite selfless, they are also very protective of their own and warry of outsiders, leading some to declare them quite neutral parties. A strong sense of justice helps define them further as a people who work hard, but play even harder. 
 ## Naming Tendencies 
-
+Dwaurves have, admittedly, quite complex naming conventions. A dwaurf's full name is their chosen name (selected when they come of-age), their given name (the name given by their birthing-parents), their family name, their clan name, and their clade name. Given names are normally a virtue, while chosen names are normally relevant to the individual's coming-of-age. 
 ### Sample Names
+Below are some examples of names.
+#### Chosen Names 
+Agna, Bodril, Doegin, Vinyar, Kotri, Rogar.
+#### Given Names 
+Torra (Tenacious), Yangari (Powerful), Viim (Silent), Ruski (Loud), Kazva (Calm).
+#### Family Names 
+White-Beard, Star-Runner, Moon-Catcher, Boulder-Breaker, Beast-Waker.
+#### Clan Names 
+Mogrung, Fargraven, Gigantua, Nekarik, Bodungrin.
+#### Clade Names 
+Shipwrighter, Stonecutter, Timberyarder, Anvilbreaker.
 - - -
 # `=this.file.name` Mechanics
 

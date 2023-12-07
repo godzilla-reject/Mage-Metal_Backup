@@ -17,12 +17,82 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -1.4704506195974503
+                  "zoom": -0.7293824227471422
                 }
               }
             }
+          },
+          {
+            "id": "457a6bbf9611e7f2",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+              }
+            }
+          },
+          {
+            "id": "f0c0cf61b6c66f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "76afae230e867414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2d793364a19f84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "41fa8adc8f1d3dfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9288c475e89b7157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Mage Templates/Species Template.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
               }
             }
           },
@@ -204,7 +274,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 967.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,19 +303,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a1fdbe981e8c2dac",
+  "active": "f0c0cf61b6c66f5d",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+    "Templates/Markdown Templates/Mage Templates/Species Template.md",
+    "Utilities/Lists/Conditions List.md",
+    "Utilities/Lists/Trait List.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
-    "Templates/Markdown Templates/Mage Templates/Species Template.md",
-    "Utilities/Dashboard.canvas",
     "General Rules/The Favor System/Action Structure/Actions Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
     "General Rules/The Favor System/Dice Structure/Dice Overview.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Utilities/Lists/Conditions List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Spine-Replacement Unit.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Sub-Dermal Self-Integrated Weaponry Holster.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
@@ -260,7 +332,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "General Rules/Traits Catalog/General/Melee.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
-    "General Rules/Conditions Catalog/Panache.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",
