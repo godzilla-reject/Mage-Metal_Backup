@@ -9,7 +9,7 @@ Size: 1
 #  `=this.file.name`
 *One of the three Founding People of the Unified Solar Hegemony, the Dwaurves are a hearty people, stern and powerful. Strangers consider them to be too work-centric, putting their working lives ahead of all else aside from family and drink. Those who have spent time within the cold, dry air of the Martian stone-cities, however, can attest that they are a zealous people, dedicated to family and craft with an unparalleled passion only found miles below the Martian dessert.*
 
-Dwaurves were the last of the Founding Peoples to ratify the United Constitution of Sol, and many attribute this to the fact that they are slow to trust outsiders. In their own history, they have a long past of constant warfare; the horrors of Mars refuse to let even a single drop of blood go unearned. When something is won of a dwarf, lest it be blood or honor, that pact is kept eternal. 
+Dwaurves were the last of the Founding Peoples to ratify the United Constitution of Sol, and many attribute this to the fact that they are slow to trust outsiders. In their own history, they have a long past of constant warfare; the horrors of Mars refuse to let even a single drop of blood go unearned. When something is won of a dwaurf, lest it be blood or honor, that pact is kept eternal. 
 
 If you seek to play a Mage-Pilot who can survive any horror of the cosmos, dedicate a heart of iron to their allies, and brandish wanton loyalty, the Dwaurves of Sol is right for you. 
 ## Characteristics
@@ -22,7 +22,9 @@ If you seek to play a Mage-Pilot who can survive any horror of the cosmos, dedic
 - Assume you are a heavy drinker.
 - Respect, or fail to, the deep connection you hold with your family, clan, and clade.
 ## Physical Description
-Dwaurves are slightly shorter than the average Human 
+Dwaurves are shorter than the standard Human by about one foot, standing around five foot on average. They boast wide, compact bodies, built on burly frames. Dwaurves of all genders are fully capable of growing thick, curly beards, which they often braid into intricate arrays of complex patterns that are specific to their job, family, clan, and clade. Long beards and short head hir are a sign of masculinity and leadership amongst them, while thin, face-hugging beards and long, flowing hair is a powerful sign of femininity. Clean-shaven, bald dwaurves are dishonorable, untrustworthy, and unclean.
+
+The Dwaurves of Mars typically mature into adulthood around age 50, though each clan has more specific coming-of-age ceremonies that draw the line of adulthood in other ways. A dwaurf's lifespan is around 400 years, though death is typically regarded as something a dwaurf must agree to.
 ## Society and Culture
 
 ## Morality and Religion
