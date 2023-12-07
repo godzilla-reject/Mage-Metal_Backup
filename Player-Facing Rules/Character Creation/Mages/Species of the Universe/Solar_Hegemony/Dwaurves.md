@@ -22,7 +22,7 @@ If you seek to play a Mage-Pilot who can survive any horror of the cosmos, dedic
 - Assume you are a heavy drinker.
 - Respect, or fail to, the deep connection you hold with your family, clan, and clade.
 ## Physical Description
-Dwaurves are shorter than the standard Human by about one foot, standing around five foot on average. They boast wide, compact bodies, built on burly frames. Dwaurves of all genders are fully capable of growing thick, curly beards, which they often braid into intricate arrays of complex patterns that are specific to their job, family, clan, and clade. Long beards and short head hir are a sign of masculinity and leadership amongst them, while thin, face-hugging beards and long, flowing hair is a powerful sign of femininity. Clean-shaven, bald dwaurves are dishonorable, untrustworthy, and unclean.
+Dwaurves are shorter than the standard Human by about one foot, standing around five foot on average. They boast wide, compact bodies, built on burly frames. Dwaurves of all genders are fully capable of growing thick, curly beards, which they often braid into intricate arrays of complex patterns that are specific to their job, family, clan, and clade. Long beards and short head hair are a sign of masculinity and leadership amongst them, while thin, face-hugging beards and long, flowing hair is a powerful sign of femininity. Clean-shaven, bald dwaurves are dishonorable, untrustworthy, and unclean.
 
 The Dwaurves of Mars typically mature into adulthood around age 50, though each clan has more specific coming-of-age ceremonies that draw the line of adulthood in other ways. A dwaurf's lifespan is around 400 years, though death is typically regarded as something a dwaurf must agree to.
 ## Society and Culture
