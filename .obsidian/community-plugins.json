@@ -19,7 +19,6 @@
   "obsidian-excalidraw-plugin",
   "highlightr-plugin",
   "homepage",
-  "mathpad",
   "media-extended",
   "note-refactor-obsidian",
   "novel-word-count",
@@ -52,5 +51,6 @@
   "advanced-random-note",
   "obsidian-excel-to-markdown-table",
   "share-note",
-  "obsidian-dangling-links"
+  "obsidian-dangling-links",
+  "numerals"
 ]

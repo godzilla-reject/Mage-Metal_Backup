@@ -6,7 +6,6 @@ Type: Cybernetic
 Completed: true
 Tags:
   - Equipment
-  - rename
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
@@ -20,4 +19,4 @@ Tags:
 |  **Heft**  | `=this.Heft` lbs  |
 | **Traits** |      [[Cybernetic]], [[Integrated]]             |
 > ###### *Description*
-> This fully-machine arm is meant to replace an appendage that has been lost or otherwise discarded. It is just as functional as a normal arm, but gives the user a weakness to [[Electric]] effects, like all cybernetics do. Cyber-arms can be fit with up to *two* upgrades, typically in the form of something like an [[Integrated Weapon]].
+> This fully-machine arm is meant to replace an appendage that has been lost or otherwise discarded. It is just as functional as a normal arm, but gives the user a weakness to [[Electric]] effects, like all cybernetics do. Cyber-arms can be fit with up to *two* upgrades, typically in the form of something like a [[Sub-Dermal Self-Integrated Weaponry Holster]].

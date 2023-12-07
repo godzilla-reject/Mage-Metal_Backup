@@ -6,7 +6,6 @@ Type: Cybernetic
 Completed: true
 Tags:
   - Equipment
-  - rename
 ---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`

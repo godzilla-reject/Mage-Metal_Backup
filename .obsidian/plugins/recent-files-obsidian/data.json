@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "High-Integrity Spine-Replacement Unit",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Spine-Replacement Unit.md"
+    },
+    {
+      "basename": "Sub-Dermal Self-Integrated Weaponry Holster",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Sub-Dermal Self-Integrated Weaponry Holster.md"
+    },
+    {
+      "basename": "Cyber-Arm",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
+    },
+    {
+      "basename": "Personal Scanner",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
     },
     {
       "basename": "Skills Database",
@@ -19,10 +39,6 @@
     {
       "basename": "Sneakery",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
     },
     {
       "basename": "To-Do List",
@@ -183,22 +199,6 @@
     {
       "basename": "Agile",
       "path": "General Rules/Conditions Catalog/Beneficial/Agile.md"
-    },
-    {
-      "basename": "Energized",
-      "path": "General Rules/Conditions Catalog/Beneficial/Energized.md"
-    },
-    {
-      "basename": "Confused",
-      "path": "General Rules/Conditions Catalog/Detrimental/Confused.md"
-    },
-    {
-      "basename": "Deafened",
-      "path": "General Rules/Conditions Catalog/Detrimental/Deafened.md"
-    },
-    {
-      "basename": "Medicine",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md"
     }
   ],
   "omittedPaths": [],
