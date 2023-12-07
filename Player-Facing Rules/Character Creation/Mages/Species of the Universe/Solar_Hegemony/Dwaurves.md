@@ -57,7 +57,7 @@ Shipwrighter, Stonecutter, Timberyarder, Anvilbreaker.
 >
 >**Size:** `=this.Size`
 >
->**Species Bonuses:** Dwaurves gain a +1 to Toughness at character creation
+>**Species Bonuses:** Dwaurves gain a +1 to Toughness at character creation. Dwaurves also begin play with one weapon or equipment that acts as the icon of their clan and clade. 
 >
 >**Languages:** Common, Dwaurven , Additional *common* Languages equal to 1 minus your Skill Aptitude.
 >

@@ -24,7 +24,7 @@ Category: Unsorted
 >[!info|left] Species Information 
 >**Attribute Boost**: `=this.Attribute`
 >
->**Size:** `this.Size`
+>**Size:** `=this.Size`
 >
 >**Species Bonuses:**
 >
