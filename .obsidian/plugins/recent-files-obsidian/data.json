@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
+      "basename": "Armor Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
     },
     {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Dice Overview",
+      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Actions Overview",
+      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
     },
     {
       "basename": "High-Integrity Spine-Replacement Unit",
@@ -25,10 +45,6 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
     },
     {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
       "basename": "Acrobatics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "Sneakery",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Equipment Database",
@@ -187,18 +199,6 @@
     {
       "basename": "Fatigued",
       "path": "General Rules/Conditions Catalog/Detrimental/Fatigued.md"
-    },
-    {
-      "basename": "Exhausted",
-      "path": "General Rules/Conditions Catalog/Detrimental/Exhausted.md"
-    },
-    {
-      "basename": "Hastened",
-      "path": "General Rules/Conditions Catalog/Beneficial/Hastened.md"
-    },
-    {
-      "basename": "Agile",
-      "path": "General Rules/Conditions Catalog/Beneficial/Agile.md"
     }
   ],
   "omittedPaths": [],

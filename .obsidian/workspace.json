@@ -4,61 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "18836c0fc00fc031",
+        "id": "c8b5b3f5ec775a95",
         "type": "tabs",
-        "dimension": 66.01063829787233,
         "children": [
           {
-            "id": "4f15183fedaf07ac",
+            "id": "224687177c42fab1",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "194f7646a8e878ea",
-        "type": "tabs",
-        "dimension": 33.98936170212766,
-        "children": [
-          {
-            "id": "c1a24b4b5cf720c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/Trait List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -509.38297872340416,
+                  "zoom": -0.42840472301667265
+                }
               }
             }
           },
           {
-            "id": "6cdefebe00b36905",
+            "id": "a1e75a41da8b6ad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilities/Lists/Conditions List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "052f23266c35aaa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bd7dd29c0ca5abc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -140,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Lists/Conditions List.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Lists/Conditions List.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Lists/Conditions List.md"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
               }
             }
           },
@@ -284,18 +268,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6cdefebe00b36905",
+  "active": "a1e75a41da8b6ad4",
   "lastOpenFiles": [
     "Utilities/Dashboard.canvas",
+    "General Rules/The Favor System/Dice Structure/Dice Overview.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
+    "General Rules/The Favor System/Action Structure/Actions Overview.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Utilities/Lists/Conditions List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Spine-Replacement Unit.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Sub-Dermal Self-Integrated Weaponry Holster.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md",
-    "Utilities/Lists/Conditions List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
@@ -309,9 +296,6 @@
     "General Rules/Conditions Catalog/Detrimental/Bloodied.md",
     "General Rules/Conditions Catalog/Invisible.md",
     "General Rules/Conditions Catalog/Beneficial/Hidden.md",
-    "General Rules/Traits Catalog/Secret.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md",
-    "General Rules/Traits Catalog/Manipulate.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",
