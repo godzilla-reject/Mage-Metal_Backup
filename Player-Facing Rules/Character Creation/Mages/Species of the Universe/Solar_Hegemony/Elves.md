@@ -9,12 +9,11 @@ Category: Solar_Hegemony
 
 - - -
 >[!info|left] Species Information 
->**Attribute Boost**:
->`=this.Attribute`
->**Species Bonuses:**
-> Elves gain a +3 bonus to Skill Aptitude at character creation.
+>**Attribute Boost**: `=this.Attribute`
+>
+>**Species Bonuses:** Elves gain a +3 bonus to Skill Aptitude at character creation.
 
->[!column] ***Species Perks:*** Choose 1 From Options Below
+>[!column|left] ***Species Perks:*** Choose 1 From Options Below
 >> [!metadata] *Option 1* `=this.Option1`
 >> You gain a +2 bonus to Speed.
 >

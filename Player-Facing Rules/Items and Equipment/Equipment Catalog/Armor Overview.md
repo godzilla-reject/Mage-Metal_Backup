@@ -1,6 +1,3 @@
-- [ ] #todo  ⏫ Fill out and get player-eyes ready.
-- [x] #todo  Add shields to this page. ✅ 2023-11-28
-- - -
 # Overview 
 Armor in `=[[Dev Helpers]].game-full` is integral to every character; every mage, no matter how reliant on magic, will encounter a situation (such as a gun) where a simple ward might not stop them from being damaged (such as when shot at, with a gun.) In these cases, even the lightest armor might be enough to save the Mage-Pilot's life. In order to determine what armor set is right for your Mage-Pilot, you'll need to know how to read an entry, which is explained below. 
 

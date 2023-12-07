@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Armor Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
+      "basename": "Elves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
+    },
+    {
+      "basename": "Human",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+    },
+    {
+      "basename": "Species Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
     },
     {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Actions Overview",
+      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
+    },
+    {
+      "basename": "Armor Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
     },
     {
       "basename": "Dice Overview",
@@ -15,10 +35,6 @@
     {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "Actions Overview",
-      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
     },
     {
       "basename": "Skills Database",
@@ -183,22 +199,6 @@
     {
       "basename": "Restrained",
       "path": "General Rules/Conditions Catalog/Detrimental/Restrained.md"
-    },
-    {
-      "basename": "Prone",
-      "path": "General Rules/Conditions Catalog/Detrimental/Prone.md"
-    },
-    {
-      "basename": "Off-Guard",
-      "path": "General Rules/Conditions Catalog/Detrimental/Off-Guard.md"
-    },
-    {
-      "basename": "Immobilized",
-      "path": "General Rules/Conditions Catalog/Detrimental/Immobilized.md"
-    },
-    {
-      "basename": "Fatigued",
-      "path": "General Rules/Conditions Catalog/Detrimental/Fatigued.md"
     }
   ],
   "omittedPaths": [],
