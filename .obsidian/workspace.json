@@ -6,82 +6,23 @@
       {
         "id": "c8b5b3f5ec775a95",
         "type": "tabs",
-        "dimension": 68.45744680851064,
         "children": [
           {
-            "id": "457a6bbf9611e7f2",
+            "id": "e3a0f9622a9e4d5c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -905.4627659574469,
-                  "y": -946.7499999999998,
-                  "zoom": -0.42840472301667265
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.7293824227471422
                 }
               }
             }
-          },
-          {
-            "id": "e3a0f9622a9e4d5c",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1888f839ecc64130",
-        "type": "tabs",
-        "dimension": 31.542553191489365,
-        "children": [
-          {
-            "id": "da4c360dfa7bc63b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/Trait List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "96dbcbf367fb4ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/Conditions List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bbabb6ee97085de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/Species Template.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -263,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,12 +234,12 @@
   },
   "active": "e3a0f9622a9e4d5c",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Utilities/Dashboard.canvas",
     "Utilities/Lists/Conditions List.md",
     "Utilities/Lists/Trait List.md",
     "Templates/Markdown Templates/Mage Templates/Species Template.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
     "General Rules/The Favor System/Action Structure/Actions Overview.md",
