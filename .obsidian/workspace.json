@@ -21,8 +21,17 @@
                 }
               }
             }
+          },
+          {
+            "id": "5689f415ad38cf89",
+            "type": "leaf",
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,7 +241,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e3a0f9622a9e4d5c",
+  "active": "5689f415ad38cf89",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Utilities/Dashboard.canvas",
