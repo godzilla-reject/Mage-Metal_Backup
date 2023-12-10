@@ -46819,14 +46819,12 @@ var RpgManagerCodeblockService = class {
       const toRemove = relationshipsAddedToContent.join("\n");
       if (toRemove === toAdd)
         return;
-      const fileContent = this._fileContent;
-      if (toRemove !== toAdd) {
-        if (toRemove === "") {
-          this._fileContentLines.push(...relationshipsToAdd);
-          this._fileContent = this._fileContentLines.join("\n");
-        } else {
-          this._fileContent.replace(toRemove, toAdd);
-        }
+      const fileContent = this._fileContentLines.join("\n");
+      if (toRemove === "") {
+        this._fileContentLines.push(...relationshipsToAdd);
+        this._fileContent = this._fileContentLines.join("\n");
+      } else {
+        this._fileContent = this._fileContent.replace(toRemove, toAdd);
       }
       if (fileContent !== this._fileContent)
         this._modifyFileContent(this._fileContent);
@@ -47263,7 +47261,10 @@ var attributes = /* @__PURE__ */ new Map([
   ["adventure" /* Adventure */, [description, storycircle, majorclues, kishotenketsu, conflict]],
   ["chapter" /* Chapter */, [description, abtstage, storycircle, majorclues, kishotenketsu, conflict]],
   ["session" /* Session */, [description, storycircle, abtstage, sessiondate, kishotenketsu, conflict]],
-  ["scene" /* Scene */, [description, storycirclestage, sceneaction, type, date, externalactions, duration]],
+  [
+    "scene" /* Scene */,
+    [description, sensoryimprint, storycirclestage, sceneaction, type, date, externalactions, duration]
+  ],
   [
     "nonplayercharacter" /* NonPlayerCharacter */,
     [
@@ -47291,7 +47292,10 @@ var attributes = /* @__PURE__ */ new Map([
   ["location" /* Location */, [sensoryimprint, description, address, location]],
   ["faction" /* Faction */, [description, philosophy, factionstructure]],
   ["clue" /* Clue */, [description]],
-  ["playercharacter" /* PlayerCharacter */, [description, beliefs, lie, need, want, strengths, weaknesses, dob, pronoun]],
+  [
+    "playercharacter" /* PlayerCharacter */,
+    [description, occupation, ghost, lie, beliefs, need, behaviour, want, strengths, weaknesses, dob, pronoun]
+  ],
   ["subplot" /* Subplot */, [description, storycircle]],
   ["object" /* Object */, [sensoryimprint, description]],
   ["monster" /* Monster */, [sensoryimprint, description]]
@@ -60742,7 +60746,8 @@ var transformMarkdownLinks = (api2, markdown) => {
 };
 function MarkdownComponent({
   value,
-  specificComponent
+  specificComponent,
+  className
 }) {
   const api2 = useApi();
   const app = useApp();
@@ -60823,7 +60828,7 @@ function MarkdownComponent({
       ul: (_s) => {
         var _t = _s, { node: node2, ordered } = _t, props = __objRest(_t, ["node", "ordered"]);
         return /* @__PURE__ */ React10.createElement("ul", __spreadProps(__spreadValues({}, props), {
-          className: "list-none text-center"
+          className: "list-disc"
         }));
       },
       ol: (_u) => {
@@ -60859,7 +60864,7 @@ function MarkdownComponent({
     };
   }
   return /* @__PURE__ */ React10.createElement("div", {
-    className: "markdown-content"
+    className: `markdown-content ${className != null ? className : ""}`
   }, /* @__PURE__ */ React10.createElement(ReactMarkdown, {
     rehypePlugins: [rehypeRaw],
     children: transformedValue,
@@ -65202,7 +65207,6 @@ var NewRelationshipController = class extends import_obsidian2.FuzzySuggestModal
       const globalElements = this._api.get();
       allCampaignElements = allCampaignElements.concat(globalElements);
     }
-    console.log("LIMIT" + this._typeLimit);
     if (this._typeLimit) {
       allCampaignElements = allCampaignElements.filter((element4) => {
         var _a2;
@@ -65249,7 +65253,7 @@ var NewRelationshipController = class extends import_obsidian2.FuzzySuggestModal
     return response;
   }
   getItemText(element4) {
-    return element4.alias || element4.name || element4.path;
+    return element4.alias || (element4.name ? `${element4.name} ${element4.type}` : void 0) || element4.type || element4.path;
   }
   renderSuggestion(item, el) {
     const root3 = (0, import_client.createRoot)(el);
@@ -65285,6 +65289,8 @@ var NewRelationshipController = class extends import_obsidian2.FuzzySuggestModal
         const rpgmCodeblock = new RpgManagerCodeblockService(this._app, this._api, this._element.file);
         if (found.path === "all-player-characters") {
           const allPlayerCharacters = this._api.get(void 0, this._element.campaign, "playercharacter" /* PlayerCharacter */);
+          if (allPlayerCharacters.length === 0)
+            return;
           const relationships = allPlayerCharacters.map((playerCharacter) => {
             return RelationshipFactory.createFromContent("bidirectional" /* Bidirectional */, playerCharacter.path);
           });
@@ -65659,6 +65665,8 @@ function MarkdownEditorComponent({
         parent: parentDivRef.current
       });
       editorViewRef.current = view;
+      if (forceFocus)
+        view.focus();
     }
   });
   React19.useEffect(() => {
@@ -65780,6 +65788,8 @@ function findMarkdownElements(doc, view) {
   return decorations;
 }
 function isCursorInsideRange(selection, start3, end4) {
+  if (selection.ranges[0].from === 0 && selection.ranges[0].from === selection.ranges[0].to)
+    return false;
   for (const range of selection.ranges) {
     if (range.from <= end4 && range.to >= start3) {
       return true;
@@ -75392,6 +75402,10 @@ function SceneComponent({
   }, /* @__PURE__ */ React73.createElement(HeaderComponent, {
     element: element4,
     isInPopover
+  }), element4.attribute("sensoryimprint" /* SensoryImprint */) && /* @__PURE__ */ React73.createElement(SensoryImprintAttributeComponent, {
+    element: element4,
+    attribute: element4.attribute("sensoryimprint" /* SensoryImprint */),
+    isEditable: !isInPopover
   }), element4.images.length > 0 && /* @__PURE__ */ React73.createElement("div", {
     className: "max-h-32 h-32 overflow-hidden"
   }, /* @__PURE__ */ React73.createElement(ImageComponent, {
@@ -83906,11 +83920,12 @@ function ChildSceneComponent({
   element: element4,
   isInPopover
 }) {
-  var _a, _b, _c, _d, _e, _f;
+  var _a, _b, _c, _d, _e, _f, _g, _h;
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
   const [showTooltip, setShowTooltip] = React81.useState(false);
+  const [isEditing, setIsEditing] = React81.useState(false);
   function saveAttribute(attributeName, value) {
     if (attributeName === "name") {
       const lastIndexOfName = element4.path.lastIndexOf(element4.name);
@@ -83993,18 +84008,24 @@ function ChildSceneComponent({
     value: index2
   }, key)))), /* @__PURE__ */ React81.createElement("div", {
     className: "col-span-5 pr-1"
-  }, /* @__PURE__ */ React81.createElement(MarkdownEditorComponent, {
+  }, isEditing ? /* @__PURE__ */ React81.createElement(MarkdownEditorComponent, {
     initialValue: (_d = (_c = element4.attribute("description" /* Description */)) == null ? void 0 : _c.value) != null ? _d : "",
     campaignPath: element4.campaignPath,
     className: "!p-1 m-0 border rounded-md border-transparent group-hover:!border-solid group-hover:!border-[--background-modifier-border] bg-transparent group-hover:bg-[--background-modifier-form-field]",
     onBlur: (value) => {
       saveAttribute("description" /* Description */, value);
     },
-    forceFocus: false
-  })), /* @__PURE__ */ React81.createElement("div", {
+    forceFocus: true
+  }) : /* @__PURE__ */ React81.createElement("div", {
+    className: "cursor-pointer",
+    onClick: () => setIsEditing(true)
+  }, /* @__PURE__ */ React81.createElement(MarkdownComponent, {
+    className: "min-h-[30px] w-full border rounded-md border-transparent group-hover:!border-solid group-hover:!border-[--background-modifier-border] bg-transparent group-hover:bg-[--background-modifier-form-field]",
+    value: (_f = (_e = element4.attribute("description" /* Description */)) == null ? void 0 : _e.value) != null ? _f : ""
+  }))), /* @__PURE__ */ React81.createElement("div", {
     className: "col-span-2 pr-1"
   }, /* @__PURE__ */ React81.createElement("select", {
-    defaultValue: (_e = element4.attribute("scenetype" /* SceneType */)) == null ? void 0 : _e.value,
+    defaultValue: (_g = element4.attribute("scenetype" /* SceneType */)) == null ? void 0 : _g.value,
     onChange: (e2) => saveAttribute("scenetype" /* SceneType */, e2.target.value),
     className: "selectBorder w-full \n								!border !border-transparent group-hover:!border-[--background-modifier-border] focus:!border-[--background-modifier-border]\n								h-7 pl-1 \n								focus:!shadow-none !shadow-none\n								bg-transparent group-hover:bg-[--background-modifier-form-field]\n								"
   }, /* @__PURE__ */ React81.createElement("option", {
@@ -84020,7 +84041,7 @@ function ChildSceneComponent({
   }, /* @__PURE__ */ React81.createElement("div", null, /* @__PURE__ */ React81.createElement("input", {
     type: "checkbox",
     className: "",
-    defaultChecked: ((_f = element4.attribute("externalactions" /* ExternalActions */)) == null ? void 0 : _f.value) === true,
+    defaultChecked: ((_h = element4.attribute("externalactions" /* ExternalActions */)) == null ? void 0 : _h.value) === true,
     onChange: (e2) => saveAttribute("externalactions" /* ExternalActions */, e2.target.checked)
   }))), /* @__PURE__ */ React81.createElement("div", {
     className: "relative flex justify-center opacity-0 group-hover:opacity-100 cursor-help !text-[--text-muted] hover:!text-[text-normal]",
@@ -84252,7 +84273,10 @@ var FileCreationService = class {
       const newFile = yield this._app.vault.create(fileName, content3);
       const currentLeaf = this._app.workspace.getActiveViewOfType(import_obsidian4.MarkdownView);
       const leaf = this._app.workspace.getLeaf(currentLeaf != null);
-      open && (yield leaf.openFile(newFile));
+      if (open === true)
+        yield leaf.openFile(newFile);
+      else
+        leaf.detach();
       return newFile;
     });
   }
@@ -84413,7 +84437,8 @@ function NewChildComponent({
     type: "text",
     onChange: (e2) => setFileName(e2.target.value),
     className: "w-full !border !border-[--background-modifier-border] h-5 focus:!border-[--background-modifier-border] focus:!shadow-none",
-    defaultValue: fileName
+    defaultValue: fileName,
+    onBlur: handleCreateNewChild
   }))), /* @__PURE__ */ React85.createElement("div", {
     className: "flex justify-end w-full text-sm"
   }, /* @__PURE__ */ React85.createElement("button", {
