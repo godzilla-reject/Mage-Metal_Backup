@@ -17,3 +17,5 @@
 				- Super-Factories
 	- Mars - Home of the Dwaurves 
 	- Venus - Home of the Elves. 
+- Exotic Locales 
+	- The Fringe - Area of mostly empty space that draws the border between the Sol system and the Andromeda system. 

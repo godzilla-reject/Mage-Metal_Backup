@@ -122,7 +122,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -343,8 +343,9 @@
   },
   "active": "a738b4859a9e50c1",
   "lastOpenFiles": [
-    "Utilities/Lists/Trait List.md",
+    "Setting/Vague List of Places.md",
     "General Rules/Character Mechanics Overview.md",
+    "Utilities/Lists/Trait List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
@@ -357,7 +358,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
-    "Setting/Vague List of Places.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
     "Templates/Markdown Templates/Mage Templates/History Template.md",

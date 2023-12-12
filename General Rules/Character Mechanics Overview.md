@@ -98,10 +98,10 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 
 >[!column]- ### **Mobile Armor**
 >> [!note] #### *Description*
->> 
+>> The middle ground of the armor types, Mobile armor is commonly used by pilots, soldiers, and ruffians to provide good protection while not hindering spell-work ability too much. 
 >> **Key Attribute: Body**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Custom Fit*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
 >> 
 >> Increase the Toughness bonus from Mobile armor you wear by 1. Additionally, Mobile armor you wear gains the [[Stalwart]] trait. 
@@ -111,10 +111,10 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> 
 >> Increase the Toughness bonus from Mobile armor you wear by 1. Additionally, while wearing Mobile armor, you gain an equipment bonus to **Body** skills equal to the *base* Toughness bonus of your armor.
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Energy Ablation*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
 >>
->> Increase the Toughness bonus from Mobile armor you wear by 1
+>> Increase the Toughness bonus from Mobile armor you wear by 1. Whenever you gain this perk, pick two **energy** damage types. While wearing Mobile armor, you gain Resistance to those damage types.
 >
 >> [!metadata|right] *Legendary Perk: Perfect Persistence*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.* 
@@ -125,7 +125,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 
 >[!column]- ### **Powered Armor**
 >> [!note] #### *Description*
->> 
+>> The heaviest of the armor classes, Powered armor is commonly employed by those who fight against the harshest elements and monsters, such as the Dwaurven hunters of Mars. or soldiers stationed on The Fringe. 
 >> **Key Attribute: Power**
 >
 >> [!metadata|right] *Trained Perk: Deflect Blows*
@@ -176,15 +176,23 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >
 >> [!metadata|right] *Trained Perk:*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> 
+>> You can now use Novice piloting maneuvers you have access to.
 >
 >> [!metadata|right] *Expertise Perk:*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> 
+>> You can now use Expert piloting maneuvers you have access to.
 >
 >> [!metadata|right] *Masterful Perk:*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>>
+>> You can now use Master piloting maneuvers you have access to.
 >
 >> [!metadata|right] *Legendary Perk:*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> 
+>> You can now use Legendary piloting maneuvers you have access to.
 >
 
 >[!column]- ### **Spell-Work**
