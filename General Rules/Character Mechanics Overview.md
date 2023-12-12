@@ -91,7 +91,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> [!metadata|right] *Legendary Perk: Perfect Evasion*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> 
->> Increase the Toughness bonus from Infiltrator armor you wear by 1. Additionally, the first [[Dodge]] check you make each turn automatically succeeds. 
+>> Increase the Toughness bonus from Infiltrator armor you wear by 1. Additionally, the first [[Dodge]] check you make each turn automatically succeeds, and you make all **Dodge** checks with favor.
 >
 
 ^059684
@@ -104,7 +104,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> [!metadata|right] *Trained Perk:*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
 >> 
->> Increase the Toughness bonus from Mobile armor you wear by 1. 
+>> Increase the Toughness bonus from Mobile armor you wear by 1. Additionally, Mobile armor you wear gains the [[Stalwart]] trait. 
 >
 >> [!metadata|right] *Expertise Perk: Medium Armor Specialist*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
@@ -119,7 +119,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> [!metadata|right] *Legendary Perk: Perfect Persistence*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.* 
 >> 
->> Increase the Toughness bonus from Mobile armor you wear by 1
+>> Increase the Toughness bonus from Mobile armor you wear by 1. Additionally, you can use [[Pain-Tolerance#^c7cc1d\|Withstand Pain]] against effects that deal **true** damage and you make **Pain-Tolerance** checks with favor.
 
 ^85f3b3
 
@@ -138,15 +138,15 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> 
 >> Increase the Toughness bonus from Powered armor you wear by 1. Additionally, while wearing Powered armor, you gain an equipment bonus to **Power** skills equal to the *base* Toughness bonus of your armor.
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Shield Adept *
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
 >>
->> Increase the Toughness bonus from Powered armor you wear by 1.
+>> Increase the Toughness bonus from Powered armor you wear by 1. Additionally, increase the Barrier of Powered shields you wield by 10; they also take one less action to recharge.
 >
 >> [!metadata|right] *Legendary Perk: Perfect Fortress*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> 
->> Increase the Toughness bonus from Powered armor you wear by 1. Additionally, while wearing Powered armor, you gain Resistance to **physical** damage. 
+>> Increase the Toughness bonus from Powered armor you wear by 1. Additionally, while wearing Powered armor, you gain Resistance to **physical** damage, and you make [[Block]] checks with favor.
 >
 
 ^83a377

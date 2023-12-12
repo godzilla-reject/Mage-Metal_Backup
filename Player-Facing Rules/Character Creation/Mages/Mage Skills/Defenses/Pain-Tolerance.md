@@ -21,6 +21,9 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 >You steel your resolve, withstanding pain and resisting shock. Make a **Pain-Tolerance** check. If you succeed, choose an effect:
 >-  You roll with favor when making any checks to resist an effect associated with the trigger, and reduce your Toughness against the damage by 3+your Tier.
 >-  You roll without favor when making any checks to resist an effect associated with the trigger, and increase your Toughness against the damage by 3+your Tier. 
+
+^c7cc1d
+
 - - -
 # Perks
 >> [!info|text-Center clear]+ Trained Perk: Inner Steel

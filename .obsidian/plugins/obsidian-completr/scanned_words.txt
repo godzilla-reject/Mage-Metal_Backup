@@ -838,6 +838,7 @@ clades
 conventions
 callout
 classification
+cc
 before
 being
 be
@@ -2767,6 +2768,7 @@ Assume
 Adaman
 Agna
 Anvilbreaker
+Adept
 metal
 magic
 mechanics
