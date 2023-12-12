@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Bonesplitter",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Escaton's Seismic Shudder",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md"
+    },
+    {
+      "basename": "Earthen Armor",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md"
+    },
+    {
+      "basename": "Escaton's Boulder Fists",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
+    },
+    {
+      "basename": "Harm Wounds",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md"
     },
     {
       "basename": "Weapon Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Bonesplitter",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md"
     },
     {
       "basename": "Large-Gauge Scattershells",
@@ -39,10 +63,6 @@
     {
       "basename": "Channeler's Tome",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Species Database",
@@ -179,26 +199,6 @@
     {
       "basename": "Cyber-Arm",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
-    },
-    {
-      "basename": "Acrobatics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
-    },
-    {
-      "basename": "Roguery",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md"
-    },
-    {
-      "basename": "Sneakery",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
-    },
-    {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "Melee",
-      "path": "General Rules/Traits Catalog/General/Melee.md"
     }
   ],
   "omittedPaths": [],
