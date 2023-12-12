@@ -109,26 +109,6 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  Completed?:
-    input: checkbox
-    accessorKey: Completed?
-    key: Completed?
-    id: Completed?
-    label: Completed?
-    position: 2
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: percent_filled
-      persist_changes: false
-      footer_formula: 
   Attribute:
     input: select
     accessorKey: Attribute
@@ -179,6 +159,26 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  Completed:
+    input: checkbox
+    accessorKey: Completed
+    key: Completed
+    id: Completed?
+    label: Completed
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: percent_filled
+      persist_changes: false
+      footer_formula: 
 config:
   remove_field_when_delete_column: false
   cell_size: normal

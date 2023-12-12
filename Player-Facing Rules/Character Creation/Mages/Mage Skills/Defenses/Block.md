@@ -3,7 +3,7 @@ Category: Defenses
 Attribute: Power
 Tags:
   - Skills
-Completed?: true
+Completed: true
 ---
 # Skill Description-`=this.file.name`
 Notes:

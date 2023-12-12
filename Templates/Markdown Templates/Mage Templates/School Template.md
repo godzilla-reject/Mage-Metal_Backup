@@ -4,6 +4,7 @@ Attribute:
 Spell:
 Path1:
 Path2:
+Completed: false
 ---
 # School of  `=this.file.name`
 

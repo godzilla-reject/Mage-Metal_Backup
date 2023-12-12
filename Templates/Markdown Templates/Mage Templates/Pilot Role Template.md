@@ -16,6 +16,7 @@ Skill_2:
 Spell_2:
 Spec_1:
 Spec_2:
+Completed: false
 ---
 # Role: `=this.file.name`
 

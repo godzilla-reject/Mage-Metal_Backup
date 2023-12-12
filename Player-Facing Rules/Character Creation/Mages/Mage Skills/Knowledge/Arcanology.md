@@ -3,6 +3,7 @@ Category: Knowledge
 Attribute: Potential
 Tags:
   - Skills
+Completed: false
 ---
 # Skill Description-`=this.file.name`
 

@@ -1,4 +1,5 @@
 ---
+Completed: false
 Tags:
   - Armor
 Price: 

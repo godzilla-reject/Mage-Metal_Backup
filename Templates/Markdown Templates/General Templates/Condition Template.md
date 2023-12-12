@@ -1,6 +1,7 @@
 ---
 Tags:
 Category: Unsorted
+Completed: false
 ---
 > [!infobox|left]+ Condition Entry
 > # `=this.file.name`

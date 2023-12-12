@@ -3,6 +3,7 @@ Category: Craftwork
 Attribute: Power
 Tags:
   - Skills
+Completed: false
 ---
 # Skill Description-`=this.file.name`
 

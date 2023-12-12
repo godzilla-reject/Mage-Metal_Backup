@@ -3,7 +3,7 @@ Category: Criminal
 Attribute: Reflex
 Tags:
   - Skills
-Completed?: true
+Completed: true
 ---
 # Skill Description-`=this.file.name`
 This skill is the ability to remain hidden from others, as well as hide items (smuggling.) It is a favored skill of rogues and criminals.

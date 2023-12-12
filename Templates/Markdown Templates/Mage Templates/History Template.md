@@ -2,6 +2,7 @@
 Wealth: Unsorted
 Boost:
 Perk:
+Completed: false
 ---
 # Description-`=this.file.name`
 

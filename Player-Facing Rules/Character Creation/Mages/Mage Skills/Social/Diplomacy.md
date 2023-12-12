@@ -3,7 +3,7 @@ Category: Social
 Attribute: Tenacity
 Tags:
   - Skills
-Completed?: false
+Completed: false
 ---
 # Skill Description-`=this.file.name`
 

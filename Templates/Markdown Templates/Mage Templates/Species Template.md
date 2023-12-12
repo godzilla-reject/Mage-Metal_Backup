@@ -5,6 +5,7 @@ Option1:
 Option2:
 Option3:
 Category: Unsorted
+Completed: false
 ---
 #  `=this.file.name`
 

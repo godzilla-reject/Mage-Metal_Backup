@@ -3,7 +3,7 @@ Category: Defenses
 Attribute: Reflex
 Tags:
   - Skills
-Completed?: true
+Completed: true
 ---
 # Skill Description-`=this.file.name`
 Dodge is one's ability to move out of the way of attacks. It can be rolled in place of **Reflex** checks when spells or weapons call for it.

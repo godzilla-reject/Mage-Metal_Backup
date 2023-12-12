@@ -3,7 +3,7 @@ Attribute: Body
 Category: Defenses
 Tags:
   - Skills
-Completed?: true
+Completed: true
 ---
 # Skill Description-`=this.file.name`
 Pain-Tolerance governs one's ability to withstand trauma, agony, and other forms of immense pain. It can be rolled in place of a **Body** check when a spell or weapon calls for it.

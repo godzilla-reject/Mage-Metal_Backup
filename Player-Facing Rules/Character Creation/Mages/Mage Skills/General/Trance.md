@@ -3,6 +3,7 @@ Category: General
 Attribute: Body
 Tags:
   - Skills
+Completed: false
 ---
 # Skill Description-`=this.file.name`
 

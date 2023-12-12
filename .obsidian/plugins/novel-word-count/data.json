@@ -102,8 +102,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100892,
-      "modifiedDate": 1701204550422,
-      "sizeInBytes": 1370
+      "modifiedDate": 1702370240754,
+      "sizeInBytes": 1387
     },
     "Templates/Markdown Templates/Mage Templates/Shield Template.md": {
       "isCountable": true,
@@ -120,8 +120,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699245789129,
-      "modifiedDate": 1699252406230,
-      "sizeInBytes": 1529
+      "modifiedDate": 1702370227307,
+      "sizeInBytes": 1553
     },
     "Templates/Markdown Templates/Mage Templates/Weapon Template.md": {
       "isCountable": true,
@@ -156,8 +156,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100895,
-      "modifiedDate": 1701922435170,
-      "sizeInBytes": 772
+      "modifiedDate": 1702370247983,
+      "sizeInBytes": 789
     },
     "Templates/Markdown Templates/Mage Templates/School Template.md": {
       "isCountable": true,
@@ -174,8 +174,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100890,
-      "modifiedDate": 1699612386229,
-      "sizeInBytes": 1388
+      "modifiedDate": 1702370220088,
+      "sizeInBytes": 1405
     },
     "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md": {
       "isCountable": true,
@@ -192,8 +192,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100888,
-      "modifiedDate": 1699612339302,
-      "sizeInBytes": 1838
+      "modifiedDate": 1702370211816,
+      "sizeInBytes": 1855
     },
     "Templates/Markdown Templates/Mage Templates/Perk Template.md": {
       "isCountable": true,
@@ -210,8 +210,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100886,
-      "modifiedDate": 1699612202188,
-      "sizeInBytes": 217
+      "modifiedDate": 1702370191702,
+      "sizeInBytes": 234
     },
     "Templates/Markdown Templates/Mage Templates/History Template.md": {
       "isCountable": true,
@@ -228,8 +228,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100883,
-      "modifiedDate": 1699612167499,
-      "sizeInBytes": 331
+      "modifiedDate": 1702370185219,
+      "sizeInBytes": 348
     },
     "Templates/Markdown Templates/Mage Templates/New Equipment Template.md": {
       "isCountable": true,
@@ -264,8 +264,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100881,
-      "modifiedDate": 1699612121173,
-      "sizeInBytes": 746
+      "modifiedDate": 1702370179088,
+      "sizeInBytes": 763
     },
     "Templates/Markdown Templates/General Templates/Condition Template.md": {
       "isCountable": true,
@@ -282,8 +282,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100874,
-      "modifiedDate": 1700123087108,
-      "sizeInBytes": 174
+      "modifiedDate": 1702370150937,
+      "sizeInBytes": 191
     },
     "Templates/Markdown Templates/General Templates/Spell List Template.md": {
       "isCountable": true,
@@ -336,8 +336,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100876,
-      "modifiedDate": 1699926440179,
-      "sizeInBytes": 127
+      "modifiedDate": 1702370132938,
+      "sizeInBytes": 133
     },
     "Templates/Markdown Templates/General Templates/Arcane Sphere Template.md": {
       "isCountable": true,
@@ -3794,8 +3794,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100490,
-      "modifiedDate": 1700117345912,
-      "sizeInBytes": 891
+      "modifiedDate": 1702370093742,
+      "sizeInBytes": 890
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md": {
       "isCountable": true,
@@ -3812,8 +3812,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100496,
-      "modifiedDate": 1699153288327,
-      "sizeInBytes": 873
+      "modifiedDate": 1702370095705,
+      "sizeInBytes": 890
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md": {
       "isCountable": true,
@@ -3830,8 +3830,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100493,
-      "modifiedDate": 1699153285880,
-      "sizeInBytes": 873
+      "modifiedDate": 1702370094532,
+      "sizeInBytes": 890
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md": {
       "isCountable": true,
@@ -3848,8 +3848,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100487,
-      "modifiedDate": 1699153284507,
-      "sizeInBytes": 873
+      "modifiedDate": 1702370092726,
+      "sizeInBytes": 890
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Survivalism.md": {
       "isCountable": true,
@@ -3866,8 +3866,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100480,
-      "modifiedDate": 1699153270889,
-      "sizeInBytes": 877
+      "modifiedDate": 1702370077159,
+      "sizeInBytes": 894
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md": {
       "isCountable": true,
@@ -3884,8 +3884,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100478,
-      "modifiedDate": 1701733905580,
-      "sizeInBytes": 1711
+      "modifiedDate": 1702370068479,
+      "sizeInBytes": 1728
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md": {
       "isCountable": true,
@@ -3902,8 +3902,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699588243439,
-      "modifiedDate": 1700119329322,
-      "sizeInBytes": 1373
+      "modifiedDate": 1702370067424,
+      "sizeInBytes": 1390
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md": {
       "isCountable": true,
@@ -3913,15 +3913,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.7866666666666666,
-      "characterCount": 5717,
-      "nonWhitespaceCharacterCount": 4294,
+      "characterCount": 5713,
+      "nonWhitespaceCharacterCount": 4290,
       "readingTimeInMinutes": 2.0226415094339623,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100403,
-      "modifiedDate": 1702353747977,
-      "sizeInBytes": 5766
+      "modifiedDate": 1702370043611,
+      "sizeInBytes": 5762
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md": {
       "isCountable": true,
@@ -3938,8 +3938,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1700117652377,
-      "modifiedDate": 1700119280782,
-      "sizeInBytes": 1373
+      "modifiedDate": 1702370081573,
+      "sizeInBytes": 1390
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md": {
       "isCountable": true,
@@ -3956,8 +3956,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699150940908,
-      "modifiedDate": 1701158266032,
-      "sizeInBytes": 5381
+      "modifiedDate": 1702370042414,
+      "sizeInBytes": 5380
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md": {
       "isCountable": true,
@@ -3974,8 +3974,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699588082669,
-      "modifiedDate": 1700117756258,
-      "sizeInBytes": 1388
+      "modifiedDate": 1702370078408,
+      "sizeInBytes": 1405
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md": {
       "isCountable": true,
@@ -3992,8 +3992,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100469,
-      "modifiedDate": 1701851747485,
-      "sizeInBytes": 3682
+      "modifiedDate": 1702370085790,
+      "sizeInBytes": 3681
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Placeholder-Body.md": {
       "isCountable": true,
@@ -4010,8 +4010,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1700117631110,
-      "modifiedDate": 1700117670226,
-      "sizeInBytes": 1389
+      "modifiedDate": 1702370065729,
+      "sizeInBytes": 1406
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md": {
       "isCountable": true,
@@ -4028,8 +4028,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100462,
-      "modifiedDate": 1699153268447,
-      "sizeInBytes": 875
+      "modifiedDate": 1702370076270,
+      "sizeInBytes": 891
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Theology.md": {
       "isCountable": true,
@@ -4046,8 +4046,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100453,
-      "modifiedDate": 1699153264414,
-      "sizeInBytes": 872
+      "modifiedDate": 1702370070669,
+      "sizeInBytes": 889
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Naturology.md": {
       "isCountable": true,
@@ -4064,8 +4064,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100446,
-      "modifiedDate": 1699588147860,
-      "sizeInBytes": 872
+      "modifiedDate": 1702370069605,
+      "sizeInBytes": 889
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md": {
       "isCountable": true,
@@ -4082,8 +4082,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100443,
-      "modifiedDate": 1699153267074,
-      "sizeInBytes": 877
+      "modifiedDate": 1702370071947,
+      "sizeInBytes": 894
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md": {
       "isCountable": true,
@@ -4100,8 +4100,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1700117644651,
-      "modifiedDate": 1700119320454,
-      "sizeInBytes": 1371
+      "modifiedDate": 1702370053563,
+      "sizeInBytes": 1388
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md": {
       "isCountable": true,
@@ -4118,8 +4118,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100428,
-      "modifiedDate": 1701766904279,
-      "sizeInBytes": 2517
+      "modifiedDate": 1702370087353,
+      "sizeInBytes": 2516
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md": {
       "isCountable": true,
@@ -4136,8 +4136,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699150940820,
-      "modifiedDate": 1700517068272,
-      "sizeInBytes": 3041
+      "modifiedDate": 1702370042051,
+      "sizeInBytes": 3040
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md": {
       "isCountable": true,
@@ -4154,8 +4154,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100435,
-      "modifiedDate": 1701208730827,
-      "sizeInBytes": 4656
+      "modifiedDate": 1702370084070,
+      "sizeInBytes": 4655
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md": {
       "isCountable": true,
@@ -4172,8 +4172,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100418,
-      "modifiedDate": 1701851645680,
-      "sizeInBytes": 3674
+      "modifiedDate": 1702370089997,
+      "sizeInBytes": 3673
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md": {
       "isCountable": true,
@@ -4190,8 +4190,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100422,
-      "modifiedDate": 1701851661639,
-      "sizeInBytes": 4667
+      "modifiedDate": 1702370088906,
+      "sizeInBytes": 4666
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md": {
       "isCountable": true,
@@ -4208,8 +4208,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100408,
-      "modifiedDate": 1699153269730,
-      "sizeInBytes": 877
+      "modifiedDate": 1702370072890,
+      "sizeInBytes": 893
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md": {
       "isCountable": true,
@@ -4226,8 +4226,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100411,
-      "modifiedDate": 1699153275171,
-      "sizeInBytes": 873
+      "modifiedDate": 1702370079423,
+      "sizeInBytes": 890
     },
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md": {
       "isCountable": true,
@@ -4856,7 +4856,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734102124,
-      "modifiedDate": 1701737507080,
+      "modifiedDate": 1702369723825,
       "sizeInBytes": 4788
     },
     "General Rules/Traits Catalog/Rarity/Unique.md": {

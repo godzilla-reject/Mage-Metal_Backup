@@ -1,4 +1,6 @@
-
+---
+Completed: false
+---
 > [!infobox|left]+ Equipment Entry
 > # `=this.file.name`
 > ###### Equipment Information

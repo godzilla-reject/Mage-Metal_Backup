@@ -3,7 +3,7 @@ Category: Physical
 Attribute: Reflex
 Tags:
   - Skills
-Completed?: true
+Completed: true
 ---
 # Skill Description-`=this.file.name`
 This skill is a clear measure of one's ability to perform feats of bodily movement and grace.

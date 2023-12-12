@@ -1,7 +1,7 @@
 ---
 Tags: 
 Category: Unsorted
-Completed:
+Completed: false
 ---
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`
