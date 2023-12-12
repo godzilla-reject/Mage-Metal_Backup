@@ -4,37 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "31309ca762e236f1",
+        "id": "a0c0df293475d4ab",
         "type": "tabs",
         "children": [
           {
-            "id": "c857fb8c8f847c70",
+            "id": "159c5e4cc2b8d436",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Templates/Callout styling - Tabbed callout.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "21b4cdfbc45d2875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Spoiler text.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.9988599801533312
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Spoiler text.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Spoiler text.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Spoiler text.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -219,12 +207,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,24 +235,24 @@
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "21b4cdfbc45d2875",
+  "active": "159c5e4cc2b8d436",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
+    "Templates/Callout styling - Scroller callout.md",
+    "Templates/Callout styling - Tabbed callout.md",
+    "Templates/Spoiler text.md",
+    "Templates/Sidenote callout 01.md",
+    "Templates/Blockquote styling 01.md",
     "Templates/Blockquote styling 01 (5).md",
     "Templates/Blockquote styling 01 (4).md",
     "Templates/Blockquote styling 01 (3).md",
     "Templates/Blockquote styling 01 (2).md",
     "Templates/Blockquote styling 01 (1).md",
-    "Templates/Sidenote callout 01.md",
-    "Templates/Callout styling - Tabbed callout.md",
     "Tip.md",
-    "Templates/Callout styling - Scroller callout.md",
-    "Templates/Blockquote styling 01.md",
-    "Utilities/Dashboard.canvas",
-    "Templates/Spoiler text.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Testers.md",
     "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
@@ -280,7 +267,6 @@
     "Templates/Markdown Templates/Mage Templates/Armor Template.md",
     "Templates/Markdown Templates/General Templates/Condition Template.md",
     "Templates/Markdown Templates/General Templates/Trait Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",

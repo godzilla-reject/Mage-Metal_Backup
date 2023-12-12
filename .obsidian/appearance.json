@@ -1,5 +1,5 @@
 {
-  "accentColor": "",
+  "accentColor": "#4400ff",
   "enabledCssSnippets": [
     "dashboard",
     "S - Encoded Icons",
@@ -7,7 +7,12 @@
     "Theme - All Alternate Themes",
     "pf2-compendium (1)",
     "supercharged-links-gen",
-    "its-callout-card-options"
+    "its-callout-card-options",
+    "Spoiler text",
+    "Sidenote callout 01",
+    "Callout styling - Tabbed callout",
+    "Callout styling - Scroller callout",
+    "Blockquote styling 01"
   ],
   "cssTheme": "ITS Theme",
   "baseFontSize": 17
