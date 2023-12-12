@@ -5,7 +5,6 @@ In order to create a character in *Mage/Metal*, one must begin with their Mage. 
 1. How does one play this game?
 	1. Review the [[Favor System Primer]] to get an understanding of the game's "engine."
 	2. Review the [[Character Mechanics Overview]] to get an understanding of what each attribute, statistic, and proficiency does. 
-	3. 
 2. Who are you?
 	1. Choose your [[Species Database\|Species]]. 
 	2. Choose one of the perks offered by your chosen Species.

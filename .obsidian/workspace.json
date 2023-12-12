@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df9900e0b530f221",
+        "id": "cf169170f20154d2",
         "type": "tabs",
         "children": [
           {
-            "id": "62d2126e4af743f7",
+            "id": "ccd1772a28b0589e",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -241,8 +241,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "62d2126e4af743f7",
+  "active": "ccd1772a28b0589e",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Utilities/Dashboard.canvas",
     "General Rules/Character Mechanics Overview.md",
     "Setting/Vague List of Places.md",
     "Utilities/Lists/Trait List.md",
@@ -251,7 +253,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "General Rules/Conditions Catalog/Beneficial/Agile.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
     "Adventures/Playtest Adventure.md",
     "Adventures",
@@ -270,7 +271,6 @@
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
     "Tip.md",
     "Templates/Callout styling - Scroller callout.md",
-    "Templates/Callout styling - Tabbed callout.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",
