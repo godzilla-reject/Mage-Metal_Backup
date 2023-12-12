@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Tip",
+      "path": "Tip.md"
+    },
+    {
       "basename": "Utility Notes",
       "path": "Utilities/Dashboard Notes/Utility Notes.md"
     },
@@ -175,26 +179,6 @@
     {
       "basename": "High-Caliber Caseless Rounds",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Low-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Melee",
-      "path": "General Rules/Traits Catalog/General/Melee.md"
-    },
-    {
-      "basename": "Dodge",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
-    },
-    {
-      "basename": "Panache",
-      "path": "General Rules/Conditions Catalog/Panache.md"
-    },
-    {
-      "basename": "Bloodied",
-      "path": "General Rules/Conditions Catalog/Detrimental/Bloodied.md"
     }
   ],
   "omittedPaths": [],
