@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Special Perks Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sustained",
       "path": "General Rules/Traits Catalog/Spell-Only/Sustained.md"
-    },
-    {
-      "basename": "Wormik's Torrent",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
     }
   ],
   "omittedPaths": [],

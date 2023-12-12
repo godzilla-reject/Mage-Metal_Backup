@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "1a3036106a38b6bd",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
               }
             }
           },
@@ -241,8 +252,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bdcbfc0cbf4fa848",
+  "active": "1a3036106a38b6bd",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Utilities/Lists/Conditions List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
@@ -250,7 +262,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
-    "Utilities/Dashboard.canvas",
     "General Rules/The Favor System/Dice Structure/Dice Overview.md",
     "General Rules/The Favor System/Favor System Primer.md",
     "General Rules/The Favor System/Action Structure/Actions Overview.md",
@@ -270,7 +281,6 @@
     "Templates/Markdown Templates/Mage Templates/History Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",
