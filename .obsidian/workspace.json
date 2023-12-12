@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b5b3f5ec775a95",
+        "id": "4231ccbc44c9317a",
         "type": "tabs",
         "children": [
           {
-            "id": "e3a0f9622a9e4d5c",
+            "id": "38d54636594c3ae1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -234.88859764089125,
-                  "y": -845.8650065530799,
+                  "x": -530,
+                  "y": -1010,
                   "zoom": -0.7293824227471422
                 }
               }
@@ -204,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,7 +232,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e3a0f9622a9e4d5c",
+  "active": "38d54636594c3ae1",
   "lastOpenFiles": [
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Utilities/Dashboard.canvas",
