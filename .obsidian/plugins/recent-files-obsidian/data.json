@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Dice Overview",
+      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
+    },
+    {
+      "basename": "Favor System Primer",
+      "path": "General Rules/The Favor System/Favor System Primer.md"
+    },
+    {
+      "basename": "Actions Overview",
+      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
     },
     {
       "basename": "Mage Creation Steps",
@@ -83,18 +99,6 @@
     {
       "basename": "Human",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
-    },
-    {
-      "basename": "Actions Overview",
-      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
-    },
-    {
-      "basename": "Dice Overview",
-      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Skills Database",
@@ -195,10 +199,6 @@
     {
       "basename": "Power-Word 'Ache'",
       "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
-    },
-    {
-      "basename": "Flusterdome",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
     }
   ],
   "omittedPaths": [],

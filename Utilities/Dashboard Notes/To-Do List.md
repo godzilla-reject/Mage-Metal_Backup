@@ -12,7 +12,7 @@ cssclasses:
 		- [ ] Combat Basics
 		- [ ] Playing The Game
 	- [ ]  To-Do For: Mage Section of Character Creation (YAY)
-		- [ ]  ⏫ Get Spells Database to 100% complete markers.
+		- [x] ⏫ Get Spells Database to 100% complete markers. ✅ 2023-12-12
 			- [x] Add two Resonance Spells ✅ 2023-11-28
 				- [x] Summoning Resonance ✅ 2023-11-28
 				- [x] Combination Resonance ✅ 2023-11-28
