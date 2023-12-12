@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
+      "basename": "Armor Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Block",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Test",
-      "path": "Test.md"
+      "basename": "Personal Scanner",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
+    },
+    {
+      "basename": "Playtest Adventure",
+      "path": "Adventures/Playtest Adventure.md"
     },
     {
       "basename": "Former Dash",
@@ -29,10 +57,6 @@
       "path": "Utilities/Lists/Conditions List.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
       "basename": "Species Template",
       "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
     },
@@ -47,10 +71,6 @@
     {
       "basename": "Actions Overview",
       "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
-    },
-    {
-      "basename": "Armor Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
     },
     {
       "basename": "Dice Overview",
@@ -75,10 +95,6 @@
     {
       "basename": "Cyber-Arm",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
-    },
-    {
-      "basename": "Personal Scanner",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
     },
     {
       "basename": "Acrobatics",
@@ -183,22 +199,6 @@
     {
       "basename": "Material",
       "path": "General Rules/Traits Catalog/Spell-Only/Material.md"
-    },
-    {
-      "basename": "Program",
-      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Conditions Database",
-      "path": "General Rules/Conditions Catalog/Conditions Database.md"
-    },
-    {
-      "basename": "Blinded",
-      "path": "General Rules/Conditions Catalog/Detrimental/Blinded.md"
     }
   ],
   "omittedPaths": [],

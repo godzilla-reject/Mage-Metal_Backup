@@ -41,6 +41,7 @@ Installed
 Increase
 Interact
 Industrial
+Important
 Mage
 Metal
 Mecha
@@ -835,6 +836,7 @@ culture
 clades
 conventions
 callout
+classification
 before
 being
 be
@@ -1207,6 +1209,8 @@ afforded
 alloys
 admittedly
 author
+assassins
+armored
 wear
 with
 war
@@ -1607,6 +1611,8 @@ selfless
 selected
 styling
 sailKite
+spies
+specialists
 LANCER
 Learn
 Lancer
@@ -1956,6 +1962,7 @@ draw
 dishonor
 dawn
 desire
+delicate
 ever
 expand
 easy
@@ -2915,6 +2922,7 @@ mining
 mythical
 metaphorical
 md
+minimal
 GURPS
 Google
 Greyhawk
@@ -3308,6 +3316,7 @@ World
 Water
 Weaponcraft
 Waker
+Walk
 keeping
 keep
 kek
@@ -3689,6 +3698,7 @@ Social
 Scroller
 Sidenote
 Spoiler
+Skin
 Jackson
 Jack
 Juggernaut

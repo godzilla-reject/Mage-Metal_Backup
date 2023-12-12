@@ -66,24 +66,32 @@ Derived from their respective Attribute, different Statistics have differing for
 ##  Proficiencies
 Proficiencies are similar to statistics, in that they are tied directly to an attribute (typically to meet requirements), but they are tracked with training levels instead of numeric values. Each new training level in a proficiency also gains the player character a new Perk associated with that proficiency. 
 ### Armor  Proficiencies
-- Each character is trained in one more types of armor. These armor forms are pilot-wearable suits that enhance a Mage's protections when their boots are on the ground. Armor training *also* influences how well a Mage can utilize their Metal's armor, as well. The armor forms are as follows, and are explored in-depth in the [[Armor Overview]].
+- Each character is trained in one more types of armor. These armor forms are pilot-wearable suits that enhance a Mage's protections when their boots are on the ground. Armor training *also* influences how well a Mage can utilize their Metal's armor. The armor forms are as follows, and are explored in-depth in the [[Armor Overview]].
 
 >[!column]- ### **Infiltrator Armor**
 >> [!note] #### *Description*
->> 
+>> The lightest classification of armor, Infiltrator armor is typically employed by spies, assassins, and other specialists who require minimal gear. Infiltrator gear provides minimal protection while allowing for the highest degree of casting ability and delicate work while remaining armored. 
 >> **Key Attribute: Reflex**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Second Skin*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> 
+>> Increase the Toughness bonus from Infiltrator armor you wear by 1. Additionally, Infiltrator armor you wear gains the [[Comfortable]] trait. 
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Light Armor Specialist*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> 
+>> Increase the Toughness bonus from Infiltrator armor you wear by 1. 
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Agile Step*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>>
+>> Increase the Toughness bonus from Infiltrator armor you wear by 1. Additionally, you gain a +2 *untyped* bonus to Speed while unarmored or wearing Infiltrator armor. 
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Walk on the Winds*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> 
+>> Increase the Toughness bonus from Infiltrator armor you wear by 1. Additionally
 >
 
 ^059684
@@ -95,15 +103,23 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >
 >> [!metadata|right] *Trained Perk:*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> 
+>> Increase the Toughness bonus from Mobile armor you wear by 1
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Medium Armor Specialist*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> 
+>> Increase the Toughness bonus from Mobile armor you wear by 1
 >
 >> [!metadata|right] *Masterful Perk:*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>>
+>> Increase the Toughness bonus from Mobile armor you wear by 1
 >
 >> [!metadata|right] *Legendary Perk:*
->> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.* 
+>> 
+>> Increase the Toughness bonus from Mobile armor you wear by 1
 
 ^85f3b3
 
@@ -114,15 +130,23 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >
 >> [!metadata|right] *Trained Perk:*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> 
+>> Increase the Toughness bonus from Powered armor you wear by 1
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Heavy Armor Specialist*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> 
+>> Increase the Toughness bonus from Powered armor you wear by 1
 >
 >> [!metadata|right] *Masterful Perk:*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>>
+>> Increase the Toughness bonus from Powered armor you wear by 1
 >
 >> [!metadata|right] *Legendary Perk:*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> 
+>> Increase the Toughness bonus from Powered armor you wear by 1
 >
 
 ^83a377

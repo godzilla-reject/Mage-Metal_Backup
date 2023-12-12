@@ -2,6 +2,8 @@
 cssclasses:
   - dashboard
 ---
+# Important Notes 
+1. [[Character Mechanics Overview]]
 # Design References
 1. [[Spell Damage by Rank Chart]]
 2. [[Starting Wealth Chart]]

@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "36b670e4b0128bd5",
+        "id": "c8b5b3f5ec775a95",
         "type": "tabs",
+        "dimension": 60.21276595744681,
         "children": [
           {
-            "id": "c9ec2244e9426d4d",
+            "id": "224687177c42fab1",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,12 +18,86 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -1.1077049764716203
+                  "zoom": -0.42840472301667265
                 }
               }
             }
+          },
+          {
+            "id": "a738b4859a9e50c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/Character Mechanics Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ea8b9782549e9ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a8bbbf2c68746000",
+        "type": "tabs",
+        "dimension": 39.787234042553195,
+        "children": [
+          {
+            "id": "6a09b956c9d6ba0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2120b2f0e6de2e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "09086bea928c1bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/Character Mechanics Overview.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -96,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/Character Mechanics Overview.md"
               }
             }
           },
@@ -153,6 +229,14 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d5e9e67247021af",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
               "state": {}
             }
           },
@@ -199,11 +283,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
+    "width": 262.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -232,8 +316,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c9ec2244e9426d4d",
+  "active": "a738b4859a9e50c1",
   "lastOpenFiles": [
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
+    "Utilities/Lists/Trait List.md",
+    "General Rules/Character Mechanics Overview.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
+    "Adventures/Playtest Adventure.md",
+    "Adventures",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
@@ -244,9 +337,7 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
-    "Utilities/Lists/Trait List.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
@@ -255,12 +346,6 @@
     "Templates/Callout styling - Tabbed callout.md",
     "Templates/Spoiler text.md",
     "Templates/Sidenote callout 01.md",
-    "Templates/Blockquote styling 01.md",
-    "Templates/Blockquote styling 01 (5).md",
-    "Templates/Blockquote styling 01 (4).md",
-    "Templates/Blockquote styling 01 (3).md",
-    "Templates/Blockquote styling 01 (2).md",
-    "Templates/Blockquote styling 01 (1).md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",
@@ -269,7 +354,6 @@
     "Templates/Markdown Templates/DevHelper Templates/Inserts",
     "Player-Facing Rules/Spells/Spells Database/Resonancia",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire"
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator"
   ]
 }
