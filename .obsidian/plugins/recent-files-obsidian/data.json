@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Dodge",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Block",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
-    },
-    {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Conditions List",
       "path": "Utilities/Lists/Conditions List.md"
     },
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Academiology",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
+    },
+    {
+      "basename": "Politologist",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
+      "basename": "Block",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Dice Overview",
@@ -191,14 +199,6 @@
     {
       "basename": "Wormik's Torrent",
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
-    },
-    {
-      "basename": "Power-Word 'Haste'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
-    },
-    {
-      "basename": "Power-Word 'Ache'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
     }
   ],
   "omittedPaths": [],
