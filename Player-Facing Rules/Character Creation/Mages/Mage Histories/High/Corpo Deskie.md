@@ -6,7 +6,7 @@ Tags:
   - History
 ---
 # Description-`=this.file.name`
-You work for one of the six mega-corporations that own and control 90% of the Terrarium. 
+You work for one of the six mega-corporations that own and control 95 % of the Terrarium. 
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Wealth** | `=this.Wealth`   
 >**Attribute**| `=this.Boost`
