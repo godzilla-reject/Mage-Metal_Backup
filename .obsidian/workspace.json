@@ -4,68 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b5b3f5ec775a95",
-        "type": "tabs",
-        "dimension": 68.45744680851064,
-        "children": [
-          {
-            "id": "457a6bbf9611e7f2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -905.4627659574469,
-                  "y": -946.7499999999998,
-                  "zoom": -0.42840472301667265
-                }
-              }
-            }
-          },
-          {
-            "id": "e3a0f9622a9e4d5c",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
-              }
-            }
-          },
-          {
-            "id": "107def9f22f49eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "878bccc91eed1f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "1888f839ecc64130",
         "type": "tabs",
-        "dimension": 31.542553191489365,
         "children": [
           {
             "id": "da4c360dfa7bc63b",
@@ -106,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
+                "file": "Utilities/Lists/Trait List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
+                "file": "Utilities/Lists/Trait List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+                "file": "Utilities/Lists/Trait List.md"
               }
             }
           },
@@ -318,10 +257,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "107def9f22f49eac",
+  "active": "da4c360dfa7bc63b",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
     "Utilities/Dashboard.canvas",
     "Tip.md",
     "Templates/Callout styling - Scroller callout.md",
@@ -345,8 +286,6 @@
     "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md",
     "Templates/Markdown Templates/Mage Templates/Perk Template.md",
     "Templates/Markdown Templates/Mage Templates/History Template.md",
-    "Templates/Markdown Templates/Mage Templates/Armor Template.md",
-    "Templates/Markdown Templates/General Templates/Condition Template.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",

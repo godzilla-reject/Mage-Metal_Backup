@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Elves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
     },
     {
       "basename": "Species Database",
@@ -13,8 +21,8 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
     },
     {
       "basename": "Utility Notes",
@@ -101,10 +109,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
       "basename": "Conditions List",
       "path": "Utilities/Lists/Conditions List.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Weapon Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "Elves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
     },
     {
       "basename": "Actions Overview",
