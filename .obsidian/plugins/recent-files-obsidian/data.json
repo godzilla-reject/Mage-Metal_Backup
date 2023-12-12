@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Frontline Vanguard",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
+    },
+    {
+      "basename": "Tower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
+    },
+    {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
+      "basename": "Block",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
       "basename": "Special Perks Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
     },
     {
       "basename": "Conditions List",
@@ -33,10 +61,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
     {
-      "basename": "Block",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
-    },
-    {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
@@ -51,14 +75,6 @@
     {
       "basename": "Actions Overview",
       "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
     },
     {
       "basename": "Vague List of Places",
@@ -183,22 +199,6 @@
     {
       "basename": "Secret",
       "path": "General Rules/Traits Catalog/Secret.md"
-    },
-    {
-      "basename": "Set of Tools",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
-    },
-    {
-      "basename": "Manipulate",
-      "path": "General Rules/Traits Catalog/Manipulate.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Sustained",
-      "path": "General Rules/Traits Catalog/Spell-Only/Sustained.md"
     }
   ],
   "omittedPaths": [],

@@ -363,6 +363,7 @@ treating
 trust
 thick
 tyranny
+therefore
 great
 game
 gaming
@@ -1814,6 +1815,7 @@ observer
 observed
 outsiders
 opposing
+optional
 designer
 drag
 do
@@ -2295,6 +2297,7 @@ protective
 parties
 parents
 pseudometa
+piloting
 RP
 RPGs
 Ryutama
@@ -2627,6 +2630,7 @@ representing
 reading
 remnants
 ruffians
+really
 Pathfinder
 PF
 Philosophy
@@ -2709,6 +2713,7 @@ Pact
 Powerful
 Persistence
 Prime
+Pilots
 ABCs
 Apotheosis
 Accessibility
@@ -2949,6 +2954,7 @@ metaphorical
 md
 minimal
 monsters
+maneuvers
 GURPS
 Google
 Greyhawk
@@ -3039,6 +3045,7 @@ untrustworthy
 unclean
 ultimate
 unarmored
+understand
 letting
 look
 like
@@ -3770,6 +3777,7 @@ Names
 Natively
 Nekarik
 Neon
+Novice
 One
 Out
 Oblivion

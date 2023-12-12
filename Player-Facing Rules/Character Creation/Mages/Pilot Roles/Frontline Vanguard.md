@@ -23,7 +23,9 @@ The Vanguards take to the frontlines, using their extreme defenses to tank damag
 >[!info] ### `=this.file.name` Role Mechanics
 > **Attribute Boost:** `=this.Attribute`
 > **Armor Proficiency :** `=this.Armor` (`=this.Armor_Training`)
+> 
 > **Weapon Proficiency:** `=this.Weapon_Degree` `=this.Weapon_Type` (`=this.Weapon_Training`)
+> 
 > **Role Skill:** `=link(this.Skill)`
 
 ## When you select  this Role,  select  a  Specialization. 

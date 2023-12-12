@@ -382,6 +382,7 @@ columns:
       - { label: "Arcanology", value: "Arcanology", color: "hsl(188, 95%, 90%)"}
       - { label: "Mundocraft", value: "Mundocraft", color: "hsl(71, 95%, 90%)"}
       - { label: "Meta-Magic", value: "Meta-Magic", color: "hsl(13, 95%, 90%)"}
+      - { label: "Sneak", value: "Sneak", color: "hsl(237, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
