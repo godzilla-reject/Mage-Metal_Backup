@@ -6,77 +6,19 @@
       {
         "id": "36b670e4b0128bd5",
         "type": "tabs",
-        "dimension": 58.98936170212766,
         "children": [
           {
-            "id": "b178bec9ec3bcf92",
+            "id": "c9ec2244e9426d4d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -748.0106382978723,
-                  "y": -1030.186170212766,
-                  "zoom": -0.42840472301667265
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -1.1077049764716203
                 }
-              }
-            }
-          },
-          {
-            "id": "c9ec2244e9426d4d",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
-              }
-            }
-          },
-          {
-            "id": "cb31a42675fd0ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3f144c86332093f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "2a7ce8bbc4df2fe7",
-        "type": "tabs",
-        "dimension": 41.01063829787234,
-        "children": [
-          {
-            "id": "9a03be2653b06529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
               }
             }
           }
@@ -154,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -261,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,7 +231,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cb31a42675fd0ee4",
+  "active": "c9ec2244e9426d4d",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",

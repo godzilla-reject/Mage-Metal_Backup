@@ -4,25 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "02ad7af96a14f286",
+        "id": "17f053c3663d253b",
         "type": "tabs",
         "children": [
           {
-            "id": "615a70e395d5eaf4",
+            "id": "7811eee8f9e365a8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -932.1545162679345,
-                  "y": -796.5008785108337,
-                  "zoom": -1.5619597222273114
-                }
+                "file": "zLegacy Notes/Former Dash.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "819a74e222eead65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Utilities/Dashboard.canvas",
+            "file": "Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Utilities/Dashboard.canvas",
+            "file": "Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Utilities/Dashboard.canvas"
+            "file": "Test.md"
           }
         }
       },
@@ -184,6 +196,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "rpg-manager:RPG Manager": false,
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "workspaces:Manage workspace layouts": false,
       "advanced-random-note:Open random note modal": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
@@ -206,8 +221,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2cb163c3aa8d5b6d",
+  "active": "819a74e222eead65",
   "lastOpenFiles": [
+    "zLegacy Notes/Former Dash.md",
+    "Test.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md",
@@ -219,7 +236,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "Design Bible/Design Notes/Design Note-Spell Damage by Rank Chart.md",
     "README.md",
-    "Untitled.md",
     "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
     "Design Bible/Design Notes/Design Note-Pilot Role Metrics.md",
     "Design Bible/Design Notes/Design Note-Mounts.md",

@@ -1,160 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Corpo Deskie",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
-    },
-    {
-      "basename": "History Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
-    },
-    {
-      "basename": "Noble",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
-    },
-    {
-      "basename": "Hegemony Nomad",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
-    },
-    {
-      "basename": "Vague List of Places",
-      "path": "Setting/Vague List of Places.md"
-    },
-    {
-      "basename": "Dusted",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
-    },
-    {
-      "basename": "Politologist",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
-    },
-    {
-      "basename": "History Template",
-      "path": "Templates/Markdown Templates/Mage Templates/History Template.md"
-    },
-    {
-      "basename": "Influencer",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
-    },
-    {
-      "basename": "Alliant Spy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
+      "basename": "Test",
+      "path": "Test.md"
     },
     {
-      "basename": "Elves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
+      "basename": "Former Dash",
+      "path": "zLegacy Notes/Former Dash.md"
     },
     {
       "basename": "Species Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
     },
     {
-      "basename": "Human",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     },
     {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Weapon Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Spell Template.md"
-    },
-    {
-      "basename": "Species Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Shield Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
-    },
-    {
-      "basename": "School Template",
-      "path": "Templates/Markdown Templates/Mage Templates/School Template.md"
-    },
-    {
-      "basename": "Pilot Role Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md"
-    },
-    {
-      "basename": "Perk Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Perk Template.md"
-    },
-    {
-      "basename": "Armor Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Armor Template.md"
-    },
-    {
-      "basename": "Condition Template",
-      "path": "Templates/Markdown Templates/General Templates/Condition Template.md"
-    },
-    {
-      "basename": "Trait Template",
-      "path": "Templates/Markdown Templates/General Templates/Trait Template.md"
-    },
-    {
-      "basename": "Performance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md"
-    },
-    {
-      "basename": "Trance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
-    },
-    {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Trap",
-      "path": "General Rules/Traits Catalog/General/Trap.md"
-    },
-    {
-      "basename": "Diplomacy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
     },
     {
       "basename": "Conditions List",
       "path": "Utilities/Lists/Conditions List.md"
     },
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
     },
     {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+      "basename": "Species Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
+    },
+    {
+      "basename": "Elves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
+    },
+    {
+      "basename": "Human",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
     },
     {
       "basename": "Actions Overview",
@@ -167,6 +55,14 @@
     {
       "basename": "Dice Overview",
       "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "High-Integrity Spine-Replacement Unit",
@@ -199,6 +95,110 @@
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Large-Gauge Scattershells",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
+    },
+    {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+    },
+    {
+      "basename": "High-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Low-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Melee",
+      "path": "General Rules/Traits Catalog/General/Melee.md"
+    },
+    {
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
+      "basename": "Panache",
+      "path": "General Rules/Conditions Catalog/Panache.md"
+    },
+    {
+      "basename": "Bloodied",
+      "path": "General Rules/Conditions Catalog/Detrimental/Bloodied.md"
+    },
+    {
+      "basename": "Invisible",
+      "path": "General Rules/Conditions Catalog/Invisible.md"
+    },
+    {
+      "basename": "Hidden",
+      "path": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
+    },
+    {
+      "basename": "Secret",
+      "path": "General Rules/Traits Catalog/Secret.md"
+    },
+    {
+      "basename": "Set of Tools",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
+    },
+    {
+      "basename": "Manipulate",
+      "path": "General Rules/Traits Catalog/Manipulate.md"
+    },
+    {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
+      "basename": "Sustained",
+      "path": "General Rules/Traits Catalog/Spell-Only/Sustained.md"
+    },
+    {
+      "basename": "Wormik's Torrent",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
+    },
+    {
+      "basename": "Power-Word 'Haste'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
+    },
+    {
+      "basename": "Power-Word 'Ache'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
+    },
+    {
+      "basename": "Flusterdome",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
+    },
+    {
+      "basename": "Hydro-Oscillation Field",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md"
+    },
+    {
+      "basename": "Magical",
+      "path": "General Rules/Traits Catalog/General/Magical.md"
+    },
+    {
+      "basename": "Material",
+      "path": "General Rules/Traits Catalog/Spell-Only/Material.md"
+    },
+    {
+      "basename": "Program",
+      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
+      "basename": "Conditions Database",
+      "path": "General Rules/Conditions Catalog/Conditions Database.md"
+    },
+    {
+      "basename": "Blinded",
+      "path": "General Rules/Conditions Catalog/Detrimental/Blinded.md"
     }
   ],
   "omittedPaths": [],
