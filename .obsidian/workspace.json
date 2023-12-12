@@ -21,8 +21,32 @@
                 }
               }
             }
+          },
+          {
+            "id": "defc63fd98345ced",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+              }
+            }
+          },
+          {
+            "id": "152857318005daee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md"
               }
             }
           },
@@ -241,10 +265,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4e484db0c4e50904",
+  "active": "152857318005daee",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
     "General Rules/Character Mechanics Overview.md",
@@ -261,16 +294,7 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "General Rules/The Favor System/Dice Structure/Dice Overview.md",
     "General Rules/The Favor System/Favor System Primer.md",
-    "General Rules/The Favor System/Action Structure/Actions Overview.md",
-    "Setting/Vague List of Places.md",
-    "Utilities/Lists/Trait List.md",
-    "General Rules/Conditions Catalog/Beneficial/Agile.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
-    "Adventures/Playtest Adventure.md",
     "Adventures",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",

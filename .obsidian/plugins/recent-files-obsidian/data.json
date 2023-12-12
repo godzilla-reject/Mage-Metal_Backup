@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Bonesplitter",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Large-Gauge Scattershells",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
+    },
+    {
+      "basename": "High-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Low-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Laser Charges",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
+    },
+    {
+      "basename": "Lazerpike",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
+    },
+    {
+      "basename": "Thumpthrower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
+    },
+    {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+    },
+    {
+      "basename": "Channeler's Tome",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -113,10 +153,6 @@
       "path": "zLegacy Notes/Former Dash.md"
     },
     {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
       "basename": "Dwaurves",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
     },
@@ -161,44 +197,8 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
-      "basename": "Large-Gauge Scattershells",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
-    },
-    {
-      "basename": "Grabenkanon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
-      "basename": "High-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Low-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
-    },
-    {
       "basename": "Melee",
       "path": "General Rules/Traits Catalog/General/Melee.md"
-    },
-    {
-      "basename": "Panache",
-      "path": "General Rules/Conditions Catalog/Panache.md"
-    },
-    {
-      "basename": "Bloodied",
-      "path": "General Rules/Conditions Catalog/Detrimental/Bloodied.md"
-    },
-    {
-      "basename": "Invisible",
-      "path": "General Rules/Conditions Catalog/Invisible.md"
-    },
-    {
-      "basename": "Hidden",
-      "path": "General Rules/Conditions Catalog/Beneficial/Hidden.md"
-    },
-    {
-      "basename": "Secret",
-      "path": "General Rules/Traits Catalog/Secret.md"
     }
   ],
   "omittedPaths": [],
