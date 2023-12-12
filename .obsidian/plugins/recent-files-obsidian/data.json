@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Block",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
@@ -35,18 +55,6 @@
     {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
-    },
-    {
-      "basename": "Block",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
-    },
-    {
-      "basename": "Dodge",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
     {
       "basename": "Agile",
@@ -85,10 +93,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
     },
     {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
       "basename": "Species Template",
       "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "Human",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "High-Integrity Spine-Replacement Unit",
