@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Dwaurves",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
     },
     {
       "basename": "Trait List",
@@ -47,10 +51,6 @@
     {
       "basename": "Dice Overview",
       "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Skills Database",

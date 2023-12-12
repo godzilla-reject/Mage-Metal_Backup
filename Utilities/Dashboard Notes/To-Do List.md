@@ -47,9 +47,8 @@ cssclasses:
 		- [ ] Monster Database Creation
 		- [ ] Monster Template Creation
 
-- [ ] #####  Balance Passes:
+- [ ] #####  Balance Passes/Updates:
 	- [ ] Species
-		- [ ] Add 
 	- [ ] Histories
 	- [ ] Schools
 	- [ ] Roles
