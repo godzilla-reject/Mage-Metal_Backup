@@ -152,6 +152,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 ^83a377
 
 ### General Proficiencies
+These proficiencies are for abilities that all Mage-Pilots will need, and are therefore, not really optional. 
 >[!column]- ### **Perception:**
 >> [!note] #### *Description*
 >> Perception is how well a character is trained at spotting subtle details, as well as a measure of reaction speed.
@@ -214,6 +215,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >
 
 ### Weaponry Proficiencies
+Weapon proficiencies dictate how well a pilot can use, understand, and engage with weaponry of that specific type.
 >[!column]- ### **Simple  Ranged Weapons**
 >> [!note] #### *Description*
 >> **Key Attribute:**
