@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Corpo Deskie",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
+    },
+    {
+      "basename": "History Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "Noble",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
+    },
+    {
+      "basename": "Hegemony Nomad",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
+    },
+    {
+      "basename": "Vague List of Places",
+      "path": "Setting/Vague List of Places.md"
+    },
+    {
+      "basename": "Dusted",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
+    },
+    {
+      "basename": "Politologist",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
+    },
+    {
+      "basename": "History Template",
+      "path": "Templates/Markdown Templates/Mage Templates/History Template.md"
+    },
+    {
+      "basename": "Influencer",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
+    },
+    {
+      "basename": "Alliant Spy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -19,10 +63,6 @@
     {
       "basename": "Human",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
     },
     {
       "basename": "Utility Notes",
@@ -63,10 +103,6 @@
     {
       "basename": "Perk Template",
       "path": "Templates/Markdown Templates/Mage Templates/Perk Template.md"
-    },
-    {
-      "basename": "History Template",
-      "path": "Templates/Markdown Templates/Mage Templates/History Template.md"
     },
     {
       "basename": "Armor Template",
@@ -163,18 +199,6 @@
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "Large-Gauge Scattershells",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
-    },
-    {
-      "basename": "Grabenkanon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
-      "basename": "High-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
     }
   ],
   "omittedPaths": [],

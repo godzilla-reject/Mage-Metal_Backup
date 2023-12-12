@@ -13,7 +13,7 @@ The Nomads are a small fleet of highly powerful hedge mages that exist outside o
 
 >[!column clear] History Options
 >> [!metadata|text-Center c-p-sm] General Skill Proficiencies
->> - Meta-Magic
+>> - [[Meta-Magic]]
 
 
 

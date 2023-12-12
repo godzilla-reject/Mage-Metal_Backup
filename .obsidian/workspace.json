@@ -6,6 +6,7 @@
       {
         "id": "36b670e4b0128bd5",
         "type": "tabs",
+        "dimension": 58.98936170212766,
         "children": [
           {
             "id": "b178bec9ec3bcf92",
@@ -15,10 +16,67 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
+                  "x": -748.0106382978723,
+                  "y": -1030.186170212766,
                   "zoom": -0.42840472301667265
                 }
+              }
+            }
+          },
+          {
+            "id": "c9ec2244e9426d4d",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+              }
+            }
+          },
+          {
+            "id": "cb31a42675fd0ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3f144c86332093f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2a7ce8bbc4df2fe7",
+        "type": "tabs",
+        "dimension": 41.01063829787234,
+        "children": [
+          {
+            "id": "9a03be2653b06529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -80,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -97,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
               }
             }
           },
@@ -233,14 +290,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b178bec9ec3bcf92",
+  "active": "cb31a42675fd0ee4",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
+    "Setting/Vague List of Places.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
+    "Templates/Markdown Templates/Mage Templates/History Template.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
     "Utilities/Lists/Trait List.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
-    "Utilities/Dashboard.canvas",
     "Tip.md",
     "Templates/Callout styling - Scroller callout.md",
     "Templates/Callout styling - Tabbed callout.md",
@@ -252,16 +319,6 @@
     "Templates/Blockquote styling 01 (3).md",
     "Templates/Blockquote styling 01 (2).md",
     "Templates/Blockquote styling 01 (1).md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Testers.md",
-    "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
-    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
-    "Templates/Markdown Templates/Mage Templates/Species Template.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Templates/Markdown Templates/Mage Templates/Shield Template.md",
-    "Templates/Markdown Templates/Mage Templates/School Template.md",
-    "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md",
-    "Templates/Markdown Templates/Mage Templates/Perk Template.md",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",

@@ -1,14 +1,16 @@
 ---
 Wealth: Unsorted
-Boost:
-Perk:
+Boost: 
+Perk: 
 Completed: false
+Tags:
+  - History
 ---
-# Description
+# Description-`=this.file.name`
 
 >[!info| clear no-i] `=this.file.name` Mechanics
->**Wealth:** `=this.Wealth`   
->**Attribute:** `=this.Boost`
+>**Wealth** | `=this.Wealth`   
+>**Attribute**| `=this.Boost`
 
 >[!column clear] History Options
 >> [!metadata|text-Center c-p-sm] General Skill Proficiencies

@@ -1,0 +1,19 @@
+- Hegemony Locales 
+	- Terrarium - Main Hegemony super-city. Orbits the remnants of  Earth Prime. 
+		- Top Ring
+			- Upper Epitaph
+			- Outer Shells 
+			- Circle Towers
+		- Middle Ring
+			- Lower Epitaph 
+			- Inner Shells 
+			- Bogarten University
+			- Astrareium 
+		- Bottom Ring 
+			- Exhaust Slums 
+			- Little Neon
+			- Industrial Zone
+				- Hydroponics Yards 
+				- Super-Factories
+	- Mars - Home of the Dwaurves 
+	- Venus - Home of the Elves. 
