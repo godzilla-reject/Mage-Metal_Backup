@@ -8,12 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62a12c320b1a7374",
+            "id": "4e484db0c4e50904",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.42840472301667265
+                }
               }
             }
           }
@@ -92,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -236,8 +241,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "62a12c320b1a7374",
+  "active": "4e484db0c4e50904",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
