@@ -81,17 +81,17 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> [!metadata|right] *Expertise Perk: Light Armor Specialist*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
 >> 
->> Increase the Toughness bonus from Infiltrator armor you wear by 1. 
+>> Increase the Toughness bonus from Infiltrator armor you wear by 1. Additionally, while wearing Infiltrator armor, you gain an equipment bonus to **Reflex** skills equal to the *base* Toughness bonus of your armor. 
 >
 >> [!metadata|right] *Masterful Perk: Agile Step*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
 >>
 >> Increase the Toughness bonus from Infiltrator armor you wear by 1. Additionally, you gain a +2 *untyped* bonus to Speed while unarmored or wearing Infiltrator armor. 
 >
->> [!metadata|right] *Legendary Perk: Walk on the Winds*
+>> [!metadata|right] *Legendary Perk: Perfect Evasion*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> 
->> Increase the Toughness bonus from Infiltrator armor you wear by 1. Additionally
+>> Increase the Toughness bonus from Infiltrator armor you wear by 1. Additionally, the first [[Dodge]] check you make each turn automatically succeeds. 
 >
 
 ^059684
@@ -104,19 +104,19 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> [!metadata|right] *Trained Perk:*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
 >> 
->> Increase the Toughness bonus from Mobile armor you wear by 1
+>> Increase the Toughness bonus from Mobile armor you wear by 1. 
 >
 >> [!metadata|right] *Expertise Perk: Medium Armor Specialist*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
 >> 
->> Increase the Toughness bonus from Mobile armor you wear by 1
+>> Increase the Toughness bonus from Mobile armor you wear by 1. Additionally, while wearing Mobile armor, you gain an equipment bonus to **Body** skills equal to the *base* Toughness bonus of your armor.
 >
 >> [!metadata|right] *Masterful Perk:*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
 >>
 >> Increase the Toughness bonus from Mobile armor you wear by 1
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Perfect Persistence*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.* 
 >> 
 >> Increase the Toughness bonus from Mobile armor you wear by 1
@@ -128,25 +128,25 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> 
 >> **Key Attribute: Power**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Deflect Blows*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
 >> 
->> Increase the Toughness bonus from Powered armor you wear by 1
+>> Increase the Toughness bonus from Powered armor you wear by 1. Additionally, you've learned to use robust gauntlets to deflect blows; Powered armor you wear gains the [[Parrying]] trait.
 >
 >> [!metadata|right] *Expertise Perk: Heavy Armor Specialist*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
 >> 
->> Increase the Toughness bonus from Powered armor you wear by 1
+>> Increase the Toughness bonus from Powered armor you wear by 1. Additionally, while wearing Powered armor, you gain an equipment bonus to **Power** skills equal to the *base* Toughness bonus of your armor.
 >
 >> [!metadata|right] *Masterful Perk:*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
 >>
->> Increase the Toughness bonus from Powered armor you wear by 1
+>> Increase the Toughness bonus from Powered armor you wear by 1.
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Perfect Fortress*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> 
->> Increase the Toughness bonus from Powered armor you wear by 1
+>> Increase the Toughness bonus from Powered armor you wear by 1. Additionally, while wearing Powered armor, you gain Resistance to **physical** damage. 
 >
 
 ^83a377

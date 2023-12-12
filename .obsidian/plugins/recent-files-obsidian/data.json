@@ -5,16 +5,24 @@
       "path": "General Rules/Character Mechanics Overview.md"
     },
     {
-      "basename": "Armor Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
-    },
-    {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Block",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
+    },
+    {
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
+      "basename": "Agile",
+      "path": "General Rules/Conditions Catalog/Beneficial/Agile.md"
+    },
+    {
+      "basename": "Armor Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
     },
     {
       "basename": "Pain-Tolerance",
@@ -133,10 +141,6 @@
       "path": "General Rules/Traits Catalog/General/Melee.md"
     },
     {
-      "basename": "Dodge",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
-    },
-    {
       "basename": "Panache",
       "path": "General Rules/Conditions Catalog/Panache.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Magical",
       "path": "General Rules/Traits Catalog/General/Magical.md"
-    },
-    {
-      "basename": "Material",
-      "path": "General Rules/Traits Catalog/Spell-Only/Material.md"
     }
   ],
   "omittedPaths": [],

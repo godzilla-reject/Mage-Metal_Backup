@@ -431,6 +431,7 @@ gauge
 genders
 growing
 grasped
+gauntlets
 from
 first
 freeform
@@ -1613,6 +1614,8 @@ styling
 sailKite
 spies
 specialists
+status
+succeeds
 LANCER
 Learn
 Lancer
@@ -2688,6 +2691,7 @@ People
 Peoples
 Pact
 Powerful
+Persistence
 ABCs
 Apotheosis
 Accessibility
@@ -3012,6 +3016,7 @@ unearned
 untrustworthy
 unclean
 ultimate
+unarmored
 letting
 look
 like
@@ -3159,6 +3164,7 @@ Estimate
 Exploit
 End
 Exhaust
+Evasion
 Use
 Usable
 Unsorted
@@ -3491,6 +3497,7 @@ Family
 Fargraven
 FireIsGood
 Factories
+Fortress
 Dungeons
 Dragons
 Definitely
@@ -3548,6 +3555,8 @@ Disabling
 Device
 Dwaurf
 Doegin
+Defense
+Deflect
 Steve
 Sheets
 Segway
@@ -3806,6 +3815,8 @@ Breaker
 Beast
 Bodungrin
 Blockquote
+Barricade
+Blows
 Varies
 Vast
 Void
