@@ -10,26 +10,25 @@ trait_04:
 trait_05:
 trait_06:
 trait_07:
-health: 20
-mana: 20
+health: 10
+mana: 10
 toughness: 2
-perception: 12
+perception:
+  - name: "Perception"
+    desc: " 18; __lesser darkvision__, __stonesight__"
 languages: Common, Dwaurven
 skills:
-  - name: Athletics
-    desc: "16"
-  - name: Block
-    desc: "12"
+  - name: "Skills"
+    desc: "__Acrobatics__ 14; __Athletics__ 10"
 attributes: [10,10,10,10,10,10]
 abilities_top:
   - name: Top Test Ability 
     desc: Description
-speed: 6
+speed: 6 spaces (Land)
 attacks:
-  - name: 
-    desc:
-spellcasting:
+  - name: Test Attack ●
+    desc: Description
 abilities_bot:
-  - name: 
-    desc:
+  - name: Bottom Test Ability ●●●
+    desc: Description.
 ```

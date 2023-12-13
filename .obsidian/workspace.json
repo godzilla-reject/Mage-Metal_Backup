@@ -23,20 +23,33 @@
             }
           },
           {
-            "id": "1117cab86be5d6d1",
+            "id": "ebcd21bf01d1cbdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Dashboard Notes/Dev Helpers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a187817bfa8e87fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Monster Template.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,8 +267,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1117cab86be5d6d1",
+  "active": "a187817bfa8e87fa",
   "lastOpenFiles": [
+    "Utilities/Dashboard Notes/Dev Helpers.md",
     "Monster Template.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Playing the Game.md",

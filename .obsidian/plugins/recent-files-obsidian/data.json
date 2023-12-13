@@ -5,6 +5,14 @@
       "path": "Monster Template.md"
     },
     {
+      "basename": "Dev Helpers",
+      "path": "Utilities/Dashboard Notes/Dev Helpers.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -185,20 +193,12 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
     },
     {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
       "basename": "Personal Scanner",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
     },
     {
       "basename": "Playtest Adventure",
       "path": "Adventures/Playtest Adventure.md"
-    },
-    {
-      "basename": "Former Dash",
-      "path": "zLegacy Notes/Former Dash.md"
     }
   ],
   "omittedPaths": [],
