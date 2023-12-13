@@ -6767,23 +6767,23 @@
       "modifiedDate": 1702425256093,
       "sizeInBytes": 0
     },
-    "Monster Template.md": {
+    "Templates/Markdown Templates/General Templates/Monster Template.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 77,
+      "wordCount": 80,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.25666666666666665,
-      "characterCount": 613,
-      "nonWhitespaceCharacterCount": 506,
-      "readingTimeInMinutes": 0.29056603773584905,
+      "pageCount": 0.26666666666666666,
+      "characterCount": 681,
+      "nonWhitespaceCharacterCount": 561,
+      "readingTimeInMinutes": 0.3018867924528302,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1702425545897,
-      "modifiedDate": 1702430044007,
-      "sizeInBytes": 621
+      "modifiedDate": 1702432330910,
+      "sizeInBytes": 681
     }
   }
 }

@@ -21,6 +21,10 @@
     {
       "folder": "Player-Facing Rules/Spells/Arcane Spheres Ledger",
       "template": "Templates/Markdown Templates/General Templates/Arcane Sphere Template.md"
+    },
+    {
+      "folder": "GM-Facing Rules/Monsters and Men",
+      "template": "Templates/Markdown Templates/General Templates/Monster Template.md"
     }
   ],
   "syntax_highlighting": true,

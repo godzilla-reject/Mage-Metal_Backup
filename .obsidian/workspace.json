@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monster Template.md",
-                "mode": "source",
+                "file": "Templates/Markdown Templates/General Templates/Monster Template.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monster Template.md",
+                "file": "Templates/Markdown Templates/General Templates/Monster Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monster Template.md",
+                "file": "Templates/Markdown Templates/General Templates/Monster Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monster Template.md"
+                "file": "Templates/Markdown Templates/General Templates/Monster Template.md"
               }
             }
           },
@@ -269,8 +269,10 @@
   },
   "active": "a187817bfa8e87fa",
   "lastOpenFiles": [
+    "GM-Facing Rules/Monsters and Men/Bestiary/Untitled.md",
+    "Templates/Markdown Templates/General Templates/Monster Template.md",
+    "GM-Facing Rules/Monsters and Men/Untitled.md",
     "Utilities/Dashboard Notes/Dev Helpers.md",
-    "Monster Template.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Playing the Game.md",
     "General Rules/Combat/Combat Basics.md",
@@ -296,8 +298,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Adventures",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",

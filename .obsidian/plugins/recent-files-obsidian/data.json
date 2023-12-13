@@ -2,7 +2,7 @@
   "recentFiles": [
     {
       "basename": "Monster Template",
-      "path": "Monster Template.md"
+      "path": "Templates/Markdown Templates/General Templates/Monster Template.md"
     },
     {
       "basename": "Dev Helpers",
@@ -195,10 +195,6 @@
     {
       "basename": "Personal Scanner",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
-    },
-    {
-      "basename": "Playtest Adventure",
-      "path": "Adventures/Playtest Adventure.md"
     }
   ],
   "omittedPaths": [],
