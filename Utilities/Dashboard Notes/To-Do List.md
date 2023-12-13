@@ -44,8 +44,6 @@ cssclasses:
 		- [ ] Monster Design Overview
 		- [ ] Monster Balancing Guidelines and Rules
 		- [x] Mage//Metal Monster Statblock layout ✅ 2023-12-12
-		- [ ] Monster Database Creation
-		- [ ] Monster Template Creation
 
 - [ ] #####  Balance Passes/Updates:
 	- [ ] Species
