@@ -43,7 +43,7 @@ cssclasses:
 	- [ ] 🔼 List for Monsters:
 		- [ ] Monster Design Overview
 		- [ ] Monster Balancing Guidelines and Rules
-		- [ ] Mage//Metal Monster Statblock layout
+		- [x] Mage//Metal Monster Statblock layout ✅ 2023-12-12
 		- [ ] Monster Database Creation
 		- [ ] Monster Template Creation
 
