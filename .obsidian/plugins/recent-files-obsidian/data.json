@@ -5,12 +5,32 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Action List",
-      "path": "General Rules/The Favor System/Action Structure/Action List.md"
+      "basename": "Monster Template",
+      "path": "Monster Template.md"
     },
     {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Playing the Game",
+      "path": "Player-Facing Rules/Playing the Game.md"
+    },
+    {
+      "basename": "Combat Basics",
+      "path": "General Rules/Combat/Combat Basics.md"
+    },
+    {
+      "basename": "Conditions Overview",
+      "path": "GM-Facing Rules/Running The Game/Overviews/Conditions Overview.md"
+    },
+    {
+      "basename": "Traits Overview",
+      "path": "GM-Facing Rules/Running The Game/Overviews/Traits Overview.md"
+    },
+    {
+      "basename": "Action List",
+      "path": "General Rules/The Favor System/Action Structure/Action List.md"
     },
     {
       "basename": "Mage Creation Steps",
@@ -179,26 +199,6 @@
     {
       "basename": "Former Dash",
       "path": "zLegacy Notes/Former Dash.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "Species Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
-    },
-    {
-      "basename": "Elves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
-    },
-    {
-      "basename": "Human",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
-    },
-    {
-      "basename": "Sub-Dermal Self-Integrated Weaponry Holster",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Sub-Dermal Self-Integrated Weaponry Holster.md"
     }
   ],
   "omittedPaths": [],

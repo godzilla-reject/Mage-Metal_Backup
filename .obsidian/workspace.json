@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb9604c875c4ae46",
+            "id": "f1df2c55ba986858",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
+                  "x": -516.7625899280573,
+                  "y": -879.2805755395683,
                   "zoom": -0.726548978220868
                 }
               }
@@ -240,10 +240,57 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fb9604c875c4ae46",
+  "floating": {
+    "id": "8c498c06dac52cfb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "99dbce59bbcd1771",
+        "type": "window",
+        "children": [
+          {
+            "id": "9b62245a84b120ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "63e4aa0d95c31551",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Utilities/Dashboard.canvas",
+                    "viewState": {
+                      "x": -530,
+                      "y": -1010,
+                      "zoom": -0.7199591688605161
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1468,
+        "y": 243,
+        "width": 600,
+        "height": 601,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "63e4aa0d95c31551",
   "lastOpenFiles": [
-    "General Rules/The Favor System/Action Structure/Action List.md",
+    "Monster Template.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Playing the Game.md",
+    "General Rules/Combat/Combat Basics.md",
+    "GM-Facing Rules/Running The Game/Overviews/Conditions Overview.md",
+    "GM-Facing Rules/Running The Game/Overviews",
+    "GM-Facing Rules/Running The Game",
+    "GM-Facing Rules/Running The Game/Overviews/Traits Overview.md",
+    "General Rules/The Favor System/Action Structure/Action List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Spine-Replacement Unit.md",
@@ -263,11 +310,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
-    "General Rules/Character Mechanics Overview.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Adventures",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
@@ -275,8 +317,6 @@
     "Player-Facing Rules/Spells/Spells Database/Essomancy",
     "Player-Facing Rules/Spells/Spell School Registry/Thaumaturgy",
     "Templates/Markdown Templates/DevHelper Templates/Inserts",
-    "Player-Facing Rules/Spells/Spells Database/Resonancia",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator"
+    "Player-Facing Rules/Spells/Spells Database/Resonancia"
   ]
 }
