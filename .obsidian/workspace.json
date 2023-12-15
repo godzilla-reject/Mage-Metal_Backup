@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c24756fbb66b1fb0",
+        "id": "38e7a59c980fb78c",
         "type": "tabs",
         "children": [
           {
-            "id": "cbc97a03cb49f606",
+            "id": "c923770babb49de9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -549.9842022116902,
-                  "y": -994.0126382306478,
+                  "x": -530,
+                  "y": -1010,
                   "zoom": -0.9988599801533312
                 }
               }
@@ -239,7 +239,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a6efdbb03f15d137",
+  "active": "c923770babb49de9",
   "lastOpenFiles": [
     "Utilities/Dashboard Notes/Dev Helpers.md",
     "Templates/Markdown Templates/General Templates/Monster Template.md",
