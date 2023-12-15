@@ -1,14 +1,28 @@
 # Attributes 
 A Metal's Attributes are slightly different from a Mage's; they lack the "mental" Attributes of a Mage-Pilot (which are Mind, Potential, and Tenacity), as well as a measure of reaction speed (Reflex) due to these things being pilot-dependent. It is still the pilot in control, after all, and Metals aren't quite capable of truly acting on their own. 
-## Structure (Power+Body)
+## Structure (Power + Body)
 This is the measure of the physical construction and ability of the Metal. 
 Governs: Health, Toughness, and Melee Damage Bonus 
-## Engineering (Reflex+Tenacity)
-Governs: Heat Limit, 
-## Computation (Mind+Potential)
-Governs: E-Res
+## Engineering (Reflex + Tenacity)
+This is a measure of the quality of the design of a Metal, and this dictates how far one can push the limits of their Metal.
+Governs: Heat Limit, , Speed
+## Computation (Mind + Potential)
+This is the measure of the 
+Governs: Shields Systems Points (SP), Sensor Range, Ranged Accuracy Bonus
 # Statistics
+## Structure 
+- Health 
+- Toughness 
+- Melee Damage Bonus 
+## Engineering
+- Heat Limit 
+- Ranged Accuracy Bonus 
+- Speed 
+## Computation 
+- Electronic-Warfare Resistance
+- System Points 
+- Sensor Range 
 ## Unkeyed 
 These are stats that do not have a keyed Attribute; they are free-standing.
-### Integrity 
-Metals do not enter a death spiral when reduced to 0 Health; instead, they mark off one Integrity and go back to full Health. When a Metal reaches 0 Integrity, it is destroyed.
+- Integrity 
+	- Metals do not enter a death spiral when reduced to 0 Health; instead, they mark off one Integrity and go back to full Health. When a Metal reaches 0 Integrity, it is destroyed.

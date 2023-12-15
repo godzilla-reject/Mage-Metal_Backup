@@ -27,7 +27,7 @@ Derived from their respective Attribute, different Statistics have differing for
 - Carry Weight
 	- Measures how much a character can carry and remain unaffected. A character is considered encumbered when they're over half of their Carry Weight.
 	- Max: Power * 12. 
-- Melee
+- Melee Damage Bonus 
 	- A bonus to melee weapon damage.
 	- Power - 10. 
 ### Body
@@ -41,7 +41,7 @@ Derived from their respective Attribute, different Statistics have differing for
 
 ^323944
 
-- Accuracy
+- Ranged Accuracy Bonus 
 	- A bonus to ranged attack rolls.
 	- Reflex - 8.
 - Speed

@@ -1639,6 +1639,7 @@ status
 succeeds
 stationed
 splitting
+stats
 LANCER
 Learn
 Lancer
@@ -1997,6 +1998,8 @@ desire
 delicate
 dwells
 dependent
+destroyed
+dictates
 ever
 expand
 easy
@@ -2409,6 +2412,7 @@ Rename
 Ring
 Resonancd
 Reactor
+Res
 high
 heavily
 hopes
@@ -2655,6 +2659,7 @@ remnants
 ruffians
 really
 repeat
+reduced
 Pathfinder
 PF
 Philosophy
@@ -3173,6 +3178,7 @@ lawful
 leading
 land
 lack
+limits
 Ease
 Excel
 Escalation
@@ -3225,6 +3231,7 @@ Exhaust
 Evasion
 Engine
 Engineering
+Electronic
 Use
 Usable
 Unsorted
@@ -3249,6 +3256,7 @@ UnComp
 United
 Updates
 University
+Unkeyed
 Complexity
 Could
 Conflicted
@@ -3343,6 +3351,7 @@ Custom
 Components
 Core
 Cores
+Computation
 We
 While
 Write
@@ -3388,6 +3397,7 @@ Water
 Weaponcraft
 Waker
 Walk
+Warfare
 keeping
 keep
 kek
@@ -3405,6 +3415,7 @@ know
 kills
 knowing
 kneecaps
+keyed
 just
 jurisdiction
 justify
@@ -3466,6 +3477,7 @@ Human
 Heavenly
 Hydroponics
 Home
+Heat
 you
 your
 yourself
@@ -3782,6 +3794,8 @@ Skin
 Spirit
 Shell
 Systems
+SP
+Sensor
 Jackson
 Jack
 Juggernaut
