@@ -15,8 +15,8 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
+                  "x": -549.9842022116902,
+                  "y": -994.0126382306478,
                   "zoom": -0.9988599801533312
                 }
               }
@@ -239,7 +239,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cbc97a03cb49f606",
+  "active": "a6efdbb03f15d137",
   "lastOpenFiles": [
     "Utilities/Dashboard Notes/Dev Helpers.md",
     "Templates/Markdown Templates/General Templates/Monster Template.md",
