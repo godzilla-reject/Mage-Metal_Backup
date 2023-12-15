@@ -24,7 +24,7 @@ Those in the Long-Range Ordinance role act as the heavy firepower of their team,
 > **Attribute Boost:** `=this.Attribute`
 > **Armor Proficiency :** `=this.Armor` (`=this.Armor_Training`)
 > **Weapon Proficiency:** `=this.Weapon_Degree` `=this.Weapon_Type` (`=this.Weapon_Training`)
-> **Role Skill:** `link(this.Skill)`
+> **Role Skill:** `=link(this.Skill)`
 
 ## When you select  this Role,  select  a  Specialization. 
 >[!column]+ ***Role Specialization : `=this.Spec_1`*** 

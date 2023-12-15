@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7be6492970323efd",
+        "id": "c24756fbb66b1fb0",
         "type": "tabs",
         "children": [
           {
-            "id": "f1df2c55ba986858",
+            "id": "cbc97a03cb49f606",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -516.7625899280573,
-                  "y": -879.2805755395683,
-                  "zoom": -0.726548978220868
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.9988599801533312
                 }
               }
             }
@@ -207,12 +207,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +239,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f1df2c55ba986858",
+  "active": "cbc97a03cb49f606",
   "lastOpenFiles": [
     "Utilities/Dashboard Notes/Dev Helpers.md",
     "Templates/Markdown Templates/General Templates/Monster Template.md",

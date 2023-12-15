@@ -5,6 +5,50 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Guerilla Tactics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
+    },
+    {
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
+      "basename": "Frontline Vanguard",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
+    },
+    {
+      "basename": "Logistical Controller",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md"
+    },
+    {
+      "basename": "Battlefield Support",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
+    },
+    {
+      "basename": "Long-Range Ordinance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md"
+    },
+    {
+      "basename": "Metal Mechanics Outline",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
+    },
+    {
+      "basename": "Playtest Adventure",
+      "path": "Adventures/Playtest Adventure.md"
+    },
+    {
+      "basename": "Release Adventure Ideas",
+      "path": "Adventures/Release Adventure Ideas.md"
+    },
+    {
+      "basename": "Peoples of the Game Setting",
+      "path": "Setting/Peoples of the Game Setting.md"
+    },
+    {
+      "basename": "GM Advise-The Toolbox and You",
+      "path": "GM-Facing Rules/Running The Game/GM Advise-The Toolbox and You.md"
+    },
+    {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
@@ -117,10 +161,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
     },
     {
-      "basename": "Frontline Vanguard",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
-    },
-    {
       "basename": "Tower",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
     },
@@ -131,10 +171,6 @@
     {
       "basename": "Block",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
-    },
-    {
-      "basename": "Pilot Role Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
     {
       "basename": "Special Perks Database",
@@ -163,38 +199,6 @@
     {
       "basename": "Dodge",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
-    },
-    {
-      "basename": "Dice Overview",
-      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
-    },
-    {
-      "basename": "Favor System Primer",
-      "path": "General Rules/The Favor System/Favor System Primer.md"
-    },
-    {
-      "basename": "Actions Overview",
-      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
-    },
-    {
-      "basename": "Vague List of Places",
-      "path": "Setting/Vague List of Places.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Agile",
-      "path": "General Rules/Conditions Catalog/Beneficial/Agile.md"
-    },
-    {
-      "basename": "Armor Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
-    },
-    {
-      "basename": "Personal Scanner",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
     }
   ],
   "omittedPaths": [],

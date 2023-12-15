@@ -1,0 +1,5 @@
+- United Solar Hegemony
+    - [[Elves]] 
+    - [[Dwaurves]]
+    - [[Human]]
+- 

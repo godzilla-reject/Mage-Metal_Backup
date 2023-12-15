@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "17f053c3663d253b",
+        "id": "48b6bddc20e3f5d1",
         "type": "tabs",
         "children": [
           {
-            "id": "7811eee8f9e365a8",
+            "id": "d012a0724de5be82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zLegacy Notes/Former Dash.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "819a74e222eead65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
+            "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test.md"
+            "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
           }
         }
       },
@@ -221,11 +207,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "819a74e222eead65",
+  "active": "d012a0724de5be82",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+    "Utilities/Dashboard.canvas",
+    "Adventures/Release Adventure Ideas.md",
+    "Setting/Peoples of the Game Setting.md",
+    "GM-Facing Rules/Running The Game/GM Advise-The Toolbox and You.md",
+    "Adventures/Playtest Adventure.md",
     "zLegacy Notes/Former Dash.md",
     "Test.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
@@ -240,9 +236,6 @@
     "Design Bible/Design Notes/Design Note-Pilot Role Metrics.md",
     "Design Bible/Design Notes/Design Note-Mounts.md",
     "General Rules/Traits Catalog/Test Blarg.md",
-    "Templates/Markdown Templates/General Templates/Trait Template.md",
-    "Templates/Markdown Templates/General Templates/Condition Template.md",
-    "Templates/Markdown Templates/General Templates",
-    "Applications of Metal Technologies.md"
+    "Templates/Markdown Templates/General Templates"
   ]
 }
