@@ -11,18 +11,43 @@
             "id": "c923770babb49de9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.9988599801533312
-                }
+                "file": "Templates/Markdown Templates/Metal Templates/Frame Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5c3d7f46d54f9d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "29c274ab8e20e0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Metals/Untitled.md"
               }
             }
           },
@@ -211,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,13 +265,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c923770babb49de9",
+  "active": "29c274ab8e20e0d2",
   "lastOpenFiles": [
+    "Design Bible/Design Notes/Design Note-Mounts.md",
+    "Player-Facing Rules/Character Creation/Metals/Untitled.md",
+    "Templates/Markdown Templates/Mage Templates/Shield Template.md",
+    "Templates/Markdown Templates/Metal Templates/Frame Template.md",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+    "Utilities/Dashboard Notes/To-Do List.md",
     "Utilities/Dashboard Notes/Dev Helpers.md",
     "Templates/Markdown Templates/General Templates/Monster Template.md",
     "GM-Facing Rules/Monsters and Men/Bestiary/Untitled.md",
     "GM-Facing Rules/Monsters and Men/Untitled.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Playing the Game.md",
     "General Rules/Combat/Combat Basics.md",
     "GM-Facing Rules/Running The Game/Overviews/Conditions Overview.md",
@@ -264,12 +296,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
     "Adventures",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",

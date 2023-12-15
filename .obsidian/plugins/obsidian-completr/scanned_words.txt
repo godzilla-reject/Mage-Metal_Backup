@@ -217,6 +217,7 @@ invisibility
 icon
 individual
 inscribed
+iteration
 the
 takes
 titans
@@ -1673,6 +1674,7 @@ Loud
 Locales
 Lower
 Little
+Layer
 The
 Tenets
 This
@@ -1990,6 +1992,7 @@ dishonor
 dawn
 desire
 delicate
+dwells
 ever
 expand
 easy
@@ -2310,6 +2313,7 @@ parties
 parents
 pseudometa
 piloting
+plan
 RP
 RPGs
 Ryutama
@@ -2399,6 +2403,8 @@ Rewording
 Rework
 Rename
 Ring
+Resonancd
+Reactor
 high
 heavily
 hopes
@@ -2970,6 +2976,7 @@ minimal
 monsters
 maneuvers
 maul
+moves
 GURPS
 Google
 Greyhawk
@@ -3006,6 +3013,7 @@ Guard
 Graceful
 Given
 Gigantua
+Gains
 utmost
 use
 up
@@ -3210,6 +3218,7 @@ Exploit
 End
 Exhaust
 Evasion
+Engine
 Use
 Usable
 Unsorted
@@ -3325,6 +3334,9 @@ Clade
 Collection
 Callout
 Custom
+Components
+Core
+Cores
 We
 While
 Write
@@ -3548,6 +3560,7 @@ Factories
 Fortress
 Fit
 Fringe
+Frames
 Dungeons
 Dragons
 Definitely
@@ -3607,6 +3620,8 @@ Dwaurf
 Doegin
 Defense
 Deflect
+Dependant
+Determine
 Steve
 Sheets
 Segway
@@ -3758,6 +3773,9 @@ Scroller
 Sidenote
 Spoiler
 Skin
+Spirit
+Shell
+Systems
 Jackson
 Jack
 Juggernaut
@@ -3873,6 +3891,8 @@ Blows
 Bogarten
 Bottom
 Beasts
+Base
+Bonds
 Varies
 Vast
 Void
@@ -3920,6 +3940,7 @@ Key
 Knowledge
 Kotri
 Kazva
+Kaiju
 Quantum
 Quirks
 Quick

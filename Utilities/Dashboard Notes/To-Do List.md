@@ -12,20 +12,19 @@ cssclasses:
 		- [ ] Combat Basics
 		- [ ] Playing The Game
 	- [ ]  To-Do For: Mage Section of Character Creation (YAY)
-		- [x] ⏫ Get Spells Database to 100% complete markers. ✅ 2023-12-12
-			- [x] Add two Resonance Spells ✅ 2023-11-28
-				- [x] Summoning Resonance ✅ 2023-11-28
-				- [x] Combination Resonance ✅ 2023-11-28
-			- [x] Add 2-4 Escalation Spells ✅ 2023-11-28
-				- [x] Something that is life for damage (one shot spell) ✅ 2023-11-28
-				- [x] Something that revives a fallen ally. ✅ 2023-11-28
-			- [x] Add rank 1, 2 and 3 Hydrophasia spells. ✅ 2023-11-17
-				- [x] 1 ✅ 2023-11-16
-				- [x] 2 ✅ 2023-11-16
-				- [x] 3 ✅ 2023-11-28
 		- [ ]  ⏫  Get Skills Database to 100% complete markers.
 		- [ ]  ⏫  Get Matthew to redo character creation.
-	- [ ]  🔽  To-Do For: Metal Section of Character Creation
+	- [ ]  ⏫   To-Do For: Metal Section of Character Creation
+		- [ ] Determine [[Metal Creation Steps]] 
+		- [ ] Metal Frames 
+			- [ ] Create the Metal Frame Database 
+			- [ ] Create the Metal Frame Template
+		- [ ] Metal Shells 
+			- [ ] Create the Metal Shell Database 
+			- [ ] Create the Metal Shell Template 
+		- [ ] Metal Cores 
+			- [ ] Create the Metal Core Database 
+			- [ ] Create the Metal Core Template 
 		- [ ]  Metal Equipment Ideas:
 			- [ ] Great-Blade (Super-Primary)
 			- [ ] Scrap-Launcher (Super-Primary) (think Roadhog)
