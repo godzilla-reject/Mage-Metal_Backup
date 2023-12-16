@@ -6,7 +6,7 @@
       {
         "id": "499fd3083f486444",
         "type": "tabs",
-        "dimension": 75.2127659574468,
+        "dimension": 50.95744680851064,
         "children": [
           {
             "id": "806bd02b43532a24",
@@ -55,7 +55,7 @@
       {
         "id": "884439d76d133c22",
         "type": "tabs",
-        "dimension": 24.78723404255319,
+        "dimension": 49.04255319148936,
         "children": [
           {
             "id": "1cbf1e9a490849af",
@@ -77,13 +77,14 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Rules/Character Mechanics Overview.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Rules/Character Mechanics Overview.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Rules/Character Mechanics Overview.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
               }
             }
           },
@@ -302,11 +303,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1cbf1e9a490849af",
+  "active": "bed095d2308aa4b4",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-    "Templates/Markdown Templates/Metal Templates/Frame Template.md",
     "General Rules/Character Mechanics Overview.md",
+    "Templates/Markdown Templates/Metal Templates/Frame Template.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
     "Utilities/Dashboard.canvas",
     "Design Bible/Design Notes/Design Note-Mounts.md",

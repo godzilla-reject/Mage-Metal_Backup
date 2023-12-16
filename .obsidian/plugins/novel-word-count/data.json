@@ -3441,19 +3441,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 60,
+      "wordCount": 66,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2,
-      "characterCount": 412,
-      "nonWhitespaceCharacterCount": 327,
-      "readingTimeInMinutes": 0.22641509433962265,
+      "pageCount": 0.22,
+      "characterCount": 456,
+      "nonWhitespaceCharacterCount": 362,
+      "readingTimeInMinutes": 0.2490566037735849,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1702629084927,
-      "modifiedDate": 1702548740186,
-      "sizeInBytes": 412
+      "modifiedDate": 1702699843743,
+      "sizeInBytes": 456
     },
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md": {
       "isCountable": true,
@@ -3470,7 +3470,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1702672739895,
-      "modifiedDate": 1702699291939,
+      "modifiedDate": 1702699739250,
       "sizeInBytes": 2268
     },
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md": {

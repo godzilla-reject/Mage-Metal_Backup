@@ -34,13 +34,13 @@ Derived from their respective Attribute, different Statistics have differing for
 ## Computation  
 - Ranged Accuracy Bonus
 	- A bonus to ranged *attack rolls.*
-	- Computation - 16
+	- Computation - 25
 - System Points 
 	- How many systems the on-board computer can run in parallel.
 	- Computation/8
 - Sensor Range 
 	- How many spaces the Metal's perception sensors can detect other Metals and creatures.
-	- Computation/5
+	- Computation/2
 ## Unkeyed 
 These are stats that do not have a keyed Attribute; they are free-standing.
 - Integrity 
