@@ -20,7 +20,7 @@ Derived from their respective Attribute, different Statistics have differing for
 	- Structure/6
 - Melee Damage Bonus 
 	- A bonus to Melee damage. 
-	- Structure - 20
+	- Structure - 24
 ## Engineering
 - Heat Limit 
 	- How much heat the S-R<sup>2</sup> Engine can accrue before entering [[Meltdown]], and then [[Criticality]]. 
@@ -30,7 +30,7 @@ Derived from their respective Attribute, different Statistics have differing for
 	- Max Shield = Engineering * Tier
 - Speed 
 	- How far a Metal can move in 12 seconds. 
-	- Engineering/10
+	- Engineering/4
 ## Computation  
 - Ranged Accuracy Bonus
 	- A bonus to ranged *attack rolls.*

@@ -3463,15 +3463,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.2466666666666666,
-      "characterCount": 2268,
-      "nonWhitespaceCharacterCount": 1855,
+      "characterCount": 2267,
+      "nonWhitespaceCharacterCount": 1854,
       "readingTimeInMinutes": 1.411320754716981,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1702672739895,
-      "modifiedDate": 1702698964279,
-      "sizeInBytes": 2269
+      "modifiedDate": 1702699291939,
+      "sizeInBytes": 2268
     },
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md": {
       "isCountable": true,
