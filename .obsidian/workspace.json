@@ -4,67 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38e7a59c980fb78c",
+        "id": "499fd3083f486444",
         "type": "tabs",
-        "dimension": 66.17021276595744,
         "children": [
           {
-            "id": "c923770babb49de9",
+            "id": "806bd02b43532a24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Templates/Markdown Templates/Metal Templates/Frame Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5c3d7f46d54f9d57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "29c274ab8e20e0d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "691718b876edfb04",
-        "type": "tabs",
-        "dimension": 33.829787234042556,
-        "children": [
-          {
-            "id": "a0ba924a25875e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Rules/Character Mechanics Overview.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.644925777151695
+                }
               }
             }
           }
@@ -143,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -258,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,7 +240,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "29c274ab8e20e0d2",
+  "active": "806bd02b43532a24",
   "lastOpenFiles": [
     "General Rules/Character Mechanics Overview.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
