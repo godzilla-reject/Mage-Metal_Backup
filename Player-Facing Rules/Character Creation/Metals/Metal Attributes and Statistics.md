@@ -25,7 +25,7 @@ Derived from their respective Attribute, different Statistics have differing for
 - Heat Limit 
 	- How much heat the S-R<sup>2</sup> Engine can accrue before entering [[Meltdown]], and then [[Criticality]]. 
 	- Max Heat: Engineering/2
-- Shields 
+- Barrier 
 	- An meta-ablative barrier that further protects from damage.
 	- Max Shield = Engineering * Tier
 - Speed 
