@@ -5,16 +5,16 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
+      "basename": "Frame Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Frame Template.md"
+    },
+    {
       "basename": "Character Mechanics Overview",
       "path": "General Rules/Character Mechanics Overview.md"
     },
     {
       "basename": "Metal Mechanics Outline",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "Frame Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Frame Template.md"
     },
     {
       "basename": "Dashboard",

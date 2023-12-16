@@ -14,19 +14,20 @@ Derived from their respective Attribute, different Statistics have differing for
 ## Structure 
 - Health 
 	- How much punishment a Metal's hull can sustain before facing Integrity failure.
-	- Max Health=Structure 
+	- Max Health=Structure
 - Toughness 
 	- A Metal's resistance to damage.
-	- Structure/12
+	- Structure/6
 - Melee Damage Bonus 
 	- A bonus to Melee damage. 
 	- Structure - 20
 ## Engineering
 - Heat Limit 
-	- How much heat the S-R<sup>2</sup> Engine can accrue before entering [[Meltdown]], and then [[Criticality]].  
+	- How much heat the S-R<sup>2</sup> Engine can accrue before entering [[Meltdown]], and then [[Criticality]]. 
+	- Max Heat: Engineering/2
 - Shields 
 	- An meta-ablative barrier that further protects from damage.
-	- Max Shield = Engineering * 2
+	- Max Shield = Engineering * Tier
 - Speed 
 	- How far a Metal can move in 12 seconds. 
 	- Engineering/10
