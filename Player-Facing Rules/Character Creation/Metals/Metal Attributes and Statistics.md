@@ -5,23 +5,41 @@ This is the measure of the physical construction and ability of the Metal.
 Governs: Health, Toughness, and Melee Damage Bonus 
 ## Engineering (Reflex + Tenacity)
 This is a measure of the quality of the design of a Metal, and this dictates how far one can push the limits of their Metal.
-Governs: Heat Limit, , Speed
+Governs: Heat Limit, Shields, Speed
 ## Computation (Mind + Potential)
-This is the measure of the 
-Governs: Shields Systems Points (SP), Sensor Range, Ranged Accuracy Bonus
+This is the measure of the computational ability of the on-board abilities 
+Governs: Systems Points (SP), Sensor Range, Ranged Accuracy Bonus
 # Statistics
+Derived from their respective Attribute, different Statistics have differing formulae for calculating them. If a Stat would have a decimal, round *down.*
 ## Structure 
 - Health 
+	- How much punishment a Metal's hull can sustain before facing Integrity failure.
+	- Max Health=Structure 
 - Toughness 
+	- A Metal's resistance to damage.
+	- Structure/12
 - Melee Damage Bonus 
+	- A bonus to Melee damage. 
+	- Structure - 20
 ## Engineering
 - Heat Limit 
-- Ranged Accuracy Bonus 
+	- How much heat the S-R<sup>2</sup> Engine can accrue before entering [[Meltdown]], and then [[Criticality]].  
+- Shields 
+	- An meta-ablative barrier that further protects from damage.
+	- Max Shield = Engineering * 2
 - Speed 
-## Computation 
-- Electronic-Warfare Resistance
+	- How far a Metal can move in 12 seconds. 
+	- Engineering/10
+## Computation  
+- Ranged Accuracy Bonus
+	- A bonus to ranged *attack rolls.*
+	- Computation - 16
 - System Points 
+	- How many systems the on-board computer can run in parallel.
+	- Computation/8
 - Sensor Range 
+	- How many spaces the Metal's perception sensors can detect other Metals and creatures.
+	- Computation/5
 ## Unkeyed 
 These are stats that do not have a keyed Attribute; they are free-standing.
 - Integrity 
