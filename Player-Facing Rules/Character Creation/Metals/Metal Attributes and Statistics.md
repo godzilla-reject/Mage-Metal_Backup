@@ -17,7 +17,7 @@ Derived from their respective Attribute, different Statistics have differing for
 	- Max Health=Structure
 - Toughness 
 	- A Metal's resistance to damage.
-	- Structure/6
+	- Structure/3
 - Melee Damage Bonus 
 	- A bonus to Melee damage. 
 	- Structure - 15
@@ -30,7 +30,7 @@ Derived from their respective Attribute, different Statistics have differing for
 	- Max Shield = Engineering * Tier
 - Speed 
 	- How far a Metal can move in 12 seconds. 
-	- Engineering/4
+	- Engineering/2
 ## Computation  
 - Ranged Accuracy Bonus
 	- A bonus to ranged *attack rolls.*
@@ -40,7 +40,7 @@ Derived from their respective Attribute, different Statistics have differing for
 	- Computation/8
 - Sensor Range 
 	- How many spaces the Metal's perception sensors can detect other Metals and creatures.
-	- Computation/2
+	- Computation
 ## Unkeyed 
 These are stats that do not have a keyed Attribute; they are free-standing.
 - Integrity 
