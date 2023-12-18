@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
+      "basename": "Metal Frame Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "BF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Balanced/BF-002.md"
+    },
+    {
+      "basename": "BF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Balanced/BF-001.md"
+    },
+    {
+      "basename": "Metal Frame Design Reference",
+      "path": "Utilities/Design References/Metal Frame Design Reference.md"
+    },
+    {
+      "basename": "LF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Light/LF-002.md"
+    },
+    {
+      "basename": "LF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Light/LF-001.md"
+    },
+    {
+      "basename": "Design Note-Mounts",
+      "path": "Design Bible/Design Notes/Design Note-Mounts.md"
+    },
+    {
+      "basename": "ULF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Ultralight/ULF-002.md"
     },
     {
       "basename": "Metal Mechanics Outline",
@@ -17,20 +41,32 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
+      "basename": "ULF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Ultralight/ULF-001.md"
     },
     {
       "basename": "Frame Template",
       "path": "Templates/Markdown Templates/Metal Templates/Frame Template.md"
     },
     {
-      "basename": "Design Note-Mounts",
-      "path": "Design Bible/Design Notes/Design Note-Mounts.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Pilot Role Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md"
     },
     {
       "basename": "Shield Template",
       "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
     },
     {
       "basename": "Guerilla Tactics",
@@ -163,42 +199,6 @@
     {
       "basename": "Lazerpike",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
-    },
-    {
-      "basename": "Thumpthrower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
-    },
-    {
-      "basename": "Grabenkanon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
-      "basename": "Channeler's Tome",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
-    },
-    {
-      "basename": "Species Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
-    },
-    {
-      "basename": "Tower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
-    },
-    {
-      "basename": "Block",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
-    },
-    {
-      "basename": "Special Perks Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     }
   ],
   "omittedPaths": [],
