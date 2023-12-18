@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "499fd3083f486444",
+        "id": "9f93826e957943a8",
         "type": "tabs",
-        "dimension": 50.851063829787236,
         "children": [
           {
-            "id": "806bd02b43532a24",
+            "id": "5bda5ac8dfcef81d",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -18,73 +17,12 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.644925777151695
+                  "zoom": -0.42840472301667265
                 }
               }
             }
-          },
-          {
-            "id": "38b5ea0402ca573f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Markdown Templates/Metal Templates/Frame Template.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9a68ca89642f28a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "884439d76d133c22",
-        "type": "tabs",
-        "dimension": 49.148936170212764,
-        "children": [
-          {
-            "id": "1cbf1e9a490849af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Rules/Character Mechanics Overview.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bed095d2308aa4b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -159,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -303,7 +240,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bed095d2308aa4b4",
+  "active": "5bda5ac8dfcef81d",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
