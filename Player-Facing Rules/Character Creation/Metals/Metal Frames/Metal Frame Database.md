@@ -21,7 +21,9 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -114,8 +116,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
-      footer_type: none
+      footer_type: percent_filled
       persist_changes: false
+      footer_formula: 
   Tags:
     input: tags
     accessorKey: Tags
@@ -228,6 +231,7 @@ columns:
       - { label: "Light", value: "Light", color: "hsl(342, 95%, 90%)"}
       - { label: "Balanced", value: "Balanced", color: "hsl(248, 95%, 90%)"}
       - { label: "Heavy", value: "Heavy", color: "hsl(281, 95%, 90%)"}
+      - { label: "Superheavy", value: "Superheavy", color: "hsl(146, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

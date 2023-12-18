@@ -1,9 +1,19 @@
 - Attributes same as previous iteration. 
 - Primary Components 
     - Frame (Base Layer; determines body plan, size, and mounts.)
-    - Soul Core (Spirit that dwells within the S-R^2 ((Soul-Resonance Reactor)) Engine. Gains new powers, called Bonds, each tier.)
-        - Kaiju Integrated System moves to here.
-    - Shell (Dependent on Pilot Role; determines armor type and mounts.)
+    - Shell
+	    - Limited by Pilot Role.
+	    - Granted Features 
+		    - Armor type (Affected by proficiency perks.)
+		    - 2 weapon mounts 
+			    - Heavy mounts are exclusive to Powered armor shells.
+			- Single Special Ability (Intrinsic) that upgrades with quality.
+	- Soul Core (Spirit that dwells within the S-R^2 ((Soul-Resonance Reactor)) Engine. Gains new powers, called Bonds, each tier.)
+		- Limited by School/Sphere of School
+		- Granted Features 
+			- Passive 
+			- Core ability that upgrades with quality.
+			- Deus Ex Machina: special ability that unlocks at Divine quality; usage destroys Metal and Mage unless the Mage's Soul has ignite.
  - Secondary Components 
 	 - Systems (Equipment for Metals)
 	 - Weapons 

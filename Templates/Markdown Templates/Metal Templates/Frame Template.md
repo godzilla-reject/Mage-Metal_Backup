@@ -1,7 +1,7 @@
 ---
 
 ---
-# `=this.Class` Frame: `=this.file.name` "`=this.Title`"
+# `=this.Class` Frame "`=this.Title`"
 
 >[!info] ### Mechanics 
 |                   |                     |

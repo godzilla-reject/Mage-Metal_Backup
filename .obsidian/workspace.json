@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "bbdd300a7d7765cc",
+        "id": "6e27ad2b664e9172",
         "type": "tabs",
         "children": [
           {
-            "id": "2fbb558d864c070a",
+            "id": "9424481ea66e2e20",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Metal Creation Steps",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "10d85b3e781c1416",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,11 +44,27 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e718a713641deee9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "Metal Frame Database",
-                  "icon": "database-folder-icon",
-                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md\"}}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
@@ -32,12 +76,13 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.644925777151695
+                  "zoom": -0.42840472301667265
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -367,7 +412,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -400,16 +445,28 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2fbb558d864c070a",
+  "active": "e718a713641deee9",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
     "Templates/Markdown Templates/Metal Templates/Frame Template.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy/SHF-002.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy/SHF-001.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy",
+    "Player-Facing Rules/Character Creation/Metals/Metal Frames/Heavy/HF-002.md",
+    "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Frames/Heavy/HF-001.md",
+    "General Rules/Traits Catalog/Weapon-Only/Flurry.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Frames/Balanced/BF-002.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Frames/Balanced/BF-001.md",
+    "Utilities/Design References/Metal Frame Design Reference.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames",
     "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md",
     "Templates/Markdown Templates/Mage Templates/Shield Template.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
     "General Rules/Character Mechanics Overview.md",
     "Design Bible/Design Notes/Design Note-Mounts.md",
     "Utilities/Dashboard Notes/To-Do List.md",
@@ -419,24 +476,13 @@
     "GM-Facing Rules/Monsters and Men/Untitled.md",
     "Player-Facing Rules/Playing the Game.md",
     "General Rules/Combat/Combat Basics.md",
-    "GM-Facing Rules/Running The Game/Overviews/Conditions Overview.md",
     "GM-Facing Rules/Running The Game/Overviews",
     "GM-Facing Rules/Running The Game",
-    "GM-Facing Rules/Running The Game/Overviews/Traits Overview.md",
-    "General Rules/The Favor System/Action Structure/Action List.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Spine-Replacement Unit.md",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
-    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md",
-    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
-    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
     "Adventures",
     "Player-Facing Rules/Spells/Spells Database/Ess",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome",
     "Player-Facing Rules/Spells/Spells Database/Essomancy",
-    "Player-Facing Rules/Spells/Spell School Registry/Thaumaturgy",
-    "Templates/Markdown Templates/DevHelper Templates/Inserts"
+    "Player-Facing Rules/Spells/Spell School Registry/Thaumaturgy"
   ]
 }

@@ -5,8 +5,52 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
+      "basename": "Metal Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
+      "basename": "Metal Mechanics Outline",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
+    },
+    {
+      "basename": "Frame Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Frame Template.md"
+    },
+    {
       "basename": "Metal Frame Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md"
+    },
+    {
+      "basename": "SHF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy/SHF-002.md"
+    },
+    {
+      "basename": "SHF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy/SHF-001.md"
+    },
+    {
+      "basename": "HF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Heavy/HF-002.md"
+    },
+    {
+      "basename": "Electroflex",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
+    },
+    {
+      "basename": "HF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Heavy/HF-001.md"
+    },
+    {
+      "basename": "Flurry",
+      "path": "General Rules/Traits Catalog/Weapon-Only/Flurry.md"
     },
     {
       "basename": "BF-002",
@@ -37,20 +81,8 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Ultralight/ULF-002.md"
     },
     {
-      "basename": "Metal Mechanics Outline",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
       "basename": "ULF-001",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Ultralight/ULF-001.md"
-    },
-    {
-      "basename": "Frame Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Frame Template.md"
     },
     {
       "basename": "Pilot Role Template",
@@ -141,10 +173,6 @@
       "path": "General Rules/The Favor System/Action Structure/Action List.md"
     },
     {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Harm Wounds",
       "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md"
-    },
-    {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "Bonesplitter",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md"
-    },
-    {
-      "basename": "Large-Gauge Scattershells",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
-    },
-    {
-      "basename": "High-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Low-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Laser Charges",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
-    },
-    {
-      "basename": "Lazerpike",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
     }
   ],
   "omittedPaths": [],
