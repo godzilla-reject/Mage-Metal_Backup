@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Shield Template",
       "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Guerilla Tactics",
