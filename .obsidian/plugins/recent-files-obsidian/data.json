@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Metal Frame Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Frame Template",
       "path": "Templates/Markdown Templates/Metal Templates/Frame Template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Pilot Role Template",

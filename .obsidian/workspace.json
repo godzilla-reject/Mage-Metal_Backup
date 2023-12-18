@@ -16,35 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md"
-              }
-            }
-          },
-          {
-            "id": "f4218bc390d9298f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
+                  "title": "Metal Frame Database",
+                  "icon": "database-folder-icon",
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md\"}}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.644925777151695
+                }
               }
             }
           }
@@ -168,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -378,12 +367,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -410,53 +398,6 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-memos:Memos": false
     }
-  },
-  "floating": {
-    "id": "d53c2a4420256766",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1419762bbf6c3c95",
-        "type": "window",
-        "children": [
-          {
-            "id": "196704c953d85d8c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b349716671d96ef2",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/Markdown Templates/Metal Templates/Frame Template.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 657,
-        "y": 8,
-        "width": 1528,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
   },
   "active": "2fbb558d864c070a",
   "lastOpenFiles": [
