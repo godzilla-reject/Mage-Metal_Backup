@@ -30,6 +30,28 @@
                 }
               }
             }
+          },
+          {
+            "id": "2e259aec254915ac",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -365,7 +387,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -395,8 +418,9 @@
   },
   "active": "e815594543aa9b56",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
     "Templates/Markdown Templates/Metal Templates/Frame Template.md",
@@ -411,7 +435,6 @@
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Balanced/BF-002.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Balanced/BF-001.md",
     "Utilities/Design References/Metal Frame Design Reference.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames",
     "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md",
     "Templates/Markdown Templates/Mage Templates/Shield Template.md",
@@ -423,7 +446,6 @@
     "GM-Facing Rules/Monsters and Men/Bestiary/Untitled.md",
     "GM-Facing Rules/Monsters and Men/Untitled.md",
     "Player-Facing Rules/Playing the Game.md",
-    "General Rules/Combat/Combat Basics.md",
     "GM-Facing Rules/Running The Game/Overviews",
     "GM-Facing Rules/Running The Game",
     "Adventures",

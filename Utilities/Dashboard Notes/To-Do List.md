@@ -16,9 +16,9 @@ cssclasses:
 		- [ ]  ⏫  Get Matthew to redo character creation.
 	- [ ]  ⏫   To-Do For: Metal Section of Character Creation
 		- [ ] Determine [[Metal Creation Steps]] 
-		- [ ] Metal Frames 
-			- [ ] Create the Metal Frame Database 
-			- [ ] Create the Metal Frame Template
+		- [x] Metal Frames ✅ 2023-12-18
+			- [x] Create the Metal Frame Database ✅ 2023-12-18
+			- [x] Create the Metal Frame Template ✅ 2023-12-18
 		- [ ] Metal Shells 
 			- [ ] Create the Metal Shell Database 
 			- [ ] Create the Metal Shell Template 
