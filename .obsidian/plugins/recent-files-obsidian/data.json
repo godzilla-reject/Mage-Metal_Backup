@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Shell Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
+    },
+    {
+      "basename": "Frame Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Frame Template.md"
+    },
+    {
+      "basename": "Metal Mechanics Outline",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -9,24 +25,12 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
     },
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
       "basename": "Metal Attributes and Statistics",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
       "basename": "Mage Creation Steps",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "Metal Mechanics Outline",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "Frame Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Frame Template.md"
     },
     {
       "basename": "Metal Frame Database",
@@ -195,10 +199,6 @@
     {
       "basename": "Escaton's Boulder Fists",
       "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
-    },
-    {
-      "basename": "Harm Wounds",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md"
     }
   ],
   "omittedPaths": [],
