@@ -4,61 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e27ad2b664e9172",
+        "id": "fcb29706effc94dc",
         "type": "tabs",
         "children": [
           {
-            "id": "9424481ea66e2e20",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Metal Creation Steps",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "10d85b3e781c1416",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e718a713641deee9",
+            "id": "e815594543aa9b56",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -76,13 +26,12 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.42840472301667265
+                  "zoom": -0.644925777151695
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -412,12 +361,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -445,7 +393,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e718a713641deee9",
+  "active": "e815594543aa9b56",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
