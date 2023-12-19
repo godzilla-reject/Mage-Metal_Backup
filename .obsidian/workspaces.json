@@ -2211,7 +2211,559 @@
         }
       },
       "active": "37e6ff7c841c8e7f"
+    },
+    "Shell Creation": {
+      "main": {
+        "id": "8d1eeee8b5cc10e5",
+        "type": "split",
+        "children": [
+          {
+            "id": "fcb29706effc94dc",
+            "type": "tabs",
+            "dimension": 61.27659574468085,
+            "children": [
+              {
+                "id": "e815594543aa9b56",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Utilities/Dashboard.canvas",
+                    "viewState": {
+                      "x": -530,
+                      "y": -1010,
+                      "zoom": -0.644925777151695
+                    }
+                  }
+                }
+              },
+              {
+                "id": "5ad9c5cef6eaffa1",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Metal Mechanics Outline",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "eaa1e3b3428b6fc5",
+            "type": "tabs",
+            "dimension": 38.72340425531915,
+            "children": [
+              {
+                "id": "81c6275f97e698d3",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 1,
+                  "stack": [
+                    {
+                      "title": "Metal Shell Design Reference",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Utilities/Design References/Metal Shell Design Reference.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+                  }
+                }
+              },
+              {
+                "id": "f5a75a874fbbe90a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Markdown Templates/Metal Templates/Shell Template.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "cc748a0655fc475f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "ef4f4e4e8ff18955",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Pilot Role Database",
+                      "icon": "database-folder-icon",
+                      "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md\"}}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Utilities/Design References/Metal Shell Design Reference.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "625293d19bee183f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Design Bible/Design Notes/Design Note-Mounts.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c7c8f8b07364a828",
+        "type": "split",
+        "children": [
+          {
+            "id": "0ee470924da31ab3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a6efdbb03f15d137",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d968026dfd4f0b4b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:##todo",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fac67c8071a3cd9d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3b93557265589f72",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 341.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "69a6a1297e44ad1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "82a6dd916793e22e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "508dc443b848b433",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f90135100ca5f4f6",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a3b467e93ea37d98",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "3ad2454c886ecebf",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
+                  }
+                }
+              },
+              {
+                "id": "35bd1d52bac4ea59",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "21cebfc490467c84",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6d5e9e67247021af",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "mathpad-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2563114bbac86f0c",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4739661f3573ba43",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d7a3e427e71d5d3e",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d9993422e933ec23",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "8753d1336babb804",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 262.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "dbfolder:Create a new database table": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": false,
+          "fantasy-content-generator:Fantasy Generators": false,
+          "homepage:Open homepage": false,
+          "rpg-manager:RPG Manager": false,
+          "initiative-tracker:Initiative Tracker Encounter Builder": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "obsidian-5e-statblocks:Open Creature Pane": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "advanced-random-note:Open random note modal": false,
+          "chronology:Open Chronology": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "5ad9c5cef6eaffa1"
     }
   },
-  "active": "Frame Creation"
+  "active": "Shell Creation"
 }

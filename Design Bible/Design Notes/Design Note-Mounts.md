@@ -3,7 +3,7 @@ Much like LANCER, Metal weapons are installed on Mounts. Multiple kinds of mount
 Notes on Mounts:
 - Each mount is worth a number of points
 - Each kind of Frame has a certain number of points that their mounts must add up to.
-- Each Type provides one mount, regardless. 
+- Each Shell provides two mounts, one of which correlates to the armor type of the Shell.
 
 - Mounts
 	- Heavy: 50
