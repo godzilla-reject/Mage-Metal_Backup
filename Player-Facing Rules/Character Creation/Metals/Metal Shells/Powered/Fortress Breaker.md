@@ -9,6 +9,7 @@ Computation: 2
 ---
 # `=this.file.name` Shell 
 ***Requirements:*** *[[Frontline Vanguard]] Pilot Role*
+
 Named for the Shell's main strength, which is shattering the walls of fortresses, this Shell is preferred by Bastions and Juggernauts alike. 
 >[!info] ## Mechanics 
 |                   |                     |
