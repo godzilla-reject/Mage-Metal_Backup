@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Fortress Breaker",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered/Fortress Breaker.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Metal Frame Design Reference",
       "path": "Utilities/Design References/Metal Frame Design Reference.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Frame Template",
