@@ -15,7 +15,7 @@ cssclasses:
 		- [ ]  ⏫  Get Skills Database to 100% complete markers.
 		- [ ]  ⏫  Get Matthew to redo character creation.
 	- [ ]  ⏫   To-Do For: Metal Section of Character Creation
-		- [ ] Determine [[Metal Creation Steps]] 
+		- [x] Determine [[Metal Creation Steps]] ✅ 2023-12-19
 		- [x] Metal Frames ✅ 2023-12-18
 			- [x] Create the Metal Frame Database ✅ 2023-12-18
 			- [x] Create the Metal Frame Template ✅ 2023-12-18

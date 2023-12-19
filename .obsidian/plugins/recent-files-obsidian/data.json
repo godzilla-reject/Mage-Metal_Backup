@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Metal Shell Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
+    },
+    {
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
+      "basename": "Metal Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -19,14 +35,6 @@
     {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Pilot Role Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
-    },
-    {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
     },
     {
       "basename": "Metal Shell Design Reference",
@@ -55,14 +63,6 @@
     {
       "basename": "Pilot Role Template",
       "path": "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "Metal Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
     },
     {
       "basename": "Mage Creation Steps",
