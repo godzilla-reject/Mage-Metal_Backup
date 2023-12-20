@@ -7216,6 +7216,24 @@
       "createdDate": 1703027257975,
       "modifiedDate": 1703027258283,
       "sizeInBytes": 978
+    },
+    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Surgeon General.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 119,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.39666666666666667,
+      "characterCount": 978,
+      "nonWhitespaceCharacterCount": 766,
+      "readingTimeInMinutes": 0.4490566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1703032595579,
+      "modifiedDate": 1703032595893,
+      "sizeInBytes": 978
     }
   }
 }

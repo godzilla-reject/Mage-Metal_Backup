@@ -5,6 +5,10 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
     },
     {
+      "basename": "Surgeon General",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Surgeon General.md"
+    },
+    {
       "basename": "Pilot Role Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "High-Integrity Spine-Replacement Unit",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Spine-Replacement Unit.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
     }
   ],
   "omittedPaths": [],
