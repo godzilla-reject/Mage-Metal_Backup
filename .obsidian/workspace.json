@@ -11,10 +11,12 @@
             "id": "5ad9c5cef6eaffa1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
                 {
-                  "state": "{}",
+                  "title": "Dashboard",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-1.3521804223951843}}}",
                   "eState": "{}"
                 },
                 {
@@ -24,22 +26,18 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Metal Mechanics Outline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -1.3521804223951843
-                }
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -163,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
               }
             }
           },
@@ -410,9 +408,10 @@
   },
   "active": "5ad9c5cef6eaffa1",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Bunker Buster.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile/Subtle Dialog.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md",
@@ -426,7 +425,6 @@
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Templates/Markdown Templates/Metal Templates/Shell Template.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
@@ -440,7 +438,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy/SHF-002.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy/SHF-001.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames",
     "GM-Facing Rules/Running The Game/Overviews",

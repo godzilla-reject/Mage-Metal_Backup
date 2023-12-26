@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Metal Mechanics Outline",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
+    },
+    {
       "basename": "Metal Shell Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Metal Mechanics Outline",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
     },
     {
       "basename": "Design Note-Mounts",
