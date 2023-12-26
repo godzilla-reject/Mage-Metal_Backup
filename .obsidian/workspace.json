@@ -17,8 +17,17 @@
                 "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
               }
             }
+          },
+          {
+            "id": "fe7c8bb2a3f2cc70",
+            "type": "leaf",
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1fe04214a4a0e252",
@@ -325,7 +334,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4e8a207246360491",
+  "active": "fe7c8bb2a3f2cc70",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
