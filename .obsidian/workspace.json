@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eaa1e3b3428b6fc5",
+        "id": "1c076b6a468db4cf",
         "type": "tabs",
         "children": [
           {
-            "id": "295159d4268e21f1",
+            "id": "8ea3d4d3b067c416",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -26,7 +26,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.42840472301667265
+                  "zoom": -0.644925777151695
                 }
               }
             }
@@ -339,7 +339,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -365,8 +367,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -382,19 +383,19 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "homepage:Open homepage": false,
-      "rpg-manager:RPG Manager": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "rpg-manager:RPG Manager": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "295159d4268e21f1",
+  "active": "8ea3d4d3b067c416",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Utilities/Dashboard.canvas",

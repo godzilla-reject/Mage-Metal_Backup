@@ -40,7 +40,7 @@ var require_manifest = __commonJS({
     module2.exports = {
       id: "share-note",
       name: "Share Note",
-      version: "0.8.3",
+      version: "0.8.4",
       minAppVersion: "0.15.0",
       description: "Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key.",
       author: "Alan Grainger",
@@ -14924,8 +14924,9 @@ var Note = class {
     this.isEncrypted = true;
     this.isForceUpload = false;
     this.isForceClipboard = false;
+    var _a;
     this.plugin = plugin;
-    this.leaf = this.plugin.app.workspace.getLeaf();
+    this.leaf = (_a = this.plugin.app.workspace.activeEditor) == null ? void 0 : _a.leaf;
     this.elements = [];
     this.template = new NoteTemplate();
   }
