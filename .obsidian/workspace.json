@@ -16,6 +16,40 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Dashboard",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-759.6914893617022,\"zoom\":-0.42840472301667265}}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Design References/Metal References/Metal Core Design Reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "56b3f8eb4687b89a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Metal Core Design Reference",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Utilities/Design References/Metal References/Metal Core Design Reference.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -25,13 +59,14 @@
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
                   "x": -530,
-                  "y": -1010,
+                  "y": -759.6914893617022,
                   "zoom": -0.42840472301667265
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -396,12 +430,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "345cfe0ad5063b60",
+  "active": "56b3f8eb4687b89a",
   "lastOpenFiles": [
+    "Utilities/Design References/Metal References/Metal Core Design Reference.md",
+    "Utilities/Dashboard.canvas",
+    "Utilities/Design References/Metal References",
+    "Utilities/Design References/General References",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
     "Test Note.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
@@ -411,7 +448,7 @@
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile/Wire Runner.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md",
-    "Utilities/Design References/Metal Shell Design Reference.md",
+    "Utilities/Design References/Metal References/Metal Shell Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered/Fortress Breaker.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Surgeon General.md",
@@ -424,16 +461,12 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Design Bible/Design Notes/Design Note-Mounts.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered",
-    "Utilities/Design References/Metal Frame Design Reference.md",
+    "Utilities/Design References/Metal References/Metal Frame Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells",
     "Templates/Markdown Templates/Metal Templates/Frame Template.md",
-    "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames",
     "GM-Facing Rules/Running The Game/Overviews",
-    "GM-Facing Rules/Running The Game",
-    "Adventures",
-    "Player-Facing Rules/Spells/Spells Database/Ess"
+    "GM-Facing Rules/Running The Game"
   ]
 }

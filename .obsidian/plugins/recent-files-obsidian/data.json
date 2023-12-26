@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Metal Core Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Core Design Reference.md"
     },
     {
       "basename": "Skills Database",
@@ -50,7 +58,7 @@
     },
     {
       "basename": "Metal Shell Design Reference",
-      "path": "Utilities/Design References/Metal Shell Design Reference.md"
+      "path": "Utilities/Design References/Metal References/Metal Shell Design Reference.md"
     },
     {
       "basename": "Fortress Breaker",
@@ -81,10 +89,6 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
     },
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
       "basename": "Frontline Vanguard",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
     },
@@ -98,7 +102,7 @@
     },
     {
       "basename": "Metal Frame Design Reference",
-      "path": "Utilities/Design References/Metal Frame Design Reference.md"
+      "path": "Utilities/Design References/Metal References/Metal Frame Design Reference.md"
     },
     {
       "basename": "Frame Template",
@@ -195,10 +199,6 @@
     {
       "basename": "Monster Template",
       "path": "Templates/Markdown Templates/General Templates/Monster Template.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
     }
   ],
   "omittedPaths": [],
