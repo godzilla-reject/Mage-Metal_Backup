@@ -7288,6 +7288,42 @@
       "createdDate": 1703623635814,
       "modifiedDate": 1703623635814,
       "sizeInBytes": 0
+    },
+    "Utilities/Design References/Metal References/Metal Weapon Design Reference.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1703623744727,
+      "modifiedDate": 1703623744727,
+      "sizeInBytes": 0
+    },
+    "Utilities/Design References/Metal References/Metal System Design Reference.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1703623775798,
+      "modifiedDate": 1703623775798,
+      "sizeInBytes": 0
     }
   }
 }

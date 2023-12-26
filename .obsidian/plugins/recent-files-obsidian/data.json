@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Metal Weapon Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+    },
+    {
+      "basename": "Metal System Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal System Design Reference.md"
+    },
+    {
       "basename": "Metal Core Design Reference",
       "path": "Utilities/Design References/Metal References/Metal Core Design Reference.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Skills Database",
@@ -191,14 +199,6 @@
     {
       "basename": "GM Advise-The Toolbox and You",
       "path": "GM-Facing Rules/Running The Game/GM Advise-The Toolbox and You.md"
-    },
-    {
-      "basename": "Dev Helpers",
-      "path": "Utilities/Dashboard Notes/Dev Helpers.md"
-    },
-    {
-      "basename": "Monster Template",
-      "path": "Templates/Markdown Templates/General Templates/Monster Template.md"
     }
   ],
   "omittedPaths": [],
