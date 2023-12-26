@@ -101,7 +101,7 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md"
               }
             }
           },
@@ -329,8 +329,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "60656ea4aaa2cb17",
+  "active": "55b14554108a0e65",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
     "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
@@ -341,7 +342,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md",
     "Design Bible/Ideas and Brainstorms.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/Design References/Metal References/Metal System Design Reference.md",
     "Utilities/Design References/Metal References",
     "Utilities/Design References/General References",
@@ -360,7 +360,6 @@
     "Utilities/Design References/Metal References/Metal Shell Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered/Fortress Breaker.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Surgeon General.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells",
