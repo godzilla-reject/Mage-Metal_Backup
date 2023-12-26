@@ -1,6 +1,6 @@
 - Anti-Kaiju Jet-Supported Armor-Piercing Xcatter Gun (A.J.A.X. Gun)
     - Heavy 
     - Shotgun 
-- Super-Massive Bladed Weapon System "Great Sword"
+- Super-Massive Bladed Weapon System "(That's A) Great Sword"
 	- Superprimary
 	- Greatsword 
