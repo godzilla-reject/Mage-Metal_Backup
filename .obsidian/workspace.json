@@ -6,7 +6,6 @@
       {
         "id": "fcb29706effc94dc",
         "type": "tabs",
-        "dimension": 61.27659574468085,
         "children": [
           {
             "id": "5ad9c5cef6eaffa1",
@@ -41,38 +40,6 @@
                   "y": -1010,
                   "zoom": -1.3521804223951843
                 }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "eaa1e3b3428b6fc5",
-        "type": "tabs",
-        "dimension": 38.72340425531915,
-        "children": [
-          {
-            "id": "81c6275f97e698d3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Metal Shell Design Reference",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Utilities/Design References/Metal Shell Design Reference.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
               }
             }
           }
@@ -412,7 +379,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
