@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Playing the Game",
       "path": "Player-Facing Rules/Playing the Game.md"
-    },
-    {
-      "basename": "Combat Basics",
-      "path": "General Rules/Combat/Combat Basics.md"
     }
   ],
   "omittedPaths": [],
