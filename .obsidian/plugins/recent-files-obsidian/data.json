@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Metal Shell Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Shell Template",
       "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Metal Weapon Concepts",
