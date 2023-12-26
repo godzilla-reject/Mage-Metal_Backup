@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48b6bddc20e3f5d1",
+        "id": "1103198447c1f365",
         "type": "tabs",
         "children": [
           {
-            "id": "d012a0724de5be82",
+            "id": "53c774e9df8b7aa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -104,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md",
+            "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md",
+            "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
+            "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md"
           }
         }
       },
@@ -207,15 +207,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d012a0724de5be82",
+  "active": "53c774e9df8b7aa6",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Weapons",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
-    "Utilities/Dashboard.canvas",
     "Adventures/Release Adventure Ideas.md",
     "Setting/Peoples of the Game Setting.md",
     "GM-Facing Rules/Running The Game/GM Advise-The Toolbox and You.md",
@@ -234,8 +236,6 @@
     "README.md",
     "Design Bible/Design Inspirations, Tenets, and Philsophy.md",
     "Design Bible/Design Notes/Design Note-Pilot Role Metrics.md",
-    "Design Bible/Design Notes/Design Note-Mounts.md",
-    "General Rules/Traits Catalog/Test Blarg.md",
     "Templates/Markdown Templates/General Templates"
   ]
 }
