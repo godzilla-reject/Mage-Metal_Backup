@@ -270,7 +270,7 @@ columns:
       persist_changes: false
       footer_formula: 
   Mount:
-    input: text
+    input: select
     accessorKey: Mount
     key: Mount
     id: Mount
@@ -279,6 +279,8 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
+      - { label: "Heavy", value: "Heavy", color: "hsl(226, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

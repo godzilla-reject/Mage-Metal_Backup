@@ -6,7 +6,7 @@
       {
         "id": "a22ad072ba37e94d",
         "type": "tabs",
-        "dimension": 50.25886101154917,
+        "dimension": 64.20212765957447,
         "children": [
           {
             "id": "4e8a207246360491",
@@ -17,26 +17,13 @@
                 "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
               }
             }
-          },
-          {
-            "id": "8ba4cb95ca6d1016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ]
       },
       {
         "id": "1fe04214a4a0e252",
         "type": "tabs",
-        "dimension": 49.74113898845081,
+        "dimension": 35.79787234042553,
         "children": [
           {
             "id": "6ed251c764503070",
@@ -117,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -340,14 +327,15 @@
   },
   "active": "4e8a207246360491",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Long Guns",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "General Rules/Traits Catalog/Armor-Piercing.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Weapons/A.J.A.X.md",
     "Utilities/Lists/Conditions List.md",
     "Utilities/Lists/Trait List.md",
     "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
@@ -368,14 +356,12 @@
     "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Bunker Buster.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile/Subtle Dialog.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames",
-    "GM-Facing Rules/Running The Game/Overviews",
-    "GM-Facing Rules/Running The Game"
+    "GM-Facing Rules/Running The Game/Overviews"
   ]
 }

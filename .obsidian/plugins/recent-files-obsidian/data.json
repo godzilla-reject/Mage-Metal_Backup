@@ -5,6 +5,18 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
     },
     {
+      "basename": "A.J.A.X. Gun",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
+    },
+    {
+      "basename": "Metal Weapon Concepts",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md"
+    },
+    {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+    },
+    {
       "basename": "Metal Weapon Design Reference",
       "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
     },
@@ -13,24 +25,12 @@
       "path": "General Rules/Traits Catalog/Armor-Piercing.md"
     },
     {
-      "basename": "Metal Weapon Concepts",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md"
-    },
-    {
       "basename": "Metal Attributes and Statistics",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
-      "basename": "Grabenkanon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
       "basename": "Large-Gauge Scattershells",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
-    },
-    {
-      "basename": "A.J.A.X",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/A.J.A.X.md"
     },
     {
       "basename": "Conditions List",
