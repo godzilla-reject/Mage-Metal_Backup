@@ -1,24 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Metal Shell Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
+    },
+    {
+      "basename": "Long-Range Ordinance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md"
+    },
+    {
+      "basename": "Bunker Buster",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Bunker Buster.md"
     },
     {
       "basename": "Pilot Role Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
     {
-      "basename": "Metal Weapon Concepts",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md"
+      "basename": "Subtle Dialog",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile/Subtle Dialog.md"
     },
     {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
+      "basename": "Guerilla Tactics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
+    },
+    {
+      "basename": "Wire Runner",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile/Wire Runner.md"
+    },
+    {
+      "basename": "Logistical Controller",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md"
+    },
+    {
+      "basename": "Metal Shell Design Reference",
+      "path": "Utilities/Design References/Metal Shell Design Reference.md"
+    },
+    {
+      "basename": "Fortress Breaker",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered/Fortress Breaker.md"
     },
     {
       "basename": "Surgeon General",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Surgeon General.md"
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Surgeon General.md"
+    },
+    {
+      "basename": "Battlefield Support",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
+    },
+    {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
+      "basename": "Shell Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Metal Weapon Concepts",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md"
     },
     {
       "basename": "Metal Creation Steps",
@@ -29,32 +73,16 @@
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
-      "basename": "Fortress Breaker",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered/Fortress Breaker.md"
-    },
-    {
       "basename": "Frontline Vanguard",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
-    },
-    {
-      "basename": "Shell Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
     },
     {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
     {
-      "basename": "Metal Shell Design Reference",
-      "path": "Utilities/Design References/Metal Shell Design Reference.md"
-    },
-    {
       "basename": "Metal Mechanics Outline",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
       "basename": "Design Note-Mounts",
@@ -137,22 +165,6 @@
       "path": "General Rules/Character Mechanics Overview.md"
     },
     {
-      "basename": "Guerilla Tactics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
-    },
-    {
-      "basename": "Logistical Controller",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md"
-    },
-    {
-      "basename": "Battlefield Support",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
-    },
-    {
-      "basename": "Long-Range Ordinance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md"
-    },
-    {
       "basename": "Playtest Adventure",
       "path": "Adventures/Playtest Adventure.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Combat Basics",
       "path": "General Rules/Combat/Combat Basics.md"
-    },
-    {
-      "basename": "Conditions Overview",
-      "path": "GM-Facing Rules/Running The Game/Overviews/Conditions Overview.md"
-    },
-    {
-      "basename": "Traits Overview",
-      "path": "GM-Facing Rules/Running The Game/Overviews/Traits Overview.md"
-    },
-    {
-      "basename": "Action List",
-      "path": "General Rules/The Favor System/Action Structure/Action List.md"
     }
   ],
   "omittedPaths": [],

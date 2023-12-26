@@ -1,16 +1,17 @@
 ---
 Tags:
   - Shell
-Armor: Powered
-Mounts: Heavy, Aux
-Structure: 4
-Engineering: 1
-Computation: 2
+Armor: Mobile
+Mounts: Primary, Aux
+Structure: 2
+Engineering: 2
+Computation: 3
 ---
 # `=this.file.name` Shell 
-***Requirements:*** *[[Frontline Vanguard]] Pilot Role*
+***Requirements:*** *[[Guerilla Tactics]] Pilot Role*
 
-Named for the Shell's main strength, which is shattering the walls of fortresses, this Shell is preferred by Bastions and Juggernauts alike. 
+Useful for Metals who use stealth to gather information, this Shell ensures that Metal can guarantee a fast get-away when cover is blown and the fight goes loud.
+
 >[!info] ## Mechanics 
 |                   |                     |
 |:-----------------:|:-------------------:|
@@ -23,13 +24,12 @@ Named for the Shell's main strength, which is shattering the walls of fortresses
 
 >[!column]+ ***Intrinsic and Intrinsic Upgrades*** 
 > 
->> [!metadata] *Basic Intrinsic:* Thundering Crash `=[[Dev Helpers]].two-action`
+>> [!metadata] *Basic Intrinsic:* Auto-Retreat "Skedaddle" Mechanism `=[[Dev Helpers]].two-action`
 >> *This is the Shell's Intrinsic Ability*
->> [[Move]], [[Electric]]
 >> 
->> *Frequency: Recharge 5+ (`dice:1d6`)*
+>> *Frequency: Once Per Encounter*
 >> - - -
->> You target an enemy within Sensors range, and then barrel towards them. You Move up to that target, crashing into them with a sonic boom that deals **sonic**/**electric** damage equal to your Toughness to that target and half that to any Metal or creature who's space you moved through.
+>> Triple your Speed for the next 3 rounds. You cannot move directly towards an enemy, and lose this bonus if you make an attack of any form while affected by it.
 >
 >> [!metadata] *Advanced Enhancement*
 >> *When this part is upgraded to Advanced, your Metal's Intrinsic Ability gains this enhancement.*

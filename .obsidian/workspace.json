@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1c076b6a468db4cf",
+        "id": "fcb29706effc94dc",
         "type": "tabs",
+        "dimension": 61.27659574468085,
         "children": [
           {
-            "id": "8ea3d4d3b067c416",
+            "id": "e815594543aa9b56",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -30,8 +31,183 @@
                 }
               }
             }
+          },
+          {
+            "id": "5ad9c5cef6eaffa1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Metal Mechanics Outline",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "eaa1e3b3428b6fc5",
+        "type": "tabs",
+        "dimension": 38.72340425531915,
+        "children": [
+          {
+            "id": "81c6275f97e698d3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Metal Shell Design Reference",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Utilities/Design References/Metal Shell Design Reference.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+              }
+            }
+          },
+          {
+            "id": "233cb1c51c363dec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f5a75a874fbbe90a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Metal Templates/Shell Template.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cc748a0655fc475f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ef4f4e4e8ff18955",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pilot Role Database",
+                  "icon": "database-folder-icon",
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Design References/Metal Shell Design Reference.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "625293d19bee183f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Bible/Design Notes/Design Note-Mounts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
               }
             }
           },
@@ -367,7 +543,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -383,34 +560,41 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "homepage:Open homepage": false,
+      "rpg-manager:RPG Manager": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "rpg-manager:RPG Manager": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8ea3d4d3b067c416",
+  "active": "5ad9c5cef6eaffa1",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
-    "Utilities/Dashboard.canvas",
-    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Surgeon General.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Bunker Buster.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Bunker Buster.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Wire Runner.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile/Subtle Dialog.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile/Wire Runner.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md",
+    "Utilities/Design References/Metal Shell Design Reference.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile",
+    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered/Fortress Breaker.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Surgeon General.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Templates/Markdown Templates/Metal Templates/Shell Template.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered/Fortress Breaker.md",
-    "Templates/Markdown Templates/Metal Templates/Shell Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-    "Utilities/Design References/Metal Shell Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Design Bible/Design Notes/Design Note-Mounts.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered",
     "Utilities/Design References/Metal Frame Design Reference.md",
@@ -422,16 +606,10 @@
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy/SHF-002.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy/SHF-001.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy",
-    "Player-Facing Rules/Character Creation/Metals/Metal Frames/Heavy/HF-002.md",
-    "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Frames/Heavy/HF-001.md",
-    "General Rules/Traits Catalog/Weapon-Only/Flurry.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Frames",
     "GM-Facing Rules/Running The Game/Overviews",
     "GM-Facing Rules/Running The Game",
     "Adventures",
-    "Player-Facing Rules/Spells/Spells Database/Ess",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome"
+    "Player-Facing Rules/Spells/Spells Database/Ess"
   ]
 }
