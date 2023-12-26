@@ -13,7 +13,6 @@ Each weapon begins as 1d6 Simple, Melee and 1-handed, on an Aux mount, with 1 po
 |      Loading       | Determines how many actions it takes to reload the weapon. |                     3 points per reload action.                     |
 |      2 Handed      |     Increases how many hands the weapon takes to use.      |                   6 points (3 for ranged weapons)                   |
 |       Volley       |   Gives the weapon a *further* minimum effective range.    |                  3 points per each range increment                  |
-|     Expensive      |                  Increases weapon's cost.                  |       2 points per x1 to base cost (2 for x2, 4 for x3, ect.)       |
 | Increased Training |           Increases the proficiency tier needed.           |                   4 for martial, 6 for advanced.                    |
 |    Weapon Mount    |   Governs what mount the weapon fits into on the Metal.    | 2 for Secondary, 4 for Primary, 6 for Heavy, and 8 for Superprimary |
 |                    |                                                            |                                                                     |
@@ -28,6 +27,6 @@ Each weapon begins as 1d6 Simple, Melee and 1-handed, on an Aux mount, with 1 po
 |        [[Thrown]] (per 4 sp)        |          [[Channel]]          |         [[High-Powered]]          |
 |          [[Anti-Ablative]]          |         [[Parrying]]          |             [[Area]]              |
 |  [[Reliable]] (Ranged, per 1 die.)  |        [[Devastating]]        | [[Reliable]]  (Melee, per 1 die.) |
-| [[Scatter]] (1 point per die size.) |                               |                                   |
+| [[Scatter]] (1 point per die size.) |                               | [[Armor-Piercing]] (3 points per 2 Toughness)                                  |
 
 ### Finalization 

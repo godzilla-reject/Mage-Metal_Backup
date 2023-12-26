@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
+    },
+    {
+      "basename": "Metal Weapon Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+    },
+    {
+      "basename": "Armor-Piercing",
+      "path": "General Rules/Traits Catalog/Armor-Piercing.md"
+    },
+    {
       "basename": "Metal Weapon Concepts",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md"
+    },
+    {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+    },
+    {
+      "basename": "Large-Gauge Scattershells",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
+    },
+    {
+      "basename": "A.J.A.X",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/A.J.A.X.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Metal Weapon Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
     },
     {
       "basename": "Dashboard",
@@ -13,28 +53,12 @@
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
-    },
-    {
-      "basename": "Metal Weapon Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
-    },
-    {
       "basename": "Weapon Template",
       "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
     },
     {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
       "basename": "Character Mechanics Overview",
       "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Metal Weapon Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
     },
     {
       "basename": "Weaponry Overview",
@@ -175,30 +199,6 @@
     {
       "basename": "Flurry",
       "path": "General Rules/Traits Catalog/Weapon-Only/Flurry.md"
-    },
-    {
-      "basename": "BF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Balanced/BF-002.md"
-    },
-    {
-      "basename": "BF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Balanced/BF-001.md"
-    },
-    {
-      "basename": "LF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Light/LF-002.md"
-    },
-    {
-      "basename": "LF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Light/LF-001.md"
-    },
-    {
-      "basename": "ULF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Ultralight/ULF-002.md"
-    },
-    {
-      "basename": "ULF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Ultralight/ULF-001.md"
     }
   ],
   "omittedPaths": [],

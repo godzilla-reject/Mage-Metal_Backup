@@ -42,6 +42,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "Weapon", value: "Weapon", color: "hsl(355, 95%, 90%)"}
+      - { label: "Metal", value: "Metal", color: "hsl(29, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -305,7 +306,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
-  current_row_template: Templates/Markdown Templates/Mage Templates/Weapon Template.md
+  current_row_template: Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false

@@ -132,6 +132,10 @@ Motion
 Meltdown
 Machina
 Mount
+Massive
+Modes
+Manufacturing
+Multi
 in
 inspiration
 it
@@ -1850,6 +1854,7 @@ Title
 Thunder
 Taiko
 Thundering
+Trawler
 oriented
 of
 on
@@ -2537,6 +2542,7 @@ Reinforce
 Routine
 Round
 Reference
+Robotics
 high
 heavily
 hopes
@@ -2631,6 +2637,7 @@ hindering
 harshest
 harvested
 hull
+handed
 refine
 robust
 required
@@ -2881,6 +2888,8 @@ Passive
 Profiles
 Provides
 Per
+Pellets
+Pepperboxer
 ABCs
 Apotheosis
 Accessibility
@@ -2969,6 +2978,8 @@ Affected
 Ability
 AB
 Anti
+AP
+Annoyance
 metal
 magic
 mechanics
@@ -3179,6 +3190,7 @@ Good
 Giant
 Granted
 Gun
+Greatsword
 utmost
 use
 up
@@ -3529,6 +3541,7 @@ Colossus
 Complete
 Crash
 Controllers
+Converter
 We
 While
 Write
@@ -4005,6 +4018,7 @@ Sub
 Sneakery
 Supported
 Shotgun
+Slugs
 Jackson
 Jack
 Juggernaut
@@ -4068,6 +4082,7 @@ Others
 Orbits
 Override
 Origination
+Omn
 Basics
 Beneficial
 Body
@@ -4129,6 +4144,7 @@ Base
 Bonds
 Balanced
 Bunyan
+Brothers
 Varies
 Vast
 Void
