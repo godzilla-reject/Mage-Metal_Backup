@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Metal Weapon Concepts",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md"
+    },
+    {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
+    },
+    {
+      "basename": "Metal Weapon Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
+    },
+    {
+      "basename": "Weapon Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
+    },
+    {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
     },
     {
       "basename": "Metal Weapon Design Reference",
       "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
     },
     {
+      "basename": "Weaponry Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
+    },
+    {
+      "basename": "Metal Soul-Core Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md"
+    },
+    {
+      "basename": "Ideas and Brainstorms",
+      "path": "Design Bible/Ideas and Brainstorms.md"
+    },
+    {
       "basename": "Metal System Design Reference",
       "path": "Utilities/Design References/Metal References/Metal System Design Reference.md"
-    },
-    {
-      "basename": "Metal Core Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Core Design Reference.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Skills Database",
@@ -81,16 +113,8 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
     },
     {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
       "basename": "Shell Template",
       "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
-    },
-    {
-      "basename": "Metal Weapon Concepts",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md"
     },
     {
       "basename": "Metal Creation Steps",
@@ -175,30 +199,6 @@
     {
       "basename": "ULF-001",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Ultralight/ULF-001.md"
-    },
-    {
-      "basename": "Shield Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Playtest Adventure",
-      "path": "Adventures/Playtest Adventure.md"
-    },
-    {
-      "basename": "Release Adventure Ideas",
-      "path": "Adventures/Release Adventure Ideas.md"
-    },
-    {
-      "basename": "Peoples of the Game Setting",
-      "path": "Setting/Peoples of the Game Setting.md"
-    },
-    {
-      "basename": "GM Advise-The Toolbox and You",
-      "path": "GM-Facing Rules/Running The Game/GM Advise-The Toolbox and You.md"
     }
   ],
   "omittedPaths": [],

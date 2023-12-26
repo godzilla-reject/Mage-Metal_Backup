@@ -606,6 +606,7 @@ fastest
 fortresses
 fierce
 flair
+fits
 came
 combines
 combat
@@ -1710,6 +1711,7 @@ shattering
 sonic
 shell
 subroutine
+summation
 LANCER
 Learn
 Lancer
@@ -2966,6 +2968,7 @@ Array
 Affected
 Ability
 AB
+Anti
 metal
 magic
 mechanics
@@ -3175,6 +3178,7 @@ Gains
 Good
 Giant
 Granted
+Gun
 utmost
 use
 up
@@ -3761,6 +3765,7 @@ Freedom
 Faller
 Features
 Frequency
+Finalization
 Dungeons
 Dragons
 Definitely
@@ -3998,12 +4003,15 @@ Style
 Sensors
 Sub
 Sneakery
+Supported
+Shotgun
 Jackson
 Jack
 Juggernaut
 Juggernauts
 Jump
 Joe
+Jet
 No
 Notes
 Not
@@ -4163,6 +4171,7 @@ quirk
 qualifiers
 quality
 XdE
+Xcatter
 Kit
 Konnar
 Key
