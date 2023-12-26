@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
+      "basename": "Long-Range Ordinance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md"
+    },
+    {
+      "basename": "Personal Scanner",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
     },
     {
       "basename": "Metal Mechanics Outline",
@@ -17,16 +29,8 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
     },
     {
-      "basename": "Long-Range Ordinance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md"
-    },
-    {
       "basename": "Bunker Buster",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Bunker Buster.md"
-    },
-    {
-      "basename": "Pilot Role Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
     {
       "basename": "Subtle Dialog",
@@ -195,10 +199,6 @@
     {
       "basename": "Utility Notes",
       "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Playing the Game",
-      "path": "Player-Facing Rules/Playing the Game.md"
     }
   ],
   "omittedPaths": [],

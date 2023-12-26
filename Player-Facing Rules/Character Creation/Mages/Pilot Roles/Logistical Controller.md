@@ -10,7 +10,7 @@ Weapon_Degree: Martial
 Weapon_Type: Melee
 Weapon_Training: Expert
 Skill: Meta-Magic
-Skill_1: Artificing
+Skill_1: Artifice
 Skill_2: Meta-Magic
 Spec_1: Engineer
 Spell_1: "[[Auto-Shot Turret]]"

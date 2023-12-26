@@ -14,7 +14,7 @@ Spec_1: Scout
 Skill_1: Survivalism
 Spell_1: "[[Retrace]]"
 Spec_2: Hunter
-Skill_2: Sneak
+Skill_2: Sneakery
 Spell_2: "[[Predator's Sight]]"
 ---
 # Role: `=this.file.name`

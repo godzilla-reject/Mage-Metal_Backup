@@ -328,6 +328,8 @@ columns:
       - { label: "Athletics", value: "Athletics", color: "hsl(265, 95%, 90%)"}
       - { label: "Arcanology", value: "Arcanology", color: "hsl(208, 95%, 90%)"}
       - { label: "Meta-Magic", value: "Meta-Magic", color: "hsl(242, 95%, 90%)"}
+      - { label: "Sneak", value: "Sneak", color: "hsl(85, 95%, 90%)"}
+      - { label: "Sneakery", value: "Sneakery", color: "hsl(93, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -355,6 +357,9 @@ columns:
       - { label: "Initimidation", value: "Initimidation", color: "hsl(83, 95%, 90%)"}
       - { label: "Medicine", value: "Medicine", color: "hsl(227, 95%, 90%)"}
       - { label: "Artificing", value: "Artificing", color: "hsl(338, 95%, 90%)"}
+      - { label: "Sneak", value: "Sneak", color: "hsl(216, 95%, 90%)"}
+      - { label: "Artifice", value: "Artifice", color: "hsl(133, 95%, 90%)"}
+      - { label: "Sneakery", value: "Sneakery", color: "hsl(188, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -383,6 +388,7 @@ columns:
       - { label: "Mundocraft", value: "Mundocraft", color: "hsl(71, 95%, 90%)"}
       - { label: "Meta-Magic", value: "Meta-Magic", color: "hsl(13, 95%, 90%)"}
       - { label: "Sneak", value: "Sneak", color: "hsl(237, 95%, 90%)"}
+      - { label: "Sneakery", value: "Sneakery", color: "hsl(44, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

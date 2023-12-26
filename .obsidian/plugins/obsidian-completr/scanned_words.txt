@@ -3996,6 +3996,7 @@ Spend
 Style
 Sensors
 Sub
+Sneakery
 Jackson
 Jack
 Juggernaut

@@ -4035,19 +4035,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1070,
+      "wordCount": 1130,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.566666666666667,
-      "characterCount": 11425,
-      "nonWhitespaceCharacterCount": 8426,
-      "readingTimeInMinutes": 4.037735849056604,
+      "pageCount": 3.7666666666666666,
+      "characterCount": 11872,
+      "nonWhitespaceCharacterCount": 8777,
+      "readingTimeInMinutes": 4.264150943396227,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100556,
-      "modifiedDate": 1703622521178,
-      "sizeInBytes": 11474
+      "modifiedDate": 1703623000794,
+      "sizeInBytes": 11921
     },
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md": {
       "isCountable": true,
@@ -4064,8 +4064,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1702629084948,
-      "modifiedDate": 1702548788262,
-      "sizeInBytes": 3067
+      "modifiedDate": 1703622996205,
+      "sizeInBytes": 3069
     },
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md": {
       "isCountable": true,
@@ -4082,8 +4082,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100550,
-      "modifiedDate": 1697079659986,
-      "sizeInBytes": 2883
+      "modifiedDate": 1703622933746,
+      "sizeInBytes": 2881
     },
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md": {
       "isCountable": true,
@@ -4100,8 +4100,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100547,
-      "modifiedDate": 1701733193859,
-      "sizeInBytes": 2906
+      "modifiedDate": 1703623000975,
+      "sizeInBytes": 2909
     },
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md": {
       "isCountable": true,
@@ -4460,7 +4460,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100403,
-      "modifiedDate": 1702422746835,
+      "modifiedDate": 1703622975036,
       "sizeInBytes": 5762
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md": {
@@ -7270,24 +7270,6 @@
       "createdDate": 1702408939051,
       "modifiedDate": 1702409388555,
       "sizeInBytes": 360
-    },
-    "Untitled.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1703622600135,
-      "modifiedDate": 1703622600135,
-      "sizeInBytes": 0
     }
   }
 }

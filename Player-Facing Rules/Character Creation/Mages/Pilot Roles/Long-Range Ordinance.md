@@ -13,8 +13,8 @@ Spec_1: Sniper
 Spec_2: Heavy Artillery
 Spell_1: "[[Sniper's Mark]]"
 Spell_2: "[[Cedrik's Mini-Many-Minefield]]"
-Skill: Stealth
-Skill_1: Stealth
+Skill: Sneakery
+Skill_1: Sneakery
 Skill_2: Acrobatics
 ---
 # Role: `=this.file.name`
