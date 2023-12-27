@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Metal Weaponry Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Metal Weapon Template",
       "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "To-Do List",

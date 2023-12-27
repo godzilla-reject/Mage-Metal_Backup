@@ -6,114 +6,23 @@
       {
         "id": "a22ad072ba37e94d",
         "type": "tabs",
-        "dimension": 64.20212765957447,
         "children": [
           {
-            "id": "4e8a207246360491",
+            "id": "666170d0c6146ec6",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
-              }
-            }
-          },
-          {
-            "id": "fe7c8bb2a3f2cc70",
-            "type": "leaf",
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1fe04214a4a0e252",
-        "type": "tabs",
-        "dimension": 35.79787234042553,
-        "children": [
-          {
-            "id": "6ed251c764503070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b2b83871143a406c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8cb2d368b0515149",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "55b14554108a0e65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bb69863da54a972c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/Trait List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f8d69cfcd79164e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/Conditions List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.644925777151695
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -305,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,12 +242,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fe7c8bb2a3f2cc70",
+  "active": "666170d0c6146ec6",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Long Guns",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "General Rules/Traits Catalog/Armor-Piercing.md",
