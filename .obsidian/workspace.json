@@ -21,8 +21,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "8ecebbcd3e5e03ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
               }
             }
           },
@@ -242,8 +256,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "666170d0c6146ec6",
+  "active": "8ecebbcd3e5e03ec",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
@@ -256,7 +271,6 @@
     "Utilities/Lists/Conditions List.md",
     "Utilities/Lists/Trait List.md",
     "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
-    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
     "General Rules/Character Mechanics Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
