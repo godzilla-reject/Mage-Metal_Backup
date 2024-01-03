@@ -44,6 +44,7 @@ Industrial
 Important
 Integrity
 Intrinsic
+Interfacing
 Mage
 Metal
 Mecha
@@ -234,6 +235,7 @@ install
 incurred
 indicative
 incorporating
+ignition
 the
 takes
 titans
@@ -388,6 +390,9 @@ top
 tube
 thundering
 temp
+tested
+temperamental
+test
 great
 game
 gaming
@@ -894,6 +899,7 @@ controls
 compromised
 cap
 correlates
+cannon
 before
 being
 be
@@ -1035,6 +1041,7 @@ br
 boosts
 barrel
 boom
+beam
 not
 never
 no
@@ -1283,6 +1290,11 @@ ablative
 afford
 actually
 attempts
+annhilation
+art
+atomic
+allegedly
+avoided
 wear
 with
 war
@@ -1716,6 +1728,9 @@ sonic
 shell
 subroutine
 summation
+superheavy
+sheer
+sustains
 LANCER
 Learn
 Lancer
@@ -1923,6 +1938,7 @@ optional
 overload
 outfitted
 origin
+outlawed
 designer
 drag
 do
@@ -2235,6 +2251,7 @@ exclusive
 exactly
 encounters
 employs
+engineering
 played
 pilot
 play
@@ -2438,6 +2455,8 @@ providing
 preferred
 pace
 purposes
+platform
+practitioner
 RP
 RPGs
 Ryutama
@@ -2543,6 +2562,7 @@ Routine
 Round
 Reference
 Robotics
+Rhodes
 high
 heavily
 hopes
@@ -2638,6 +2658,9 @@ harshest
 harvested
 hull
 handed
+homage
+hellfire
+human
 refine
 robust
 required
@@ -2799,6 +2822,8 @@ road
 rhythm
 reflection
 regained
+respected
+reinforcement
 Pathfinder
 PF
 Philosophy
@@ -2980,6 +3005,7 @@ AB
 Anti
 AP
 Annoyance
+Atomic
 metal
 magic
 mechanics
@@ -3149,6 +3175,8 @@ mobile
 mass
 model
 minions
+mounted
+manufactured
 GURPS
 Google
 Greyhawk
@@ -3353,6 +3381,7 @@ lacking
 lending
 leaps
 locking
+largest
 Ease
 Excel
 Escalation
@@ -3542,6 +3571,9 @@ Complete
 Crash
 Controllers
 Converter
+Cannon
+Cerebral
+CICC
 We
 While
 Write
@@ -4196,6 +4228,7 @@ Kotri
 Kazva
 Kaiju
 Keep
+Kingslayer
 Quantum
 Quirks
 Quick

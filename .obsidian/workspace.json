@@ -15,8 +15,8 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -977.2064276885043,
-                  "y": -975.5995055624228,
+                  "x": -589.4190358467243,
+                  "y": -861.4524103831891,
                   "zoom": -0.644925777151695
                 }
               }
@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
-                "mode": "source",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md"
               }
             }
           },
@@ -258,12 +258,16 @@
   },
   "active": "35567ef793b7c674",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Subtle Dialog.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Bunker Buster.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator",
@@ -273,7 +277,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
@@ -291,9 +294,6 @@
     "General Rules/Character Mechanics Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
     "Design Bible/Ideas and Brainstorms.md",
-    "Utilities/Design References/Metal References/Metal System Design Reference.md",
-    "Utilities/Design References/Metal References",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    "Utilities/Design References/Metal References"
   ]
 }
