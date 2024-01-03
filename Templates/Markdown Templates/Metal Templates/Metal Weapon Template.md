@@ -1,7 +1,6 @@
 ---
 Type:
 Tags:
-  - Weapon
   - Metal
 Category:
 Group: Unsorted

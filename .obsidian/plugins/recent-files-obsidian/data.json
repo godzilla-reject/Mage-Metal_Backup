@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Metal Weapon Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
+    },
+    {
       "basename": "Surgeon General",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Metal Weapon Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
     },
     {
       "basename": "To-Do List",
