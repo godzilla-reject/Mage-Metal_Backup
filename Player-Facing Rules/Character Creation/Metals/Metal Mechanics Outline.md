@@ -13,7 +13,7 @@
 		- Granted Features 
 			- Passive 
 			- Core ability that upgrades with quality.
-			- Deus Ex Machina: special ability that unlocks at Divine quality; usage destroys Metal and Mage unless the Mage's Soul has ignite.
+			- Deus Ex Machina: special ability that unlocks at Divine quality; usage causes the Mage's Soul to be tested, which result in ignition or annhilation.
  - Secondary Components 
 	 - Systems (Equipment for Metals)
 	 - Weapons 

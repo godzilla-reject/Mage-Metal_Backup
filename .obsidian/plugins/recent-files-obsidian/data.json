@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Metal Mechanics Outline",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
+    },
+    {
+      "basename": "Metal Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Metal Soul-Core Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md"
     },
     {
       "basename": "Metal Attributes and Statistics",
@@ -10,15 +22,15 @@
     },
     {
       "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
     },
     {
       "basename": "A.J.A.X. Gun",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
     },
     {
       "basename": "Metal Weapon Concepts",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md"
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md"
     },
     {
       "basename": "Grabenkanon",
@@ -65,10 +77,6 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
     },
     {
-      "basename": "Metal Soul-Core Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md"
-    },
-    {
       "basename": "Ideas and Brainstorms",
       "path": "Design Bible/Ideas and Brainstorms.md"
     },
@@ -93,28 +101,8 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
     },
     {
-      "basename": "Metal Mechanics Outline",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Metal Shell Database.md"
-    },
-    {
-      "basename": "Bunker Buster",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Bunker Buster.md"
-    },
-    {
-      "basename": "Subtle Dialog",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile/Subtle Dialog.md"
-    },
-    {
       "basename": "Guerilla Tactics",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
-    },
-    {
-      "basename": "Wire Runner",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Mobile/Wire Runner.md"
     },
     {
       "basename": "Logistical Controller",
@@ -125,24 +113,12 @@
       "path": "Utilities/Design References/Metal References/Metal Shell Design Reference.md"
     },
     {
-      "basename": "Fortress Breaker",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Powered/Fortress Breaker.md"
-    },
-    {
-      "basename": "Surgeon General",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Shells/Infiltrator/Surgeon General.md"
-    },
-    {
       "basename": "Battlefield Support",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
     },
     {
       "basename": "Shell Template",
       "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
-    },
-    {
-      "basename": "Metal Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
     },
     {
       "basename": "Frontline Vanguard",
@@ -174,19 +150,19 @@
     },
     {
       "basename": "Metal Frame Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Metal Frame Database.md"
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
     },
     {
       "basename": "SHF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy/SHF-002.md"
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md"
     },
     {
       "basename": "SHF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Superheavy/SHF-001.md"
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md"
     },
     {
       "basename": "HF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Heavy/HF-002.md"
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-002.md"
     },
     {
       "basename": "Electroflex",
@@ -194,7 +170,7 @@
     },
     {
       "basename": "HF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Frames/Heavy/HF-001.md"
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md"
     },
     {
       "basename": "Flurry",
