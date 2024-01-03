@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a22ad072ba37e94d",
+        "id": "634485aef8066cce",
         "type": "tabs",
         "children": [
           {
-            "id": "666170d0c6146ec6",
+            "id": "2a23123860e7a143",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -21,22 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "8ecebbcd3e5e03ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -256,7 +242,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8ecebbcd3e5e03ec",
+  "active": "2a23123860e7a143",
   "lastOpenFiles": [
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
