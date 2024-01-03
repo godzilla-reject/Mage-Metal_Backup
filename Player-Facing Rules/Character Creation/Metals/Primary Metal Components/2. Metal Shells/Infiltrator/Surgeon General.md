@@ -25,6 +25,7 @@ Named for a well-respected Old World medical practitioner, this Shell provides p
 > 
 >> [!metadata] *Basic Intrinsic:* Reinforce Armor `=[[Dev Helpers]].two-action`
 >> *This is the Shell's Intrinsic Ability*
+>> 
 >> [[Defensive\| Defensive (Ability)]]
 >> 
 >> *Frequency: Once Per Encounter*

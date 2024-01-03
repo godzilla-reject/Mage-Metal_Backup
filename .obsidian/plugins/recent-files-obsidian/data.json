@@ -5,6 +5,10 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md"
     },
     {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
       "basename": "Metal Shell Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Metal Soul-Core Design Reference",
       "path": "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
       "basename": "Metal Weaponry Database",

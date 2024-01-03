@@ -34,6 +34,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ff7c8172eaede5dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -258,6 +271,8 @@
   },
   "active": "35567ef793b7c674",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md",
@@ -267,7 +282,6 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Subtle Dialog.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Bunker Buster.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator",
@@ -285,7 +299,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "General Rules/Traits Catalog/Armor-Piercing.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
     "Utilities/Lists/Conditions List.md",
     "Utilities/Lists/Trait List.md",
