@@ -113,8 +113,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
-      footer_type: none
+      footer_type: percent_filled
       persist_changes: false
+      footer_formula: 
   Tags:
     input: tags
     accessorKey: Tags

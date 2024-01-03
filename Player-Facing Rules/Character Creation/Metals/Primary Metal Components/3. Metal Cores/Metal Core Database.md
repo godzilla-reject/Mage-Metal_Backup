@@ -110,6 +110,7 @@ columns:
     options:
       - { label: "Metal", value: "Metal", color: "hsl(85, 95%, 90%)"}
       - { label: "Core", value: "Core", color: "hsl(27, 95%, 90%)"}
+      - { label: "rename", value: "rename", color: "hsl(261, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

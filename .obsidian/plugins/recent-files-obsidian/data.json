@@ -5,8 +5,20 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
     },
     {
-      "basename": "Test",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/Test.md"
+      "basename": "Wire Runner",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md"
+    },
+    {
+      "basename": "Metal Shell Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
+    },
+    {
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Dashboard",
@@ -25,10 +37,6 @@
       "path": "Utilities/Lists/Conditions List.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
       "basename": "Shell Template",
       "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Metal Attributes and Statistics",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
     },
     {
       "basename": "SHF-002",
@@ -119,10 +123,6 @@
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Pilot Role Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
     {
       "basename": "Long-Range Ordinance",

@@ -30,7 +30,7 @@ In order to control the pace of battle, the Wire Runner shell employs a powerful
 >> 
 >> *Frequency: Once Per Round*
 >> - - -
->>Select a Metal within Sensors range, then make a [[Hacking]] contest against their **Computation**. On a success, the next time they take ethe Attack action, you select which mount they fire weapons on. On a failure, you instead select one of their mounts. They cannot use the selected mount until the end of your next turn. 
+>>Select a Metal within Sensors range, then make a [[Hacking]] contest against their **Computation**. On a success, the next time they take the Attack action, you select which mount they fire from. On a failure, you instead select one of their mounts. They cannot use the selected mount until the end of your next turn. 
 >
 >> [!metadata] *Advanced Enhancement*
 >> *When this part is upgraded to Advanced, your Metal's Intrinsic Ability gains this enhancement.*
