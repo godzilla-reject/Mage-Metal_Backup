@@ -3,6 +3,7 @@ Tags:
   - Core
   - Metal
   - rename
+Type: Defensive
 ---
 # `=this.file.name` Core 
 ***Requirements:***

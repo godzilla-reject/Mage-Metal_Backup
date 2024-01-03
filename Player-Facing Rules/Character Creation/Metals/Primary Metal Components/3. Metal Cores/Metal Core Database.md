@@ -227,9 +227,9 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Attack", value: "Attack", color: "hsl(43, 95%, 90%)"}
-      - { label: "Support", value: "Support", color: "hsl(132, 95%, 90%)"}
-      - { label: "Defensive", value: "Defensive", color: "hsl(35, 95%, 90%)"}
+      - { label: "Attack", value: "Attack", color: "hsl(0,79%,48%)"}
+      - { label: "Support", value: "Support", color: "hsl(138,80%,44%)"}
+      - { label: "Defensive", value: "Defensive", color: "hsl(36,86%,44%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -239,6 +239,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal

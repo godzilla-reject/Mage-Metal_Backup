@@ -7419,21 +7419,21 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 560,
+      "wordCount": 556,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.8666666666666667,
-      "characterCount": 6416,
-      "nonWhitespaceCharacterCount": 4703,
-      "readingTimeInMinutes": 2.1132075471698113,
+      "pageCount": 1.8533333333333333,
+      "characterCount": 6437,
+      "nonWhitespaceCharacterCount": 4722,
+      "readingTimeInMinutes": 2.09811320754717,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704320876401,
-      "modifiedDate": 1704323519883,
-      "sizeInBytes": 6465
+      "modifiedDate": 1704324045047,
+      "sizeInBytes": 6486
     },
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Generic Attack Type.md": {
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/Generic Attack Type.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -7448,10 +7448,10 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704323496652,
-      "modifiedDate": 1704323519992,
-      "sizeInBytes": 1039
+      "modifiedDate": 1704324019592,
+      "sizeInBytes": 1052
     },
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Generic Defense Type.md": {
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/Generic Defense Type.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -7466,10 +7466,10 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704323502976,
-      "modifiedDate": 1704323526935,
-      "sizeInBytes": 1039
+      "modifiedDate": 1704324021151,
+      "sizeInBytes": 1055
     },
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Generic Support Type.md": {
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/Generic Support Type.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -7484,8 +7484,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704323509108,
-      "modifiedDate": 1704323524683,
-      "sizeInBytes": 1039
+      "modifiedDate": 1704324023007,
+      "sizeInBytes": 1053
     }
   }
 }

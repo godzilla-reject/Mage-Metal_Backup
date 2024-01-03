@@ -1,8 +1,9 @@
 ---
 Tags:
-  - Metal
   - Core
+  - Metal
   - rename
+Type: Support
 ---
 # `=this.file.name` Core 
 ***Requirements:***

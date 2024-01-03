@@ -1,8 +1,9 @@
 ---
 Tags:
-  - Core
   - Metal
+  - Core
   - rename
+Type: Attack
 ---
 # `=this.file.name` Core 
 ***Requirements:***
