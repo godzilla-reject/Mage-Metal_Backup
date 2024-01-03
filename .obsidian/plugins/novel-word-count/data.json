@@ -7415,23 +7415,41 @@
       "modifiedDate": 1704321419976,
       "sizeInBytes": 1004
     },
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Untitled database.md": {
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 495,
+      "wordCount": 550,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.65,
-      "characterCount": 5886,
-      "nonWhitespaceCharacterCount": 4280,
-      "readingTimeInMinutes": 1.8679245283018868,
+      "pageCount": 1.8333333333333333,
+      "characterCount": 6343,
+      "nonWhitespaceCharacterCount": 4646,
+      "readingTimeInMinutes": 2.0754716981132075,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704320876401,
-      "modifiedDate": 1704321344809,
-      "sizeInBytes": 5918
+      "modifiedDate": 1704322654571,
+      "sizeInBytes": 6392
+    },
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/Test.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 130,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43333333333333335,
+      "characterCount": 1028,
+      "nonWhitespaceCharacterCount": 838,
+      "readingTimeInMinutes": 0.49056603773584906,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704322369230,
+      "modifiedDate": 1704322656838,
+      "sizeInBytes": 1028
     }
   }
 }

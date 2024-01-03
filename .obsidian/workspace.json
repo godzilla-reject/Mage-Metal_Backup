@@ -24,12 +24,12 @@
             }
           },
           {
-            "id": "ed6eb9df5d26b3e0",
+            "id": "350cdeed0dbe5aa7",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Untitled database.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
               }
             }
           }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
               }
             }
           },
@@ -315,15 +315,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "143dc92963bdc96b",
+  "active": "350cdeed0dbe5aa7",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/Test.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
     "Templates/Markdown Templates/Metal Templates/Core Template.md",
     "Utilities/Lists/Conditions List.md",
     "Utilities/Lists/Trait List.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Untitled database.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
     "Templates/Markdown Templates/Metal Templates/Shell Template.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md",
     "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
@@ -341,18 +345,13 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
     "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
-    "General Rules/Traits Catalog/Armor-Piercing.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
-    "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
-    "Utilities/Design References/Metal References"
+    "General Rules/Traits Catalog/Armor-Piercing.md"
   ]
 }

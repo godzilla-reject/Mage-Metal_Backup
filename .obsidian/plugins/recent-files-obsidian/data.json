@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Metal Core Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
+    },
+    {
+      "basename": "Test",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/Test.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Metal Mechanics Outline",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
     },
@@ -17,16 +29,8 @@
       "path": "Utilities/Lists/Trait List.md"
     },
     {
-      "basename": "Untitled database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Untitled database.md"
-    },
-    {
       "basename": "Shell Template",
       "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Metal Weapon Template",

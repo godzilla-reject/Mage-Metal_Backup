@@ -1,6 +1,7 @@
 ---
 
 database-plugin: basic
+tags: [database]
 
 ---
 
@@ -102,11 +103,13 @@ columns:
     key: Tags
     id: Tags
     label: Tags
-    position: 3
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Metal", value: "Metal", color: "hsl(85, 95%, 90%)"}
+      - { label: "Core", value: "Core", color: "hsl(27, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -122,7 +125,7 @@ columns:
     key: Completed
     id: Completed
     label: Completed
-    position: 2
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -133,8 +136,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
-      footer_type: none
+      footer_type: percent_filled
       persist_changes: false
+      footer_formula: 
   Structure:
     input: number
     accessorKey: Structure
@@ -222,6 +226,9 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Attack", value: "Attack", color: "hsl(43, 95%, 90%)"}
+      - { label: "Support", value: "Support", color: "hsl(132, 95%, 90%)"}
+      - { label: "Defensive", value: "Defensive", color: "hsl(35, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -249,7 +256,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
-  current_row_template: 
+  current_row_template: Templates/Markdown Templates/Metal Templates/Core Template.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false
