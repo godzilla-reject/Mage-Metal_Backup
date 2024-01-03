@@ -6,6 +6,7 @@
       {
         "id": "22fa7b79be8673d0",
         "type": "tabs",
+        "dimension": 62.5,
         "children": [
           {
             "id": "67a5a844f18b221d",
@@ -16,13 +17,84 @@
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
                   "x": -530,
-                  "y": -1010,
+                  "y": -652.4164133738602,
                   "zoom": -0.942977895846431
                 }
               }
             }
+          },
+          {
+            "id": "ed6eb9df5d26b3e0",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Untitled database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "19b2c99e83f4d614",
+        "type": "tabs",
+        "dimension": 37.5,
+        "children": [
+          {
+            "id": "f4663b03e97de859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Metal Templates/Core Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "143dc92963bdc96b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "264be63df9a7c7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5b0859c02a955532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -96,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
               }
             }
           },
@@ -213,7 +286,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,16 +315,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "67a5a844f18b221d",
+  "active": "143dc92963bdc96b",
   "lastOpenFiles": [
+    "Templates/Markdown Templates/Metal Templates/Core Template.md",
+    "Utilities/Lists/Conditions List.md",
+    "Utilities/Lists/Trait List.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Untitled database.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
+    "Templates/Markdown Templates/Metal Templates/Shell Template.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md",
     "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Subtle Dialog.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md",
@@ -273,12 +352,7 @@
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "General Rules/Traits Catalog/Armor-Piercing.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
-    "Utilities/Lists/Conditions List.md",
-    "Utilities/Lists/Trait List.md",
     "Templates/Markdown Templates/Mage Templates/Weapon Template.md",
-    "General Rules/Character Mechanics Overview.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
-    "Design Bible/Ideas and Brainstorms.md",
     "Utilities/Design References/Metal References"
   ]
 }
