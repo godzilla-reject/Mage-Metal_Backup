@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "8966f760acc20279",
+            "id": "ccd96987ac38c8dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "19b2c99e83f4d614",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
               }
             }
           },
@@ -315,11 +315,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c0f933155ad42095",
+  "active": "ccd96987ac38c8dc",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
     "Utilities/Lists/Conditions List.md",
     "General Rules/Traits Catalog/General/Area.md",
     "Utilities/Lists/Trait List.md",

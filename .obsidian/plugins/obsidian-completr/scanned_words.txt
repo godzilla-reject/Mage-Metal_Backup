@@ -912,6 +912,7 @@ crippling
 convert
 cumulative
 confront
+conflicted
 before
 being
 be
@@ -1754,6 +1755,7 @@ sub
 stacks
 sweltering
 slurry
+stances
 LANCER
 Learn
 Lancer
@@ -1967,6 +1969,7 @@ origin
 outlawed
 occasional
 outburst
+ordeals
 designer
 drag
 do
@@ -2492,6 +2495,8 @@ practitioner
 prolonged
 periods
 proper
+passionate
+polarizing
 RP
 RPGs
 Ryutama
@@ -2866,6 +2871,7 @@ requisite
 row
 roaring
 reside
+recommended
 Pathfinder
 PF
 Philosophy

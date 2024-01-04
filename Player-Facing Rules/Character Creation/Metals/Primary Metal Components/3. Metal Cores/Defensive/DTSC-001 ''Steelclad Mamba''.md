@@ -2,11 +2,10 @@
 Tags:
   - Core
   - Metal
-  - rename
 Type: Defensive
-Engineering: 5
-Structure: 1
-Computation: 1
+Engineering: 3
+Structure: 2
+Computation: 2
 Intrinsic: Shed Scales
 Passive: Coiled Blade
 Deus: A Cure for Poison

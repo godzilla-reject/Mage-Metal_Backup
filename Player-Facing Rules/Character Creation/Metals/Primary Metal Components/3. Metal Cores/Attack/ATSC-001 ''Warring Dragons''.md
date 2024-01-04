@@ -2,11 +2,10 @@
 Tags:
   - Metal
   - Core
-  - rename
 Type: Attack
-Structure: 5
-Computation: 1
-Engineering: 1
+Structure: 3
+Computation: 2
+Engineering: 2
 Passive: A War of Two Dragons
 Deus: A War Within, Finally Won
 Intrinsic: Draconic Outburst

@@ -2,11 +2,10 @@
 Tags:
   - Core
   - Metal
-  - rename
 Type: Support
-Structure: 1
-Computation: 5
-Engineering: 1
+Structure: 2
+Computation: 3
+Engineering: 2
 Passive: An Unending Garden
 Deus: An End to the Infinite
 Intrinsic: Infinite Blossom
