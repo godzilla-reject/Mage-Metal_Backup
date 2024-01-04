@@ -7,6 +7,9 @@ Type: Defensive
 Engineering: 5
 Structure: 1
 Computation: 1
+Intrinsic: Shed Scales
+Passive: Coiled Blade
+Deus: A Cure for Poison
 ---
 # `=this.file.name` Core 
 ***Requirements: *** 

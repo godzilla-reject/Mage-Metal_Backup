@@ -7,6 +7,9 @@ Type: Support
 Structure: 1
 Computation: 5
 Engineering: 1
+Passive: An Unending Garden
+Deus: An End to the Infinite
+Intrinsic: Infinite Blossom
 ---
 # `=this.file.name` Core 
 ***Requirements: *** 
