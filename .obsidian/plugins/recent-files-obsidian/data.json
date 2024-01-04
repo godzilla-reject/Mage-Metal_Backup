@@ -9,6 +9,26 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
     },
     {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Area",
+      "path": "General Rules/Traits Catalog/General/Area.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Steam-Spike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md"
+    },
+    {
       "basename": "STSC-001 ''Infinite Hydrangea''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
     },
@@ -45,16 +65,8 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
       "basename": "Metal Mechanics Outline",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
     },
     {
       "basename": "Shell Template",
@@ -187,18 +199,6 @@
     {
       "basename": "Frame Template",
       "path": "Templates/Markdown Templates/Metal Templates/Frame Template.md"
-    },
-    {
-      "basename": "Pilot Role Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Pilot Role Template.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "Metal Frame Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
     }
   ],
   "omittedPaths": [],
