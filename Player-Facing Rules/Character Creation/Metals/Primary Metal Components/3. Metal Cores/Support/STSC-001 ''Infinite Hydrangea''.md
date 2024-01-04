@@ -4,6 +4,9 @@ Tags:
   - Metal
   - rename
 Type: Support
+Structure: 1
+Computation: 5
+Engineering: 1
 ---
 # `=this.file.name` Core 
 ***Requirements: *** 

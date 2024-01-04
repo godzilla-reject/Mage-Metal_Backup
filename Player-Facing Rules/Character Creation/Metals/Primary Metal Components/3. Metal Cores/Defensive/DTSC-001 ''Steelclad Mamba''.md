@@ -4,6 +4,9 @@ Tags:
   - Metal
   - rename
 Type: Defensive
+Engineering: 5
+Structure: 1
+Computation: 1
 ---
 # `=this.file.name` Core 
 ***Requirements: *** 

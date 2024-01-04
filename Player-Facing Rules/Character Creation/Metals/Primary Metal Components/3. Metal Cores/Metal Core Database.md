@@ -165,7 +165,7 @@ columns:
     key: Computation
     id: Computation
     label: Computation
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -184,7 +184,7 @@ columns:
     key: Engineering
     id: Engineering
     label: Engineering
-    position: 7
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
