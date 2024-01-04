@@ -3992,7 +3992,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100562,
-      "modifiedDate": 1700116784204,
+      "modifiedDate": 1704328023499,
       "sizeInBytes": 6247
     },
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md": {
@@ -7433,7 +7433,7 @@
       "modifiedDate": 1704324045047,
       "sizeInBytes": 6486
     },
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/Generic Attack Type.md": {
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Dueling Dragons''.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -7448,44 +7448,44 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704323496652,
-      "modifiedDate": 1704324019592,
-      "sizeInBytes": 1052
+      "modifiedDate": 1704328246584,
+      "sizeInBytes": 1095
     },
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/Generic Defense Type.md": {
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 124,
+      "wordCount": 135,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.41333333333333333,
-      "characterCount": 996,
-      "nonWhitespaceCharacterCount": 811,
-      "readingTimeInMinutes": 0.4679245283018868,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704323502976,
-      "modifiedDate": 1704324021151,
-      "sizeInBytes": 1055
-    },
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/Generic Support Type.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 124,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.41333333333333333,
-      "characterCount": 996,
-      "nonWhitespaceCharacterCount": 811,
-      "readingTimeInMinutes": 0.4679245283018868,
+      "pageCount": 0.45,
+      "characterCount": 1053,
+      "nonWhitespaceCharacterCount": 852,
+      "readingTimeInMinutes": 0.5094339622641509,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704323509108,
       "modifiedDate": 1704324023007,
       "sizeInBytes": 1053
+    },
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 135,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45,
+      "characterCount": 1055,
+      "nonWhitespaceCharacterCount": 854,
+      "readingTimeInMinutes": 0.5094339622641509,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704323502976,
+      "modifiedDate": 1704324021151,
+      "sizeInBytes": 1055
     }
   }
 }

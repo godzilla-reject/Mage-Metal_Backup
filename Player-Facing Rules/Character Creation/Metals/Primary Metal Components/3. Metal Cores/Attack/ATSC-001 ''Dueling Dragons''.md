@@ -4,6 +4,9 @@ Tags:
   - Core
   - rename
 Type: Attack
+Structure: 5
+Computation: 1
+Engineering: 1
 ---
 # `=this.file.name` Core 
 ***Requirements:***

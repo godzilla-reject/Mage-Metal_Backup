@@ -5,6 +5,22 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
     },
     {
+      "basename": "DTSC-001 ''Steelclad Mamba''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
+    },
+    {
+      "basename": "ATSC-001 ''Dueling Dragons''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Dueling Dragons''.md"
+    },
+    {
+      "basename": "STSC-001 ''Infinite Hydrangea''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
+    },
+    {
+      "basename": "Schools Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "HF-002",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-002.md"
-    },
-    {
-      "basename": "Electroflex",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
-    },
-    {
-      "basename": "HF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md"
-    },
-    {
-      "basename": "Flurry",
-      "path": "General Rules/Traits Catalog/Weapon-Only/Flurry.md"
     }
   ],
   "omittedPaths": [],
