@@ -6,7 +6,8 @@ Tags:
 Type: Defensive
 ---
 # `=this.file.name` Core 
-***Requirements:***
+***Requirements: *** 
+
 
 >[!info] ## Mechanics 
 |  *Attributes*   |                     |
@@ -21,7 +22,7 @@ Type: Defensive
 
 >[!column]+ ### ***Core Intrinsic and Intrinsic Upgrades*** 
 > 
->> [!embed-feat] *Basic Intrinsic:*
+>> [!embed-feat] Basic Intrinsic: *`=this.Intrinsic`*
 >> *This is the Core's Intrinsic Ability*
 >
 >> [!embed-feat] *Advanced Enhancement*
@@ -33,4 +34,4 @@ Type: Defensive
 >> [!embed-feat] *Divine Enhancement*
 >>*When this part is upgraded to Divine, your Metal's Core Intrinsic Ability gains this enhancement.*
 
-> [!embed-feat]+ ### Deus Ex Machina 
+> [!embed-feat]+ ### Deus Ex Machina: *`=this.Deus`*

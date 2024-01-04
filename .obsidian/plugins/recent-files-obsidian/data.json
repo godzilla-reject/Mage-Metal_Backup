@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "ATSC-001 ''Warring Dragons''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
+    },
+    {
       "basename": "Metal Core Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
+    },
+    {
+      "basename": "STSC-001 ''Infinite Hydrangea''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
     },
     {
       "basename": "DTSC-001 ''Steelclad Mamba''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
     },
     {
-      "basename": "ATSC-001 ''Dueling Dragons''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Dueling Dragons''.md"
+      "basename": "Core Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Core Template.md"
     },
     {
-      "basename": "STSC-001 ''Infinite Hydrangea''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
+      "basename": "Metal Shell Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
+    },
+    {
+      "basename": "Bunker Buster",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Bunker Buster.md"
     },
     {
       "basename": "Schools Database",
@@ -29,10 +41,6 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md"
     },
     {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
-    },
-    {
       "basename": "Pilot Role Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Metal Mechanics Outline",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "Core Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Core Template.md"
     },
     {
       "basename": "Conditions List",
@@ -195,10 +199,6 @@
     {
       "basename": "Metal Frame Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
-    },
-    {
-      "basename": "HF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-002.md"
     }
   ],
   "omittedPaths": [],

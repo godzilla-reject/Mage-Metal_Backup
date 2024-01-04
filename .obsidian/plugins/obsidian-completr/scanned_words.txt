@@ -236,6 +236,7 @@ incurred
 indicative
 incorporating
 ignition
+intrenchment
 the
 takes
 titans
@@ -393,6 +394,7 @@ temp
 tested
 temperamental
 test
+transformation
 great
 game
 gaming
@@ -616,6 +618,7 @@ fortresses
 fierce
 flair
 fits
+flanks
 came
 combines
 combat
@@ -900,6 +903,8 @@ compromised
 cap
 correlates
 cannon
+crippling
+convert
 before
 being
 be
@@ -1295,6 +1300,7 @@ art
 atomic
 allegedly
 avoided
+artillery
 wear
 with
 war
@@ -1731,6 +1737,7 @@ summation
 superheavy
 sheer
 sustains
+stationery
 LANCER
 Learn
 Lancer
@@ -2112,6 +2119,7 @@ distribute
 description
 destroys
 delivery
+dug
 ever
 expand
 easy
@@ -2825,6 +2833,7 @@ reflection
 regained
 respected
 reinforcement
+reconfigure
 Pathfinder
 PF
 Philosophy
@@ -3383,6 +3392,7 @@ lending
 leaps
 locking
 largest
+legs
 Ease
 Excel
 Escalation
@@ -3442,6 +3452,7 @@ Encounter
 Ex
 Enhancement
 Electro
+Entrenchment
 Use
 Usable
 Unsorted
@@ -3624,6 +3635,8 @@ Warfare
 Winder
 Which
 Wire
+War
+Won
 keeping
 keep
 kek
@@ -3881,6 +3894,7 @@ Drum
 Develop
 Deus
 Disjunction
+Draconic
 Steve
 Sheets
 Segway
@@ -4116,6 +4130,7 @@ Orbits
 Override
 Origination
 Omn
+Outburst
 Basics
 Beneficial
 Body

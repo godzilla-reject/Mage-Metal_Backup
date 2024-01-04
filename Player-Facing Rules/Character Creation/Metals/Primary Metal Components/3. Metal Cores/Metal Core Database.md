@@ -41,7 +41,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 9
+    position: 12
     isHidden: false
     sortIndex: -1
     config:
@@ -63,7 +63,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 10
+    position: 11
     isHidden: false
     sortIndex: -1
     config:
@@ -86,7 +86,7 @@ columns:
     skipPersist: false
     csvCandidate: false
     isHidden: true
-    position: 11
+    position: 13
     sortIndex: -1
     config:
       enable_media_view: true
@@ -240,10 +240,48 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  Intrinsic:
+    input: text
+    accessorKey: Intrinsic
+    key: Intrinsic
+    id: Intrinsic
+    label: Intrinsic
+    position: 9
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Deus:
+    input: text
+    accessorKey: Deus
+    key: Deus
+    id: Deus
+    label: Deus Ex Machina
+    position: 10
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: false
+  sticky_first_column: true
   group_folder_column: Type
   remove_empty_folders: false
   automatically_group_files: true
