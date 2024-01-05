@@ -6,9 +6,10 @@
       {
         "id": "22fa7b79be8673d0",
         "type": "tabs",
+        "dimension": 62.5,
         "children": [
           {
-            "id": "c0f933155ad42095",
+            "id": "67a5a844f18b221d",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,13 +17,71 @@
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
                   "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
+                  "y": -652.4164133738602,
+                  "zoom": -0.942977895846431
                 }
               }
             }
+          },
+          {
+            "id": "c0f933155ad42095",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "19b2c99e83f4d614",
+        "type": "tabs",
+        "dimension": 37.5,
+        "children": [
+          {
+            "id": "f4663b03e97de859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Metal Templates/Core Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "264be63df9a7c7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5b0859c02a955532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
               }
             }
           },
@@ -214,7 +273,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,6 +304,7 @@
   },
   "active": "c0f933155ad42095",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
@@ -257,7 +318,6 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Bunker Buster.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/Test.md",
@@ -279,7 +339,6 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components",
-    "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components"
   ]
 }
