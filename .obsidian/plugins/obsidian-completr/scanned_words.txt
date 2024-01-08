@@ -45,6 +45,7 @@ Important
 Integrity
 Intrinsic
 Interfacing
+Infinite
 Mage
 Metal
 Mecha
@@ -239,6 +240,9 @@ ignition
 intrenchment
 invoke
 ignites
+inquisitive
+imbued
+improve
 the
 takes
 titans
@@ -398,6 +402,7 @@ temperamental
 test
 transformation
 threatening
+tender
 great
 game
 gaming
@@ -913,6 +918,7 @@ convert
 cumulative
 confront
 conflicted
+caretaker
 before
 being
 be
@@ -1756,6 +1762,7 @@ stacks
 sweltering
 slurry
 stances
+supportive
 LANCER
 Learn
 Lancer
@@ -1970,6 +1977,7 @@ outlawed
 occasional
 outburst
 ordeals
+outbursts
 designer
 drag
 do
@@ -2287,6 +2295,9 @@ encounters
 employs
 engineering
 ethe
+exposure
+embrace
+empathetic
 played
 pilot
 play
@@ -2872,6 +2883,7 @@ row
 roaring
 reside
 recommended
+refers
 Pathfinder
 PF
 Philosophy
@@ -3230,6 +3242,8 @@ mounted
 manufactured
 molten
 mournful
+mellowing
+mending
 GURPS
 Google
 Greyhawk
@@ -3274,6 +3288,7 @@ Gun
 Greatsword
 Gozury
 Garden
+Grovetender
 utmost
 use
 up
@@ -3636,6 +3651,7 @@ Converter
 Cannon
 Cerebral
 CICC
+Characters
 We
 While
 Write
@@ -3769,6 +3785,7 @@ Heavenly
 Hydroponics
 Home
 Heat
+Hydrangea
 you
 your
 yourself
@@ -3877,6 +3894,7 @@ Faller
 Features
 Frequency
 Finalization
+Focus
 Dungeons
 Dragons
 Definitely
@@ -4247,6 +4265,7 @@ Bonds
 Balanced
 Bunyan
 Brothers
+Blossom
 Varies
 Vast
 Void
@@ -4288,6 +4307,7 @@ quivers
 quirk
 qualifiers
 quality
+qualities
 XdE
 Xcatter
 Kit

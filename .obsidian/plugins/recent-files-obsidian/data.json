@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Metal Core Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
+      "basename": "STSC-001 ''Infinite Hydrangea''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
     },
     {
       "basename": "ATSC-001 ''Warring Dragons''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
     },
     {
-      "basename": "STSC-001 ''Infinite Hydrangea''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Metal Core Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
+    },
+    {
+      "basename": "Core Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Core Template.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Conditions List",
@@ -23,10 +35,6 @@
     {
       "basename": "Area",
       "path": "General Rules/Traits Catalog/General/Area.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Spells Database",
@@ -39,10 +47,6 @@
     {
       "basename": "DTSC-001 ''Steelclad Mamba''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
-    },
-    {
-      "basename": "Core Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Core Template.md"
     },
     {
       "basename": "Metal Shell Database",
@@ -195,10 +199,6 @@
     {
       "basename": "Metal Frame Design Reference",
       "path": "Utilities/Design References/Metal References/Metal Frame Design Reference.md"
-    },
-    {
-      "basename": "Frame Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Frame Template.md"
     }
   ],
   "omittedPaths": [],
