@@ -51,3 +51,4 @@ First of the Support-Type Soul Cores, the *Infinite Hydrangea* employs a single 
 >>*When this part is upgraded to Divine, your Metal's Core Intrinsic Ability gains this enhancement.*
 
 > [!embed-feat]+ ### Deus Ex Machina: *`=this.Deus`*
+> You finally reach the end of the Unending Garden, coming face to face with the ***Grovetender***. 

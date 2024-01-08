@@ -2715,6 +2715,7 @@ homage
 hellfire
 human
 horrid
+heals
 refine
 robust
 required
@@ -2885,6 +2886,7 @@ roaring
 reside
 recommended
 refers
+radiate
 Pathfinder
 PF
 Philosophy
