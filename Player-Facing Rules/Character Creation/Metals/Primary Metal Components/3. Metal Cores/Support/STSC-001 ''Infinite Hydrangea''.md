@@ -32,7 +32,7 @@ First of the Support-Type Soul Cores, the *Infinite Hydrangea* employs a single 
 
 >[!column]+ ### ***Core Intrinsic and Intrinsic Upgrades*** 
 > 
->> [!embed-feat] Basic Intrinsic: *`=this.Intrinsic`* `=[[Dev Helpers]].two-action`
+>> [!embed-feat]- Basic Intrinsic: *`=this.Intrinsic`* `=[[Dev Helpers]].two-action`
 >> *This is the Core's Intrinsic Ability*
 >> 
 >> ***Frequency: Once Per Combat***
@@ -51,4 +51,4 @@ First of the Support-Type Soul Cores, the *Infinite Hydrangea* employs a single 
 >>*When this part is upgraded to Divine, your Metal's Core Intrinsic Ability gains this enhancement.*
 
 > [!embed-feat]+ ### Deus Ex Machina: *`=this.Deus`*
-> You finally reach the end of the Unending Garden, coming face to face with the ***Grovetender***. 
+> You finally reach the end of the Unending Garden, coming face to face with the ***Grovetender*** to finally find what you've been searching for. If you would be tasked with finding something impossible to locate, you can invoke this Deus Ex Machina. The Escalation die is immediately set to maximum, and you must face a Test of Soul, which has been carefully determined by your GM. On a success, your Soul ignites. Replace your Potential attribute with Soul, and increase your Tier to 5. 
