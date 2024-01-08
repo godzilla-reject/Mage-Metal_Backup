@@ -39,7 +39,7 @@ First of the Support-Type Soul Cores, the *Infinite Hydrangea* employs a single 
 >> 
 >> [[Construct]], [[Area\|Area (10-sp Emanation)]], [[Healing]], [[Brilliant]]
 >> - - -
->> You conjure a blossom from the Unending Garden, using it to heal yourself and allies. This Blossom is Size 2, provides cover, and has 10 * Tier Health and 2 + Tier Toughness. 
+>> You conjure a blossom from the Unending Garden, using it to heal yourself and allies. This Blossom is Size 2, provides cover, and has 10 * Tier Health and 2 + Tier Toughness. At the start of each of your turns for the duration, 
 >
 >> [!embed-feat] *Advanced Enhancement*
 >> *When this part is upgraded to Advanced, your Metal's Core Intrinsic Ability gains this enhancement.*
