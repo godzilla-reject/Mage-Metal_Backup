@@ -5,6 +5,10 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
     },
     {
+      "basename": "Auto-Shot Turret",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
+    },
+    {
       "basename": "ATSC-001 ''Warring Dragons''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Design Note-Mounts",
       "path": "Design Bible/Design Notes/Design Note-Mounts.md"
-    },
-    {
-      "basename": "Metal Frame Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Frame Design Reference.md"
     }
   ],
   "omittedPaths": [],
