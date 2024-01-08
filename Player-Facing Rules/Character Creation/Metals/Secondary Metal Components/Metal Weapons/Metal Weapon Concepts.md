@@ -1,3 +1,6 @@
+---
+Type: ""
+---
 - Martian Tectonics' Anti-Kaiju Jet-Supported Armor-Piercing Xcatter Gun (A.J.A.X. Gun)
     - Heavy 
     - Shotgun 

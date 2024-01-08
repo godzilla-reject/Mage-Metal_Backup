@@ -99,6 +99,7 @@ columns:
       - { label: "Unsorted", value: "Unsorted", color: "hsl(115, 95%, 90%)"}
       - { label: "Tome", value: "Tome", color: "hsl(156, 95%, 90%)"}
       - { label: "Hammers", value: "Hammers", color: "hsl(257, 95%, 90%)"}
+      - { label: "Artillery", value: "Artillery", color: "hsl(43, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -278,9 +279,15 @@ columns:
     position: 7
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 3
+    isSorted: true
+    isSortedDesc: false
     options:
-      - { label: "Heavy", value: "Heavy", color: "hsl(226, 95%, 90%)"}
+      - { label: "Aux", value: "Aux", color: "hsl(326,100%,66%)"}
+      - { label: "Secondary", value: "Secondary", color: "hsl(27,100%,89%)"}
+      - { label: "Primary", value: "Primary", color: "hsl(147,100%,89%)"}
+      - { label: "Heavy", value: "Heavy", color: "hsl(120,100%,79%)"}
+      - { label: "Superprimary", value: "Superprimary", color: "hsl(240,100%,79%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -290,6 +297,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal

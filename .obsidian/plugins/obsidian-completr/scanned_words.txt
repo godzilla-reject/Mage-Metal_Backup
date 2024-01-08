@@ -919,6 +919,7 @@ cumulative
 confront
 conflicted
 caretaker
+catter
 before
 being
 be
@@ -1318,6 +1319,7 @@ allegedly
 avoided
 artillery
 adversarial
+anti
 wear
 with
 war
@@ -1764,6 +1766,7 @@ sweltering
 slurry
 stances
 supportive
+specializes
 LANCER
 Learn
 Lancer
@@ -3072,6 +3075,7 @@ AP
 Annoyance
 Atomic
 Assuming
+AJAX
 metal
 magic
 mechanics

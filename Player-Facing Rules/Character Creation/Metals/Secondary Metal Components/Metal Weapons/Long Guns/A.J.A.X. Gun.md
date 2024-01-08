@@ -9,7 +9,7 @@ Handed-ness: 2
 Mount: Heavy
 Damage_Type: piercing
 Damage_Die: 1d12
-Completed: false
+Completed: true
 ---
 > [!infobox|left]+ Weapon Entry
 > # `=this.file.name`

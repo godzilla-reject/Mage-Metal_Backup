@@ -301,251 +301,6 @@
       },
       "active": "0ca4d1b0612b5e99"
     },
-    "Dashboard": {
-      "main": {
-        "id": "8d1eeee8b5cc10e5",
-        "type": "split",
-        "children": [
-          {
-            "id": "c8b5b3f5ec775a95",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "224687177c42fab1",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Utilities/Dashboard.canvas",
-                    "viewState": {
-                      "x": -530,
-                      "y": -1010,
-                      "zoom": -0.42840472301667265
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "c7c8f8b07364a828",
-        "type": "split",
-        "children": [
-          {
-            "id": "0ee470924da31ab3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a6efdbb03f15d137",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "d968026dfd4f0b4b",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "tag:##todo",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "fac67c8071a3cd9d",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              },
-              {
-                "id": "3b93557265589f72",
-                "type": "leaf",
-                "state": {
-                  "type": "recent-files",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 351.5,
-        "collapsed": true
-      },
-      "right": {
-        "id": "69a6a1297e44ad1f",
-        "type": "split",
-        "children": [
-          {
-            "id": "82a6dd916793e22e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "508dc443b848b433",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Utilities/Dashboard.canvas",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "f90135100ca5f4f6",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Utilities/Dashboard.canvas",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "a3b467e93ea37d98",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "3ad2454c886ecebf",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Utilities/Dashboard.canvas"
-                  }
-                }
-              },
-              {
-                "id": "35bd1d52bac4ea59",
-                "type": "leaf",
-                "state": {
-                  "type": "chronology-calendar-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "21cebfc490467c84",
-                "type": "leaf",
-                "state": {
-                  "type": "FANTASY_CALENDAR",
-                  "state": {}
-                }
-              },
-              {
-                "id": "6d5e9e67247021af",
-                "type": "leaf",
-                "state": {
-                  "type": "mathpad-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "2563114bbac86f0c",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                }
-              },
-              {
-                "id": "4739661f3573ba43",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "d7a3e427e71d5d3e",
-                "type": "leaf",
-                "state": {
-                  "type": "todo",
-                  "state": {}
-                }
-              },
-              {
-                "id": "d9993422e933ec23",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency"
-                  }
-                }
-              },
-              {
-                "id": "8753d1336babb804",
-                "type": "leaf",
-                "state": {
-                  "type": "DICE_ROLLER_VIEW",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 6
-          }
-        ],
-        "direction": "horizontal",
-        "width": 262.5,
-        "collapsed": true
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "dbfolder:Create a new database table": false,
-          "fantasy-calendar:Open Large Fantasy Calendar": false,
-          "fantasy-content-generator:Fantasy Generators": false,
-          "homepage:Open homepage": false,
-          "mathpad:Open Mathpad": false,
-          "rpg-manager:RPG Manager": false,
-          "initiative-tracker:Initiative Tracker Encounter Builder": false,
-          "obsidian-leaflet-plugin:Open Leaflet Map": false,
-          "obsidian-5e-statblocks:Open Creature Pane": false,
-          "obsidian-excalidraw-plugin:Create new drawing": false,
-          "advanced-random-note:Open random note modal": false,
-          "chronology:Open Chronology": false,
-          "templater-obsidian:Templater": false,
-          "workspaces:Manage workspace layouts": false,
-          "obsidian-memos:Memos": false
-        }
-      },
-      "active": "224687177c42fab1"
-    },
     "Weapon Creation": {
       "main": {
         "id": "8d1eeee8b5cc10e5",
@@ -2764,335 +2519,6 @@
       },
       "active": "5ad9c5cef6eaffa1"
     },
-    "Metal Weapon Creation": {
-      "main": {
-        "id": "8d1eeee8b5cc10e5",
-        "type": "split",
-        "children": [
-          {
-            "id": "a22ad072ba37e94d",
-            "type": "tabs",
-            "dimension": 53.24468085106383,
-            "children": [
-              {
-                "id": "4e8a207246360491",
-                "type": "leaf",
-                "state": {
-                  "type": "database-plugin",
-                  "state": {
-                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "1fe04214a4a0e252",
-            "type": "tabs",
-            "dimension": 46.75531914893617,
-            "children": [
-              {
-                "id": "6ed251c764503070",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "b2b83871143a406c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "8cb2d368b0515149",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "55b14554108a0e65",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weapon Concepts.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "bb69863da54a972c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Utilities/Lists/Trait List.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "f8d69cfcd79164e6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Utilities/Lists/Conditions List.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              }
-            ],
-            "currentTab": 5
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "c7c8f8b07364a828",
-        "type": "split",
-        "children": [
-          {
-            "id": "0ee470924da31ab3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a6efdbb03f15d137",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "d968026dfd4f0b4b",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "tag:##todo",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "fac67c8071a3cd9d",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              },
-              {
-                "id": "3b93557265589f72",
-                "type": "leaf",
-                "state": {
-                  "type": "recent-files",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 304.5,
-        "collapsed": true
-      },
-      "right": {
-        "id": "69a6a1297e44ad1f",
-        "type": "split",
-        "children": [
-          {
-            "id": "82a6dd916793e22e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "508dc443b848b433",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "f90135100ca5f4f6",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "a3b467e93ea37d98",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "3ad2454c886ecebf",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Weapons/Metal Weaponry Database.md"
-                  }
-                }
-              },
-              {
-                "id": "35bd1d52bac4ea59",
-                "type": "leaf",
-                "state": {
-                  "type": "chronology-calendar-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "21cebfc490467c84",
-                "type": "leaf",
-                "state": {
-                  "type": "FANTASY_CALENDAR",
-                  "state": {}
-                }
-              },
-              {
-                "id": "6d5e9e67247021af",
-                "type": "leaf",
-                "state": {
-                  "type": "mathpad-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "2563114bbac86f0c",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                }
-              },
-              {
-                "id": "4739661f3573ba43",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "d7a3e427e71d5d3e",
-                "type": "leaf",
-                "state": {
-                  "type": "todo",
-                  "state": {}
-                }
-              },
-              {
-                "id": "d9993422e933ec23",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  }
-                }
-              },
-              {
-                "id": "8753d1336babb804",
-                "type": "leaf",
-                "state": {
-                  "type": "DICE_ROLLER_VIEW",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 4
-          }
-        ],
-        "direction": "horizontal",
-        "width": 262.5,
-        "collapsed": true
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "obsidian-dangling-links:Show dangling links panel": false,
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "dbfolder:Create a new database table": false,
-          "fantasy-calendar:Open Large Fantasy Calendar": false,
-          "fantasy-content-generator:Fantasy Generators": false,
-          "homepage:Open homepage": false,
-          "rpg-manager:RPG Manager": false,
-          "initiative-tracker:Initiative Tracker Encounter Builder": false,
-          "obsidian-leaflet-plugin:Open Leaflet Map": false,
-          "obsidian-5e-statblocks:Open Creature Pane": false,
-          "obsidian-excalidraw-plugin:Create new drawing": false,
-          "advanced-random-note:Open random note modal": false,
-          "chronology:Open Chronology": false,
-          "templater-obsidian:Templater": false,
-          "workspaces:Manage workspace layouts": false,
-          "obsidian-memos:Memos": false
-        }
-      },
-      "active": "4e8a207246360491"
-    },
     "Core Creation": {
       "main": {
         "id": "8d1eeee8b5cc10e5",
@@ -3398,6 +2824,350 @@
         }
       },
       "active": "c0f933155ad42095"
+    },
+    "Metal Weapon Creation": {
+      "main": {
+        "id": "8d1eeee8b5cc10e5",
+        "type": "split",
+        "children": [
+          {
+            "id": "a22ad072ba37e94d",
+            "type": "tabs",
+            "dimension": 53.24468085106383,
+            "children": [
+              {
+                "id": "4e8a207246360491",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Utilities/Dashboard.canvas",
+                    "viewState": {
+                      "x": -530,
+                      "y": -1010,
+                      "zoom": -1.3376954107456789
+                    }
+                  }
+                }
+              },
+              {
+                "id": "981f4eadc8bd2cb9",
+                "type": "leaf",
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "1fe04214a4a0e252",
+            "type": "tabs",
+            "dimension": 46.75531914893617,
+            "children": [
+              {
+                "id": "3bc6e7df0be5a8eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "6ed251c764503070",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "b2b83871143a406c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "8cb2d368b0515149",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "bb69863da54a972c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Utilities/Lists/Trait List.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "f8d69cfcd79164e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Utilities/Lists/Conditions List.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c7c8f8b07364a828",
+        "type": "split",
+        "children": [
+          {
+            "id": "0ee470924da31ab3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a6efdbb03f15d137",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d968026dfd4f0b4b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:##todo",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fac67c8071a3cd9d",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3b93557265589f72",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 304.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "69a6a1297e44ad1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "82a6dd916793e22e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "508dc443b848b433",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f90135100ca5f4f6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a3b467e93ea37d98",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "3ad2454c886ecebf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+                  }
+                }
+              },
+              {
+                "id": "35bd1d52bac4ea59",
+                "type": "leaf",
+                "state": {
+                  "type": "chronology-calendar-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "21cebfc490467c84",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6d5e9e67247021af",
+                "type": "leaf",
+                "state": {
+                  "type": "mathpad-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2563114bbac86f0c",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4739661f3573ba43",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d7a3e427e71d5d3e",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d9993422e933ec23",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "8753d1336babb804",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 262.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "dbfolder:Create a new database table": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": false,
+          "fantasy-content-generator:Fantasy Generators": false,
+          "homepage:Open homepage": false,
+          "rpg-manager:RPG Manager": false,
+          "initiative-tracker:Initiative Tracker Encounter Builder": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "obsidian-5e-statblocks:Open Creature Pane": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "advanced-random-note:Open random note modal": false,
+          "chronology:Open Chronology": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "981f4eadc8bd2cb9"
     }
   },
   "active": "Metal Weapon Creation"

@@ -5,6 +5,30 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+    },
+    {
+      "basename": "''Converter'' Blade-Barricade CQC System",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
+    },
+    {
+      "basename": "Standard-Issue LAES Knife",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md"
+    },
+    {
+      "basename": "A.J.A.X. Gun",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
+    },
+    {
+      "basename": "Metal Weapon Concepts",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md"
+    },
+    {
+      "basename": "Metal Weapon Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+    },
+    {
       "basename": "STSC-001 ''Infinite Hydrangea''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
     },
@@ -109,24 +133,8 @@
       "path": "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md"
     },
     {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
-    },
-    {
-      "basename": "A.J.A.X. Gun",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
-    },
-    {
-      "basename": "Metal Weapon Concepts",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md"
-    },
-    {
       "basename": "Grabenkanon",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
-      "basename": "Metal Weapon Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
     },
     {
       "basename": "Armor-Piercing",
@@ -191,14 +199,6 @@
     {
       "basename": "Frontline Vanguard",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Design Note-Mounts",
-      "path": "Design Bible/Design Notes/Design Note-Mounts.md"
     }
   ],
   "omittedPaths": [],
