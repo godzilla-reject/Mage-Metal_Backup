@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97945aff164e6106",
+        "id": "31f87110d84d7150",
         "type": "tabs",
         "children": [
           {
-            "id": "2a00ef79ac98d313",
+            "id": "a91f87cdf1eda3f2",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -21,17 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "e247e133327cda42",
-            "type": "leaf",
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,7 +242,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e247e133327cda42",
+  "active": "a91f87cdf1eda3f2",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
