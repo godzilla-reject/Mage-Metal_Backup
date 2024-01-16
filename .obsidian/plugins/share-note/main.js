@@ -40,7 +40,7 @@ var require_manifest = __commonJS({
     module2.exports = {
       id: "share-note",
       name: "Share Note",
-      version: "0.8.4",
+      version: "0.8.6",
       minAppVersion: "0.15.0",
       description: "Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key.",
       author: "Alan Grainger",
@@ -1030,6 +1030,7 @@ var DEFAULT_SETTINGS = {
   themeMode: 0 /* Same as theme */,
   titleSource: 0 /* Note title */,
   removeYaml: true,
+  removeBacklinksFooter: true,
   expiry: "",
   clipboard: true,
   shareUnencrypted: false,
@@ -1097,6 +1098,13 @@ var ShareSettingsTab = class extends import_obsidian.PluginSettingTab {
     new import_obsidian.Setting(containerEl).setName("Remove published frontmatter/YAML").setDesc("Remove frontmatter/YAML/properties from the shared note").addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.removeYaml).onChange(async (value) => {
         this.plugin.settings.removeYaml = value;
+        await this.plugin.saveSettings();
+        this.display();
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("Remove backlinks footer").setDesc("Remove backlinks footer from the shared note").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.removeBacklinksFooter).onChange(async (value) => {
+        this.plugin.settings.removeBacklinksFooter = value;
         await this.plugin.saveSettings();
         this.display();
       });
@@ -14939,7 +14947,7 @@ var Note = class {
     return this.plugin.field(key);
   }
   async share() {
-    var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k;
+    var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l;
     if (!this.plugin.settings.apiKey) {
       this.plugin.authRedirect("share").then();
       return;
@@ -14956,7 +14964,9 @@ var Note = class {
       const view = this.leaf.view;
       const renderer = view.modes.preview.renderer;
       this.elements.push(getElementStyle("html", document.documentElement));
-      this.elements.push(getElementStyle("body", document.body));
+      const bodyStyle = getElementStyle("body", document.body);
+      bodyStyle.classes.push("share-note-plugin");
+      this.elements.push(bodyStyle);
       this.elements.push(getElementStyle("preview", renderer.previewEl));
       this.elements.push(getElementStyle("pusher", renderer.pusherEl));
       this.contentDom = new DOMParser().parseFromString(await this.querySelectorAll(this.leaf.view), "text/html");
@@ -14987,6 +14997,9 @@ var Note = class {
       (_b = this.contentDom.querySelector("pre.frontmatter")) == null ? void 0 : _b.remove();
       (_c = this.contentDom.querySelector("div.frontmatter-container")) == null ? void 0 : _c.remove();
     }
+    if (this.plugin.settings.removeBacklinksFooter) {
+      (_d = this.contentDom.querySelector("div.embedded-backlinks")) == null ? void 0 : _d.remove();
+    }
     const defaultCalloutType = this.getCalloutIcon((selectorText) => selectorText === ".callout") || "pencil";
     for (const el of this.contentDom.getElementsByClassName("callout")) {
       const type = el.getAttribute("data-callout");
@@ -15003,7 +15016,7 @@ var Note = class {
       const match = href ? href.match(/^([^#]+)/) : null;
       if (href == null ? void 0 : href.match(/^#/)) {
         const selector2 = `[data-heading="${href.slice(1)}"]`;
-        if ((_d = this.contentDom.querySelectorAll(selector2)) == null ? void 0 : _d[0]) {
+        if ((_e = this.contentDom.querySelectorAll(selector2)) == null ? void 0 : _e[0]) {
           el.setAttribute("onclick", `document.querySelectorAll('${selector2}')[0].scrollIntoView(true)`);
         }
         el.removeAttribute("target");
@@ -15013,7 +15026,7 @@ var Note = class {
         const linkedFile = this.plugin.app.metadataCache.getFirstLinkpathDest(match[1], "");
         if (linkedFile instanceof import_obsidian4.TFile) {
           const linkedMeta = this.plugin.app.metadataCache.getFileCache(linkedFile);
-          if ((_e = linkedMeta == null ? void 0 : linkedMeta.frontmatter) == null ? void 0 : _e[this.field(0 /* link */)]) {
+          if ((_f = linkedMeta == null ? void 0 : linkedMeta.frontmatter) == null ? void 0 : _f[this.field(0 /* link */)]) {
             el.setAttribute("href", linkedMeta.frontmatter[this.field(0 /* link */)]);
             el.removeAttribute("target");
             continue;
@@ -15030,7 +15043,7 @@ var Note = class {
     this.cssResult = uploadResult.css;
     await this.processCss();
     let decryptionKey = "";
-    if ((_g = (_f = this.meta) == null ? void 0 : _f.frontmatter) == null ? void 0 : _g[this.field(0 /* link */)]) {
+    if ((_h = (_g = this.meta) == null ? void 0 : _g.frontmatter) == null ? void 0 : _h[this.field(0 /* link */)]) {
       const match = parseExistingShareUrl(this.meta.frontmatter[this.field(0 /* link */)]);
       if (match) {
         this.template.filename = match.filename;
@@ -15041,10 +15054,10 @@ var Note = class {
     let title;
     switch (this.plugin.settings.titleSource) {
       case 1 /* First H1 */:
-        title = (_i = (_h = this.contentDom.getElementsByTagName("h1")) == null ? void 0 : _h[0]) == null ? void 0 : _i.innerText;
+        title = (_j = (_i = this.contentDom.getElementsByTagName("h1")) == null ? void 0 : _i[0]) == null ? void 0 : _j.innerText;
         break;
       case 2 /* Frontmatter property */:
-        title = (_k = (_j = this.meta) == null ? void 0 : _j.frontmatter) == null ? void 0 : _k[this.field(4 /* title */)];
+        title = (_l = (_k = this.meta) == null ? void 0 : _k.frontmatter) == null ? void 0 : _l[this.field(4 /* title */)];
         break;
     }
     if (!title) {
