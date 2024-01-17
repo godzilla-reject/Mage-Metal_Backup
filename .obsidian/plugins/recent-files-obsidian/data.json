@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Standard-Issue LAES Knife",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md"
+    },
+    {
       "basename": "Metal Weaponry Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+    },
+    {
+      "basename": "Metal Shell Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
+    },
+    {
+      "basename": "Fortress Breaker",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md"
+    },
+    {
+      "basename": "Bunker Buster",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Bunker Buster.md"
+    },
+    {
+      "basename": "Wire Runner",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md"
+    },
+    {
+      "basename": "Subtle Dialog",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Subtle Dialog.md"
+    },
+    {
+      "basename": "ULF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-001.md"
+    },
+    {
+      "basename": "Metal Frame Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
+    },
+    {
+      "basename": "SHF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md"
+    },
+    {
+      "basename": "BF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-002.md"
+    },
+    {
+      "basename": "LF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-001.md"
+    },
+    {
+      "basename": "LF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-002.md"
+    },
+    {
+      "basename": "HF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md"
+    },
+    {
+      "basename": "ULF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-002.md"
+    },
+    {
+      "basename": "Design Note-Mounts",
+      "path": "Design Bible/Design Notes/Design Note-Mounts.md"
+    },
+    {
+      "basename": "Metal Core Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
+    },
+    {
+      "basename": "STSC-001 ''Infinite Hydrangea''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
     },
     {
       "basename": "Dashboard",
@@ -11,10 +79,6 @@
     {
       "basename": "''Converter'' Blade-Barricade CQC System",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
-    },
-    {
-      "basename": "Standard-Issue LAES Knife",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md"
     },
     {
       "basename": "A.J.A.X. Gun",
@@ -27,10 +91,6 @@
     {
       "basename": "Metal Weapon Design Reference",
       "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
-    },
-    {
-      "basename": "STSC-001 ''Infinite Hydrangea''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
     },
     {
       "basename": "ATSC-001 ''Warring Dragons''",
@@ -47,10 +107,6 @@
     {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Metal Core Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
     },
     {
       "basename": "Core Template",
@@ -77,20 +133,8 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
     },
     {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
-    },
-    {
-      "basename": "Bunker Buster",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Bunker Buster.md"
-    },
-    {
       "basename": "Schools Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
-    },
-    {
-      "basename": "Wire Runner",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md"
     },
     {
       "basename": "Pilot Role Database",
@@ -119,10 +163,6 @@
     {
       "basename": "SHF-002",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md"
-    },
-    {
-      "basename": "SHF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md"
     },
     {
       "basename": "Metal Creation Steps",
@@ -159,46 +199,6 @@
     {
       "basename": "Weaponry Overview",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
-    },
-    {
-      "basename": "Ideas and Brainstorms",
-      "path": "Design Bible/Ideas and Brainstorms.md"
-    },
-    {
-      "basename": "Metal System Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal System Design Reference.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Long-Range Ordinance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md"
-    },
-    {
-      "basename": "Personal Scanner",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
-    },
-    {
-      "basename": "Guerilla Tactics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
-    },
-    {
-      "basename": "Logistical Controller",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md"
-    },
-    {
-      "basename": "Metal Shell Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Shell Design Reference.md"
-    },
-    {
-      "basename": "Battlefield Support",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
-    },
-    {
-      "basename": "Frontline Vanguard",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
     }
   ],
   "omittedPaths": [],
