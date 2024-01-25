@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dfa6bdec17c859d8",
+        "id": "438cc76cf9a48786",
         "type": "tabs",
         "children": [
           {
-            "id": "2d2289def0814040",
+            "id": "50ebf43face3eca9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -894.019758415458,
-                  "y": -1016.2546353522869,
+                  "x": -530,
+                  "y": -1010,
                   "zoom": -0.644925777151695
                 }
               }
@@ -242,7 +242,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2d2289def0814040",
+  "active": "50ebf43face3eca9",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
