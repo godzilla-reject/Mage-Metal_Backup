@@ -3,7 +3,7 @@ Category: Craftwork
 Attribute: Potential
 Tags:
   - Skills
-Completed: true
+Completed: false
 ---
 # Skill Description-`=this.file.name`
 

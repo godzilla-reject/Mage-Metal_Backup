@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Acrobatics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Artifice",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
+    },
+    {
+      "basename": "Meta-Magic",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -113,10 +133,6 @@
       "path": "Templates/Markdown Templates/Metal Templates/Core Template.md"
     },
     {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
       "basename": "Area",
       "path": "General Rules/Traits Catalog/General/Area.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Large-Gauge Scattershells",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "Weapon Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Weapon Template.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Weaponry Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md"
     }
   ],
   "omittedPaths": [],
