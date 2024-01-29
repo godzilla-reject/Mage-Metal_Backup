@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Metal Shell Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Shell Design Reference.md"
     },
     {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
+      "basename": "Metal Frame Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Frame Design Reference.md"
     },
     {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Magical Quirks",
+      "path": "Utilities/Rolltables/Magical Quirks.md"
+    },
+    {
+      "basename": "Former Dash",
+      "path": "zLegacy Notes/Former Dash.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
     },
     {
       "basename": "Clamp-Maw Trap",
@@ -175,30 +199,6 @@
     {
       "basename": "ATSC-001 ''Warring Dragons''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
-    },
-    {
-      "basename": "Auto-Shot Turret",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
-    },
-    {
-      "basename": "Core Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Core Template.md"
-    },
-    {
-      "basename": "Area",
-      "path": "General Rules/Traits Catalog/General/Area.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Steam-Spike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md"
-    },
-    {
-      "basename": "DTSC-001 ''Steelclad Mamba''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
     }
   ],
   "omittedPaths": [],

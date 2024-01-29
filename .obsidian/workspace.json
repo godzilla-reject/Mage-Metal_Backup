@@ -11,14 +11,12 @@
             "id": "51bd670be962cb62",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.42840472301667265
-                }
+                "file": "Utilities/Design References/Metal References/Metal Shell Design Reference.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -80,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Design References/Metal References/Metal Shell Design Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Design References/Metal References/Metal Shell Design Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Utilities/Design References/Metal References/Metal Shell Design Reference.md"
               }
             }
           },
@@ -245,8 +242,13 @@
   },
   "active": "51bd670be962cb62",
   "lastOpenFiles": [
-    "General Rules/Traits Catalog/Traits Database.md",
+    "Utilities/Design References/Metal References/Metal Frame Design Reference.md",
     "Utilities/Lists/Trait List.md",
+    "Utilities/Rolltables/Magical Quirks.md",
+    "zLegacy Notes/Former Dash.md",
+    "README.md",
+    "Utilities/Dashboard.canvas",
+    "General Rules/Traits Catalog/Traits Database.md",
     "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md",
     "General Rules/Traits Catalog/General/Debilitating.md",
     "General Rules/Traits Catalog/Spell-Only/Aura.md",
@@ -254,7 +256,6 @@
     "General Rules/Traits Catalog/Meta/Usage.md",
     "General Rules/Traits Catalog/General/Escalation.md",
     "General Rules/Traits Catalog/Meta",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "General Rules/Conditions Catalog/Panache.md",
     "General Rules/Traits Catalog/Manipulate.md",
@@ -269,10 +270,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Bunker Buster.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Subtle Dialog.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-001.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword",
