@@ -7016,8 +7016,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100496,
-      "modifiedDate": 1702370095705,
-      "sizeInBytes": 890
+      "modifiedDate": 1706511844531,
+      "sizeInBytes": 910
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md": {
       "isCountable": true,
@@ -7124,26 +7124,26 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699588243439,
-      "modifiedDate": 1702370067424,
-      "sizeInBytes": 1390
+      "modifiedDate": 1706511867684,
+      "sizeInBytes": 1412
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 546,
+      "wordCount": 554,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.82,
-      "characterCount": 5808,
-      "nonWhitespaceCharacterCount": 4369,
-      "readingTimeInMinutes": 2.060377358490566,
+      "pageCount": 1.8466666666666667,
+      "characterCount": 5922,
+      "nonWhitespaceCharacterCount": 4463,
+      "readingTimeInMinutes": 2.090566037735849,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100403,
-      "modifiedDate": 1706511395769,
-      "sizeInBytes": 5857
+      "modifiedDate": 1706511761584,
+      "sizeInBytes": 5971
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md": {
       "isCountable": true,
@@ -7214,8 +7214,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699588082669,
-      "modifiedDate": 1702370078408,
-      "sizeInBytes": 1405
+      "modifiedDate": 1706511727828,
+      "sizeInBytes": 1425
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md": {
       "isCountable": true,

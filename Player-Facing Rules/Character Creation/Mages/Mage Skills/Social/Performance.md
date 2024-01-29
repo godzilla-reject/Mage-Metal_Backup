@@ -3,6 +3,7 @@ Category: Social
 Attribute: Tenacity
 Tags:
   - Skills
+  - Generator_Focus
 Completed: false
 ---
 # Skill Description-`=this.file.name`

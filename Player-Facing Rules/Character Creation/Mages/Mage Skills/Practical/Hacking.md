@@ -3,6 +3,7 @@ Category: Practical
 Attribute: Mind
 Tags:
   - Skills
+  - Generator_Resolve
 Completed: false
 ---
 # Skill Description-`=this.file.name`

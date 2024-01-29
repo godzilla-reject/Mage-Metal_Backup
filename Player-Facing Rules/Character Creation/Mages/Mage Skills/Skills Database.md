@@ -150,7 +150,8 @@ columns:
     sortIndex: -1
     options:
       - { label: "Skills", value: "Skills", color: "hsl(51, 95%, 90%)"}
-      - { label: "Generator_Resolve", value: "Generator_Resolve", color: "hsl(342, 95%, 90%)"}
+      - { label: "Generator_Resolve", value: "Generator_Resolve", color: "hsl(44,92%,36%)"}
+      - { label: "Generator_Focus", value: "Generator_Focus", color: "hsl(236,64%,39%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -160,6 +161,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
   Completed:
     input: checkbox
     accessorKey: Completed

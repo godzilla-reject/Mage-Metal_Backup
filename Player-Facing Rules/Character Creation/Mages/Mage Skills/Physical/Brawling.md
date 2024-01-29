@@ -4,6 +4,7 @@ Attribute: Power
 cssclasses: []
 Tags:
   - Skills
+  - Generator_Focus
 Completed: false
 ---
 # Skill Description-`=this.file.name`
