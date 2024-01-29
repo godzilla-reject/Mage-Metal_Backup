@@ -1,21 +1,37 @@
-- Hegemony Locales 
-	- Terrarium - Main Hegemony super-city. Orbits the remnants of  Earth Prime. 
-		- Top Ring
-			- Upper Epitaph
-			- Outer Shells 
-			- Circle Towers
-		- Middle Ring
-			- Lower Epitaph 
-			- Inner Shells 
-			- Bogarten University
-			- Astrareium 
-		- Bottom Ring 
-			- Exhaust Slums 
-			- Little Neon
-			- Industrial Zone
-				- Hydroponics Yards 
-				- Super-Factories
-	- Mars - Home of the Dwaurves 
-	- Venus - Home of the Elves. 
+- Sol System
+	- Hegemony Locales 
+		- Blended Space
+			- Terrarium - Main Hegemony super-city. Orbits the remnants of Earth Prime. 
+				- Top Ring
+					- Upper Epitaph
+					- Outer Shells 
+					- Circle Towers
+				- Middle Ring
+					- Lower Epitaph 
+					- Inner Shells 
+					- Bogarten University
+					- Astrareium 
+				- Bottom Ring 
+					- Exhaust Slums 
+					- Little Neon
+					- Industrial Zene
+						- Hydroponics Yards 
+						- Super-Factories
+			- Pluto
+				- USH Intersystem Outpost 
+		- Human Space 
+		- Dwaurven Space
+			-  Mars 
+			- Jupiter
+		- Elven Space
+			- Venus
+				- Vene'salanti - Capital city-state of Venus.
+					- 4-Ring City Structure. 
+						- 3 districts per ring. 
+				- Nuevo Tenochtitlan - Named for the first Elven city on Old Earth.
+					- Temple City. 
+					- Hosts the Grand Cathedral, the central location of the Elven religion. 
+			- The Cities on Six Moons 
+				- Elven colonies on six moons of Saturn. 
 - Exotic Locales 
 	- The Fringe - Area of mostly empty space that draws the border between the Sol system and the Andromeda system. 

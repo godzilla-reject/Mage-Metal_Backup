@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Vague List of Places",
+      "path": "Setting/Vague List of Places.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+    },
+    {
+      "basename": "Elves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
+    },
+    {
+      "basename": "Species Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
+    },
+    {
+      "basename": "Peoples of the Game Setting",
+      "path": "Setting/Peoples of the Game Setting.md"
+    },
+    {
+      "basename": "Databases",
+      "path": "Utilities/Dashboard Notes/Databases.md"
+    },
+    {
+      "basename": "Dev Helpers",
+      "path": "Utilities/Dashboard Notes/Dev Helpers.md"
+    },
+    {
       "basename": "Metal Shell Design Reference",
       "path": "Utilities/Design References/Metal References/Metal Shell Design Reference.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Design Note-Mounts",
       "path": "Design Bible/Design Notes/Design Note-Mounts.md"
-    },
-    {
-      "basename": "Metal Core Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
-    },
-    {
-      "basename": "STSC-001 ''Infinite Hydrangea''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
-    },
-    {
-      "basename": "''Converter'' Blade-Barricade CQC System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
-    },
-    {
-      "basename": "A.J.A.X. Gun",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
-    },
-    {
-      "basename": "Metal Weapon Concepts",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md"
-    },
-    {
-      "basename": "Metal Weapon Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
-    },
-    {
-      "basename": "ATSC-001 ''Warring Dragons''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
     }
   ],
   "omittedPaths": [],

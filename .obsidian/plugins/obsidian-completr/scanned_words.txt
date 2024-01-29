@@ -2186,6 +2186,8 @@ dug
 dragon
 depends
 diverse
+draws
+districts
 ever
 expand
 easy
@@ -2335,6 +2337,7 @@ enables
 exists
 experimental
 ensures
+empty
 played
 pilot
 play
@@ -2936,6 +2939,7 @@ retrofitting
 refitting
 related
 rogues
+ring
 Pathfinder
 PF
 Philosophy
@@ -3130,6 +3134,7 @@ AJAX
 Auxiliary
 Auto
 Alpha
+Andromeda
 metal
 magic
 mechanics
@@ -3584,6 +3589,7 @@ Entrenchment
 Engines
 Energized
 Est
+Exotic
 Use
 Usable
 Unsorted
@@ -3723,6 +3729,7 @@ CICC
 Characters
 Checks
 Current
+Capital
 We
 While
 Write
@@ -4373,6 +4380,7 @@ Venus
 Variation
 VOD
 Version
+Venesuva
 You
 Your
 YAY
@@ -4380,6 +4388,7 @@ Yangari
 Yards
 Zephyr
 Zone
+Zene
 quill
 quilted
 qualifier

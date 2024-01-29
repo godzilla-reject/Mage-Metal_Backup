@@ -13,14 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilities/Design References/Metal References/Metal Shell Design Reference.md",
-                "mode": "preview",
+                "file": "Setting/Vague List of Places.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ]
+      },
+      {
+        "id": "7d1ece3f79ff3b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4e6dec3a850d86c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "79b7bde33427b9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -94,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Design References/Metal References/Metal Shell Design Reference.md",
+                "file": "Setting/Vague List of Places.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Design References/Metal References/Metal Shell Design Reference.md",
+                "file": "Setting/Vague List of Places.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Design References/Metal References/Metal Shell Design Reference.md"
+                "file": "Setting/Vague List of Places.md"
               }
             }
           },
@@ -242,6 +276,14 @@
   },
   "active": "51bd670be962cb62",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
+    "Setting/Vague List of Places.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
+    "Templates/Markdown Templates/Mage Templates/Species Template.md",
+    "Setting/Peoples of the Game Setting.md",
+    "Utilities/Dashboard Notes/Databases.md",
+    "Utilities/Dashboard Notes/Dev Helpers.md",
+    "Utilities/Design References/Metal References/Metal Shell Design Reference.md",
     "Utilities/Design References/Metal References/Metal Frame Design Reference.md",
     "Utilities/Lists/Trait List.md",
     "Utilities/Rolltables/Magical Quirks.md",
@@ -262,14 +304,6 @@
     "General Rules/Character Mechanics Overview.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
-    "Utilities/Lists/Conditions List.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword",
