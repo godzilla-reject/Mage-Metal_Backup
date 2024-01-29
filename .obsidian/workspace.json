@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a89660f20f15cabb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "51bd670be962cb62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting/Vague List of Places.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "7d1ece3f79ff3b01",
         "type": "tabs",
         "children": [
@@ -52,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Vague List of Places.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Vague List of Places.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Vague List of Places.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
               }
             }
           },
@@ -274,7 +254,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "51bd670be962cb62",
+  "active": "f4e6dec3a850d86c",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
     "Setting/Vague List of Places.md",
