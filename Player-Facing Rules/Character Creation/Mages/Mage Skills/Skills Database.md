@@ -150,6 +150,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "Skills", value: "Skills", color: "hsl(51, 95%, 90%)"}
+      - { label: "Generator_Resolve", value: "Generator_Resolve", color: "hsl(342, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

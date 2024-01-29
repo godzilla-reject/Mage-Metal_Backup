@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Panache",
+      "path": "General Rules/Conditions Catalog/Panache.md"
+    },
+    {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Surgeon General",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     }
   ],
   "omittedPaths": [],

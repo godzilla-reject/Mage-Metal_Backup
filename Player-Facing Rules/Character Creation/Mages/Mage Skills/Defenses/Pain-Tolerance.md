@@ -3,6 +3,7 @@ Attribute: Body
 Category: Defenses
 Tags:
   - Skills
+  - Generator_Resolve
 Completed: true
 ---
 # Skill Description-`=this.file.name`

@@ -11,9 +11,12 @@
             "id": "08fe5f8607bdcc2d",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+                "file": "General Rules/Conditions Catalog/Panache.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -92,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+                "file": "General Rules/Conditions Catalog/Panache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+                "file": "General Rules/Conditions Catalog/Panache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+                "file": "General Rules/Conditions Catalog/Panache.md"
               }
             }
           },
@@ -240,12 +243,12 @@
   },
   "active": "08fe5f8607bdcc2d",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Utilities/Dashboard.canvas",
     "General Rules/Traits Catalog/Traits Database.md",
     "General Rules/Traits Catalog/Manipulate.md",
     "General Rules/Character Mechanics Overview.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
