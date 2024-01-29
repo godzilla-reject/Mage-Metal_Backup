@@ -1,7 +1,7 @@
 ---
 Tags: Trait
 Category: General
-Completed:
+Completed: true
 ---
 > [!infobox|left]+ Trait Entry
 > # `=this.file.name`

@@ -5,6 +5,14 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
+      "basename": "Manipulate",
+      "path": "General Rules/Traits Catalog/Manipulate.md"
+    },
+    {
       "basename": "Armor Overview",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Metal Attributes and Statistics",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
-      "basename": "SHF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md"
-    },
-    {
-      "basename": "Metal Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
     }
   ],
   "omittedPaths": [],
