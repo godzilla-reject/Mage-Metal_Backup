@@ -1,5 +1,5 @@
 ---
-Category: Unsorted
+Category: Meta
 Tags:
   - Trait
 Completed: true

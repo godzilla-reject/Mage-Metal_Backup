@@ -3712,6 +3712,7 @@ Cannon
 Cerebral
 CICC
 Characters
+Checks
 We
 While
 Write
@@ -4378,6 +4379,7 @@ quirk
 qualifiers
 quality
 qualities
+qualifer
 XdE
 Xcatter
 Kit

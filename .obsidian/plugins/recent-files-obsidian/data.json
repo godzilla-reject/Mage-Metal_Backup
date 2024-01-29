@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Traits Database",
       "path": "General Rules/Traits Catalog/Traits Database.md"
     },
@@ -9,8 +13,28 @@
       "path": "Utilities/Lists/Trait List.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Clamp-Maw Trap",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
+    },
+    {
+      "basename": "Debilitating",
+      "path": "General Rules/Traits Catalog/General/Debilitating.md"
+    },
+    {
+      "basename": "Aura",
+      "path": "General Rules/Traits Catalog/Spell-Only/Aura.md"
+    },
+    {
+      "basename": "Legality",
+      "path": "General Rules/Traits Catalog/General/Legality.md"
+    },
+    {
+      "basename": "Usage",
+      "path": "General Rules/Traits Catalog/Meta/Usage.md"
+    },
+    {
+      "basename": "Escalation",
+      "path": "General Rules/Traits Catalog/General/Escalation.md"
     },
     {
       "basename": "Skills Database",
@@ -175,30 +199,6 @@
     {
       "basename": "DTSC-001 ''Steelclad Mamba''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
-    },
-    {
-      "basename": "Schools Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
-    },
-    {
-      "basename": "Pilot Role Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
-    },
-    {
-      "basename": "Metal Mechanics Outline",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "Shell Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
-    },
-    {
-      "basename": "Metal Weapon Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
-    },
-    {
-      "basename": "Surgeon General",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md"
     }
   ],
   "omittedPaths": [],
