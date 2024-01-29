@@ -11,14 +11,28 @@
             "id": "1d53f5ea4406ca59",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.42840472301667265
-                }
+                "file": "General Rules/Traits Catalog/Traits Database.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "75dfaea475f11ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90b9b57618105470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Traits Catalog/Traits Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Traits Catalog/Traits Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/Traits Catalog/Traits Database.md"
               }
             }
           },
@@ -245,10 +259,11 @@
   },
   "active": "1d53f5ea4406ca59",
   "lastOpenFiles": [
+    "Utilities/Lists/Trait List.md",
+    "General Rules/Traits Catalog/Traits Database.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "General Rules/Conditions Catalog/Panache.md",
-    "Utilities/Dashboard.canvas",
-    "General Rules/Traits Catalog/Traits Database.md",
     "General Rules/Traits Catalog/Manipulate.md",
     "General Rules/Character Mechanics Overview.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
@@ -271,7 +286,6 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-001.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-002.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-002.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword",

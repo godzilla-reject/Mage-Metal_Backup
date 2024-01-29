@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Traits Database",
+      "path": "General Rules/Traits Catalog/Traits Database.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Panache",
       "path": "General Rules/Conditions Catalog/Panache.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
     },
     {
       "basename": "Manipulate",
@@ -151,10 +155,6 @@
     {
       "basename": "Auto-Shot Turret",
       "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Core Template",
