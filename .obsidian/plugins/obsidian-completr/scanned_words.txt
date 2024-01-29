@@ -930,6 +930,7 @@ catter
 carefully
 commissioning
 channel
+criminals
 before
 being
 be
@@ -1786,6 +1787,7 @@ specializes
 searching
 solution
 sacrifices
+smuggling
 LANCER
 Learn
 Lancer
@@ -2929,6 +2931,7 @@ radiate
 retrofitting
 refitting
 related
+rogues
 Pathfinder
 PF
 Philosophy
