@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41b8e31440236368",
+        "id": "5eaf042d9a11e093",
         "type": "tabs",
         "children": [
           {
-            "id": "f6b47fa49f6a1409",
+            "id": "e864786144bbfe9b",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -1.0357949904322545
+                  "zoom": -1.1437897865973663
                 }
               }
             }
@@ -213,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,8 +242,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f6b47fa49f6a1409",
+  "active": "e864786144bbfe9b",
   "lastOpenFiles": [
+    "Templates/Markdown Templates/General Templates/Monster Template.md",
+    "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
     "Setting/Vague List of Places.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
@@ -256,7 +260,6 @@
     "Utilities/Rolltables/Magical Quirks.md",
     "zLegacy Notes/Former Dash.md",
     "README.md",
-    "Utilities/Dashboard.canvas",
     "General Rules/Traits Catalog/Traits Database.md",
     "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md",
     "General Rules/Traits Catalog/General/Debilitating.md",
@@ -269,8 +272,6 @@
     "General Rules/Conditions Catalog/Panache.md",
     "General Rules/Traits Catalog/Manipulate.md",
     "General Rules/Character Mechanics Overview.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword",

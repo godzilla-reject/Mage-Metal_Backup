@@ -5,6 +5,14 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Monster Template",
+      "path": "Templates/Markdown Templates/General Templates/Monster Template.md"
+    },
+    {
+      "basename": "New Equipment Template",
+      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
+    },
+    {
       "basename": "Elves",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "HF-001",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md"
-    },
-    {
-      "basename": "ULF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-002.md"
-    },
-    {
-      "basename": "Design Note-Mounts",
-      "path": "Design Bible/Design Notes/Design Note-Mounts.md"
     }
   ],
   "omittedPaths": [],
