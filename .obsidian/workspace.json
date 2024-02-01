@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "56b064bbf17c0aae",
+        "id": "41b8e31440236368",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ebda32f3acfd6f",
+            "id": "f6b47fa49f6a1409",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -242,7 +242,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c5ebda32f3acfd6f",
+  "active": "f6b47fa49f6a1409",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
     "Setting/Vague List of Places.md",
