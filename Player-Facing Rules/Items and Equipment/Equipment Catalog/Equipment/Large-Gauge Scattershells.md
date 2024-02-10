@@ -3,6 +3,9 @@ Type: Ammunition
 Tags:
   - Equipment
 Completed: true
+Tier: 0
+Heft: 3
+Price: 5
 ---
 
 > [!infobox|left]+ Equipment Entry

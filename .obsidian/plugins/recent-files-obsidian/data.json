@@ -5,6 +5,78 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "High-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Large-Gauge Scattershells",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
+    },
+    {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Hyper-Specialized",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md"
+    },
+    {
+      "basename": "Special Perks Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
+    },
+    {
+      "basename": "Arcane Addict",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md"
+    },
+    {
+      "basename": "Evil-Tainted Magic",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Evil-Tainted Magic.md"
+    },
+    {
+      "basename": "Mercurial Magics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Mercurial Magics.md"
+    },
+    {
+      "basename": "Master Craftsman",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Master Craftsman.md"
+    },
+    {
+      "basename": "Boulder Fists",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md"
+    },
+    {
+      "basename": "Escaton's Boulder Fists",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
+    },
+    {
+      "basename": "Metal Weapon Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
+    },
+    {
+      "basename": "Perk Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Perk Template.md"
+    },
+    {
+      "basename": "Shield Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
+    },
+    {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
       "basename": "Conditions List",
       "path": "Utilities/Lists/Conditions List.md"
     },
@@ -105,10 +177,6 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
     },
     {
-      "basename": "Metal Weapon Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
-    },
-    {
       "basename": "Actions Overview",
       "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "Dwaurves",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "Vague List of Places",
-      "path": "Setting/Vague List of Places.md"
-    },
-    {
-      "basename": "Species Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
-    },
-    {
-      "basename": "Peoples of the Game Setting",
-      "path": "Setting/Peoples of the Game Setting.md"
-    },
-    {
-      "basename": "Databases",
-      "path": "Utilities/Dashboard Notes/Databases.md"
-    },
-    {
-      "basename": "Dev Helpers",
-      "path": "Utilities/Dashboard Notes/Dev Helpers.md"
-    },
-    {
-      "basename": "Metal Shell Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Shell Design Reference.md"
-    },
-    {
-      "basename": "Metal Frame Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Frame Design Reference.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
-      "basename": "Magical Quirks",
-      "path": "Utilities/Rolltables/Magical Quirks.md"
-    },
-    {
-      "basename": "Former Dash",
-      "path": "zLegacy Notes/Former Dash.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Traits Database",
-      "path": "General Rules/Traits Catalog/Traits Database.md"
-    },
-    {
-      "basename": "Clamp-Maw Trap",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
-    },
-    {
-      "basename": "Debilitating",
-      "path": "General Rules/Traits Catalog/General/Debilitating.md"
-    },
-    {
-      "basename": "Aura",
-      "path": "General Rules/Traits Catalog/Spell-Only/Aura.md"
-    },
-    {
-      "basename": "Legality",
-      "path": "General Rules/Traits Catalog/General/Legality.md"
     }
   ],
   "omittedPaths": [],
