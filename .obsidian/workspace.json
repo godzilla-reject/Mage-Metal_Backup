@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "baf940e33c4acb43",
+        "id": "9d9a9113e558a849",
         "type": "tabs",
         "children": [
           {
-            "id": "10c060f4ac88307a",
+            "id": "dc2b2766d7ae65cb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.42840472301667265
-                }
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
               }
             }
           }
@@ -80,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -97,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
               }
             }
           },
@@ -243,12 +237,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "10c060f4ac88307a",
+  "active": "a6efdbb03f15d137",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md",
@@ -270,8 +265,6 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
     "Player-Facing Rules/Character Creation/Character Progression.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md",
     "General Rules/Traits Catalog/Meta",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",

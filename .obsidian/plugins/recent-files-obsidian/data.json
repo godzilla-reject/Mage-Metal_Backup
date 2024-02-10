@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Metal Systems Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Elves",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
     }
   ],
   "omittedPaths": [],
