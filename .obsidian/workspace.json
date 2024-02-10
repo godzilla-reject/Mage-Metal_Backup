@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5eaf042d9a11e093",
+        "id": "b5d550969f42d6ef",
         "type": "tabs",
         "children": [
           {
-            "id": "e864786144bbfe9b",
+            "id": "961ba970bc76200e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -1.1437897865973663
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -213,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,7 +241,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e864786144bbfe9b",
+  "active": "961ba970bc76200e",
   "lastOpenFiles": [
     "GM-Facing Rules/Monsters and Men/Bestiary/Joel.md",
     "Utilities/Dashboard.canvas",
