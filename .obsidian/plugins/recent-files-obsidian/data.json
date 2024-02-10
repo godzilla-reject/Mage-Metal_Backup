@@ -5,12 +5,12 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
-    },
-    {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
     },
     {
       "basename": "Battlefield Support",
