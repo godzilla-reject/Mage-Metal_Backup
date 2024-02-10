@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "669566d4ee7f349b",
+        "id": "0cd15b85530ab917",
         "type": "tabs",
         "children": [
           {
-            "id": "ee2d4f0e7894fd56",
+            "id": "59a8057210b2558d",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -242,10 +242,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ee2d4f0e7894fd56",
+  "active": "59a8057210b2558d",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",

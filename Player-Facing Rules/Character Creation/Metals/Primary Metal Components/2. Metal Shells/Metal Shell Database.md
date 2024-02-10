@@ -1,6 +1,7 @@
 ---
 
 database-plugin: basic
+tags: [database]
 
 ---
 
