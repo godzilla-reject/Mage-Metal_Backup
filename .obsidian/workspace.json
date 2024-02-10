@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b5d550969f42d6ef",
+        "id": "22fa7b79be8673d0",
         "type": "tabs",
+        "dimension": 62.5,
         "children": [
           {
-            "id": "961ba970bc76200e",
+            "id": "67a5a844f18b221d",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,19 +17,89 @@
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
                   "x": -530,
-                  "y": -1010,
-                  "zoom": -0.9988599801533312
+                  "y": -652.4164133738602,
+                  "zoom": -0.942977895846431
                 }
               }
             }
           },
           {
-            "id": "37c585a4039d4650",
+            "id": "c0f933155ad42095",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
+              }
+            }
+          },
+          {
+            "id": "bc70b84b77825940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "29875ec566c5465a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "19b2c99e83f4d614",
+        "type": "tabs",
+        "dimension": 37.5,
+        "children": [
+          {
+            "id": "f4663b03e97de859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Metal Templates/Core Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "264be63df9a7c7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5b0859c02a955532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Conditions List.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -94,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -110,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
               }
             }
           },
@@ -187,6 +259,14 @@
             }
           },
           {
+            "id": "4739661f3573ba43",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
             "id": "d7a3e427e71d5d3e",
             "type": "leaf",
             "state": {
@@ -207,18 +287,10 @@
             }
           },
           {
-            "id": "ef80b8765fa26881",
+            "id": "8753d1336babb804",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "0fbe6449d5277920",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
               "state": {}
             }
           }
@@ -227,7 +299,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,23 +314,32 @@
       "dbfolder:Create a new database table": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
+      "homepage:Open homepage": false,
       "rpg-manager:RPG Manager": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "homepage:Open homepage": false,
-      "obsidian-memos:Memos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "37c585a4039d4650",
+  "active": "bc70b84b77825940",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+    "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
+    "General Rules/The Favor System/Action Structure/Actions Overview.md",
     "General Rules/The Favor System/Dice Structure/Dice Overview.md",
     "GM-Facing Rules/Monsters and Men/Bestiary/Joel.md",
     "Templates/Markdown Templates/General Templates/Monster Template.md",
@@ -275,15 +357,7 @@
     "Utilities/Rolltables/Magical Quirks.md",
     "zLegacy Notes/Former Dash.md",
     "README.md",
-    "General Rules/Traits Catalog/Traits Database.md",
-    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md",
-    "General Rules/Traits Catalog/General/Debilitating.md",
-    "General Rules/Traits Catalog/Spell-Only/Aura.md",
-    "General Rules/Traits Catalog/General/Legality.md",
-    "General Rules/Traits Catalog/Meta/Usage.md",
-    "General Rules/Traits Catalog/General/Escalation.md",
     "General Rules/Traits Catalog/Meta",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword",
