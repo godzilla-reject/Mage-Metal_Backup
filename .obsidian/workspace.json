@@ -21,8 +21,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "37c585a4039d4650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md"
               }
             }
           },
@@ -173,14 +187,6 @@
             }
           },
           {
-            "id": "4739661f3573ba43",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
             "id": "d7a3e427e71d5d3e",
             "type": "leaf",
             "state": {
@@ -201,10 +207,18 @@
             }
           },
           {
-            "id": "8753d1336babb804",
+            "id": "ef80b8765fa26881",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fbe6449d5277920",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
               "state": {}
             }
           }
@@ -213,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,27 +238,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "rpg-manager:RPG Manager": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
-      "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "homepage:Open homepage": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "961ba970bc76200e",
+  "active": "37c585a4039d4650",
   "lastOpenFiles": [
-    "GM-Facing Rules/Monsters and Men/Bestiary/Joel.md",
     "Utilities/Dashboard.canvas",
+    "General Rules/The Favor System/Dice Structure/Dice Overview.md",
+    "GM-Facing Rules/Monsters and Men/Bestiary/Joel.md",
     "Templates/Markdown Templates/General Templates/Monster Template.md",
     "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
@@ -269,7 +284,6 @@
     "General Rules/Traits Catalog/General/Escalation.md",
     "General Rules/Traits Catalog/Meta",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "General Rules/Conditions Catalog/Panache.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword",

@@ -40,7 +40,7 @@ var require_manifest = __commonJS({
     module2.exports = {
       id: "share-note",
       name: "Share Note",
-      version: "0.8.6",
+      version: "0.8.7",
       minAppVersion: "0.15.0",
       description: "Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key.",
       author: "Alan Grainger",
@@ -14996,6 +14996,10 @@ var Note = class {
       (_a = this.contentDom.querySelector("div.metadata-container")) == null ? void 0 : _a.remove();
       (_b = this.contentDom.querySelector("pre.frontmatter")) == null ? void 0 : _b.remove();
       (_c = this.contentDom.querySelector("div.frontmatter-container")) == null ? void 0 : _c.remove();
+    } else {
+      this.contentDom.querySelectorAll("input.metadata-property-key-input").forEach((el) => {
+        el.setAttribute("value", el.getAttribute("aria-label") || "");
+      });
     }
     if (this.plugin.settings.removeBacklinksFooter) {
       (_d = this.contentDom.querySelector("div.embedded-backlinks")) == null ? void 0 : _d.remove();

@@ -1,6 +1,5 @@
-- [ ] #todo  ⏫ Expand and get player-eyes ready. 
 ## Basics of the Dice 
-In *The Mage in the Metal*, a wide array of dice are used, spanning from a d4 to a d12, but the primary dice used to resolve all checks (and contests!) is a pool of **3d6.** These dice are used due to the even distribution of results along a curve (called a bell-curve (?)). While most other games use a d20 for resolving unknowns (this is called the game's *resolution method*), *Mage//Metal* chooses to opt for the more predictable 3d6 dice pool. This can lead to some major differences from other games, such as *critically* succeeding/failing on a roll. 
+In *The Mage in the Metal*, a wide array of dice are used, spanning from a d4 to a d12, but the primary dice used to resolve all checks (and contests!) is a pool of **3d6.** These dice are used due to the even distribution of results along a curve (called a bell-curve). While most other games use a d20 for resolving unknowns (this is called the game's *resolution method*), *Mage//Metal* chooses to opt for the more predictable 3d6 dice pool. This can lead to some major differences from other games, such as *critically* succeeding/failing on a roll. 
 ### The Check
 Whenever an action is uncertain or dramatically in-doubt, the GM may call for (or perform themselves!) a **check.** This, in simplest form, is rolling 3d6 and comparing the sum of the results to a *target number* (TN), which is the value being checked, with the goal of rolling *under* the TN. 
 
@@ -16,13 +15,22 @@ The types of bonuses are:
 - Magical
 - Circumstance
 - Fate 
+
+##### Bonuses: Stacking and Cumulative
+While normally, two different equipment (or any other type of) bonuses will not stack together, there are special exceptions. These exceptions are in the form of *stacking* bonuses, which, as one would guess, stack with other bonuses of the same type. 
+
+Additionally, normally you cannot receive the same bonus from the same effect twice (such a spell granting a bonus to Ranged Attack Accuracy). However, there are *also* exceptions to this, in the form of *cumulative* bonuses. These bonuses add with themselves (but not *other* bonuses of the same type.) 
+
+A bonus *can* be both stacking and cumulative (and this will be denoted.)
+
 #### Modifiers: Penalties
 Penalties, on the other hand, all stack together. They might include a type, but this is for other mechanics to reference. A penalty *subtracts* from the target number, thus making it more difficult.
 
 The most common form of penalty is the *difficulty* penalty; nearly all rolls will have one. 
 
 >[!example] Example: Applying Modifiers
->To build on our previous example, creating a *brand new* weapon is quite the feat, so let's say that Matthew's GM assigns his **Mundocraft** check a difficulty penalty of -10. This would then make his TN a 10, not 20, which would then result in this becoming a failure. However, Whitebeard, as a [[Wrench Monkey]], has access to a full workshop, granting him a +4 equipment bonus to any **Mundocraft** check made there. Thus, the final TN would instead be a 14, and the roll of a 12 would still be a success (even if a narrow one!)
+>To build on our previous example, creating a *brand new* weapon is quite the feat, so let's say that Matthew's GM assigns his **Mundocraft** check a difficulty penalty of -10 (a "very difficult" modifier.) This would then make his TN a 10, not 20, which would then result in this becoming a failure. However, Whitebeard, as a [[Wrench Monkey]], has access to a full workshop, granting him a +4 equipment bonus to any **Mundocraft** check made there. Thus, the final TN would instead be a 14, and the roll of a 12 would still be a success (even if a narrow one!)
+
 - - -
 ## Success and Failure
 In *Mage//Metal*, success and failure is not a binary system; some effects rely on more than just the outcome of the roll. Some effects only have outcomes that occur on much more rare *critical* successes or failures. These occur on an outcome (the total of the dice) 5 and lower (for a critical success) or 16 and higher (for a critical failure.) Most effects, such as spells, however, will have a sliding scale of results that run the entire array of outcomes. 

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Actions Overview",
+      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Dice Overview",
+      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Monster Template",
@@ -187,14 +199,6 @@
     {
       "basename": "BF-002",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-002.md"
-    },
-    {
-      "basename": "LF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-001.md"
-    },
-    {
-      "basename": "LF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-002.md"
     }
   ],
   "omittedPaths": [],
