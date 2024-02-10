@@ -5,12 +5,32 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Core Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Core Template.md"
+      "basename": "Corpo Deskie",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
+    },
+    {
+      "basename": "Noble",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
+    },
+    {
+      "basename": "History Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "Hegemony Nomad",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
+    },
+    {
+      "basename": "Alliant Spy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md"
     },
     {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Core Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Core Template.md"
     },
     {
       "basename": "Metal Core Database",
@@ -179,26 +199,6 @@
     {
       "basename": "Acrobatics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
-    },
-    {
-      "basename": "Meta-Magic",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md"
-    },
-    {
-      "basename": "Artifice",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Standard-Issue LAES Knife",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md"
-    },
-    {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
     }
   ],
   "omittedPaths": [],

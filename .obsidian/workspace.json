@@ -11,6 +11,42 @@
             "id": "c7732cf072586a01",
             "type": "leaf",
             "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+              }
+            }
+          },
+          {
+            "id": "4aa91494874c5c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c57ed1732f9f8232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7ff2ea7d92e9ab75",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
@@ -22,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,10 +280,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c7732cf072586a01",
+  "active": "7ff2ea7d92e9ab75",
   "lastOpenFiles": [
-    "Templates/Markdown Templates/Metal Templates/Core Template.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md",
     "Utilities/Dashboard.canvas",
+    "Templates/Markdown Templates/Metal Templates/Core Template.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
@@ -267,11 +309,6 @@
     "Setting/Peoples of the Game Setting.md",
     "Utilities/Dashboard Notes/Databases.md",
     "Utilities/Dashboard Notes/Dev Helpers.md",
-    "Utilities/Design References/Metal References/Metal Shell Design Reference.md",
-    "Utilities/Design References/Metal References/Metal Frame Design Reference.md",
-    "Utilities/Lists/Trait List.md",
-    "Utilities/Rolltables/Magical Quirks.md",
-    "zLegacy Notes/Former Dash.md",
     "General Rules/Traits Catalog/Meta",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",
