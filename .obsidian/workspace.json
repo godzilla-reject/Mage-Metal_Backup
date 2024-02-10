@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0cd15b85530ab917",
+        "id": "76db360488675c1f",
         "type": "tabs",
         "children": [
           {
-            "id": "59a8057210b2558d",
+            "id": "9a37c00012c9b779",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.7171441532534621
+                }
               }
             }
           }
@@ -75,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -238,10 +242,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "59a8057210b2558d",
+  "active": "9a37c00012c9b779",
   "lastOpenFiles": [
-    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
+    "Player-Facing Rules/Character Creation/Character Progression.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md",
@@ -251,10 +261,8 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md",
     "Templates/Markdown Templates/Metal Templates/Core Template.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
     "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
@@ -263,9 +271,6 @@
     "GM-Facing Rules/Monsters and Men/Bestiary/Joel.md",
     "Templates/Markdown Templates/General Templates/Monster Template.md",
     "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
-    "Setting/Vague List of Places.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "General Rules/Traits Catalog/Meta",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",

@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "ATSC-001 ''Warring Dragons''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
+    },
+    {
+      "basename": "Character Progression",
+      "path": "Player-Facing Rules/Character Creation/Character Progression.md"
+    },
+    {
+      "basename": "SHF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md"
+    },
+    {
+      "basename": "SHF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md"
+    },
+    {
+      "basename": "Fortress Breaker",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md"
+    },
+    {
+      "basename": "Metal Core Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
+    },
+    {
+      "basename": "Metal Shell Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
     },
     {
       "basename": "Pilot Role Database",
@@ -49,20 +73,12 @@
       "path": "Templates/Markdown Templates/Metal Templates/Core Template.md"
     },
     {
-      "basename": "Metal Core Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
-    },
-    {
       "basename": "DTSC-001 ''Steelclad Mamba''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
     },
     {
       "basename": "STSC-001 ''Infinite Hydrangea''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
-    },
-    {
-      "basename": "ATSC-001 ''Warring Dragons''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
     },
     {
       "basename": "Metal Attributes and Statistics",
@@ -183,22 +199,6 @@
     {
       "basename": "Panache",
       "path": "General Rules/Conditions Catalog/Panache.md"
-    },
-    {
-      "basename": "Manipulate",
-      "path": "General Rules/Traits Catalog/Manipulate.md"
-    },
-    {
-      "basename": "Armor Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
     }
   ],
   "omittedPaths": [],
