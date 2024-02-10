@@ -8,21 +8,13 @@ Tags:
 # Description-`=this.file.name`
 You work for one of the six mega-corporations that own and control 95 % of the Terrarium. 
 >[!info| clear no-i] `=this.file.name` Mechanics
->**Wealth** | `=this.Wealth`   
->**Attribute**| `=this.Boost`
-
->[!info| clear no-i] `=this.file.name` Mechanics
 >**Wealth:** `=this.Wealth`   
 >**Attribute:** `=this.Boost`
 
 >[!column clear] History Options
 >> [!metadata|text-Center c-p-sm] General Skill Proficiencies
->> - Two Mind Skills 
->> - OR
->> - One Mind Skill and One Tenacity Skill
->
 >>*Pick One*
->> - Two Mind Skills;
+>> - Two Mind Skills
 >> - One Mind Skill and One Tenacity Skill
 
 

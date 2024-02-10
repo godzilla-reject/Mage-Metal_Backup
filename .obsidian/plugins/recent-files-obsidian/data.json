@@ -5,28 +5,40 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Corpo Deskie",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
     },
     {
-      "basename": "Noble",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Battlefield Support",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
     },
     {
       "basename": "History Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
     },
     {
+      "basename": "Corpo Deskie",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
+    },
+    {
       "basename": "Hegemony Nomad",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
     },
     {
-      "basename": "Alliant Spy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md"
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
+      "basename": "Noble",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
+    },
+    {
+      "basename": "Alliant Spy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md"
     },
     {
       "basename": "Core Template",
@@ -55,10 +67,6 @@
     {
       "basename": "''Converter'' Blade-Barricade CQC System",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
-    },
-    {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
     },
     {
       "basename": "Metal Weapon Template",
@@ -191,14 +199,6 @@
     {
       "basename": "Dodge",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
-    },
-    {
-      "basename": "Sneakery",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
-    },
-    {
-      "basename": "Acrobatics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
     }
   ],
   "omittedPaths": [],
