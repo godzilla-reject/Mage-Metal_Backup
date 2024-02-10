@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b8031db0376af40c",
+        "id": "baf940e33c4acb43",
         "type": "tabs",
         "children": [
           {
-            "id": "ccd7c2c0e1852171",
+            "id": "10c060f4ac88307a",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.42840472301667265
+                }
               }
             }
           }
@@ -92,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -238,10 +243,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ccd7c2c0e1852171",
+  "active": "10c060f4ac88307a",
   "lastOpenFiles": [
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
