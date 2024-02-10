@@ -19,7 +19,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -41,7 +41,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 0
+    position: 5
     isHidden: false
     sortIndex: -1
     config:
@@ -63,7 +63,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 0
+    position: 4
     isHidden: false
     sortIndex: -1
     config:
@@ -85,9 +85,48 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 0
+    position: 6
     isHidden: true
     sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Completed:
+    input: checkbox
+    accessorKey: Completed
+    key: Completed
+    id: Completed
+    label: Completed
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Tags:
+    input: tags
+    accessorKey: Tags
+    key: Tags
+    id: Tags
+    label: Tags
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
     config:
       enable_media_view: true
       link_alias_enabled: true

@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Metal Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
+    },
+    {
       "basename": "Metal Systems Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+    },
+    {
+      "basename": "Perk Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Perk Template.md"
+    },
+    {
+      "basename": "Metal Mechanics Outline",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
+    },
+    {
+      "basename": "Playing the Game",
+      "path": "Player-Facing Rules/Playing the Game.md"
     },
     {
       "basename": "Dashboard",
@@ -63,10 +83,6 @@
     {
       "basename": "Metal Weapon Template",
       "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
-    },
-    {
-      "basename": "Perk Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Perk Template.md"
     },
     {
       "basename": "Shield Template",
@@ -183,22 +199,6 @@
     {
       "basename": "Actions Overview",
       "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
-    },
-    {
-      "basename": "Dice Overview",
-      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
-    },
-    {
-      "basename": "Monster Template",
-      "path": "Templates/Markdown Templates/General Templates/Monster Template.md"
-    },
-    {
-      "basename": "New Equipment Template",
-      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
-    },
-    {
-      "basename": "Elves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
     }
   ],
   "omittedPaths": [],
