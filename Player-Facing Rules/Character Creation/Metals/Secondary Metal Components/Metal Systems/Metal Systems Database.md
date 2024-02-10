@@ -41,7 +41,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 5
+    position: 8
     isHidden: false
     sortIndex: -1
     config:
@@ -63,7 +63,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 4
+    position: 7
     isHidden: false
     sortIndex: -1
     config:
@@ -85,7 +85,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 6
+    position: 9
     isHidden: true
     sortIndex: -1
     config:
@@ -114,8 +114,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
-      footer_type: none
+      footer_type: percent_filled
       persist_changes: false
+      footer_formula: 
   Tags:
     input: tags
     accessorKey: Tags
@@ -127,6 +128,71 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "System", value: "System", color: "hsl(224, 95%, 90%)"}
+      - { label: "Metal", value: "Metal", color: "hsl(166, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Tier:
+    input: number
+    accessorKey: Tier
+    key: Tier
+    id: Tier
+    label: Tier
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Type:
+    input: select
+    accessorKey: Type
+    key: Type
+    id: Type
+    label: Type
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "AI", value: "AI", color: "hsl(95, 95%, 90%)"}
+      - { label: "System", value: "System", color: "hsl(166, 95%, 90%)"}
+      - { label: "Flight", value: "Flight", color: "hsl(23, 95%, 90%)"}
+      - { label: "Deployable", value: "Deployable", color: "hsl(43, 95%, 90%)"}
+      - { label: "Drone", value: "Drone", color: "hsl(84, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Points:
+    input: number
+    accessorKey: Points
+    key: Points
+    id: Points
+    label: System Points
+    position: 6
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -140,9 +206,9 @@ config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: true
-  group_folder_column: 
-  remove_empty_folders: false
-  automatically_group_files: false
+  group_folder_column: Type
+  remove_empty_folders: true
+  automatically_group_files: true
   hoist_files_with_empty_attributes: true
   show_metadata_created: true
   show_metadata_modified: true
@@ -154,7 +220,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
-  current_row_template: 
+  current_row_template: Templates/Markdown Templates/Metal Templates/Metal System Template.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false
@@ -164,7 +230,7 @@ config:
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
-  enable_footer: false
+  enable_footer: true
   implementation: default
 filters:
   enabled: false

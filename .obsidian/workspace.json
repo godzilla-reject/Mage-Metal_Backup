@@ -18,12 +18,32 @@
             }
           },
           {
-            "id": "caf0128e5a6cb3f6",
+            "id": "405dafaa9e086b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System/Personal Customization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6126b5a60c6f2225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8b0f3c7727b8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -31,25 +51,38 @@
             }
           },
           {
-            "id": "654f8dce486ffde7",
+            "id": "a4e8f4a498c89295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "51237b43f73d85fa",
+            "id": "de447b7c106ad840",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/Perk Template.md",
+                "file": "Utilities/Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "aa31938a1c73e228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Metal Templates/Metal System Template.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -57,21 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "598f017d2024d8b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3ad1136b6ee87cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System/Personal Customization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System/Personal Customization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System/Personal Customization.md"
               }
             }
           },
@@ -292,15 +311,26 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "654f8dce486ffde7",
+  "active": "405dafaa9e086b2c",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
-    "Untitled.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System/Personal Customization.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Personalizatons.md",
+    "Templates/Markdown Templates/Metal Templates/Metal System Template.md",
+    "Utilities/Lists/Trait List.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Tester System.md",
+    "Utilities/Lists/Conditions List.md",
+    "Utilities/Design References/Metal References/Metal System Design Reference.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
     "Templates/Markdown Templates/Mage Templates/Perk Template.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
     "Player-Facing Rules/Playing the Game.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
@@ -311,16 +341,6 @@
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Evil-Tainted Magic.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Mercurial Magics.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Master Craftsman.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md",
-    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
-    "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
-    "Templates/Markdown Templates/Mage Templates/Shield Template.md",
-    "General Rules/Character Mechanics Overview.md",
-    "Utilities/Lists/Conditions List.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
     "General Rules/Traits Catalog/Meta",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",
@@ -329,7 +349,6 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered"
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile"
   ]
 }

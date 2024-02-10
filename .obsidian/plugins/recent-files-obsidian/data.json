@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Metal Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
+      "basename": "Personal Customization",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System/Personal Customization.md"
     },
     {
       "basename": "Metal Systems Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+    },
+    {
+      "basename": "HF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md"
+    },
+    {
+      "basename": "Metal Frame Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Metal Shell Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
+    },
+    {
+      "basename": "Wire Runner",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md"
+    },
+    {
+      "basename": "Metal System Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Metal System Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal System Design Reference.md"
+    },
+    {
+      "basename": "Metal Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
     },
     {
       "basename": "Perk Template",
@@ -23,10 +59,6 @@
     {
       "basename": "Playing the Game",
       "path": "Player-Facing Rules/Playing the Game.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Equipment Database",
@@ -97,10 +129,6 @@
       "path": "Utilities/Dashboard Notes/Utility Notes.md"
     },
     {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
@@ -137,10 +165,6 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
     },
     {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
-    },
-    {
       "basename": "Pilot Role Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Alliant Spy",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md"
-    },
-    {
-      "basename": "Core Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Core Template.md"
-    },
-    {
-      "basename": "DTSC-001 ''Steelclad Mamba''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
-    },
-    {
-      "basename": "STSC-001 ''Infinite Hydrangea''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
-      "basename": "''Converter'' Blade-Barricade CQC System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
-    },
-    {
-      "basename": "Actions Overview",
-      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
     }
   ],
   "omittedPaths": [],

@@ -3994,7 +3994,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1702955142033,
-      "modifiedDate": 1707551336261,
+      "modifiedDate": 1707554477784,
       "sizeInBytes": 6354
     },
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-002.md": {
@@ -4156,7 +4156,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1702888650032,
-      "modifiedDate": 1705449632220,
+      "modifiedDate": 1707554485290,
       "sizeInBytes": 7318
     },
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-001.md": {
@@ -7655,37 +7655,55 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 313,
+      "wordCount": 500,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.0433333333333332,
-      "characterCount": 3785,
-      "nonWhitespaceCharacterCount": 2814,
-      "readingTimeInMinutes": 1.181132075471698,
+      "pageCount": 1.6666666666666667,
+      "characterCount": 5606,
+      "nonWhitespaceCharacterCount": 4127,
+      "readingTimeInMinutes": 1.8867924528301887,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1707552567917,
-      "modifiedDate": 1707552616894,
-      "sizeInBytes": 3834
+      "modifiedDate": 1707554302134,
+      "sizeInBytes": 5655
     },
-    "Untitled.md": {
+    "Templates/Markdown Templates/Metal Templates/Metal System Template.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 43,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 296,
+      "nonWhitespaceCharacterCount": 251,
+      "readingTimeInMinutes": 0.16226415094339622,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1707552911856,
-      "modifiedDate": 1707552911856,
-      "sizeInBytes": 0
+      "modifiedDate": 1707554236034,
+      "sizeInBytes": 355
+    },
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System/Personal Customization.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 88,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 574,
+      "nonWhitespaceCharacterCount": 483,
+      "readingTimeInMinutes": 0.3320754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1707554316247,
+      "modifiedDate": 1707554610095,
+      "sizeInBytes": 663
     }
   }
 }
