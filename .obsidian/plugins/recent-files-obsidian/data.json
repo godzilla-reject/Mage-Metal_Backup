@@ -5,6 +5,22 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Meta-Magic",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md"
+    },
+    {
       "basename": "ATSC-001 ''Warring Dragons''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Legality",
       "path": "General Rules/Traits Catalog/General/Legality.md"
-    },
-    {
-      "basename": "Usage",
-      "path": "General Rules/Traits Catalog/Meta/Usage.md"
-    },
-    {
-      "basename": "Escalation",
-      "path": "General Rules/Traits Catalog/General/Escalation.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Panache",
-      "path": "General Rules/Conditions Catalog/Panache.md"
     }
   ],
   "omittedPaths": [],
