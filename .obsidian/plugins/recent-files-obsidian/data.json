@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Hegemony Nomad",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
-    },
-    {
-      "basename": "Pilot Role Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
     {
       "basename": "Noble",

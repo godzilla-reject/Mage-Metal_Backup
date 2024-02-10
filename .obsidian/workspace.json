@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1970fea1228c057c",
+        "id": "669566d4ee7f349b",
         "type": "tabs",
         "children": [
           {
-            "id": "ed4fc393718979dd",
+            "id": "ee2d4f0e7894fd56",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.42840472301667265
+                  "zoom": -0.7171441532534621
                 }
               }
             }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -243,15 +242,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ed4fc393718979dd",
+  "active": "ee2d4f0e7894fd56",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
-    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md",
     "Templates/Markdown Templates/Metal Templates/Core Template.md",
