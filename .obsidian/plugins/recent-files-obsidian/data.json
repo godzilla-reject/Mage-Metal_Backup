@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Personal Customization",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System/Personal Customization.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Metal Frame Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Metal Shell Database",
