@@ -18,7 +18,7 @@ These actions can be performed without any training in `=this.file.name `; they 
 > [!note]+ ##### Bolster Focus ●
 > [[Mental]], [[Concentrate]]
 > - - -
-> 
+> You draw your focus, bolstering your next action. 
 
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
