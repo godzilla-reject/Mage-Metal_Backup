@@ -6,6 +6,7 @@ Tags:
 Completed: false
 ---
 # Skill Description-`=this.file.name`
+**`=this.file.name`** encompasses the various abilities such as the *combat trance* of monks of legend or the *berserker rage* of mythical barbarians. This skill is a catch-all for such abilities, and does not specify any one of them. 
 
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category:** `=this.Category`   
@@ -14,6 +15,11 @@ Completed: false
 # Skill Actions
 #### Untrained Actions
 These actions can be performed without any training in `=this.file.name `; they are available to any character. 
+> [!note]+ ##### Resolute Focus ●
+> [[Mental]], [[Concentrate]]
+>- - -
+> 
+
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
 #### Expert Actions

@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Concentrate",
+      "path": "General Rules/Traits Catalog/Concentrate.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
+      "basename": "Trance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/General Lists/Conditions List.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "empty files",
@@ -39,14 +71,6 @@
     {
       "basename": "Metal Systems Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/General Lists/Conditions List.md"
     },
     {
       "basename": "broken links output",
@@ -175,30 +199,6 @@
     {
       "basename": "Metal Weapon Template",
       "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
-    },
-    {
-      "basename": "Eunard's Portable Cover",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Charges",
-      "path": "General Rules/Traits Catalog/Charges.md"
-    },
-    {
-      "basename": "Expanded Cockpit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md"
-    },
-    {
-      "basename": "Type-II Microflight System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Type-II Microflight System.md"
-    },
-    {
-      "basename": "Metal Frame Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
     }
   ],
   "omittedPaths": [],

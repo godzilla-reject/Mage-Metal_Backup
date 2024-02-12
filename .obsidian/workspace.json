@@ -4,21 +4,124 @@
     "type": "split",
     "children": [
       {
-        "id": "81942dc11c377b5a",
-        "type": "tabs",
+        "id": "2112af282a626d38",
+        "type": "split",
+        "dimension": 66.01063829787233,
         "children": [
           {
-            "id": "d6f85604c21c6f35",
+            "id": "18836c0fc00fc031",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f15183fedaf07ac",
+                "type": "leaf",
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+                  }
+                }
+              },
+              {
+                "id": "401aeeac177dba2d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "b8f84491927b6407",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "434af7648865d61d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "194f7646a8e878ea",
+        "type": "tabs",
+        "dimension": 16.99468085106383,
+        "children": [
+          {
+            "id": "052f23266c35aaa3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.726548978220868
-                }
+                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0257bdbbea3ed930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/General Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ced9f7326f214cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/General Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d3974a0da1cdc291",
+        "type": "tabs",
+        "dimension": 16.99468085106383,
+        "children": [
+          {
+            "id": "b1113853123b9b72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/Traits Catalog/Concentrate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -97,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Traits Catalog/Concentrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Traits Catalog/Concentrate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/Traits Catalog/Concentrate.md"
               }
             }
           },
@@ -243,11 +346,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d6f85604c21c6f35",
+  "active": "b1113853123b9b72",
   "lastOpenFiles": [
+    "Utilities/Lists/General Lists/Trait List.md",
+    "General Rules/Traits Catalog/Concentrate.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Utilities/Lists/General Lists/Conditions List.md",
+    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+    "Utilities/Dashboard.canvas",
     "Utilities/empty files.md",
     "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/Lists/Mage Lists/Equipment List.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md",
@@ -258,8 +368,6 @@
     "Utilities/Lists/General Lists",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
-    "Utilities/Lists/General Lists/Trait List.md",
-    "Utilities/Lists/General Lists/Conditions List.md",
     "Utilities/broken links output.md",
     "orphaned files output.md",
     "General Rules/Traits Catalog/Spell-Only/Life-Bound.md",
@@ -270,11 +378,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md",
     "General Rules/Traits Catalog/Weapon-Only/Critical.md",
-    "zLegacy Notes/Former Dash.md",
-    "General Rules/Traits Catalog/Protocol.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Patern-II Smoke-Screen Charges.md",
-    "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md",
-    "Templates/Markdown Templates/Reference Templates/Equipment Template.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone",

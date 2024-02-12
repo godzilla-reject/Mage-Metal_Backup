@@ -424,6 +424,7 @@ toss
 tell
 th
 thumb
+trance
 great
 game
 gaming
@@ -1116,6 +1117,8 @@ beneficial
 breeching
 bomb
 bomblets
+berserker
+barbarians
 not
 never
 no
@@ -1847,6 +1850,7 @@ scrap
 solely
 statements
 summoning
+specify
 LANCER
 Learn
 Lancer
@@ -2420,6 +2424,7 @@ expend
 explode
 emotion
 exits
+encompasses
 played
 pilot
 play
@@ -3032,6 +3037,7 @@ returns
 rendezvous
 robot
 rule
+rage
 Pathfinder
 PF
 Philosophy
@@ -3416,6 +3422,7 @@ module
 mine
 modified
 marks
+monks
 GURPS
 Google
 Greyhawk
@@ -3639,6 +3646,7 @@ lament
 loud
 launch
 literal
+legend
 Ease
 Excel
 Escalation

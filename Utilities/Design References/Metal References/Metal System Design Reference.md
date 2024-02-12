@@ -1,4 +1,4 @@
-- [ ] #todo  Create at least 2 of each type of Metal Systems. 🔽
+- [x] #todo  Create at least 2 of each type of Metal Systems. 🔽 ✅ 2024-02-12
 - - -
 At its most basic, a System is a module that adds new utility and/or ability to a Metal. These Systems are controlled by the central computer of the Metal, and consume certain amounts of computational ability, which are represented with *System Points.* 
 ## Types of Systems 
