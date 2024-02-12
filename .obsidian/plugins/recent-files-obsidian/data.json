@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "SA-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md"
+    },
+    {
+      "basename": "Dante-Class A-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md"
+    },
+    {
+      "basename": "Protocol",
+      "path": "General Rules/Traits Catalog/Protocol.md"
+    },
+    {
+      "basename": "Metal Systems Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+    },
+    {
+      "basename": "Patern-II Smoke-Screen Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Patern-II Smoke-Screen Charges.md"
+    },
+    {
+      "basename": "Activity Inserter",
+      "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md"
+    },
+    {
+      "basename": "Equipment Template",
+      "path": "Templates/Markdown Templates/Reference Templates/Equipment Template.md"
+    },
+    {
+      "basename": "Pattern-II Breecher Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md"
     },
     {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
     },
     {
-      "basename": "Metal Systems Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+      "basename": "Artificial Intelligence",
+      "path": "General Rules/Traits Catalog/Artificial Intelligence.md"
+    },
+    {
+      "basename": "Apopplia-Class A-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md"
+    },
+    {
+      "basename": "Pattern-II Frag-Cluster Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Silencer",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod/Silencer.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Metal System Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
+    },
+    {
+      "basename": "Channel Charger Battery",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod/Channel Charger Battery.md"
     },
     {
       "basename": "Brief Respite Restoration Drone",
@@ -29,18 +85,6 @@
       "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
     },
     {
-      "basename": "Pattern-II Frag-Cluster Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md"
-    },
-    {
-      "basename": "Pattern-II Breecher Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md"
-    },
-    {
-      "basename": "Patern-II Smoke-Screen Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Patern-II Smoke-Screen Charges.md"
-    },
-    {
       "basename": "Metal Attributes and Statistics",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
@@ -55,10 +99,6 @@
     {
       "basename": "Trap",
       "path": "General Rules/Traits Catalog/General/Trap.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
     },
     {
       "basename": "Area",
@@ -121,10 +161,6 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/OTAN Module.md"
     },
     {
-      "basename": "Metal System Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
-    },
-    {
       "basename": "Personal Customization",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md"
     },
@@ -159,46 +195,6 @@
     {
       "basename": "HF-001",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md"
-    },
-    {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
-    },
-    {
-      "basename": "Wire Runner",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md"
-    },
-    {
-      "basename": "Metal Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
-    },
-    {
-      "basename": "Perk Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Perk Template.md"
-    },
-    {
-      "basename": "Metal Mechanics Outline",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "Playing the Game",
-      "path": "Player-Facing Rules/Playing the Game.md"
-    },
-    {
-      "basename": "High-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Grabenkanon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "Hyper-Specialized",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md"
     }
   ],
   "omittedPaths": [],

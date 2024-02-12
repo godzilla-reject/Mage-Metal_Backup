@@ -1,9 +1,12 @@
 ---
-tags:
+tags: 
 Completed: false
-Tier:
-Type: Unsorted
-Points:
+Tier: 0
+Type: A-RAID
+Points: 3
+Tags:
+  - Metal
+  - System
 ---
 %% 
 |**Installation**|-|

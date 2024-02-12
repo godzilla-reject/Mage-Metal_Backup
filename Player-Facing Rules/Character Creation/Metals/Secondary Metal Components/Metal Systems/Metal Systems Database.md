@@ -179,6 +179,8 @@ columns:
       - { label: "Deployable", value: "Deployable", color: "hsl(43, 95%, 90%)"}
       - { label: "Drone", value: "Drone", color: "hsl(84, 95%, 90%)"}
       - { label: "Barrier-Sys", value: "Barrier-Sys", color: "hsl(249, 95%, 90%)"}
+      - { label: "Mod", value: "Mod", color: "hsl(272, 95%, 90%)"}
+      - { label: "Unsorted", value: "Unsorted", color: "hsl(20, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

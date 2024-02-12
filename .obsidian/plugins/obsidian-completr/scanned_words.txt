@@ -46,6 +46,7 @@ Integrity
 Intrinsic
 Interfacing
 Infinite
+Inferno
 Mage
 Metal
 Mecha
@@ -143,6 +144,7 @@ Mass
 Mechanism
 Mods
 Mine
+Mod
 in
 inspiration
 it
@@ -252,6 +254,11 @@ impossible
 id
 immunities
 impairment
+independent
+instructed
+independently
+instruction
+identically
 the
 takes
 titans
@@ -414,6 +421,8 @@ threatening
 tender
 tasked
 toss
+tell
+th
 great
 game
 gaming
@@ -646,6 +655,8 @@ freeze
 faced
 fork
 fragmentation
+follow
+functions
 came
 combines
 combat
@@ -948,6 +959,9 @@ central
 consume
 capability
 cluster
+customizable
+command
+clears
 before
 being
 be
@@ -1366,6 +1380,8 @@ autonomously
 autonomous
 augments
 adjacent
+avatar
+activation
 wear
 with
 war
@@ -1823,6 +1839,9 @@ sortied
 stock
 smoke
 scrap
+solely
+statements
+summoning
 LANCER
 Learn
 Lancer
@@ -2045,6 +2064,8 @@ ordeals
 outbursts
 odd
 obotic
+obedient
+orders
 designer
 drag
 do
@@ -2232,6 +2253,7 @@ detonates
 detonating
 detonated
 disintegrates
+defend
 ever
 expand
 easy
@@ -2390,6 +2412,8 @@ ed
 ef
 expend
 explode
+emotion
+exits
 played
 pilot
 play
@@ -2715,6 +2739,7 @@ Robotic
 Repairs
 Retreat
 Restocking
+Rogue
 high
 heavily
 hopes
@@ -2994,6 +3019,8 @@ ring
 represented
 rtificial
 river
+relinquish
+returns
 Pathfinder
 PF
 Philosophy
@@ -3192,6 +3219,7 @@ Andromeda
 Attempts
 AI
 Adaptation
+Autonomous
 metal
 magic
 mechanics
@@ -3373,6 +3401,8 @@ modification
 magically
 module
 mine
+modified
+marks
 GURPS
 Google
 Greyhawk
@@ -3482,6 +3512,8 @@ upgraded
 utilizes
 utonomous
 underwater
+unit
+unlike
 letting
 look
 like
@@ -3689,6 +3721,7 @@ Until
 Useful
 Utilities
 Untyped
+Unlike
 Complexity
 Could
 Conflicted
@@ -3887,6 +3920,7 @@ job
 jolt
 jammed
 justice
+journey
 Hate
 Homebrew
 Historically
@@ -3940,6 +3974,7 @@ Hydroponics
 Home
 Heat
 Hydrangea
+Hell
 you
 your
 yourself
@@ -3989,6 +4024,7 @@ vastly
 virtue
 variety
 vault
+verbal
 Function
 Form
 Fleshed
@@ -4131,6 +4167,8 @@ Deployable
 Drone
 Deployables
 Drones
+Driver
+Dante
 Steve
 Sheets
 Segway
@@ -4310,6 +4348,8 @@ Scales
 Sys
 Slowed
 Smoke
+Semi
+SA
 Jackson
 Jack
 Juggernaut
