@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Metal System Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal System Design Reference.md"
     },
     {
       "basename": "Metal Systems Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
     },
     {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
+      "basename": "Character Progression",
+      "path": "Player-Facing Rules/Character Creation/Character Progression.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Large-Gauge Scattershells",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md"
+    },
+    {
+      "basename": "Metal Frame Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Frame Design Reference.md"
+    },
+    {
+      "basename": "Metal System Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Mindless",
+      "path": "General Rules/Traits Catalog/Creature-Only/Mindless.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Personal Customization",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System/Personal Customization.md"
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md"
     },
     {
       "basename": "HF-001",
@@ -29,20 +65,12 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md"
     },
     {
-      "basename": "Metal System Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
-    },
-    {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Conditions List",
       "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Metal System Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal System Design Reference.md"
     },
     {
       "basename": "Metal Creation Steps",
@@ -61,16 +89,8 @@
       "path": "Player-Facing Rules/Playing the Game.md"
     },
     {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
       "basename": "High-Caliber Caseless Rounds",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Large-Gauge Scattershells",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md"
     },
     {
       "basename": "Grabenkanon",
@@ -145,10 +165,6 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
     },
     {
-      "basename": "Character Progression",
-      "path": "Player-Facing Rules/Character Creation/Character Progression.md"
-    },
-    {
       "basename": "SHF-002",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md"
     },
@@ -169,10 +185,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     },
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
       "basename": "Metal Weaponry Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Corpo Deskie",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
-    },
-    {
-      "basename": "Hegemony Nomad",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
-    },
-    {
-      "basename": "Noble",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
-    },
-    {
-      "basename": "Alliant Spy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Alliant Spy.md"
     }
   ],
   "omittedPaths": [],

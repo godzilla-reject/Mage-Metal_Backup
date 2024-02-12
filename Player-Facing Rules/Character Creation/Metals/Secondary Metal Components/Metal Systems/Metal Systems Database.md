@@ -169,11 +169,13 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "AI", value: "AI", color: "hsl(95, 95%, 90%)"}
-      - { label: "System", value: "System", color: "hsl(166, 95%, 90%)"}
-      - { label: "Flight", value: "Flight", color: "hsl(23, 95%, 90%)"}
+      - { label: "A-RAID", value: "A-RAID", color: "hsl(95, 95%, 90%)"}
+      - { label: "Gen-Sys", value: "Gen-Sys", color: "hsl(166, 95%, 90%)"}
+      - { label: "Flight-Sys", value: "Flight-Sys", color: "hsl(23, 95%, 90%)"}
       - { label: "Deployable", value: "Deployable", color: "hsl(43, 95%, 90%)"}
       - { label: "Drone", value: "Drone", color: "hsl(84, 95%, 90%)"}
+      - { label: "Barrier-Sys", value: "Barrier-Sys", color: "hsl(249, 95%, 90%)"}
+      - { label: "System", value: "System", color: "hsl(208, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -183,6 +185,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
   Points:
     input: number
     accessorKey: Points

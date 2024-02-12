@@ -247,6 +247,9 @@ inquisitive
 imbued
 improve
 impossible
+id
+immunities
+impairment
 the
 takes
 titans
@@ -933,6 +936,11 @@ commissioning
 channel
 criminals
 corporations
+cognition
+constructed
+central
+consume
+capability
 before
 being
 be
@@ -1078,6 +1086,7 @@ beam
 bellows
 blossom
 blown
+backlash
 not
 never
 no
@@ -1131,6 +1140,7 @@ naming
 names
 notable
 near
+ntelligence
 afraid
 and
 aesthetic
@@ -1341,6 +1351,8 @@ augmenting
 aid
 accepted
 alteration
+autonomously
+autonomous
 wear
 with
 war
@@ -1792,6 +1804,10 @@ searching
 solution
 sacrifices
 smuggling
+suppressed
+semi
+sortied
+stock
 LANCER
 Learn
 Lancer
@@ -2011,6 +2027,7 @@ outburst
 ordeals
 outbursts
 odd
+obotic
 designer
 drag
 do
@@ -2190,6 +2207,8 @@ depends
 diverse
 draws
 districts
+dde
+drone
 ever
 expand
 easy
@@ -2556,6 +2575,7 @@ prototypes
 perpetual
 prized
 pull
+piloted
 RP
 RPGs
 Ryutama
@@ -2667,6 +2687,7 @@ Radial
 Robotic
 Repairs
 Retreat
+RAID
 high
 heavily
 hopes
@@ -2944,6 +2965,9 @@ refitting
 related
 rogues
 ring
+represented
+rtificial
+river
 Pathfinder
 PF
 Philosophy
@@ -3139,6 +3163,8 @@ Auxiliary
 Auto
 Alpha
 Andromeda
+Attempts
+AI
 metal
 magic
 mechanics
@@ -3317,6 +3343,8 @@ mending
 monster
 myth
 modification
+magically
+module
 GURPS
 Google
 Greyhawk
@@ -3365,6 +3393,7 @@ Grovetender
 Grand
 Goal
 Greatshield
+Gen
 utmost
 use
 up
@@ -3422,6 +3451,7 @@ unarmored
 understand
 upgraded
 utilizes
+utonomous
 letting
 look
 like
@@ -3626,6 +3656,8 @@ Upgrades
 Unending
 Until
 Useful
+Utilities
+Untyped
 Complexity
 Could
 Conflicted
@@ -3738,6 +3770,7 @@ Current
 Capital
 Coiled
 Cure
+Creature
 We
 While
 Write
@@ -4059,6 +4092,9 @@ Disjunction
 Draconic
 Devastation
 Drive
+Dashboard
+Deployable
+Drone
 Steve
 Sheets
 Segway
@@ -4235,6 +4271,7 @@ SMS
 Skedaddle
 Shed
 Scales
+Sys
 Jackson
 Jack
 Juggernaut

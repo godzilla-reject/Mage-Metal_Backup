@@ -14,12 +14,6 @@ cssclasses:
 	- [ ]  To-Do For: Mage Section of Character Creation (YAY)
 		- [ ]  ⏫  Get Skills Database to 100% complete markers.
 		- [ ]  ⏫  Get Matthew to redo character creation.
-	- [ ]  ⏫   To-Do For: Metal Section of Character Creation
-		- [ ] Metal Systems 
-			- [ ] Create Metal Systems Database 
-			- [ ] Create Metal Systems Template
-
-
 
 - [ ] ##### ⏬To-Do For: Game Master 
 	- [ ] 🔼 GM Basics

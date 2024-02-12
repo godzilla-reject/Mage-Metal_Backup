@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"086f0a2a5dde32a9","type":"file","file":"Utilities/Dashboard Notes/To-Do List.md","x":-1380,"y":-1240,"width":1740,"height":720},
 		{"id":"d5341df523790d6e","type":"file","file":"Utilities/Dashboard Notes/Utility Notes.md","x":-320,"y":-1500,"width":680,"height":260},
 		{"id":"5c23a07cac51b6f6","type":"text","text":"# Scratch Pad\n\n\n## Considerations\n- Out-of-Metal vehicles.\n","x":360,"y":-1500,"width":260,"height":980},
 		{"id":"f4ddbdeaafd6addd","type":"text","text":"## Vault Stats\n- Notes:  `$=dv.pages().length`","x":-1680,"y":-1500,"width":300,"height":260},
 		{"id":"43a2ed2ef62c25dc","type":"text","text":"## Databases\n```dataview\nLIST rows.file.link\nFROM #database\nSORT file.name ASC\n```","x":-1680,"y":-1240,"width":300,"height":720},
 		{"id":"e7b30684234edfef","type":"text","text":"## Recent Notes\n`$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,\"desc\").limit(6).file.link)`","x":-1380,"y":-1500,"width":360,"height":260},
-		{"id":"c049f8420650174d","type":"text","text":"> [!note]- Marked For Rework\n> ```dataview\n>LIST type\n>FROM #rework\n>SORT file.name ASC\n>```\n\n> [!note]- Marked For Rename\n>```dataview\n>LIST type\n>FROM #rename\n>SORT file.name ASC\n>```\n\n> [!note]- Marked For Reword\n>```dataview\n>LIST type\n>FROM #reword \n>SORT file.name ASC\n>```","x":-1020,"y":-1500,"width":700,"height":260}
+		{"id":"c049f8420650174d","type":"text","text":"> [!note]- Marked For Rework\n> ```dataview\n>LIST type\n>FROM #rework\n>SORT file.name ASC\n>```\n\n> [!note]- Marked For Rename\n>```dataview\n>LIST type\n>FROM #rename\n>SORT file.name ASC\n>```\n\n> [!note]- Marked For Reword\n>```dataview\n>LIST type\n>FROM #reword \n>SORT file.name ASC\n>```","x":-1020,"y":-1500,"width":700,"height":260},
+		{"id":"086f0a2a5dde32a9","type":"file","file":"Utilities/Dashboard Notes/To-Do List.md","x":-1380,"y":-1240,"width":1740,"height":720}
 	],
 	"edges":[]
 }

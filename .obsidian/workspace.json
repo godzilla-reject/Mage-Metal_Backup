@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc2b2766d7ae65cb",
+            "id": "4fa1ad7ea9a2d09b",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,9 +16,91 @@
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
                   "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
+                  "y": -1009.9999999999999,
+                  "zoom": -0.9284047230166728
                 }
+              }
+            }
+          },
+          {
+            "id": "dc2b2766d7ae65cb",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+              }
+            }
+          },
+          {
+            "id": "60f0b65c8335cc6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6126b5a60c6f2225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8b0f3c7727b8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a4e8f4a498c89295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "de447b7c106ad840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "aa31938a1c73e228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Metal Templates/Metal System Template.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -97,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md"
               }
             }
           },
@@ -210,11 +292,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,35 +325,37 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "dc2b2766d7ae65cb",
+  "active": "2d8b0f3c7727b8d6",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System/Personal Customization.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Utilities/Design References/Metal References/Metal System Design Reference.md",
+    "Player-Facing Rules/Character Creation/Character Progression.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys",
+    "Utilities/Design References/Metal References/Metal Frame Design Reference.md",
+    "Templates/Markdown Templates/Metal Templates/Metal System Template.md",
     "Utilities/Dashboard.canvas",
+    "General Rules/Traits Catalog/Creature-Only/Mindless.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Personalizatons.md",
-    "Templates/Markdown Templates/Metal Templates/Metal System Template.md",
     "Utilities/Lists/Trait List.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Tester System.md",
     "Utilities/Lists/Conditions List.md",
-    "Utilities/Design References/Metal References/Metal System Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
     "Templates/Markdown Templates/Mage Templates/Perk Template.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
     "Player-Facing Rules/Playing the Game.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Large-Gauge Scattershells.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Evil-Tainted Magic.md",
     "General Rules/Traits Catalog/Meta",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",
@@ -278,7 +363,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile"
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack"
   ]
 }
