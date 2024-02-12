@@ -15,9 +15,9 @@ Completed: false
 # Skill Actions
 #### Untrained Actions
 These actions can be performed without any training in `=this.file.name `; they are available to any character. 
-> [!note]+ ##### Resolute Focus ●
+> [!note]+ ##### Bolster Focus ●
 > [[Mental]], [[Concentrate]]
->- - -
+> - - -
 > 
 
 #### Trained Actions

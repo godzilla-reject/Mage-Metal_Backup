@@ -2751,6 +2751,7 @@ Repairs
 Retreat
 Restocking
 Rogue
+Resolute
 high
 heavily
 hopes
@@ -4511,6 +4512,7 @@ Bunyan
 Brothers
 Blossom
 Breecher
+Bolster
 Varies
 Vast
 Void
