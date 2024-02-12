@@ -11,18 +11,30 @@
             "id": "60590448379cd400",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.42840472301667265
-                }
+                "file": "Utilities/Lists/Trait List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "26a058152c6107b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/Systems List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Lists/Systems List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Lists/Systems List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Utilities/Lists/Systems List.md"
               }
             }
           },
@@ -243,9 +254,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "60590448379cd400",
+  "active": "26a058152c6107b3",
   "lastOpenFiles": [
     "Utilities/Lists/Trait List.md",
+    "Utilities/Lists/Equipment List.md",
+    "Utilities/Lists/Conditions List.md",
+    "Utilities/Lists/Systems List.md",
+    "Utilities/Dashboard.canvas",
+    "Utilities/empty files.md",
+    "Utilities/broken links output.md",
+    "orphaned files output.md",
+    "General Rules/Traits Catalog/Spell-Only/Life-Bound.md",
+    "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Utilities/Rolltables/Magical Quirks.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator/Spellcasting Resonator.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md",
@@ -260,21 +283,9 @@
     "General Rules/Traits Catalog/Artificial Intelligence.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod/Silencer.md",
-    "Utilities/Lists/Conditions List.md",
-    "Templates/Markdown Templates/Metal Templates/Metal System Template.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod/Channel Charger Battery.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Brief Respite Restoration Drone.md",
-    "General Rules/Traits Catalog/Spell-Only/Aura.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Restocking Drone.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone",
-    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-    "Utilities/Design References/Metal References/Metal System Design Reference.md",
-    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md",
-    "General Rules/Traits Catalog/General/Trap.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys",

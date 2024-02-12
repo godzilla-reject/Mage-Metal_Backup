@@ -423,6 +423,7 @@ tasked
 toss
 tell
 th
+thumb
 great
 game
 gaming
@@ -657,6 +658,7 @@ fork
 fragmentation
 follow
 functions
+forget
 came
 combines
 combat
@@ -962,6 +964,8 @@ cluster
 customizable
 command
 clears
+companion
+careful
 before
 being
 be
@@ -1382,6 +1386,7 @@ augments
 adjacent
 avatar
 activation
+abstract
 wear
 with
 war
@@ -2254,6 +2259,7 @@ detonating
 detonated
 disintegrates
 defend
+directory
 ever
 expand
 easy
@@ -3024,6 +3030,8 @@ river
 relinquish
 returns
 rendezvous
+robot
+rule
 Pathfinder
 PF
 Philosophy
@@ -3122,6 +3130,7 @@ Production
 Parts
 Pushes
 Pre
+Precept
 ABCs
 Apotheosis
 Accessibility
@@ -3629,6 +3638,7 @@ legs
 lament
 loud
 launch
+literal
 Ease
 Excel
 Escalation
@@ -4174,6 +4184,7 @@ Drones
 Driver
 Dante
 Dalliance
+Don
 Steve
 Sheets
 Segway
@@ -4396,6 +4407,7 @@ Neon
 Novice
 Neural
 Navigation
+ND
 One
 Out
 Oblivion
