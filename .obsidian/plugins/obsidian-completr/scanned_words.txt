@@ -487,6 +487,7 @@ gauntlets
 gravilift
 giant
 guarantee
+gravity
 from
 first
 freeform
@@ -1956,6 +1957,7 @@ Tiamat
 Test
 Triple
 Time
+Terrain
 oriented
 of
 on
@@ -2364,6 +2366,8 @@ ensures
 empty
 establish
 establishing
+environs
+environments
 played
 pilot
 play
@@ -3168,6 +3172,7 @@ Alpha
 Andromeda
 Attempts
 AI
+Adaptation
 metal
 magic
 mechanics
@@ -3455,6 +3460,7 @@ understand
 upgraded
 utilizes
 utonomous
+underwater
 letting
 look
 like
@@ -4023,6 +4029,7 @@ Finalization
 Focus
 Field
 Feb
+Fly
 Dungeons
 Dragons
 Definitely
@@ -4277,6 +4284,7 @@ Skedaddle
 Shed
 Scales
 Sys
+Slowed
 Jackson
 Jack
 Juggernaut
@@ -4317,6 +4325,7 @@ Nekarik
 Neon
 Novice
 Neural
+Navigation
 One
 Out
 Oblivion
@@ -4346,6 +4355,7 @@ Outburst
 Obscurement
 Obfuscation
 Obsidian
+Omni
 Basics
 Beneficial
 Body

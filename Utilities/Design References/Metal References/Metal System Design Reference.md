@@ -10,7 +10,7 @@ These systems are objects that can be deployed directly into the field from the 
 ### Drone 
 These systems are semi-autonomous units that can be sortied to help in combat. Typically, drone systems provide support and *not* direct firepower.
 ### Flight-Sys
-These systems add flight capability to the Metal.
+These systems add flight capability to the Metal. 
 ### Barrier-Sys
 These systems augment the stock Barrier of the Metal.
 ### Gen-Sys (General Systems)

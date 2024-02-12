@@ -12,6 +12,6 @@ Points:
 > |**Tier:** | `=this.Tier`  |
 > | **Type:** | `=this.Type`  |
 > |**System Points**|`=this.Points`|
-> | **Requirements:** | - |
-> |**Traits**| [[Usage\|Usage: Metal]]|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit:-]]|
 > ### Details:
