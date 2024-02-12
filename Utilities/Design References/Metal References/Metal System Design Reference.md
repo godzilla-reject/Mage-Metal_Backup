@@ -3,7 +3,6 @@
 At its most basic, a System is a module that adds new utility and/or ability to a Metal. These Systems are controlled by the central computer of the Metal, and consume certain amounts of computational ability, which are represented with *System Points.* 
 ## Types of Systems 
 Metal Systems are divided into these general categories:
-- 
 ### **A**utonomous **R**obotic **A**rtificial **I**ntelligence **D**river (A-RAID)
 These systems integrate an AI pilot into the Metal that allow it to be piloted autonomously.
 ### Deployable

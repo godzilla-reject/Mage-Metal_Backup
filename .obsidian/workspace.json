@@ -59,7 +59,7 @@
               "type": "markdown",
               "state": {
                 "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
+                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
+                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md"
               }
             }
           },
@@ -325,10 +325,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "dc2b2766d7ae65cb",
+  "active": "2d8b0f3c7727b8d6",
   "lastOpenFiles": [
-    "Utilities/Design References/Metal References/Metal System Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
+    "Utilities/Design References/Metal References/Metal System Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Character Creation/Character Progression.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
