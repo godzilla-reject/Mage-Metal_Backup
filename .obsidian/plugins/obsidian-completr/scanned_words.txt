@@ -2841,6 +2841,8 @@ human
 horrid
 heals
 host
+her
+hearts
 refine
 robust
 required
@@ -3021,6 +3023,7 @@ rtificial
 river
 relinquish
 returns
+rendezvous
 Pathfinder
 PF
 Philosophy
@@ -3220,6 +3223,7 @@ Attempts
 AI
 Adaptation
 Autonomous
+Apopplia
 metal
 magic
 mechanics
@@ -4169,6 +4173,7 @@ Deployables
 Drones
 Driver
 Dante
+Dalliance
 Steve
 Sheets
 Segway

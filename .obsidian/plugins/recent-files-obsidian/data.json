@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "SA-RAID Unit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Metal Systems Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
     },
     {
       "basename": "Dante-Class A-RAID Unit",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md"
     },
     {
-      "basename": "Protocol",
-      "path": "General Rules/Traits Catalog/Protocol.md"
+      "basename": "Apopplia-Class A-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md"
     },
     {
-      "basename": "Metal Systems Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+      "basename": "Critical",
+      "path": "General Rules/Traits Catalog/Weapon-Only/Critical.md"
+    },
+    {
+      "basename": "SA-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md"
+    },
+    {
+      "basename": "Protocol",
+      "path": "General Rules/Traits Catalog/Protocol.md"
     },
     {
       "basename": "Patern-II Smoke-Screen Charges",
@@ -33,24 +49,12 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
       "basename": "Artificial Intelligence",
       "path": "General Rules/Traits Catalog/Artificial Intelligence.md"
     },
     {
-      "basename": "Apopplia-Class A-RAID Unit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md"
-    },
-    {
       "basename": "Pattern-II Frag-Cluster Charges",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Silencer",

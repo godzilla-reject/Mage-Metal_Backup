@@ -1,6 +1,6 @@
 ---
 tags: 
-Completed: false
+Completed: true
 Tier: 0
 Type: A-RAID
 Points: 3
@@ -30,4 +30,5 @@ Tags:
 >> You relinquish full control to the Dante unit, who begins a journey across the Hell that is the battlefield. Your Metal gains the following benefits:
 >> - Your Metal's Speed is doubled.
 >> - All Melee attacks deal additional damage equal to your Metal's marked Heat.
+>>   
 >> At the end of each of your turns in which your Metal is using this Protocol, your Metal marks 1 Heat. At the end of your 9th turn after activation, your Metal clears all Heat, returns to full Health and Barrier, gains the [[Stunned]] condition and exits this Protocol.

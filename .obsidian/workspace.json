@@ -4,123 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9d9a9113e558a849",
+        "id": "1583a72cb3b2f2d1",
         "type": "tabs",
-        "dimension": 54.787234042553195,
         "children": [
           {
-            "id": "4fa1ad7ea9a2d09b",
+            "id": "60590448379cd400",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -693.6726526069883,
-                  "y": -936.7695461826231,
-                  "zoom": -0.9284047230166728
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.42840472301667265
                 }
               }
             }
-          },
-          {
-            "id": "dc2b2766d7ae65cb",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
-              }
-            }
-          },
-          {
-            "id": "74e63849cc83973d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6f2ff0ea1391818e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "6126b5a60c6f2225",
-        "type": "tabs",
-        "dimension": 45.21276595744681,
-        "children": [
-          {
-            "id": "2d8b0f3c7727b8d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a4e8f4a498c89295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/Trait List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "de447b7c106ad840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/Conditions List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "aa31938a1c73e228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Markdown Templates/Metal Templates/Metal System Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -341,20 +243,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "74e63849cc83973d",
+  "active": "60590448379cd400",
   "lastOpenFiles": [
+    "Utilities/Lists/Trait List.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md",
+    "General Rules/Traits Catalog/Weapon-Only/Critical.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md",
     "zLegacy Notes/Former Dash.md",
     "General Rules/Traits Catalog/Protocol.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Patern-II Smoke-Screen Charges.md",
     "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md",
     "Templates/Markdown Templates/Reference Templates/Equipment Template.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md",
-    "Utilities/Lists/Trait List.md",
     "General Rules/Traits Catalog/Artificial Intelligence.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID",
     "Utilities/Dashboard.canvas",
@@ -372,7 +275,6 @@
     "Utilities/Design References/Metal References/Metal System Design Reference.md",
     "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md",
     "General Rules/Traits Catalog/General/Trap.md",
-    "General Rules/Traits Catalog/General/Area.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys",
