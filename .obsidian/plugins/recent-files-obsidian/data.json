@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Systems List",
-      "path": "Utilities/Lists/Systems List.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Equipment List",
-      "path": "Utilities/Lists/Equipment List.md"
+      "path": "Utilities/Lists/Mage Lists/Equipment List.md"
+    },
+    {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+    },
+    {
+      "basename": "Standard-Issue LAES Knife",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md"
+    },
+    {
+      "basename": "Metal Weapons List",
+      "path": "Utilities/Lists/Metal Lists/Metal Weapons List.md"
+    },
+    {
+      "basename": "Metal Systems List",
+      "path": "Utilities/Lists/Metal Lists/Metal Systems List.md"
+    },
+    {
+      "basename": "SA-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md"
+    },
+    {
+      "basename": "Metal Systems Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
     },
     {
       "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "path": "Utilities/Lists/General Lists/Conditions List.md"
     },
     {
       "basename": "empty files",
@@ -49,10 +69,6 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator/Spellcasting Resonator.md"
     },
     {
-      "basename": "Metal Systems Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
-    },
-    {
       "basename": "Dante-Class A-RAID Unit",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md"
     },
@@ -63,10 +79,6 @@
     {
       "basename": "Critical",
       "path": "General Rules/Traits Catalog/Weapon-Only/Critical.md"
-    },
-    {
-      "basename": "SA-RAID Unit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md"
     },
     {
       "basename": "Protocol",
@@ -161,10 +173,6 @@
       "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
     },
     {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
-    },
-    {
       "basename": "Eunard's Portable Cover",
       "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Flashfire Jump-Jet System",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Flashfire Jump-Jet System.md"
-    },
-    {
-      "basename": "OTAN Module",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/OTAN Module.md"
-    },
-    {
-      "basename": "Personal Customization",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md"
     }
   ],
   "omittedPaths": [],
