@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Trait List",
       "path": "Utilities/Lists/Trait List.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Metal Weapon Template",
       "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Metal Weaponry Database",

@@ -2669,8 +2669,6 @@ Running
 Rating
 Resonancia
 Restrained
-Raised
-Raise
 Recharged
 Reactive
 Riposte
@@ -2716,7 +2714,6 @@ Radial
 Robotic
 Repairs
 Retreat
-RAID
 Restocking
 high
 heavily
@@ -2937,7 +2934,6 @@ renew
 recent
 recharge
 remains
-raised
 reaches
 recharged
 remainder
