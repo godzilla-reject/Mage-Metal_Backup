@@ -15,10 +15,10 @@ Completed: false
 # Skill Actions
 #### Untrained Actions
 These actions can be performed without any training in `=this.file.name `; they are available to any character. 
-> [!note]+ ##### Bolster Focus ●
+> [!note]+ ##### Combat Meditation ●
 > [[Mental]], [[Concentrate]]
 > - - -
-> You draw your focus, bolstering your next action. 
+> You draw your focus onto your combat ability, focusing on the fight at hand. 
 
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
