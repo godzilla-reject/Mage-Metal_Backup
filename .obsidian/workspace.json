@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fa1ad7ea9a2d09b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -963.922846446434,
-                  "y": -878.681243838579,
-                  "zoom": -0.9284047230166728
-                }
-              }
-            }
-          },
-          {
             "id": "60f0b65c8335cc6e",
             "type": "leaf",
             "state": {
@@ -46,7 +31,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "6126b5a60c6f2225",
@@ -59,14 +44,14 @@
               "type": "markdown",
               "state": {
                 "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "a4e8f4a498c89295",
+            "id": "434107365451e3d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
+                "file": "Utilities/Lists/Trait List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
+                "file": "Utilities/Lists/Trait List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+                "file": "Utilities/Lists/Trait List.md"
               }
             }
           },
@@ -325,43 +311,44 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "dc2b2766d7ae65cb",
+  "active": "434107365451e3d3",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
-    "Utilities/Design References/Metal References/Metal System Design Reference.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Type-II Microflight System.md",
-    "Utilities/Dashboard.canvas",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Flashfire Jump-Jet System.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Brief Respite Restoration Drone.md",
+    "General Rules/Traits Catalog/Spell-Only/Aura.md",
     "Utilities/Lists/Trait List.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/OTAN Module.md",
-    "Templates/Markdown Templates/Metal Templates/Metal System Template.md",
-    "Utilities/Lists/Conditions List.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Restocking Drone.md",
+    "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Patern-II Smoke-Screen Charges.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Utilities/Design References/Metal References/Metal System Design Reference.md",
+    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md",
+    "General Rules/Traits Catalog/General/Trap.md",
+    "Utilities/Lists/Conditions List.md",
+    "General Rules/Traits Catalog/General/Area.md",
+    "General Rules/Traits Catalog/Weapon-Only/Range.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
+    "Templates/Markdown Templates/Metal Templates/Metal System Weapon Template.md",
+    "Templates/Markdown Templates/Metal Templates/Shell Template.md",
+    "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable",
+    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "General Rules/Traits Catalog/Charges.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Pattern-II Deployable Cover.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys",
-    "General Rules/Traits Catalog/Limit.md",
-    "Player-Facing Rules/Character Creation/Character Progression.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys",
-    "Utilities/Design References/Metal References/Metal Frame Design Reference.md",
-    "General Rules/Traits Catalog/Creature-Only/Mindless.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Personalizatons.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Tester System.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
-    "Templates/Markdown Templates/Mage Templates/Perk Template.md",
     "General Rules/Traits Catalog/Meta",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support"
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery"
   ]
 }

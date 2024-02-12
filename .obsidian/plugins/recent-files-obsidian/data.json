@@ -1,24 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
       "basename": "Metal Systems Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
     },
     {
-      "basename": "Expanded Cockpit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md"
+      "basename": "Brief Respite Restoration Drone",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Brief Respite Restoration Drone.md"
+    },
+    {
+      "basename": "Aura",
+      "path": "General Rules/Traits Catalog/Spell-Only/Aura.md"
+    },
+    {
+      "basename": "Restocking Drone",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Restocking Drone.md"
+    },
+    {
+      "basename": "Auto-Shot Turret",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
+    },
+    {
+      "basename": "Pattern-II Frag-Cluster Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md"
+    },
+    {
+      "basename": "Pattern-II Breecher Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md"
+    },
+    {
+      "basename": "Patern-II Smoke-Screen Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Patern-II Smoke-Screen Charges.md"
+    },
+    {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
       "basename": "Metal System Design Reference",
       "path": "Utilities/Design References/Metal References/Metal System Design Reference.md"
     },
     {
-      "basename": "Type-II Microflight System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Type-II Microflight System.md"
+      "basename": "Clamp-Maw Trap",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
+    },
+    {
+      "basename": "Trap",
+      "path": "General Rules/Traits Catalog/General/Trap.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/Conditions List.md"
+    },
+    {
+      "basename": "Area",
+      "path": "General Rules/Traits Catalog/General/Area.md"
+    },
+    {
+      "basename": "Range",
+      "path": "General Rules/Traits Catalog/Weapon-Only/Range.md"
+    },
+    {
+      "basename": "A.J.A.X. Gun",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
+    },
+    {
+      "basename": "Metal System Weapon Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal System Weapon Template.md"
+    },
+    {
+      "basename": "Shell Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
+    },
+    {
+      "basename": "Metal Weapon Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
     },
     {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+    },
+    {
+      "basename": "Eunard's Portable Cover",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Charges",
+      "path": "General Rules/Traits Catalog/Charges.md"
+    },
+    {
+      "basename": "Expanded Cockpit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md"
+    },
+    {
+      "basename": "Type-II Microflight System",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Type-II Microflight System.md"
     },
     {
       "basename": "Metal Frame Database",
@@ -29,10 +117,6 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Flashfire Jump-Jet System.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
-    },
-    {
       "basename": "OTAN Module",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/OTAN Module.md"
     },
@@ -41,16 +125,8 @@
       "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
     },
     {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/Conditions List.md"
-    },
-    {
       "basename": "Personal Customization",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
       "basename": "Limit",
@@ -123,82 +199,6 @@
     {
       "basename": "Hyper-Specialized",
       "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Hyper-Specialized.md"
-    },
-    {
-      "basename": "Special Perks Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
-    },
-    {
-      "basename": "Arcane Addict",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Arcane Addict.md"
-    },
-    {
-      "basename": "Evil-Tainted Magic",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Flaw/Evil-Tainted Magic.md"
-    },
-    {
-      "basename": "Mercurial Magics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Mercurial Magics.md"
-    },
-    {
-      "basename": "Master Craftsman",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Master Craftsman.md"
-    },
-    {
-      "basename": "Boulder Fists",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md"
-    },
-    {
-      "basename": "Escaton's Boulder Fists",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
-    },
-    {
-      "basename": "Metal Weapon Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
-    },
-    {
-      "basename": "Shield Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Shield Template.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Meta-Magic",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md"
-    },
-    {
-      "basename": "ATSC-001 ''Warring Dragons''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
-    },
-    {
-      "basename": "SHF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md"
-    },
-    {
-      "basename": "SHF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md"
-    },
-    {
-      "basename": "Fortress Breaker",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md"
-    },
-    {
-      "basename": "Metal Core Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
     }
   ],
   "omittedPaths": [],

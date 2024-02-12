@@ -148,7 +148,9 @@ columns:
     position: 4
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -167,7 +169,9 @@ columns:
     position: 5
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 2
+    isSorted: true
+    isSortedDesc: false
     options:
       - { label: "A-RAID", value: "A-RAID", color: "hsl(95, 95%, 90%)"}
       - { label: "Gen-Sys", value: "Gen-Sys", color: "hsl(166, 95%, 90%)"}

@@ -142,6 +142,7 @@ Momtion
 Mass
 Mechanism
 Mods
+Mine
 in
 inspiration
 it
@@ -412,6 +413,7 @@ transformation
 threatening
 tender
 tasked
+toss
 great
 game
 gaming
@@ -488,6 +490,7 @@ gravilift
 giant
 guarantee
 gravity
+grenade
 from
 first
 freeform
@@ -642,6 +645,7 @@ flanks
 freeze
 faced
 fork
+fragmentation
 came
 combines
 combat
@@ -943,6 +947,7 @@ constructed
 central
 consume
 capability
+cluster
 before
 being
 be
@@ -1090,6 +1095,9 @@ blossom
 blown
 backlash
 beneficial
+breeching
+bomb
+bomblets
 not
 never
 no
@@ -1357,6 +1365,7 @@ alteration
 autonomously
 autonomous
 augments
+adjacent
 wear
 with
 war
@@ -1812,6 +1821,8 @@ suppressed
 semi
 sortied
 stock
+smoke
+scrap
 LANCER
 Learn
 Lancer
@@ -1958,6 +1969,7 @@ Test
 Triple
 Time
 Terrain
+Thermal
 oriented
 of
 on
@@ -2214,6 +2226,12 @@ draws
 districts
 dde
 drone
+dc
+disperses
+detonates
+detonating
+detonated
+disintegrates
 ever
 expand
 easy
@@ -2368,6 +2386,10 @@ establish
 establishing
 environs
 environments
+ed
+ef
+expend
+explode
 played
 pilot
 play
@@ -2695,6 +2717,7 @@ Robotic
 Repairs
 Retreat
 RAID
+Restocking
 high
 heavily
 hopes
@@ -3353,6 +3376,7 @@ myth
 modification
 magically
 module
+mine
 GURPS
 Google
 Greyhawk
@@ -3402,6 +3426,7 @@ Grand
 Goal
 Greatshield
 Gen
+Grenade
 utmost
 use
 up
@@ -3571,6 +3596,7 @@ largest
 legs
 lament
 loud
+launch
 Ease
 Excel
 Escalation
@@ -3780,6 +3806,7 @@ Capital
 Coiled
 Cure
 Creature
+Cluster
 We
 While
 Write
@@ -4030,6 +4057,7 @@ Focus
 Field
 Feb
 Fly
+Fragmentation
 Dungeons
 Dragons
 Definitely
@@ -4285,6 +4313,7 @@ Shed
 Scales
 Sys
 Slowed
+Smoke
 Jackson
 Jack
 Juggernaut
@@ -4356,6 +4385,7 @@ Obscurement
 Obfuscation
 Obsidian
 Omni
+Objects
 Basics
 Beneficial
 Body
@@ -4419,6 +4449,7 @@ Balanced
 Bunyan
 Brothers
 Blossom
+Breecher
 Varies
 Vast
 Void
