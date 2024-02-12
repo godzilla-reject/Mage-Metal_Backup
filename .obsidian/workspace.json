@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "867193443f733834",
+        "id": "81942dc11c377b5a",
         "type": "tabs",
         "children": [
           {
-            "id": "058f1fcaaaec2f2a",
+            "id": "d6f85604c21c6f35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Utilities/empty files.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.726548978220868
+                }
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/empty files.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/empty files.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/empty files.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -240,8 +242,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "058f1fcaaaec2f2a",
+  "active": "d6f85604c21c6f35",
   "lastOpenFiles": [
+    "Utilities/empty files.md",
+    "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md",
     "Utilities/Dashboard.canvas",
     "Utilities/Lists/Mage Lists/Equipment List.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
@@ -255,7 +259,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "Utilities/Lists/General Lists/Conditions List.md",
-    "Utilities/empty files.md",
     "Utilities/broken links output.md",
     "orphaned files output.md",
     "General Rules/Traits Catalog/Spell-Only/Life-Bound.md",

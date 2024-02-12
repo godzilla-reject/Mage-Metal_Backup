@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "empty files",
       "path": "Utilities/empty files.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Metal Soul-Core Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md"
     },
     {
       "basename": "Equipment List",
@@ -195,10 +199,6 @@
     {
       "basename": "Metal Frame Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
-    },
-    {
-      "basename": "Flashfire Jump-Jet System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Flashfire Jump-Jet System.md"
     }
   ],
   "omittedPaths": [],
