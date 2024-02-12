@@ -52,7 +52,7 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Lists/Trait List.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Lists/Trait List.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Lists/Trait List.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md"
               }
             }
           },
@@ -339,8 +339,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a4e8f4a498c89295",
+  "active": "5962d7362f1af4ae",
   "lastOpenFiles": [
+    "Utilities/Lists/Trait List.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md",
     "General Rules/Traits Catalog/Limit.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
@@ -360,7 +361,6 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Personalizatons.md",
-    "Utilities/Lists/Trait List.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Tester System.md",
     "Utilities/Lists/Conditions List.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",

@@ -16,6 +16,6 @@ Tags:
 > | **Type:** | `=this.Type`  |
 > |**System Points**|`=this.Points`|
 > | **Requirements:** | None. |
-> |**Traits**| [[Usage\|Usage: Metal]], |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]] |
 > ### Details: 
 > Your Metal gains +1 to an Attribute of your choosing. Additionally, you can also establish a minor modification that you have made to your Metal. This alteration has no mechanical or numerical benefit, but could be important for establishing a key narrative aspect of your Metal.
