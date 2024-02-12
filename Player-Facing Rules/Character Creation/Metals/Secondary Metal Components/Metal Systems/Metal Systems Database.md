@@ -175,7 +175,6 @@ columns:
       - { label: "Deployable", value: "Deployable", color: "hsl(43, 95%, 90%)"}
       - { label: "Drone", value: "Drone", color: "hsl(84, 95%, 90%)"}
       - { label: "Barrier-Sys", value: "Barrier-Sys", color: "hsl(249, 95%, 90%)"}
-      - { label: "System", value: "System", color: "hsl(208, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

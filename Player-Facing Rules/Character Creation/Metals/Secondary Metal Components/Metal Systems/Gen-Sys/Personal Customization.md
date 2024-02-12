@@ -2,7 +2,7 @@
 tags: 
 Completed: false
 Tier: 0
-Type: System
+Type: Gen-Sys
 Points: 1
 Tags:
   - Metal

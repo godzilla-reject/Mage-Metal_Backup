@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
               }
             }
           },
@@ -325,11 +325,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2d8b0f3c7727b8d6",
+  "active": "dc2b2766d7ae65cb",
   "lastOpenFiles": [
+    "Utilities/Design References/Metal References/Metal System Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-    "Utilities/Design References/Metal References/Metal System Design Reference.md",
     "Player-Facing Rules/Character Creation/Character Progression.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md",
