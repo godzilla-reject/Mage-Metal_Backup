@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Metal System Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal System Design Reference.md"
+      "basename": "Trait List",
+      "path": "Utilities/Lists/Trait List.md"
+    },
+    {
+      "basename": "Personal Customization",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md"
+    },
+    {
+      "basename": "Limit",
+      "path": "General Rules/Traits Catalog/Limit.md"
     },
     {
       "basename": "Metal Systems Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
+    },
+    {
+      "basename": "Metal System Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal System Design Reference.md"
     },
     {
       "basename": "Metal Attributes and Statistics",
@@ -45,10 +57,6 @@
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
-      "basename": "Personal Customization",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md"
-    },
-    {
       "basename": "HF-001",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Wire Runner",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/Trait List.md"
     },
     {
       "basename": "Conditions List",
@@ -195,10 +199,6 @@
     {
       "basename": "History Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
-    },
-    {
-      "basename": "Corpo Deskie",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
     }
   ],
   "omittedPaths": [],
