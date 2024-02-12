@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "empty files",
+      "path": "Utilities/empty files.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Conditions List",
       "path": "Utilities/Lists/General Lists/Conditions List.md"
-    },
-    {
-      "basename": "empty files",
-      "path": "Utilities/empty files.md"
     },
     {
       "basename": "broken links output",

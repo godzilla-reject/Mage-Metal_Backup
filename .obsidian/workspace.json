@@ -11,14 +11,12 @@
             "id": "058f1fcaaaec2f2a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.726548978220868
-                }
+                "file": "Utilities/empty files.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/empty files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/empty files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Utilities/empty files.md"
               }
             }
           },
@@ -244,6 +242,7 @@
   },
   "active": "058f1fcaaaec2f2a",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Utilities/Lists/Mage Lists/Equipment List.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md",
@@ -256,7 +255,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "Utilities/Lists/General Lists/Conditions List.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/empty files.md",
     "Utilities/broken links output.md",
     "orphaned files output.md",
@@ -273,7 +271,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Patern-II Smoke-Screen Charges.md",
     "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md",
     "Templates/Markdown Templates/Reference Templates/Equipment Template.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone",
