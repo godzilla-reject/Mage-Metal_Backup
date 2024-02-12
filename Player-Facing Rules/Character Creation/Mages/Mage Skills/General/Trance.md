@@ -18,7 +18,7 @@ These actions can be performed without any training in `=this.file.name `; they 
 > [!note]+ ##### Combat Meditation ●
 > [[Mental]], [[Concentrate]]
 > - - -
-> You draw your focus onto your combat ability, focusing on the fight at hand. 
+> You draw your focus onto your combat ability, focusing on the fight at hand. For the next minute, you gain a +1 *stacking* circumstance bonus to attacks. 
 
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
