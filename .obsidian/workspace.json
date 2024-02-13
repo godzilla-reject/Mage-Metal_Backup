@@ -6,23 +6,66 @@
       {
         "id": "18836c0fc00fc031",
         "type": "tabs",
+        "dimension": 64.36170212765957,
         "children": [
           {
             "id": "4f15183fedaf07ac",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
-                }
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
               }
             }
           }
         ]
+      },
+      {
+        "id": "194f7646a8e878ea",
+        "type": "tabs",
+        "dimension": 35.638297872340424,
+        "children": [
+          {
+            "id": "052f23266c35aaa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0257bdbbea3ed930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/General Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ced9f7326f214cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/General Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
               }
             }
           },
@@ -210,11 +253,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,14 +288,18 @@
   },
   "active": "4f15183fedaf07ac",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+    "Utilities/Dashboard.canvas",
     "Utilities/Lists/General Lists/Trait List.md",
     "General Rules/Traits Catalog/Concentrate.md",
     "Utilities/Lists/General Lists/Conditions List.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/empty files.md",
     "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md",
     "Utilities/Lists/Mage Lists/Equipment List.md",
@@ -270,10 +318,6 @@
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Utilities/Rolltables/Magical Quirks.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator/Spellcasting Resonator.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md",
-    "General Rules/Traits Catalog/Weapon-Only/Critical.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone",

@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
     },
     {
       "basename": "Trance",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
     },
     {
+      "basename": "Block",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
+    },
+    {
+      "basename": "Roguery",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md"
+    },
+    {
+      "basename": "Sneakery",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
+    },
+    {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
     {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Trait List",
@@ -183,22 +199,6 @@
     {
       "basename": "Range",
       "path": "General Rules/Traits Catalog/Weapon-Only/Range.md"
-    },
-    {
-      "basename": "A.J.A.X. Gun",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
-    },
-    {
-      "basename": "Metal System Weapon Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal System Weapon Template.md"
-    },
-    {
-      "basename": "Shell Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Shell Template.md"
-    },
-    {
-      "basename": "Metal Weapon Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
     }
   ],
   "omittedPaths": [],

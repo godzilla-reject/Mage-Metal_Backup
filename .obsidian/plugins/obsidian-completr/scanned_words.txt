@@ -260,6 +260,7 @@ instructed
 independently
 instruction
 identically
+intense
 the
 takes
 titans
@@ -1392,6 +1393,7 @@ adjacent
 avatar
 activation
 abstract
+abandon
 wear
 with
 war
@@ -2000,6 +2002,8 @@ Triple
 Time
 Terrain
 Thermal
+Trance
+Temporary
 oriented
 of
 on
@@ -2642,6 +2646,8 @@ perpetual
 prized
 pull
 piloted
+precise
+precision
 RP
 RPGs
 Ryutama
@@ -2754,6 +2760,9 @@ Retreat
 Restocking
 Rogue
 Resolute
+Reckless
+Rest
+Rage
 high
 heavily
 hopes
@@ -3041,6 +3050,7 @@ rendezvous
 robot
 rule
 rage
+reckless
 Pathfinder
 PF
 Philosophy
@@ -3140,6 +3150,8 @@ Parts
 Pushes
 Pre
 Precept
+Precision
+Precise
 ABCs
 Apotheosis
 Accessibility
@@ -3426,6 +3438,7 @@ mine
 modified
 marks
 monks
+meditation
 GURPS
 Google
 Greyhawk
@@ -3476,6 +3489,7 @@ Goal
 Greatshield
 Gen
 Grenade
+Generator
 utmost
 use
 up
@@ -4377,6 +4391,7 @@ Slowed
 Smoke
 Semi
 SA
+Spellwork
 Jackson
 Jack
 Juggernaut
