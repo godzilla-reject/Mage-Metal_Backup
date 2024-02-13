@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "18836c0fc00fc031",
+        "id": "92b1659e42c8cb29",
         "type": "tabs",
         "children": [
           {
-            "id": "4f15183fedaf07ac",
+            "id": "b0c09977766fa181",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -237,12 +237,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
-      "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4f15183fedaf07ac",
+  "active": "b0c09977766fa181",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
