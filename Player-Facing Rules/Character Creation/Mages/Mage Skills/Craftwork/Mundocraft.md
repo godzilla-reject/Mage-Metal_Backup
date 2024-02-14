@@ -6,6 +6,7 @@ Tags:
 Completed: false
 ---
 # Skill Description-`=this.file.name`
+This skill encompasses the ability to invent, engineer, and manufacture mundane items, such as weapons, gear, and armor. 
 
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category** | `=this.Category`   
@@ -14,8 +15,14 @@ Completed: false
 # Skill Actions
 #### Untrained Actions
 These actions can be performed without any training in `=this.file.name `; they are available to any character. 
+> [!note]+ ##### Perform Maintenance
+> [[Usage\|Usage: Mage]], [[Exploration]]
+>- - -
+> You spend about 10 minutes performing routine maintenance and attempting minor repairs. At the end of the time, make a **`=this.file.name`** check with a Standard difficulty for your Tier. On a success, any *jammed* weapons or *compromised*  armor you have are restored to working order, and any equipment with *minor damage* is repaired to *working order*, and any with *major damage* is repaired to *minor damage.*
+
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
+
 #### Expert Actions
 These actions can be performed by characters who are *Experts* in `=this.file.name`; they are not available to characters with lesser training.
 - - -

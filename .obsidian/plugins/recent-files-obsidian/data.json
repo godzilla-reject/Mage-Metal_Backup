@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "Spell List-Pyrophasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md"
+    },
+    {
+      "basename": "Spell List-Metallomancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Metallomancy.md"
+    },
+    {
+      "basename": "Spell List-Hydrophasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Hydrophasia.md"
+    },
+    {
+      "basename": "Spell List-Electromancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Electromancy.md"
+    },
+    {
+      "basename": "Spell List-Technosophy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md"
+    },
+    {
+      "basename": "Metal Summoning Resonance",
+      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md"
+    },
+    {
+      "basename": "Spell List-Resonancia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md"
+    },
+    {
+      "basename": "Spell List-Somaphoresis",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md"
+    },
+    {
+      "basename": "Spell List-Hemaphoresis",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md"
+    },
+    {
+      "basename": "Spell List-Terraphasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md"
+    },
+    {
+      "basename": "Spell List-Aerophasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md"
+    },
+    {
+      "basename": "Spell List-Runeurgy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Runeurgy.md"
+    },
+    {
+      "basename": "Spell List-Glyphiamancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
+    },
+    {
+      "basename": "Spell List-Essomancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md"
+    },
+    {
+      "basename": "Playing the Game",
+      "path": "Player-Facing Rules/Playing the Game.md"
+    },
+    {
+      "basename": "Equipment Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
+    },
+    {
+      "basename": "Mundocraft",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
+    },
+    {
+      "basename": "Rebreather",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md"
+    },
+    {
+      "basename": "Air Canister (24 hr)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md"
+    },
+    {
+      "basename": "Personal Habitat",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
+      "basename": "Exploration",
+      "path": "General Rules/Traits Catalog/Exploration.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
       "basename": "Crafting Rules",
       "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
     },
@@ -13,20 +105,8 @@
       "path": "Utilities/Lists/General Lists/Conditions List.md"
     },
     {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Air Canister (24 hr)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md"
-    },
-    {
-      "basename": "Mundocraft",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
     },
     {
       "basename": "Brawling",
@@ -47,10 +127,6 @@
     {
       "basename": "Prowess",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
     },
     {
       "basename": "Deafened",
@@ -123,82 +199,6 @@
     {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Concentrate",
-      "path": "General Rules/Traits Catalog/Concentrate.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "empty files",
-      "path": "Utilities/empty files.md"
-    },
-    {
-      "basename": "Metal Soul-Core Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md"
-    },
-    {
-      "basename": "Equipment List",
-      "path": "Utilities/Lists/Mage Lists/Equipment List.md"
-    },
-    {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
-    },
-    {
-      "basename": "Standard-Issue LAES Knife",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md"
-    },
-    {
-      "basename": "Metal Weapons List",
-      "path": "Utilities/Lists/Metal Lists/Metal Weapons List.md"
-    },
-    {
-      "basename": "Metal Systems List",
-      "path": "Utilities/Lists/Metal Lists/Metal Systems List.md"
-    },
-    {
-      "basename": "SA-RAID Unit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md"
-    },
-    {
-      "basename": "Metal Systems Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
-    },
-    {
-      "basename": "broken links output",
-      "path": "Utilities/broken links output.md"
-    },
-    {
-      "basename": "Life-Bound",
-      "path": "General Rules/Traits Catalog/Spell-Only/Life-Bound.md"
-    },
-    {
-      "basename": "Novice Blood Mage",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
-      "basename": "Magical Quirks",
-      "path": "Utilities/Rolltables/Magical Quirks.md"
-    },
-    {
-      "basename": "Spellcasting Resonator",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator/Spellcasting Resonator.md"
-    },
-    {
-      "basename": "Dante-Class A-RAID Unit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md"
-    },
-    {
-      "basename": "Apopplia-Class A-RAID Unit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md"
     }
   ],
   "omittedPaths": [],

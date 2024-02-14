@@ -17,3 +17,4 @@
 	- Vitality and Necrosis
 	- Potential and Soul 
 ## Metal Forging 
+*If a player wants to craft their own Metal, instead of commissioning it from the Forge Houses, these rules are for them.*
