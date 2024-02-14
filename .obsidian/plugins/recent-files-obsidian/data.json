@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Mundocraft",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Artifice",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Conditions Database",
       "path": "General Rules/Conditions Catalog/Conditions Database.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "Deafened",
       "path": "General Rules/Conditions Catalog/Detrimental/Deafened.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Blinded",
@@ -63,10 +79,6 @@
     {
       "basename": "Arcane Sphere-Artifacteomancy",
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
-    },
-    {
-      "basename": "Mundocraft",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
     },
     {
       "basename": "Playing the Game",
@@ -185,20 +197,8 @@
       "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
     },
     {
-      "basename": "Artifice",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
-    },
-    {
       "basename": "Conditions List",
       "path": "Utilities/Lists/General Lists/Conditions List.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Brawling",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
     }
   ],
   "omittedPaths": [],
