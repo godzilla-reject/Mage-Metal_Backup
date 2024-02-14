@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Crafting Rules",
+      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
+    },
+    {
+      "basename": "Air Canister (24 hr)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md"
+    },
+    {
+      "basename": "Mundocraft",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
+      "basename": "Brawling",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
       "basename": "Conditions List",
       "path": "Utilities/Lists/General Lists/Conditions List.md"
     },
@@ -57,10 +81,6 @@
       "path": "General Rules/Conditions Catalog/Detrimental/Exhausted.md"
     },
     {
-      "basename": "Brawling",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
-    },
-    {
       "basename": "Stance",
       "path": "General Rules/Traits Catalog/Stance.md"
     },
@@ -71,10 +91,6 @@
     {
       "basename": "Requirement",
       "path": "General Rules/Traits Catalog/General/Requirement.md"
-    },
-    {
-      "basename": "Mundocraft",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
     },
     {
       "basename": "Trance",
@@ -107,10 +123,6 @@
     {
       "basename": "Concentrate",
       "path": "General Rules/Traits Catalog/Concentrate.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
     {
       "basename": "To-Do List",
@@ -187,18 +199,6 @@
     {
       "basename": "Critical",
       "path": "General Rules/Traits Catalog/Weapon-Only/Critical.md"
-    },
-    {
-      "basename": "Protocol",
-      "path": "General Rules/Traits Catalog/Protocol.md"
-    },
-    {
-      "basename": "Patern-II Smoke-Screen Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Patern-II Smoke-Screen Charges.md"
-    },
-    {
-      "basename": "Activity Inserter",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md"
     }
   ],
   "omittedPaths": [],

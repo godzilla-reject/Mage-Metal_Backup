@@ -980,6 +980,7 @@ companion
 careful
 current
 contested
+canister
 before
 being
 be
@@ -1132,6 +1133,8 @@ bomb
 bomblets
 berserker
 barbarians
+breathable
+breathe
 not
 never
 no
@@ -2286,6 +2289,7 @@ detonated
 disintegrates
 defend
 directory
+devoid
 ever
 expand
 easy
@@ -2448,6 +2452,7 @@ emotion
 exits
 encompasses
 energized
+environment
 played
 pilot
 play
@@ -3462,6 +3467,7 @@ modified
 marks
 monks
 meditation
+mixture
 GURPS
 Google
 Greyhawk
