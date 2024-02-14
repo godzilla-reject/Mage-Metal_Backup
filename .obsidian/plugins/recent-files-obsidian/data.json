@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Flusterdome",
       "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fatigued",
       "path": "General Rules/Conditions Catalog/Detrimental/Fatigued.md"
-    },
-    {
-      "basename": "Blinded",
-      "path": "General Rules/Conditions Catalog/Detrimental/Blinded.md"
     }
   ],
   "omittedPaths": [],
