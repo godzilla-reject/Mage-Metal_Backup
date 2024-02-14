@@ -5,12 +5,20 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
     },
     {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
     },
     {
       "basename": "Artifice",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
+    },
+    {
+      "basename": "Crafting Rules",
+      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "Dashboard",
@@ -181,24 +189,12 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
-    },
-    {
       "basename": "Exploration",
       "path": "General Rules/Traits Catalog/Exploration.md"
     },
     {
       "basename": "Skill Template",
       "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Crafting Rules",
-      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/General Lists/Conditions List.md"
     }
   ],
   "omittedPaths": [],

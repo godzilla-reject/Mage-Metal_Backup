@@ -994,6 +994,7 @@ contested
 canister
 coax
 cone
+custom
 before
 being
 be
@@ -1894,6 +1895,7 @@ sustained
 slam
 spikes
 shatter
+scrapped
 LANCER
 Learn
 Lancer
@@ -2315,6 +2317,7 @@ defend
 directory
 devoid
 damge
+driven
 ever
 expand
 easy
@@ -2706,6 +2709,7 @@ progressing
 pottery
 prevalent
 provocateur
+potions
 RP
 RPGs
 Ryutama
@@ -3124,6 +3128,7 @@ repaired
 rendering
 revenge
 rd
+random
 Pathfinder
 PF
 Philosophy
@@ -3228,6 +3233,7 @@ Precise
 Prowess
 Perform
 Progress
+Pairs
 ABCs
 Apotheosis
 Accessibility
@@ -3815,6 +3821,8 @@ Engines
 Energized
 Est
 Exotic
+Essences
+Essence
 Use
 Usable
 Unsorted
@@ -3848,6 +3856,7 @@ Useful
 Utilities
 Untyped
 Unlike
+Uses
 Complexity
 Could
 Conflicted
@@ -3966,6 +3975,7 @@ Counter
 Crafting
 Complex
 Consumables
+Chaos
 We
 While
 Write
@@ -4226,6 +4236,7 @@ Feb
 Fly
 Fragmentation
 Forging
+Forge
 Dungeons
 Dragons
 Definitely
@@ -4500,6 +4511,7 @@ Scornful
 Scorn
 Sway
 Segment
+Spellbook
 Jackson
 Jack
 Juggernaut
@@ -4543,6 +4555,7 @@ Neural
 Navigation
 ND
 Nearly
+Necrosis
 One
 Out
 Oblivion
@@ -4665,6 +4678,7 @@ Variation
 VOD
 Version
 Venesuva
+Vitality
 You
 Your
 YAY
