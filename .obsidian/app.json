@@ -11,6 +11,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "strictLineBreaks": true,
-  "propertiesInDocument": "hidden"
+  "strictLineBreaks": false,
+  "propertiesInDocument": "hidden",
+  "showLineNumber": true
 }

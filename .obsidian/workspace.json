@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "93aa229e9c43fd4b",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "General Rules/Conditions Catalog/Conditions Database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Conditions Catalog/Conditions Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Conditions Catalog/Conditions Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/Conditions Catalog/Conditions Database.md"
               }
             }
           },
@@ -213,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,8 +254,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4f15183fedaf07ac",
+  "active": "93aa229e9c43fd4b",
   "lastOpenFiles": [
+    "General Rules/Conditions Catalog/Detrimental/Unconscious.md",
+    "General Rules/Conditions Catalog/Detrimental/Off-Guard.md",
+    "General Rules/Conditions Catalog/Detrimental/Deafened.md",
+    "General Rules/Conditions Catalog/Conditions Database.md",
+    "Utilities/Dashboard.canvas",
+    "General Rules/Conditions Catalog/Detrimental/Blinded.md",
+    "General Rules/Conditions Catalog/Beneficial/Energized.md",
+    "General Rules/Conditions Catalog/Beneficial/Agile.md",
+    "General Rules/Conditions Catalog/Taunted.md",
+    "General Rules/Conditions Catalog/Invisible.md",
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md",
@@ -259,17 +282,6 @@
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md",
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md",
     "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md",
-    "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md",
-    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md",
-    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md",
-    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
-    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md",
-    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",

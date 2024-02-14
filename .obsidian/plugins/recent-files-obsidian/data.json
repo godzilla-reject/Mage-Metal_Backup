@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Conditions Database",
+      "path": "General Rules/Conditions Catalog/Conditions Database.md"
+    },
+    {
+      "basename": "Unconscious",
+      "path": "General Rules/Conditions Catalog/Detrimental/Unconscious.md"
+    },
+    {
+      "basename": "Off-Guard",
+      "path": "General Rules/Conditions Catalog/Detrimental/Off-Guard.md"
+    },
+    {
+      "basename": "Deafened",
+      "path": "General Rules/Conditions Catalog/Detrimental/Deafened.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Blinded",
+      "path": "General Rules/Conditions Catalog/Detrimental/Blinded.md"
+    },
+    {
+      "basename": "Energized",
+      "path": "General Rules/Conditions Catalog/Beneficial/Energized.md"
+    },
+    {
+      "basename": "Agile",
+      "path": "General Rules/Conditions Catalog/Beneficial/Agile.md"
+    },
+    {
+      "basename": "Taunted",
+      "path": "General Rules/Conditions Catalog/Taunted.md"
+    },
+    {
+      "basename": "Invisible",
+      "path": "General Rules/Conditions Catalog/Invisible.md"
     },
     {
       "basename": "Flusterdome",
@@ -163,42 +199,6 @@
     {
       "basename": "Brawling",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
-    },
-    {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "Agile",
-      "path": "General Rules/Conditions Catalog/Beneficial/Agile.md"
-    },
-    {
-      "basename": "Energized",
-      "path": "General Rules/Conditions Catalog/Beneficial/Energized.md"
-    },
-    {
-      "basename": "Prowess",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md"
-    },
-    {
-      "basename": "Deafened",
-      "path": "General Rules/Conditions Catalog/Detrimental/Deafened.md"
-    },
-    {
-      "basename": "Unconscious",
-      "path": "General Rules/Conditions Catalog/Detrimental/Unconscious.md"
-    },
-    {
-      "basename": "Off-Guard",
-      "path": "General Rules/Conditions Catalog/Detrimental/Off-Guard.md"
-    },
-    {
-      "basename": "Taunted",
-      "path": "General Rules/Conditions Catalog/Taunted.md"
-    },
-    {
-      "basename": "Fatigued",
-      "path": "General Rules/Conditions Catalog/Detrimental/Fatigued.md"
     }
   ],
   "omittedPaths": [],

@@ -437,6 +437,7 @@ thumb
 trance
 taunting
 taunted
+taunter
 great
 game
 gaming
@@ -2044,6 +2045,7 @@ Trance
 Temporary
 Taunt
 Taunted
+Taunting
 oriented
 of
 on
@@ -2703,6 +2705,7 @@ performing
 progressing
 pottery
 prevalent
+provocateur
 RP
 RPGs
 Ryutama
@@ -3120,6 +3123,7 @@ restored
 repaired
 rendering
 revenge
+rd
 Pathfinder
 PF
 Philosophy
@@ -4308,6 +4312,7 @@ Deafened
 Durability
 Destroyed
 Defend
+Deaf
 Steve
 Sheets
 Segway

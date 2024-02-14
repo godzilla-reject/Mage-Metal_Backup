@@ -1,7 +1,6 @@
 ---
 Tags:
   - Condition
-  - reword
 Category: Detrimental
 Completed: true
 ---
@@ -9,6 +8,4 @@ Completed: true
 > # `=this.file.name`
 > ###### Condition Information
 > Category: `=this.Category`
-> You cannot see. All terrain is difficult for you, and you critically fail any check that requires sight, while taking a -4 penalty to checks that partially depend on sight. You are immune to any effect that must be seen.
-> 
-> *All conditions need to be in 3rd person.*
+> A Blinded creature cannot see. All terrain becomes difficult terrain for it, and it critically fails any check that requires sight. It also suffers a -4 penalty to checks that partially depend on sight. It is immune to any effect that must be seen.

@@ -1,7 +1,7 @@
 ---
-Tags: Condition, 
+Tags: Condition
 Category: Detrimental
-Completed: false
+Completed: true
 ---
 > [!infobox|left]+ Condition Entry
 > # `=this.file.name`

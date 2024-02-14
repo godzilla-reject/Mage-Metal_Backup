@@ -1,7 +1,6 @@
 ---
 Tags:
   - Condition
-  - reword
 Category: Detrimental
 Completed: true
 ---
@@ -9,6 +8,4 @@ Completed: true
 > # `=this.file.name`
 > ###### Condition Information
 > Category: `=this.Category`
-> You are unable to defend yourself effectively. While off-guard, you must *choose* to apply your Toughness to a damaging effect or attempt an active Defense.
-> 
-> *All conditions are in 3rd person.*
+> A creature that is off-guard cannot defend itself effectively. While off-guard, a creature must choose to apply its Toughness *or* attempt active Defenses against damaging effects.

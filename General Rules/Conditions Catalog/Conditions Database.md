@@ -44,6 +44,8 @@ columns:
     sortIndex: -1
     options:
       - { label: "Condition", value: "Condition", color: "hsl(52, 95%, 90%)"}
+      - { label: "reword", value: "reword", color: "hsl(113, 95%, 90%)"}
+      - { label: "rework", value: "rework", color: "hsl(54, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

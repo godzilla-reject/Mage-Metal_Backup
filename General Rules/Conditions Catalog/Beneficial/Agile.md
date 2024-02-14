@@ -1,7 +1,6 @@
 ---
 Tags:
   - Condition
-  - reword
 Category: Beneficial
 Completed: true
 ---
@@ -9,6 +8,6 @@ Completed: true
 > # `=this.file.name`
 > ###### Condition Information
 > Category: `=this.Category`
-> This condition will always have a qualifier. You gain a status bonus to your Speed equal to your Agile condition. This bonus also applies to movement granted by actions and spells, such as [[Aerostrike]] or [[Dodge#^1060e2\|Evade]].
+> This condition will always have a qualifier. A creature with Agile gains a status bonus to its Speed equal to its Agile condition. This bonus also applies to movement granted by actions and spells, such as [[Aerostrike]] or [[Dodge#^1060e2\|Evade]].
 > 
-> If you would become [[Off-Guard]] while you are Agile, you may choose to lose Agile instead.
+> If a creature would become [[Off-Guard]] while it is are Agile, it may choose to lose Agile instead.
