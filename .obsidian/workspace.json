@@ -4,25 +4,94 @@
     "type": "split",
     "children": [
       {
-        "id": "f792a59a7d6c8f28",
+        "id": "18836c0fc00fc031",
         "type": "tabs",
+        "dimension": 71.42857142857143,
         "children": [
           {
-            "id": "cafc62ed8bad4407",
+            "id": "4f15183fedaf07ac",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
-                }
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+              }
+            }
+          },
+          {
+            "id": "42e7fb2d6fe36cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "961f9ed98a33b665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
         ]
+      },
+      {
+        "id": "194f7646a8e878ea",
+        "type": "tabs",
+        "dimension": 28.571428571428577,
+        "children": [
+          {
+            "id": "052f23266c35aaa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0257bdbbea3ed930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/General Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "82a52bfefc8bb423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/General Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Lists/General Lists/Conditions List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Lists/General Lists/Conditions List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Utilities/Lists/General Lists/Conditions List.md"
               }
             }
           },
@@ -210,11 +279,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,43 +307,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
-      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "cafc62ed8bad4407",
+  "active": "82a52bfefc8bb423",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
+    "General Rules/Conditions Catalog/Beneficial/Agile.md",
+    "Utilities/Lists/General Lists/Conditions List.md",
+    "General Rules/Conditions Catalog/Beneficial/Energized.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md",
+    "Utilities/Lists/General Lists/Trait List.md",
+    "General Rules/Conditions Catalog/Detrimental/Deafened.md",
+    "General Rules/Conditions Catalog/Detrimental/Unconscious.md",
+    "General Rules/Conditions Catalog/Detrimental/Off-Guard.md",
+    "General Rules/Conditions Catalog/Taunted.md",
+    "General Rules/Conditions Catalog/Detrimental/Fatigued.md",
+    "General Rules/Conditions Catalog/Detrimental/Blinded.md",
+    "General Rules/Conditions Catalog/Detrimental/Bleeding.md",
+    "General Rules/Conditions Catalog/Detrimental/Exhausted.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
+    "General Rules/Traits Catalog/Stance.md",
+    "General Rules/Traits Catalog/Spell-Only/Vocal.md",
+    "General Rules/Traits Catalog/General/Requirement.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
+    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-    "Utilities/Dashboard.canvas",
-    "Utilities/Lists/General Lists/Trait List.md",
     "General Rules/Traits Catalog/Concentrate.md",
-    "Utilities/Lists/General Lists/Conditions List.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Utilities/empty files.md",
-    "Utilities/Design References/Metal References/Metal Soul-Core Design Reference.md",
-    "Utilities/Lists/Mage Lists/Equipment List.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md",
-    "Utilities/Lists/Metal Lists/Metal Weapons List.md",
-    "Utilities/Lists/Metal Lists/Metal Systems List.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
-    "Utilities/broken links output.md",
-    "orphaned files output.md",
-    "General Rules/Traits Catalog/Spell-Only/Life-Bound.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-    "Utilities/Rolltables/Magical Quirks.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone",

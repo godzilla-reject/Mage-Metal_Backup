@@ -1,7 +1,7 @@
 ---
 Tags:
   - Trait
-Category: Spell-Only
+Category: General
 Completed: true
 ---
 > [!infobox|left]+ Trait Entry

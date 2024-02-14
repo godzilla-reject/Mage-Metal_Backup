@@ -47,6 +47,7 @@ Intrinsic
 Interfacing
 Infinite
 Inferno
+Ire
 Mage
 Metal
 Mecha
@@ -261,6 +262,7 @@ independently
 instruction
 identically
 intense
+involves
 the
 takes
 titans
@@ -427,6 +429,8 @@ tell
 th
 thumb
 trance
+taunting
+taunted
 great
 game
 gaming
@@ -504,6 +508,9 @@ giant
 guarantee
 gravity
 grenade
+gesture
+grows
+guard
 from
 first
 freeform
@@ -663,6 +670,7 @@ follow
 functions
 forget
 focusing
+fearful
 came
 combines
 combat
@@ -970,6 +978,8 @@ command
 clears
 companion
 careful
+current
+contested
 before
 being
 be
@@ -1394,6 +1404,7 @@ avatar
 activation
 abstract
 abandon
+aggression
 wear
 with
 war
@@ -1855,6 +1866,9 @@ solely
 statements
 summoning
 specify
+stance
+scorn
+senses
 LANCER
 Learn
 Lancer
@@ -2004,6 +2018,8 @@ Terrain
 Thermal
 Trance
 Temporary
+Taunt
+Taunted
 oriented
 of
 on
@@ -2431,6 +2447,7 @@ explode
 emotion
 exits
 encompasses
+energized
 played
 pilot
 play
@@ -2648,6 +2665,9 @@ pull
 piloted
 precise
 precision
+protect
+perceive
+provoked
 RP
 RPGs
 Ryutama
@@ -2763,6 +2783,7 @@ Resolute
 Reckless
 Rest
 Rage
+Reduce
 high
 heavily
 hopes
@@ -2866,6 +2887,7 @@ heals
 host
 her
 hearts
+hearing
 refine
 robust
 required
@@ -3152,6 +3174,7 @@ Pre
 Precept
 Precision
 Precise
+Prowess
 ABCs
 Apotheosis
 Accessibility
@@ -3551,6 +3574,7 @@ utonomous
 underwater
 unit
 unlike
+unable
 letting
 look
 like
@@ -3875,6 +3899,7 @@ Coiled
 Cure
 Creature
 Cluster
+Counter
 We
 While
 Write
@@ -4064,6 +4089,7 @@ virtue
 variety
 vault
 verbal
+vocalize
 Function
 Form
 Fleshed
@@ -4210,6 +4236,8 @@ Driver
 Dante
 Dalliance
 Don
+Draw
+Deafened
 Steve
 Sheets
 Segway
@@ -4392,6 +4420,10 @@ Smoke
 Semi
 SA
 Spellwork
+Stance
+Scornful
+Scorn
+Sway
 Jackson
 Jack
 Juggernaut

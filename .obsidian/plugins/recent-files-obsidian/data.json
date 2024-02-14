@@ -1,20 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/General Lists/Conditions List.md"
+    },
+    {
+      "basename": "Agile",
+      "path": "General Rules/Conditions Catalog/Beneficial/Agile.md"
+    },
+    {
+      "basename": "Energized",
+      "path": "General Rules/Conditions Catalog/Beneficial/Energized.md"
     },
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+      "basename": "Prowess",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
+      "basename": "Deafened",
+      "path": "General Rules/Conditions Catalog/Detrimental/Deafened.md"
+    },
+    {
+      "basename": "Unconscious",
+      "path": "General Rules/Conditions Catalog/Detrimental/Unconscious.md"
+    },
+    {
+      "basename": "Off-Guard",
+      "path": "General Rules/Conditions Catalog/Detrimental/Off-Guard.md"
+    },
+    {
+      "basename": "Taunted",
+      "path": "General Rules/Conditions Catalog/Taunted.md"
+    },
+    {
+      "basename": "Fatigued",
+      "path": "General Rules/Conditions Catalog/Detrimental/Fatigued.md"
+    },
+    {
+      "basename": "Blinded",
+      "path": "General Rules/Conditions Catalog/Detrimental/Blinded.md"
+    },
+    {
+      "basename": "Bleeding",
+      "path": "General Rules/Conditions Catalog/Detrimental/Bleeding.md"
+    },
+    {
+      "basename": "Exhausted",
+      "path": "General Rules/Conditions Catalog/Detrimental/Exhausted.md"
+    },
+    {
+      "basename": "Brawling",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
+    },
+    {
+      "basename": "Stance",
+      "path": "General Rules/Traits Catalog/Stance.md"
+    },
+    {
+      "basename": "Vocal",
+      "path": "General Rules/Traits Catalog/Spell-Only/Vocal.md"
+    },
+    {
+      "basename": "Requirement",
+      "path": "General Rules/Traits Catalog/General/Requirement.md"
+    },
+    {
+      "basename": "Mundocraft",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
     },
     {
       "basename": "Trance",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
     },
     {
       "basename": "Block",
@@ -33,16 +105,8 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
-    },
-    {
       "basename": "Concentrate",
       "path": "General Rules/Traits Catalog/Concentrate.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/General Lists/Conditions List.md"
     },
     {
       "basename": "Skill Template",
@@ -135,70 +199,6 @@
     {
       "basename": "Activity Inserter",
       "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Activity Inserter.md"
-    },
-    {
-      "basename": "Equipment Template",
-      "path": "Templates/Markdown Templates/Reference Templates/Equipment Template.md"
-    },
-    {
-      "basename": "Pattern-II Breecher Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md"
-    },
-    {
-      "basename": "Artificial Intelligence",
-      "path": "General Rules/Traits Catalog/Artificial Intelligence.md"
-    },
-    {
-      "basename": "Pattern-II Frag-Cluster Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md"
-    },
-    {
-      "basename": "Silencer",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod/Silencer.md"
-    },
-    {
-      "basename": "Metal System Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
-    },
-    {
-      "basename": "Channel Charger Battery",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod/Channel Charger Battery.md"
-    },
-    {
-      "basename": "Brief Respite Restoration Drone",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Brief Respite Restoration Drone.md"
-    },
-    {
-      "basename": "Aura",
-      "path": "General Rules/Traits Catalog/Spell-Only/Aura.md"
-    },
-    {
-      "basename": "Restocking Drone",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Restocking Drone.md"
-    },
-    {
-      "basename": "Auto-Shot Turret",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
-    },
-    {
-      "basename": "Metal System Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal System Design Reference.md"
-    },
-    {
-      "basename": "Clamp-Maw Trap",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
-    },
-    {
-      "basename": "Trap",
-      "path": "General Rules/Traits Catalog/General/Trap.md"
-    },
-    {
-      "basename": "Area",
-      "path": "General Rules/Traits Catalog/General/Area.md"
-    },
-    {
-      "basename": "Range",
-      "path": "General Rules/Traits Catalog/Weapon-Only/Range.md"
     }
   ],
   "omittedPaths": [],

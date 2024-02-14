@@ -1,6 +1,7 @@
 ---
 Tags:
   - Condition
+  - rework
 Category: Detrimental
 Completed: true
 ---
@@ -11,3 +12,5 @@ Completed: true
 > You are tired and have little energy to spare. You take a -2 penalty to Toughness and all Attribute checks.
 > 
 > You recover from Fatigue after a full night's rest.
+> 
+> *All conditions need to be in 3rd person.*

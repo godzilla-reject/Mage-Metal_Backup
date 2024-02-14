@@ -1,6 +1,7 @@
 ---
 Tags:
   - Condition
+  - reword
 Category: Detrimental
 Completed: true
 ---
@@ -9,3 +10,5 @@ Completed: true
 > ###### Condition Information
 > Category: `=this.Category`
 > You cannot see. All terrain is difficult for you, and you critically fail any check that requires sight, while taking a -4 penalty to checks that partially depend on sight. You are immune to any effect that must be seen.
+> 
+> *All conditions need to be in 3rd person.*

@@ -3216,22 +3216,8 @@
                     "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
                   }
                 }
-              },
-              {
-                "id": "401aeeac177dba2d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "194f7646a8e878ea",
@@ -3353,7 +3339,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
+                    "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -3370,7 +3356,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",
+                    "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -3393,7 +3379,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
+                    "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
                   }
                 }
               },
@@ -3499,7 +3485,7 @@
           "obsidian-memos:Memos": false
         }
       },
-      "active": "401aeeac177dba2d"
+      "active": "4f15183fedaf07ac"
     }
   },
   "active": "Skill Creation"
