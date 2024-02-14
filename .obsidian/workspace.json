@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "92b1659e42c8cb29",
+        "id": "754ba945c4dbb36b",
         "type": "tabs",
         "children": [
           {
-            "id": "b0c09977766fa181",
+            "id": "0e498dd756ff95a5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -242,7 +242,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b0c09977766fa181",
+  "active": "0e498dd756ff95a5",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md",

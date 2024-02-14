@@ -95,21 +95,24 @@ var EventHelper = class {
     this.cancellationSources = [];
   }
   async handleEvents() {
+    const debouncedFileModified = (0, import_obsidian.debounce)(async (file) => {
+      const countToken = this.registerNewCountToken();
+      await this.fileHelper.updateFileCounts(
+        file,
+        this.plugin.savedData.cachedCounts,
+        countToken.token
+      );
+      this.cancelToken(countToken);
+      await this.plugin.updateDisplayedCounts(file);
+      await this.plugin.saveSettings();
+    }, 500);
     this.plugin.registerEvent(
       this.app.metadataCache.on("changed", async (file) => {
         this.debugHelper.debug(
-          "[changed] metadataCache hook fired, recounting file",
+          "[changed] metadataCache hook fired, scheduling file for analysis",
           file.path
         );
-        const countToken = this.registerNewCountToken();
-        await this.fileHelper.updateFileCounts(
-          file,
-          this.plugin.savedData.cachedCounts,
-          countToken.token
-        );
-        this.cancelToken(countToken);
-        await this.plugin.updateDisplayedCounts(file);
-        await this.plugin.saveSettings();
+        debouncedFileModified(file);
       })
     );
     this.app.workspace.onLayoutReady(() => {
@@ -128,6 +131,15 @@ var EventHelper = class {
           this.cancelToken(countToken);
           await this.plugin.updateDisplayedCounts(file);
           await this.plugin.saveSettings();
+        })
+      );
+      this.plugin.registerEvent(
+        this.app.vault.on("modify", async (file) => {
+          this.debugHelper.debug(
+            "[modify] vault hook fired, scheduling file for analysis",
+            file.path
+          );
+          debouncedFileModified(file);
         })
       );
     });
@@ -357,6 +369,7 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
     this.renderFolderSettings(containerEl);
     this.renderAdvancedSettings(containerEl);
     this.renderReanalyzeButton(containerEl);
+    this.renderDonationButton(containerEl);
   }
   //
   // NOTES
@@ -450,7 +463,7 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
     });
   }
   renderFolderSettings(containerEl) {
-    containerEl.createEl("hr");
+    this.renderSeparator(containerEl);
     new import_obsidian2.Setting(containerEl).setHeading().setName("Folders: Same data as Notes").addToggle(
       (toggle) => toggle.setValue(this.plugin.settings.showSameCountsOnFolders).onChange(async (value) => {
         this.plugin.settings.showSameCountsOnFolders = value;
@@ -527,7 +540,7 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
     }
   }
   renderAdvancedSettings(containerEl) {
-    containerEl.createEl("hr");
+    this.renderSeparator(containerEl);
     new import_obsidian2.Setting(containerEl).setHeading().setName("Show advanced options").setDesc("Language compatibility and fine-tuning").addToggle(
       (toggle) => toggle.setValue(this.plugin.settings.showAdvanced).onChange(async (value) => {
         this.plugin.settings.showAdvanced = value;
@@ -667,7 +680,7 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
     }
   }
   renderReanalyzeButton(containerEl) {
-    containerEl.createEl("hr");
+    this.renderSeparator(containerEl);
     new import_obsidian2.Setting(containerEl).setHeading().setName("Reanalyze all documents").setDesc(
       "If changes have occurred outside of Obsidian, you may need to trigger a manual analysis"
     ).addButton(
@@ -683,6 +696,22 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
         }, 1e3);
       })
     );
+  }
+  renderDonationButton(containerEl) {
+    this.renderSeparator(containerEl);
+    const label = containerEl.createEl("div", {
+      cls: [
+        "setting-item",
+        "setting-item-heading",
+        "novel-word-count-settings-header",
+        "novel-word-count-donation-line"
+      ]
+    });
+    label.createEl("div", {
+      text: "Enjoying this plugin? Want more features?"
+    });
+    const button = label.createEl("div");
+    button.innerHTML = `<a href='https://ko-fi.com/J3J6OWA5C' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>`;
   }
   renderCountTypeSetting(containerEl, config) {
     new import_obsidian2.Setting(containerEl).setName(config.name).setDesc(getDescription(config.oldCountType)).addDropdown((drop) => {
@@ -716,6 +745,11 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
         })
       );
     }
+  }
+  renderSeparator(containerEl) {
+    containerEl.createEl("hr", {
+      cls: "novel-word-count-hr"
+    });
   }
 };
 
@@ -754,12 +788,30 @@ function removeNonCountedContent(content, config) {
   return content;
 }
 
+// logic/canvas.ts
+var CanvasHelper = class {
+  constructor(debug) {
+    this.debug = debug;
+  }
+  getCanvasText(file, content) {
+    try {
+      const canvas = JSON.parse(content);
+      const texts = canvas.nodes.map((node) => node.text).filter((text) => !!text);
+      return texts.join("\n");
+    } catch (ex) {
+      this.debug.error(`Unable to parse canvas file [${file.name}]: ${ex}`);
+      return "";
+    }
+  }
+};
+
 // logic/file.ts
 var FileHelper = class {
   constructor(app, plugin) {
     this.app = app;
     this.plugin = plugin;
     this.debugHelper = new DebugHelper();
+    this.canvasHelper = new CanvasHelper(this.debugHelper);
     this.pathIncludeMatchers = [];
     this.FileTypeAllowlist = /* @__PURE__ */ new Set([
       "",
@@ -773,6 +825,8 @@ var FileHelper = class {
       "mdwn",
       "mkd",
       "mkdn",
+      // Obsidian canvas
+      "canvas",
       // Text files
       "txt",
       "text",
@@ -925,9 +979,13 @@ var FileHelper = class {
     if (!shouldCountFile) {
       return;
     }
-    const content = await this.vault.cachedRead(file);
-    const trimmedContent = this.trimFrontmatter(content, metadata);
-    const countResult = countMarkdown(trimmedContent, {
+    let content = await this.vault.cachedRead(file);
+    if (file.extension.toLowerCase() === "canvas") {
+      content = this.canvasHelper.getCanvasText(file, content);
+    } else {
+      content = this.trimFrontmatter(content, metadata);
+    }
+    const countResult = countMarkdown(content, {
       excludeCodeBlocks: this.settings.excludeCodeBlocks,
       excludeComments: this.settings.excludeComments,
       excludeNonVisibleLinkPortions: this.settings.excludeNonVisibleLinkPortions
