@@ -37,20 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "212979ff7de6e6fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md",
+                "file": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -84,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "194f7646a8e878ea",
@@ -205,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md",
+                "file": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md",
+                "file": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md"
+                "file": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
               }
             }
           },
@@ -351,34 +338,34 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "212979ff7de6e6fb",
+  "active": "42e7fb2d6fe36cb1",
   "lastOpenFiles": [
-    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Metallomancy.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Hydrophasia.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Electromancy.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md",
-    "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md",
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Runeurgy.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md",
-    "Player-Facing Rules/Playing the Game.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry Overview.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armor Overview.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md",
-    "Utilities/Lists/General Lists/Trait List.md",
-    "General Rules/Traits Catalog/Exploration.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
+    "Player-Facing Rules/Playing the Game.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Runeurgy.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Electromancy.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Hydrophasia.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Metallomancy.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md",
+    "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
     "Utilities/Dashboard.canvas",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",

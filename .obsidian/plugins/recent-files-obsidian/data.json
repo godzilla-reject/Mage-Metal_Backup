@@ -1,72 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "Spell List-Pyrophasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md"
-    },
-    {
-      "basename": "Spell List-Metallomancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Metallomancy.md"
-    },
-    {
-      "basename": "Spell List-Hydrophasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Hydrophasia.md"
-    },
-    {
-      "basename": "Spell List-Electromancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Electromancy.md"
-    },
-    {
-      "basename": "Spell List-Technosophy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md"
-    },
-    {
-      "basename": "Metal Summoning Resonance",
-      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md"
-    },
-    {
-      "basename": "Spell List-Resonancia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md"
-    },
-    {
-      "basename": "Spell List-Somaphoresis",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md"
-    },
-    {
-      "basename": "Spell List-Hemaphoresis",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md"
-    },
-    {
-      "basename": "Spell List-Terraphasia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md"
+      "basename": "Flusterdome",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
     },
     {
       "basename": "Spell List-Aerophasia",
       "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md"
     },
     {
-      "basename": "Spell List-Runeurgy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Runeurgy.md"
+      "basename": "Arcane Sphere-Elemancy",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md"
     },
     {
-      "basename": "Spell List-Glyphiamancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
+      "basename": "Arcane Sphere-Technomynism",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
     },
     {
-      "basename": "Spell List-Essomancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md"
+      "basename": "Arcane Sphere-Humaana",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md"
+    },
+    {
+      "basename": "Arcane Sphere-Artifacteomancy",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
+    },
+    {
+      "basename": "Mundocraft",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
     },
     {
       "basename": "Playing the Game",
       "path": "Player-Facing Rules/Playing the Game.md"
     },
     {
-      "basename": "Equipment Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
+      "basename": "Spell List-Essomancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md"
     },
     {
-      "basename": "Mundocraft",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
+      "basename": "Spell List-Glyphiamancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
+    },
+    {
+      "basename": "Spell List-Runeurgy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Runeurgy.md"
+    },
+    {
+      "basename": "Spell List-Electromancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Electromancy.md"
+    },
+    {
+      "basename": "Spell List-Hydrophasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Hydrophasia.md"
+    },
+    {
+      "basename": "Spell List-Metallomancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Metallomancy.md"
+    },
+    {
+      "basename": "Spell List-Pyrophasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md"
+    },
+    {
+      "basename": "Spell List-Terraphasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md"
+    },
+    {
+      "basename": "Spell List-Hemaphoresis",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md"
+    },
+    {
+      "basename": "Spell List-Somaphoresis",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md"
+    },
+    {
+      "basename": "Spell List-Resonancia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md"
+    },
+    {
+      "basename": "Metal Summoning Resonance",
+      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md"
+    },
+    {
+      "basename": "Spell List-Technosophy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md"
+    },
+    {
+      "basename": "Arcane Barrier",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
+    },
+    {
+      "basename": "Power-Word 'Haste'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
+    },
+    {
+      "basename": "Power-Word 'Ache'",
+      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
+    },
+    {
+      "basename": "Arcane Salvo",
+      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
+    },
+    {
+      "basename": "Earthen Spikes",
+      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md"
+    },
+    {
+      "basename": "Fireball",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md"
+    },
+    {
+      "basename": "Fiery Dissipation",
+      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md"
+    },
+    {
+      "basename": "Equipment Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
     },
     {
       "basename": "Rebreather",
@@ -151,54 +199,6 @@
     {
       "basename": "Blinded",
       "path": "General Rules/Conditions Catalog/Detrimental/Blinded.md"
-    },
-    {
-      "basename": "Bleeding",
-      "path": "General Rules/Conditions Catalog/Detrimental/Bleeding.md"
-    },
-    {
-      "basename": "Exhausted",
-      "path": "General Rules/Conditions Catalog/Detrimental/Exhausted.md"
-    },
-    {
-      "basename": "Stance",
-      "path": "General Rules/Traits Catalog/Stance.md"
-    },
-    {
-      "basename": "Vocal",
-      "path": "General Rules/Traits Catalog/Spell-Only/Vocal.md"
-    },
-    {
-      "basename": "Requirement",
-      "path": "General Rules/Traits Catalog/General/Requirement.md"
-    },
-    {
-      "basename": "Trance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/General/Trance.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Pain-Tolerance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
-    },
-    {
-      "basename": "Block",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
-    },
-    {
-      "basename": "Roguery",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Roguery.md"
-    },
-    {
-      "basename": "Sneakery",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
     }
   ],
   "omittedPaths": [],

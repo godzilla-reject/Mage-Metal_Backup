@@ -519,6 +519,7 @@ grows
 guard
 glassware
 guideline
+glyphs
 from
 first
 freeform
@@ -990,6 +991,8 @@ careful
 current
 contested
 canister
+coax
+cone
 before
 being
 be
@@ -1887,6 +1890,9 @@ senses
 supplied
 stages
 sustained
+slam
+spikes
+shatter
 LANCER
 Learn
 Lancer
@@ -2115,6 +2121,7 @@ odd
 obotic
 obedient
 orders
+occupy
 designer
 drag
 do
@@ -2305,6 +2312,7 @@ disintegrates
 defend
 directory
 devoid
+damge
 ever
 expand
 easy
@@ -2920,6 +2928,7 @@ her
 hearts
 hearing
 hostile
+hovers
 refine
 robust
 required
@@ -4298,6 +4307,7 @@ Draw
 Deafened
 Durability
 Destroyed
+Defend
 Steve
 Sheets
 Segway
