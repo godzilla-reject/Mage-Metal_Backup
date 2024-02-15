@@ -4488,19 +4488,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 221,
+      "wordCount": 225,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7366666666666667,
-      "characterCount": 1737,
-      "nonWhitespaceCharacterCount": 1459,
-      "readingTimeInMinutes": 0.8339622641509434,
-      "linkCount": 3,
+      "pageCount": 0.75,
+      "characterCount": 1789,
+      "nonWhitespaceCharacterCount": 1508,
+      "readingTimeInMinutes": 0.8490566037735849,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100411,
-      "modifiedDate": 1707950011843,
-      "sizeInBytes": 1815
+      "modifiedDate": 1707965830937,
+      "sizeInBytes": 1867
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md": {
       "isCountable": true,
@@ -8173,6 +8173,24 @@
       "createdDate": 1698734101897,
       "modifiedDate": 1702955589838,
       "sizeInBytes": 905
+    },
+    "General Rules/Traits Catalog/Downtime.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 192,
+      "nonWhitespaceCharacterCount": 161,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1707965851844,
+      "modifiedDate": 1707965913065,
+      "sizeInBytes": 245
     }
   }
 }
