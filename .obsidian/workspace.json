@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Lists/General Lists/Trait List.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Lists/General Lists/Trait List.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Lists/General Lists/Trait List.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
               }
             }
           },
@@ -341,12 +341,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0257bdbbea3ed930",
+  "active": "f6b2d99d333dd4fd",
   "lastOpenFiles": [
+    "Utilities/Lists/General Lists/Trait List.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
     "General Rules/Traits Catalog/Downtime.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
-    "Utilities/Lists/General Lists/Trait List.md",
     "General Rules/Traits Catalog/Manipulate1.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
