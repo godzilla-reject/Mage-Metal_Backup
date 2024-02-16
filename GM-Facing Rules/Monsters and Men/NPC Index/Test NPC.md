@@ -2,8 +2,8 @@
 name: Joseph Tester
 tier: 0
 size: 1
-rarity: common
-trait_01: Humanoid
+rarity: Common,
+trait_01: Humanoid,
 trait_02: Human
 trait_03:
 trait_04:
@@ -24,7 +24,9 @@ skills:
     desc: "__Skill.Name__ ##;"
 attributes: [10,10,10,10,10,10]
 abilities_top:
-  - name: Ability Name 
+  - name: Test Ability 2 
+    desc: "Traits; Damage; Description"
+  - name: Test Ability 1 
     desc: "Traits; Damage; Description"
 speed: 6 spaces (Land)
 attacks:
