@@ -11,14 +11,12 @@
             "id": "c688129555bb2078",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.726548978220868
-                }
+                "file": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md"
               }
             }
           },
@@ -258,9 +256,9 @@
   },
   "active": "c688129555bb2078",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
     "Templates/Markdown Templates/General Templates/Monster Template.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/Lists/General Lists/Trait List.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
     "General Rules/Traits Catalog/Downtime.md",
@@ -284,7 +282,6 @@
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
     "Player-Facing Rules/Playing the Game.md",
     "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",
