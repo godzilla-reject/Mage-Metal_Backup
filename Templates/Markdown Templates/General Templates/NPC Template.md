@@ -1,5 +1,5 @@
 ```statblock
-name: 
+name:
 tier:
 size:
 rarity:
@@ -26,7 +26,7 @@ languages: Common
 skills:
   - name: "Skills"
     desc: "__Skill.Name__ ##;"
-attributes: [10,10,10,10,10,10]
+attributes_mage: [10,10,10,10,10,10]
 abilities_top:
   - name: Ability Name 
     desc: "Traits; Damage; Description"

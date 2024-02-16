@@ -1,32 +1,31 @@
 ```statblock
-name: Joseph Tester
-tier: 0
-size: 1
-rarity: Common,
-trait_01: Humanoid,
-trait_02: Human
+name: Template
+tier:
+size:
+rarity:
+trait_01:
+trait_02:
 trait_03:
 trait_04:
 trait_05:
 trait_06:
 trait_07:
-health: 20
-mana: 20
-toughness: 2
-perception:
-  - name: "Perception"
-    desc: " 12; Senses"
-piloting: "13 (Untrained)"
-spell_work: "12 (Untrained)"
+health: 
+immunities: fire
+resistances:
+vulnerabilities:
+weaknesses: 
+mana: 
+toughness: 
+sensors: "30 spaces"
+spell_work: "#; (Untrained)"
 languages: Common
 skills:
   - name: "Skills"
     desc: "__Skill.Name__ ##;"
-attributes: [10,10,10,10,10,10]
+attributes_metal: [10,10,10]
 abilities_top:
-  - name: Test Ability 2 
-    desc: "Traits; Damage; Description"
-  - name: Test Ability 1 
+  - name: Ability Name 
     desc: "Traits; Damage; Description"
 speed: 6 spaces (Land)
 attacks:

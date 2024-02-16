@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Monster Template",
-      "path": "Templates/Markdown Templates/General Templates/Monster Template.md"
+      "basename": "NPC Metal Template",
+      "path": "Templates/Markdown Templates/General Templates/NPC Metal Template.md"
     },
     {
-      "basename": "Test NPC",
-      "path": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md"
+      "basename": "NPC Template",
+      "path": "Templates/Markdown Templates/General Templates/NPC Template.md"
+    },
+    {
+      "basename": "Proficiency Template",
+      "path": "Templates/Markdown Templates/General Templates/Proficiency Template.md"
+    },
+    {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
       "basename": "Dashboard",
@@ -191,14 +199,6 @@
     {
       "basename": "Rebreather",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md"
-    },
-    {
-      "basename": "Air Canister (24 hr)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md"
-    },
-    {
-      "basename": "Personal Habitat",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md"
     }
   ],
   "omittedPaths": [],
