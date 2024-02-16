@@ -16,8 +16,8 @@ toughness:
 perception:
   - name: "Perception"
     desc: " #; Senses"
-piloting: "# (Untrained)"
-spell_work: "# (Untrained)"
+piloting: "#; (Untrained)"
+spell_work: "#; (Untrained)"
 languages: Common
 skills:
   - name: "Skills"

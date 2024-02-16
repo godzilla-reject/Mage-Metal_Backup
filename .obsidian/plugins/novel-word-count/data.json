@@ -620,15 +620,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.20333333333333334,
-      "characterCount": 612,
-      "nonWhitespaceCharacterCount": 506,
+      "characterCount": 614,
+      "nonWhitespaceCharacterCount": 508,
       "readingTimeInMinutes": 0.23018867924528302,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1702425545897,
-      "modifiedDate": 1708061581200,
-      "sizeInBytes": 612
+      "modifiedDate": 1708064178596,
+      "sizeInBytes": 614
     },
     "Templates/Markdown Templates/General Templates/Condition Template.md": {
       "isCountable": true,
