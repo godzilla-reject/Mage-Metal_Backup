@@ -21,7 +21,7 @@ sensors: "30 spaces"
 spell_work: "#; (Untrained)"
 languages: Common
 skills:
-  - name: "Skills"
+  - name: Skills
     desc: "__Skill.Name__ ##;"
 attributes_metal: [10,10,10]
 abilities_top:
@@ -31,7 +31,21 @@ speed: 6 spaces (Land)
 attacks:
   - name: Attack Name
     desc: "Traits; Damage; Description"
+bottom_heading: Intrinsics
 abilities_bot:
   - name: Ability Name
     desc: "Traits; Damage; Description"
+components: Components
+frame_heading: Frame
+frame:
+  - name: Example Metal Frame
+    desc: "Traits; Class; Description"
+shell_heading: Shell
+shell:
+  - name: Example Metal Shell
+    desc: "Traits; Class; Description"
+s-core_heading: Soul Core
+soul_core:
+  - name: Example Metal Soul Core
+    desc: "Traits; Class; Description"
 ```

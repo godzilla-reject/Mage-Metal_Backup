@@ -34,15 +34,20 @@ speed: 6 spaces (Land)
 attacks:
   - name: Attack Name
     desc: "Traits; Damage; Description"
+bottom_heading: Abilities
 abilities_bot:
   - name: Ability Name
     desc: "Traits; Damage; Description"
+gear: Gear
+weaponry: Weaponry
 weapons: 
   - name: Example Weapon
     desc: "Die Roll; Traits; Damage; Description"
+armor_gear: Armor
 armor: 
   - name: Example Armor
     desc: "Toughness Bonus; Heavy; Traits; Description"
+equipment_gear: Equipment
 equipment: 
   - name: Example Equipment
     desc: "Traits; Type; Description"
