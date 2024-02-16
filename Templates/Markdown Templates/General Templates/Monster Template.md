@@ -11,6 +11,10 @@ trait_05:
 trait_06:
 trait_07:
 health: 
+immunities: fire
+resistances:
+vulnerabilities:
+weaknesses: 
 mana: 
 toughness: 
 perception:
