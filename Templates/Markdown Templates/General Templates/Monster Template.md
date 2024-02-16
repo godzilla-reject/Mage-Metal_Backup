@@ -37,4 +37,13 @@ attacks:
 abilities_bot:
   - name: Ability Name
     desc: "Traits; Damage; Description"
+weapons: 
+  - name: Example Weapon
+    desc: "Die Roll; Traits; Damage; Description"
+armor: 
+  - name: Example Armor
+    desc: "Toughness Bonus; Heavy; Traits; Description"
+equipment: 
+  - name: Example Equipment
+    desc: "Traits; Type; Description"
 ```
