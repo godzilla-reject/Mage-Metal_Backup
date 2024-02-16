@@ -267,7 +267,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "5534d81a48890f18",
+                "id": "d55e33ec7a586bee",
                 "type": "leaf",
                 "state": {
                   "type": "canvas",
@@ -294,7 +294,7 @@
       }
     ]
   },
-  "active": "5534d81a48890f18",
+  "active": "d55e33ec7a586bee",
   "lastOpenFiles": [
     "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
     "Utilities/Dashboard.canvas",
