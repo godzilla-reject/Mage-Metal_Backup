@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Test NPC",
+      "path": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md"
+    },
+    {
       "basename": "Mundocraft",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Exploration",
       "path": "General Rules/Traits Catalog/Exploration.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     }
   ],
   "omittedPaths": [],
