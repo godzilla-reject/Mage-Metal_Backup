@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -267,15 +267,17 @@
             "type": "tabs",
             "children": [
               {
-                "id": "37ddc41adfcc768b",
+                "id": "5534d81a48890f18",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
+                    "file": "Utilities/Dashboard.canvas",
+                    "viewState": {
+                      "x": -530,
+                      "y": -1010,
+                      "zoom": -1.714334619666638
+                    }
                   }
                 }
               }
@@ -285,17 +287,17 @@
         "direction": "vertical",
         "x": -1536,
         "y": 216,
-        "width": 768,
+        "width": 771,
         "height": 816,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "37ddc41adfcc768b",
+  "active": "5534d81a48890f18",
   "lastOpenFiles": [
-    "Utilities/Dashboard.canvas",
     "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
+    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/General Templates/Monster Template.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
