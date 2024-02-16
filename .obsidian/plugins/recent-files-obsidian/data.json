@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "NPC Metal Template",
       "path": "Templates/Markdown Templates/General Templates/NPC Metal Template.md"
+    },
+    {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "NPC Template",
@@ -15,10 +19,6 @@
     {
       "basename": "Proficiency Template",
       "path": "Templates/Markdown Templates/General Templates/Proficiency Template.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
       "basename": "Mundocraft",
