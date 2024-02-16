@@ -33,7 +33,4 @@ attacks:
 abilities_bot:
   - name: Ability Name
     desc: "Traits; Damage; Description"
-spellcasting:
-  - name: "Rank # Spells"
-    desc: "[\[Spell.Name]\]"
 ```

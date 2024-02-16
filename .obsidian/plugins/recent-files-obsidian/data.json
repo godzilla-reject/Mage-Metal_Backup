@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Test NPC",
       "path": "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Monster Template",
+      "path": "Templates/Markdown Templates/General Templates/Monster Template.md"
     },
     {
       "basename": "Mundocraft",
@@ -195,10 +199,6 @@
     {
       "basename": "Personal Habitat",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md"
-    },
-    {
-      "basename": "Exploration",
-      "path": "General Rules/Traits Catalog/Exploration.md"
     }
   ],
   "omittedPaths": [],
