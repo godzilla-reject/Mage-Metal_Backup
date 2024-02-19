@@ -17,23 +17,12 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.9988599801533312
+                  "zoom": -0.4988599801533312
                 }
               }
             }
-          },
-          {
-            "id": "ce0c4bef9d677c75",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -255,8 +244,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ce0c4bef9d677c75",
+  "active": "cebca4ab33873742",
   "lastOpenFiles": [
+    "General Rules/Conditions Catalog/Detrimental/Fatigued.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "GM-Facing Rules/Monsters and Men/NPC Creation Guidelines.md",

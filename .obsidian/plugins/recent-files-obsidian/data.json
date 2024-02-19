@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Fatigued",
+      "path": "General Rules/Conditions Catalog/Detrimental/Fatigued.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
     },
     {
       "basename": "NPC Creation Guidelines",
@@ -195,10 +199,6 @@
     {
       "basename": "Earthen Spikes",
       "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md"
-    },
-    {
-      "basename": "Fireball",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md"
     }
   ],
   "omittedPaths": [],
