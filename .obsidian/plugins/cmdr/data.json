@@ -92,6 +92,12 @@
       "color": "#1900c8"
     },
     {
+      "id": "automatic-table-of-contents:insert-automatic-table-of-contents",
+      "icon": "list-ordered",
+      "name": "Automatic Table Of Contents: Insert table of contents",
+      "mode": "desktop"
+    },
+    {
       "id": "quickadd:choice:059303b9-b54f-4f73-b0f5-204a5675a892",
       "icon": "battery-charging",
       "name": "New Equipment",
