@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "8d1eeee8b5cc10e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "401f77af8f605a9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bd033e3fe75cd3b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.9988599801533312
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7c8f8b07364a828",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ee470924da31ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6efdbb03f15d137",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d968026dfd4f0b4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:##todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fac67c8071a3cd9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b93557265589f72",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "69a6a1297e44ad1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a6dd916793e22e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "508dc443b848b433",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Utilities/Dashboard.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f90135100ca5f4f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Utilities/Dashboard.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3b467e93ea37d98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ad2454c886ecebf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Utilities/Dashboard.canvas"
+              }
+            }
+          },
+          {
+            "id": "35bd1d52bac4ea59",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "21cebfc490467c84",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d5e9e67247021af",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2563114bbac86f0c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4739661f3573ba43",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7a3e427e71d5d3e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9993422e933ec23",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "8753d1336babb804",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "4e16344bc8f32d9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd2eedd6d27b8849",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "homepage:Open homepage": false,
+      "rpg-manager:RPG Manager": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "advanced-random-note:Open random note modal": false,
+      "chronology:Open Chronology": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "4bd033e3fe75cd3b",
+  "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Templates/Markdown Templates/General Templates/Monster Template.md",
+    "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
+    "Utilities/Dashboard.canvas",
+    "Utilities/Lists/General Lists/Trait List.md",
+    "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
+    "General Rules/Traits Catalog/Downtime.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
+    "General Rules/Traits Catalog/Manipulate1.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "General Rules/Conditions Catalog/Conditions Database.md",
+    "General Rules/Conditions Catalog/Detrimental/Unconscious.md",
+    "General Rules/Conditions Catalog/Detrimental/Off-Guard.md",
+    "General Rules/Conditions Catalog/Detrimental/Deafened.md",
+    "General Rules/Conditions Catalog/Detrimental/Blinded.md",
+    "General Rules/Conditions Catalog/Beneficial/Energized.md",
+    "General Rules/Conditions Catalog/Beneficial/Agile.md",
+    "General Rules/Conditions Catalog/Taunted.md",
+    "General Rules/Conditions Catalog/Invisible.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
+    "Player-Facing Rules/Playing the Game.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md",
+    "Utilities/Lists/Metal Lists",
+    "Utilities/Lists/Mage Lists",
+    "Utilities/Lists/General Lists",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/System"
+  ]
+}
