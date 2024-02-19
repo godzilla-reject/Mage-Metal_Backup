@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -57,20 +65,12 @@
       "path": "Utilities/Lists/Metal Lists/Metal Systems List.md"
     },
     {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
       "basename": "Species Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
     },
     {
       "basename": "Dwaurves",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
     },
     {
       "basename": "Favor System Primer",
