@@ -4,12 +4,13 @@ Boost: Reflex
 Perk: Night of Debauchery
 Tags:
   - History
+Completed: true
 ---
 # Description-`=this.file.name`
 Lowest of the low, you are comfortable in the Terrarium’s worst streets and deepest alleys. You partake in illicit, unscrupulous activities consistently, and prefer to work alone. Despite your poor company and worse smell, you can maintain a decent living.
 >[!info| clear no-i] `=this.file.name` Mechanics
->**Wealth** | `=this.Wealth`   
->**Attribute**| `=this.Boost`
+>**Wealth**: `=this.Wealth`   
+>**Attribute**: `=this.Boost`
 
 >[!column clear] History Options
 >> [!metadata|text-Center c-p-sm] General Skill Proficiencies

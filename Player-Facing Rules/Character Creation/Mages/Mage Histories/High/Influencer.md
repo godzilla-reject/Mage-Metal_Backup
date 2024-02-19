@@ -4,6 +4,7 @@ Boost: Tenacity
 Perk: Adoring Fans
 Tags:
   - History
+Completed: true
 ---
 # Description-`=this.file.name`
 Whether it be from musical talent, video essays, or an All_Your_Fans, you sit at the height of a media community cultivated by your own hand. You maintain a wealthy, comfortable lifestyle in the Terrarium, but also live at the mercy of trends and your fanbase. After all, without them you are *nothing*.
@@ -14,7 +15,8 @@ Whether it be from musical talent, video essays, or an All_Your_Fans, you sit 
 >[!column clear] History Options
 >> [!metadata|text-Center c-p-sm] General Skill Proficiencies
 >> - One Tenacity Skill
->> - One Mind Skill OR One Body Skill
+>>*Pick One*
+>> - One Mind Skill; OR, One Body Skill
 
 
 >> [!info|text-Center clear] Perk: `=this.Perk`

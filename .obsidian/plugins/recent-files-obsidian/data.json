@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Dusted",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Noble",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
+      "basename": "Character Creation Playtest Packet",
+      "path": "Character Creation Playtest Packet.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "History Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
     },
     {
+      "basename": "Noble",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
+    },
+    {
       "basename": "Politologist",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
-    },
-    {
-      "basename": "Influencer",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
-    },
-    {
-      "basename": "Corpo Deskie",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
     },
     {
       "basename": "Wrench Monkey",
@@ -37,16 +41,16 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
     },
     {
-      "basename": "Character Creation Playtest Packet",
-      "path": "Character Creation Playtest Packet.md"
+      "basename": "Dusted",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
     },
     {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+      "basename": "Corpo Deskie",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Influencer",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
     },
     {
       "basename": "Metal Systems List",
@@ -143,10 +147,6 @@
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Conditions Database",

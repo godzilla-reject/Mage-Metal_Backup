@@ -4,166 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7b7cdb250d11d615",
+        "id": "7a224cb43cdaf7c7",
         "type": "tabs",
         "children": [
           {
-            "id": "c328e480814065db",
+            "id": "1828ffec185f9877",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -181.4521276595745,
-                  "y": -985.7765957446809,
+                  "x": -530,
+                  "y": -1010,
                   "zoom": -0.42840472301667265
                 }
               }
             }
-          },
-          {
-            "id": "e39b85b76ef09325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation Playtest Packet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a388fbee0796117d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a7dea88884ce604a",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
-              }
-            }
-          },
-          {
-            "id": "62a1a3c9cf73baeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "130862c6e159e04b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ff7857bfe9dcb713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4441f9d4322e8fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "39132bf87476b937",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6793072f4aeff817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3e00484e32a8301c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e3e3c53366003dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -377,19 +236,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "62a1a3c9cf73baeb",
+  "active": "1828ffec185f9877",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Character Creation Playtest Packet.md",
+    "Utilities/Dashboard.canvas",
+    "Utilities/Dashboard Notes/To-Do List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
-    "Character Creation Playtest Packet.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
     "Utilities/Lists/Metal Lists/Metal Systems List.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
@@ -403,9 +264,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "GM-Facing Rules/Monsters and Men/NPC Creation Guidelines.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
-    "Templates/Markdown Templates/General Templates/Metal-Class NPC Template.md",
-    "Templates/Markdown Templates/General Templates/Mage-Class NPC Template.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",

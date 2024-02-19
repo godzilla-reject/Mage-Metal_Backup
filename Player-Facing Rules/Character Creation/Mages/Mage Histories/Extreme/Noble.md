@@ -4,12 +4,13 @@ Boost: Tenacity
 Perk: Namedrop
 Tags:
   - History
+Completed: true
 ---
 # Description-`=this.file.name`
 You come from the height of luxury in the Terrarium, living in the Upper Epitaph or Outer Shells. You might be from a family of career pilots, training from birth to be the best the Terrarium has to offer, or you might be from one of the Black Houses, brought up with an education comparable to no other.
 >[!info| clear no-i] `=this.file.name` Mechanics
->**Wealth** | `=this.Wealth`   
->**Attribute**| `=this.Boost`
+>**Wealth**: `=this.Wealth`   
+>**Attribute**: `=this.Boost`
 
 >[!column clear] History Options
 >> [!metadata|text-Center c-p-sm] General Skill Proficiencies

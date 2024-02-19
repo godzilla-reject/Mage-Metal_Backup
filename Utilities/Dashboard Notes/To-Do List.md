@@ -5,15 +5,19 @@ cssclasses:
 ---
  # General
 
-- [ ] ##### 🔺To-Do For: Players
-	- [ ] To-Do For: Player Knowledge Basics
-		- [ ] Traits Overview
-		- [ ] Conditions Overview
-		- [ ] Combat Basics
-		- [ ] Playing The Game
-	- [ ]  To-Do For: Mage Section of Character Creation (YAY)
-		- [ ]  ⏫  Get Skills Database to 100% complete markers.
-		- [ ]  ⏫  Get Matthew to redo character creation.
+- [ ] #### 🔺To-Do For: Playtest 1 (holy shit its happening ain’t it) 
+	- [ ] 🔺 Playtest 1 Packet
+		- [ ] Eliminate embeds in the Playtest Packet.
+		- [ ] Add Iconic character creation through-line.
+	- [ ] 🔺To-Do For: Players
+		- [ ] To-Do For: Player Knowledge Basics
+			- [ ] Traits Overview
+			- [ ] Conditions Overview
+			- [ ] Combat Basics
+			- [ ] Playing The Game
+		- [ ]  To-Do For: Mage Section of Character Creation (YAY)
+			- [ ]  ⏫  Get Skills Database to 100% complete markers.
+			- [ ]  ⏫  Get the rest of the proficiencies in working order. 
 
 - [ ] ##### ⏬To-Do For: Game Master 
 	- [ ] 🔼 GM Basics

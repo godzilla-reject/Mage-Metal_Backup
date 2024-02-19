@@ -4,6 +4,7 @@ Boost: Mind
 Perk: Ready-Access Loans
 Tags:
   - History
+Completed: true
 ---
 # Description-`=this.file.name`
 You work for one of the six mega-corporations that own and control 95 % of the Terrarium. 

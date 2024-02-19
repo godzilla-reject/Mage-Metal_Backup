@@ -4,13 +4,13 @@ Boost: Body
 Perk: Untouchable
 Tags:
   - History
-Completed: false
+Completed: true
 ---
 # Description-`=this.file.name`
 Referred to as such due to the amount of exhaust dust that coats the slums, you are one of the Dusted. The Dusted sit at the lowest of Terrarium society, being relegated to working the hydroponics yards or super-factories, both of which pay little. The Dusted are also not allowed to leave the slums without special permission, typically gained via a lucky job opportunity or pilot academy scholarships.
 >[!info| clear no-i] `=this.file.name` Mechanics
->**Wealth** | `=this.Wealth`   
->**Attribute**| `=this.Boost`
+>**Wealth**: `=this.Wealth`   
+>**Attribute**: `=this.Boost`
 
 >[!column clear] History Options
 >> [!metadata|text-Center c-p-sm] General Skill Proficiencies
