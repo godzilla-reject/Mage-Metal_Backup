@@ -21,8 +21,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "e39b85b76ef09325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation Playtest Packet Layout.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest Packet Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest Packet Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest Packet Layout.md"
               }
             }
           },
@@ -244,10 +257,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c328e480814065db",
+  "active": "e39b85b76ef09325",
   "lastOpenFiles": [
-    "General Rules/Conditions Catalog/Detrimental/Fatigued.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Character Creation Playtest Packet Layout.md",
     "Utilities/Dashboard.canvas",
+    "General Rules/Conditions Catalog/Detrimental/Fatigued.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "GM-Facing Rules/Monsters and Men/NPC Creation Guidelines.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
@@ -271,8 +286,6 @@
     "General Rules/Conditions Catalog/Beneficial/Energized.md",
     "General Rules/Conditions Catalog/Beneficial/Agile.md",
     "General Rules/Conditions Catalog/Taunted.md",
-    "General Rules/Conditions Catalog/Invisible.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",

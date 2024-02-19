@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Character Creation Playtest Packet Layout",
+      "path": "Character Creation Playtest Packet Layout.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Power-Word 'Ache'",
       "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
-    },
-    {
-      "basename": "Arcane Salvo",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
-    },
-    {
-      "basename": "Earthen Spikes",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md"
     }
   ],
   "omittedPaths": [],
