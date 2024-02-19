@@ -5,16 +5,24 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "NPC Metal Template",
-      "path": "Templates/Markdown Templates/General Templates/NPC Metal Template.md"
+      "basename": "NPC Creation Guidelines",
+      "path": "GM-Facing Rules/Monsters and Men/NPC Creation Guidelines.md"
+    },
+    {
+      "basename": "ATSC-001 ''Warring Dragons''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
+    },
+    {
+      "basename": "Metal-Class NPC Template",
+      "path": "Templates/Markdown Templates/General Templates/Metal-Class NPC Template.md"
+    },
+    {
+      "basename": "Mage-Class NPC Template",
+      "path": "Templates/Markdown Templates/General Templates/Mage-Class NPC Template.md"
     },
     {
       "basename": "Metal Attributes and Statistics",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
-      "basename": "NPC Template",
-      "path": "Templates/Markdown Templates/General Templates/NPC Template.md"
     },
     {
       "basename": "Proficiency Template",
@@ -191,14 +199,6 @@
     {
       "basename": "Fiery Dissipation",
       "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md"
-    },
-    {
-      "basename": "Equipment Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
-    },
-    {
-      "basename": "Rebreather",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md"
     }
   ],
   "omittedPaths": [],

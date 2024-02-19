@@ -1,0 +1,28 @@
+Non-player characters (NPCs) in `=[[Dev Helpers]].game-short` are mechanically simpler than PCs due to the fact they are not as in-depth. Essentially, NPCs are a collection of traits that serve as adversaries for the PCs. An NPC can be summed with the following information:
+- Usage. NPCs are either Mage-class or Metal-class, and, as such, are used within the scope of their usage. A Mage-class NPC stands no chance against a player’s Metal, but that does not mean that the NPC cannot Escalate into a Metal themselves…
+	- Metal-Class NPCs are further characterized by these categories:
+		- Metal: These NPCs are also Metals, piloted by other Mage-Pilots.
+		- Organic: These NPCs use the six Mage attributes instead of Metal attribute, and also lack a Heat Limit, Integrity, and Components. They are (typically) immune to things like Hacking, as well as other options that target Metals and machines.
+		- Vehicle: Any non-Metal military armor, tank, or drone NPC would be a vehicle.
+		- Squadron: These NPCs are large groups of smaller troops that act together.
+- Tier: The tier of the NPC denotes their relative strength.
+	- Tier 0-5+.
+	- Tier 5 does *not* require Soul Ignition, unlike a PC. 
+- Rank: NPC Rank denotes both its prowess on the battlefield *and* narrative importance. 
+	- **Minions** are weak and easily taken-out; they typically have 1 Health, small amounts of Toughness, and no advanced systems or abilities. Minions are for when you want a vast amount of enemies to allow your players to wade through the horde. Minions are typically insignificant enough that nearly any number of them added to an encounter will not affect the balance.
+	- **Grunts** are bog-standard enemies; this rank changes nothing about the enemy. Grunt is the default, starting rank for an NPC.
+	- **Veterans** are more powerful, flavorful, and durable than just a normal grunt. This rank is typically for a weak, but still memorable enemy that needs a little flair.
+	- **Commanders** do exactly that: they command lower enemies. Typically, commanders are also controllers, supports, or artillery due to these classes encouraging distance and protection. 
+	- **Lieutenants** are a step above the normal chaff; they are typically fully fleshed-out  (albeit shticky,  gimmicky, and simple) characters that will recur multiple times over the course of an adventure. Most Villainous Factions will have **2-6** Lieutenants. 
+	- **Generals** command multiple Lieutenants, report directly back to the Villain, and command terror and respect on the battlefield. Each Villainous Faction will have **1-3** Generals.
+	- **Villains** are the leaders of the adventure’s Villainous Faction. Think *Lord Zedd* from *Power Rangers.* *These* are the head honchos. They typically lead Villainous Factions *alone*, though occasionally multiple villains (who are intended to work together) will challenge the players. Everyone has a boss, however, but who do Villains report to? Other, stronger, villains, of course.
+	- ***Special Ranks*** These ranks can be used alongside other ranks to add special flavor and narrative impact to NPCs.
+		- **Rivals** are enemies (or sometimes heroes) that exist not to *defeat* the PCs, but to *grow alongside them.* These NPCs oppose their PC rival, but will also work alongside them when things grow dire or when their rival is at risk of defeat (by someone *other* than them!)
+		- **Ignited** are extremely powerful NPCs who have faced Fate, invoked their Deus Ex Machina, and ignited their Soul. While typically not an enemy, these characters are still incredibly important due to their overwhelming power.
+		- **Overlords** are a step beyond normal power. While not necessarily Ignited, they dwell within the same realm of power, with the key difference being Overlords are *always* Villains as well. ***These*** guys are who the villains report to. Overlords are **always** Tier 5+ (“tier 6” if you would.)
+- Class: NPC Classes are divided into the Role they play on the battlefield. 
+	- Artillery: Long-range devastators that hold chokes and deliver killing blows. Fragile and defenseless.
+	- Controller: Disabling condition-setters who specialize in locking out key enemies, shutting down high damage, creating openings and protecting allies.
+	- Defender: Highly resilient, slow-moving threats that use this ability to defend allies and hold key points.
+	- Striker: Mid-to-close range combatants who deal consistent damage each turn and shine over long engagements.
+	- Support: Low damage, but high capacity for systems to help keep allies in the fight by making areas and effects that increase ally effectiveness and staunch their wounds.
