@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Character Creation Playtest Packet",
-      "path": "Character Creation Playtest Packet.md"
+      "basename": "Dusted",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
+    },
+    {
+      "basename": "Noble",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
     },
     {
       "basename": "History Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+    },
+    {
+      "basename": "Politologist",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
+    },
+    {
+      "basename": "Influencer",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
+    },
+    {
+      "basename": "Corpo Deskie",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
+    },
+    {
+      "basename": "Wrench Monkey",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md"
+    },
+    {
+      "basename": "Rapscallion",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md"
+    },
+    {
+      "basename": "Hegemony Nomad",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
+    },
+    {
+      "basename": "Character Creation Playtest Packet",
+      "path": "Character Creation Playtest Packet.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
     },
     {
       "basename": "Dashboard",
@@ -17,20 +53,8 @@
       "path": "Utilities/Lists/Metal Lists/Metal Systems List.md"
     },
     {
-      "basename": "Dusted",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
-    },
-    {
-      "basename": "Rapscallion",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md"
-    },
-    {
       "basename": "Utility Notes",
       "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
     },
     {
       "basename": "Species Database",
@@ -175,30 +199,6 @@
     {
       "basename": "Arcane Sphere-Technomynism",
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
-    },
-    {
-      "basename": "Arcane Sphere-Humaana",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md"
-    },
-    {
-      "basename": "Arcane Sphere-Artifacteomancy",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
-    },
-    {
-      "basename": "Playing the Game",
-      "path": "Player-Facing Rules/Playing the Game.md"
-    },
-    {
-      "basename": "Spell List-Essomancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Essomancy.md"
-    },
-    {
-      "basename": "Spell List-Glyphiamancy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Glyphiamancy.md"
-    },
-    {
-      "basename": "Spell List-Runeurgy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Artifacteomancy/Spell List-Runeurgy.md"
     }
   ],
   "omittedPaths": [],

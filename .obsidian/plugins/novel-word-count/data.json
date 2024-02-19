@@ -5669,7 +5669,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100356,
-      "modifiedDate": 1708322709836,
+      "modifiedDate": 1708324821638,
       "sizeInBytes": 5663
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md": {
@@ -8232,19 +8232,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1938,
+      "wordCount": 1964,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.46,
-      "characterCount": 12425,
-      "nonWhitespaceCharacterCount": 10305,
-      "readingTimeInMinutes": 7.313207547169811,
+      "pageCount": 6.546666666666667,
+      "characterCount": 12663,
+      "nonWhitespaceCharacterCount": 10512,
+      "readingTimeInMinutes": 7.411320754716981,
       "linkCount": 1,
-      "embedCount": 8,
+      "embedCount": 16,
       "aliases": null,
       "createdDate": 1708315156539,
-      "modifiedDate": 1708323733389,
-      "sizeInBytes": 12487
+      "modifiedDate": 1708324929877,
+      "sizeInBytes": 12725
     }
   }
 }

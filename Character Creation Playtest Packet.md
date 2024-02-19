@@ -163,14 +163,27 @@ FROM #History
 WHERE Completed = true
 SORT Wealth DESC
 ```
+### Poor Histories
+![[Dusted]]
+![[Hegemony Nomad]]
+### Moderate Histories
+![[Rapscallion]]
+![[Wrench Monkey]]
+### High Histories
+![[Corpo Deskie]]
+![[Influencer]]
+### Extreme Histories
+![[Politologist]]
+![[Noble]]
+
 ## 4. *School of Arcana*
-## *Pilot Role*
-## *Finalizing Attributes and Statistics*
-## *Finalizing Skills*
-## *Creating a Grimoire*
-## *Selecting Perks*
-## *Selecting Equipment*
-## *Finishing Up*
+## 5. *Pilot Role*
+## 6. *Finalizing Attributes and Statistics*
+## 7. *Finalizing Skills*
+## 8. *Creating a Grimoire*
+## 9. *Selecting Perks*
+## 10. *Selecting Equipment*
+## 11. *Finishing Up*
 
 # Character Creation Part 2: *The Metal*
 ![[Metal Creation Steps]]
