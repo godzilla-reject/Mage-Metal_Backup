@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
       "basename": "NPC Creation Guidelines",
       "path": "GM-Facing Rules/Monsters and Men/NPC Creation Guidelines.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fireball",
       "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md"
-    },
-    {
-      "basename": "Fiery Dissipation",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md"
     }
   ],
   "omittedPaths": [],
