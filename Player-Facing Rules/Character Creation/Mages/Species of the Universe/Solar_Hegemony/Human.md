@@ -5,6 +5,8 @@ Option2: Naturalborn Pilot
 Option3: Supernatural Talent
 Category: Solar_Hegemony
 Size: 1
+Tags:
+  - Species
 ---
 #  `=this.file.name`
 

@@ -1,4 +1,4 @@
-Welcome to *The Mage in the Metal,* a war-game inspired TTRPG in which you make on the role of a Magisterial Pilot, AKA a Mage, which is a military operative magic-user that has been trained to wield powerful magic and pilot massive constructs of war known as ***Metals.*** 
+Welcome to *The Mage in the Metal,* a war-game inspired TTRPG in which you take on the role of a Magisterial Pilot, AKA a Mage, which is a military operative magic-user that has been trained to wield powerful magic and pilot massive constructs of war known as ***Metals.*** 
 
 In order to create a character in *Mage/Metal*, one must begin with their Mage. Below are the steps to do so. Before beginning to make a character mechanically, come up with a narrative concept. Maybe your character is a hot-shot pilot prodigy, or an old war veteran that chose to join the Pilot program after being relieved of duty. Make sure your concept is appropriate for the game your GM wants to run, as well as the party you'll be playing with. No one wants to see that their friend is playing someone evil in a game all about saving orphans. Probably.
 

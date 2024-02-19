@@ -4679,8 +4679,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100610,
-      "modifiedDate": 1701913450893,
-      "sizeInBytes": 1192
+      "modifiedDate": 1708322135910,
+      "sizeInBytes": 1210
     },
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md": {
       "isCountable": true,
@@ -4697,8 +4697,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100608,
-      "modifiedDate": 1701913447925,
-      "sizeInBytes": 1049
+      "modifiedDate": 1708322134011,
+      "sizeInBytes": 1067
     },
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md": {
       "isCountable": true,
@@ -4715,26 +4715,26 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100606,
-      "modifiedDate": 1701922652262,
-      "sizeInBytes": 6672
+      "modifiedDate": 1708322130343,
+      "sizeInBytes": 6690
     },
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 543,
+      "wordCount": 588,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.81,
-      "characterCount": 6348,
-      "nonWhitespaceCharacterCount": 4700,
-      "readingTimeInMinutes": 2.049056603773585,
+      "pageCount": 1.96,
+      "characterCount": 6829,
+      "nonWhitespaceCharacterCount": 5034,
+      "readingTimeInMinutes": 2.218867924528302,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100600,
-      "modifiedDate": 1702423537133,
-      "sizeInBytes": 6395
+      "modifiedDate": 1708322428367,
+      "sizeInBytes": 6876
     },
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Tome Mage.md": {
       "isCountable": true,
@@ -5525,8 +5525,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100382,
-      "modifiedDate": 1700116839326,
-      "sizeInBytes": 1084
+      "modifiedDate": 1708323746769,
+      "sizeInBytes": 1101
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md": {
       "isCountable": true,
@@ -5669,7 +5669,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100356,
-      "modifiedDate": 1707550196967,
+      "modifiedDate": 1708322709836,
       "sizeInBytes": 5663
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md": {
@@ -5687,7 +5687,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100347,
-      "modifiedDate": 1708315914710,
+      "modifiedDate": 1708318291055,
       "sizeInBytes": 4450
     },
     "Player-Facing Rules/Character Creation/Character Progression.md": {
@@ -8052,19 +8052,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2057,
+      "wordCount": 2058,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.8566666666666665,
-      "characterCount": 15017,
-      "nonWhitespaceCharacterCount": 12596,
-      "readingTimeInMinutes": 7.7622641509433965,
+      "pageCount": 6.86,
+      "characterCount": 15028,
+      "nonWhitespaceCharacterCount": 12603,
+      "readingTimeInMinutes": 7.766037735849056,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101906,
-      "modifiedDate": 1702677154131,
-      "sizeInBytes": 15021
+      "modifiedDate": 1708321523069,
+      "sizeInBytes": 15032
     },
     "Design Bible/MVP Requirements.md": {
       "isCountable": true,
@@ -8228,23 +8228,23 @@
       "modifiedDate": 1708080495520,
       "sizeInBytes": 1029
     },
-    "Character Creation Playtest Packet Layout.md": {
+    "Character Creation Playtest Packet.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 15,
+      "wordCount": 1938,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 154,
-      "nonWhitespaceCharacterCount": 134,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 0,
-      "embedCount": 1,
+      "pageCount": 6.46,
+      "characterCount": 12425,
+      "nonWhitespaceCharacterCount": 10305,
+      "readingTimeInMinutes": 7.313207547169811,
+      "linkCount": 1,
+      "embedCount": 8,
       "aliases": null,
       "createdDate": 1708315156539,
-      "modifiedDate": 1708316478386,
-      "sizeInBytes": 158
+      "modifiedDate": 1708323733389,
+      "sizeInBytes": 12487
     }
   }
 }

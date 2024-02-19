@@ -63,7 +63,11 @@ Derived from their respective Attribute, different Statistics have differing for
 	- Luck is a meta-currency that players can use to fuel actions with the [[Fated]] trait.
 	- Tenacity/5 (Minimum of 2.)
 - - -
+
 ##  Proficiencies
+
+^c79b91
+
 Proficiencies are similar to statistics, in that they are tied directly to an attribute (typically to meet requirements), but they are tracked with training levels instead of numeric values. Each new training level in a proficiency also gains the player character a new Perk associated with that proficiency. 
 ### Armor  Proficiencies
 - Each character is trained in one more types of armor. These armor forms are pilot-wearable suits that enhance a Mage's protections when their boots are on the ground. Armor training *also* influences how well a Mage can utilize their Metal's armor. The armor forms are as follows, and are explored in-depth in the [[Armor Overview]].

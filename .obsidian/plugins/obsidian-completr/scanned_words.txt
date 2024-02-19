@@ -49,6 +49,7 @@ Infinite
 Inferno
 Ire
 Intersystem
+Incursion
 Mage
 Metal
 Mecha
@@ -277,6 +278,13 @@ involving
 insignificant
 invoked
 ignited
+interest
+instructions
+inform
+intention
+inner
+italics
+invaluable
 the
 takes
 titans
@@ -449,6 +457,8 @@ taunter
 troops
 terror
 threats
+today
+thank
 great
 game
 gaming
@@ -536,6 +546,9 @@ grunt
 gimmicky
 grow
 guys
+graciously
+grasp
+gritty
 from
 first
 freeform
@@ -700,6 +713,11 @@ filtered
 flavorful
 fleshed
 flavor
+friends
+familiarize
+familiarized
+familiar
+factions
 came
 combines
 combat
@@ -1023,6 +1041,10 @@ challenge
 combatants
 consistent
 colonies
+crotchety
+capitalization
+capitalized
+comradery
 before
 being
 be
@@ -1179,6 +1201,9 @@ breathable
 breathe
 boss
 beyond
+biographing
+budding
+bold
 not
 never
 no
@@ -1235,6 +1260,7 @@ near
 ntelligence
 niche
 necessarily
+nitty
 afraid
 and
 aesthetic
@@ -1459,6 +1485,14 @@ adversaries
 attributes
 albeit
 areas
+agreed
+automatic
+am
+amazing
+approach
+attention
+answering
+answer
 wear
 with
 war
@@ -1561,6 +1595,8 @@ warding
 walls
 worlds
 wade
+welcome
+wealth
 sleeve
 some
 something
@@ -1943,6 +1979,16 @@ setters
 shine
 staunch
 salanti
+stability
+sided
+sincerely
+spark
+series
+said
+sat
+sets
+shining
+selection
 LANCER
 Learn
 Lancer
@@ -1993,6 +2039,8 @@ Laminar
 Lieutenants
 Lord
 Linear
+Lunar
+Log
 The
 Tenets
 This
@@ -2103,6 +2151,10 @@ Toolboxing
 Tests
 Tenochtitlan
 Temple
+THE
+Taking
+Take
+Their
 oriented
 of
 on
@@ -2381,6 +2433,13 @@ durable
 defeat
 dwell
 devastators
+document
+dear
+delve
+dearly
+demanded
+derived
+differentiate
 ever
 expand
 easy
@@ -2550,6 +2609,7 @@ effectiveness
 encouraging
 engagements
 exploration
+ensure
 played
 pilot
 play
@@ -2777,6 +2837,16 @@ prevalent
 provocateur
 potions
 protecting
+personal
+playtesters
+polyhedral
+promising
+project
+playtests
+professionals
+properly
+planned
+picked
 RP
 RPGs
 Ryutama
@@ -3008,6 +3078,8 @@ hovers
 horde
 honchos
 heroes
+handy
+hope
 refine
 robust
 required
@@ -3210,6 +3282,7 @@ risk
 realm
 resilient
 rework
+remember
 Pathfinder
 PF
 Philosophy
@@ -3318,6 +3391,7 @@ Pairs
 PC
 Playtest
 Pluto
+Proper
 ABCs
 Apotheosis
 Accessibility
@@ -3425,6 +3499,9 @@ Alchemy
 Actionsr
 Application
 Assessment
+AMP
+Again
+Appendix
 metal
 magic
 mechanics
@@ -3615,6 +3692,9 @@ manufacture
 mask
 maintenance
 memorable
+morning
+materials
+mathematical
 GURPS
 Google
 Greyhawk
@@ -3670,6 +3750,7 @@ Gear
 Grunts
 Grunt
 Generals
+Greetings
 utmost
 use
 up
@@ -3733,6 +3814,9 @@ unit
 unlike
 unable
 unusable
+usability
+us
+unity
 letting
 look
 like
@@ -3848,6 +3932,7 @@ literal
 legend
 locales
 leaders
+latest
 Ease
 Excel
 Escalation
@@ -3918,6 +4003,7 @@ Essentially
 Escalate
 Everyone
 Encourages
+Edition
 Use
 Usable
 Unsorted
@@ -3952,6 +4038,7 @@ Utilities
 Untyped
 Unlike
 Uses
+UNITED
 Complexity
 Could
 Conflicted
@@ -4076,6 +4163,8 @@ Classes
 Contests
 Cathedral
 Cities
+CHB
+Creating
 We
 While
 Write
@@ -4133,6 +4222,8 @@ Whispers
 Warding
 Wardscribing
 Wards
+WE
+WILL
 keeping
 keep
 kek
@@ -4221,6 +4312,8 @@ Hell
 Hacking
 Highly
 Hosts
+HORSEMEN
+Humans
 you
 your
 yourself
@@ -4229,6 +4322,7 @@ yield
 yards
 yellow
 years
+year
 very
 veiled
 various
@@ -4274,6 +4368,7 @@ verbal
 vocalize
 verge
 villains
+viability
 Function
 Form
 Fleshed
@@ -4345,6 +4440,10 @@ Factions
 Faction
 Fragile
 FAST
+FOUR
+Finalizing
+Fifth
+Formed
 Dungeons
 Dragons
 Definitely
@@ -4432,6 +4531,8 @@ Durability
 Destroyed
 Defend
 Deaf
+Days
+DOES
 Steve
 Sheets
 Segway
@@ -4622,6 +4723,10 @@ Segment
 Spellbook
 Squadron
 Scale
+SLAY
+Steps
+Selecting
+Statistic
 Jackson
 Jack
 Juggernaut
@@ -4668,6 +4773,7 @@ ND
 Nearly
 Necrosis
 Nuevo
+Nowhere
 One
 Out
 Oblivion
@@ -4826,6 +4932,7 @@ qualifiers
 quality
 qualities
 qualifer
+question
 XdE
 Xcatter
 Kit

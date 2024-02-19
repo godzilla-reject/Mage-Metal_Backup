@@ -5,6 +5,8 @@ Option2: Hardy
 Option3: Rock and Stone!
 Category: Solar_Hegemony
 Size: 1
+Tags:
+  - Species
 ---
 #  `=this.file.name`
 *One of the three Founding People of the Unified Solar Hegemony, the Dwaurves are a hearty people, stern and powerful. Strangers consider them to be too work-centric, putting their working lives ahead of all else aside from family and drink. Those who have spent time within the cold, dry air of the Martian stone-cities, however, can attest that they are a zealous people, dedicated to family and craft with an unparalleled passion only found miles below the Martian dessert.*

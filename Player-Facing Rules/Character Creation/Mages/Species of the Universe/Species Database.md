@@ -40,7 +40,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 10
+    position: 11
     isHidden: false
     sortIndex: -1
     config:
@@ -62,7 +62,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 9
+    position: 10
     isHidden: false
     sortIndex: -1
     config:
@@ -80,7 +80,7 @@ columns:
     key: Attribute
     id: Attribute
     label: Attribute
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -107,7 +107,7 @@ columns:
     key: Option1
     id: Option1
     label: Option1
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -126,7 +126,7 @@ columns:
     key: Option2
     id: Option2
     label: Option2
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -145,7 +145,7 @@ columns:
     key: Option3
     id: Option3
     label: Option3
-    position: 8
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -164,7 +164,7 @@ columns:
     key: Category
     id: Category
     label: Category
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -189,7 +189,7 @@ columns:
     key: Size
     id: Size
     label: Size
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -208,10 +208,31 @@ columns:
     key: Completed
     id: Completed
     label: Completed
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Tags:
+    input: tags
+    accessorKey: Tags
+    key: Tags
+    id: Tags
+    label: Tags
     position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
+      - { label: "Species", value: "Species", color: "hsl(10, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

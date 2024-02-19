@@ -6,6 +6,7 @@
       {
         "id": "7b7cdb250d11d615",
         "type": "tabs",
+        "dimension": 50.212765957446805,
         "children": [
           {
             "id": "c328e480814065db",
@@ -15,8 +16,8 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
+                  "x": -181.4521276595745,
+                  "y": -985.7765957446809,
                   "zoom": -0.42840472301667265
                 }
               }
@@ -28,34 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation Playtest Packet Layout.md",
+                "file": "Character Creation Playtest Packet.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b6951bc6dd98b920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Rules/Character Mechanics Overview.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f30be0a3b28a0c8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Rules/The Favor System/Favor System Primer.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -65,23 +40,48 @@
         "currentTab": 1
       },
       {
-        "id": "ab3928ea479fab4e",
+        "id": "867c934d6a027d08",
         "type": "tabs",
+        "dimension": 49.787234042553195,
         "children": [
           {
-            "id": "94bf72f1cea86aa5",
+            "id": "a388fbee0796117d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Vague List of Places.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "f1982eae05559380",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
+              }
+            }
+          },
+          {
+            "id": "aae52ab2711e00eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation Playtest Packet Layout.md",
+                "file": "Character Creation Playtest Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation Playtest Packet Layout.md",
+                "file": "Character Creation Playtest Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation Playtest Packet Layout.md"
+                "file": "Character Creation Playtest Packet.md"
               }
             }
           },
@@ -213,14 +213,6 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "6d5e9e67247021af",
-            "type": "leaf",
-            "state": {
-              "type": "mathpad-view",
               "state": {}
             }
           },
@@ -269,11 +261,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
+    "width": 696.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -305,15 +297,21 @@
   },
   "active": "e39b85b76ef09325",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
+    "Character Creation Playtest Packet.md",
+    "Utilities/Dashboard.canvas",
+    "Utilities/Lists/Metal Lists/Metal Systems List.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
+    "General Rules/Character Mechanics Overview.md",
+    "General Rules/The Favor System/Favor System Primer.md",
     "Setting/Vague List of Places.md",
-    "Character Creation Playtest Packet Layout.md",
     "Adventures/Release Adventure Ideas.md",
     "Adventures/Playtest Adventure.md",
     "GM-Facing Rules/Running The Game/GM Advise-The Toolbox and You.md",
-    "General Rules/Character Mechanics Overview.md",
-    "General Rules/The Favor System/Favor System Primer.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Utilities/Dashboard.canvas",
     "General Rules/Conditions Catalog/Detrimental/Fatigued.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
     "GM-Facing Rules/Monsters and Men/NPC Creation Guidelines.md",
@@ -325,13 +323,6 @@
     "GM-Facing Rules/Monsters and Men/NPC Index/Test NPC.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
-    "General Rules/Traits Catalog/Downtime.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
-    "General Rules/Traits Catalog/Manipulate1.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "General Rules/Conditions Catalog/Conditions Database.md",
-    "General Rules/Conditions Catalog/Detrimental/Unconscious.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",

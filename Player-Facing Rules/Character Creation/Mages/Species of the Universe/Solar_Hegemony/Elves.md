@@ -5,6 +5,8 @@ Option2: Accurate
 Option3: Innately Magical
 Category: Solar_Hegemony
 Size: 1
+Tags:
+  - Species
 ---
 #  `=this.file.name`
 
