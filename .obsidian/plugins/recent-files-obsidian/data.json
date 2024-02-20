@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Aurora Mortum",
       "path": "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Mortum.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
     },
     {
       "basename": "Flourish",
@@ -71,10 +75,6 @@
     {
       "basename": "Equipment Overview",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Character Mechanics Overview",

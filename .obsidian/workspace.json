@@ -4,94 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "18836c0fc00fc031",
+        "id": "55fbd1077eb4cb26",
         "type": "tabs",
-        "dimension": 77.68379960962915,
         "children": [
           {
-            "id": "4f15183fedaf07ac",
+            "id": "dd9ee13f4c725093",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-              }
-            }
-          },
-          {
-            "id": "2194eba85b219214",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6dfcfa3092150a86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.42840472301667265
+                }
               }
             }
           }
         ]
-      },
-      {
-        "id": "194f7646a8e878ea",
-        "type": "tabs",
-        "dimension": 22.316200390370852,
-        "children": [
-          {
-            "id": "052f23266c35aaa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0257bdbbea3ed930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/General Lists/Trait List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ced9f7326f214cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/General Lists/Conditions List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -313,16 +244,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4f15183fedaf07ac",
+  "active": "dd9ee13f4c725093",
   "lastOpenFiles": [
+    "Utilities/Lists/General Lists/Trait List.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
     "General Rules/Traits Catalog/General/Escalation.md",
     "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Mortum.md",
-    "Utilities/Lists/General Lists/Trait List.md",
     "General Rules/Traits Catalog/Flourish.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
     "Utilities/Lists/Mage Lists/Equipment List.md",
