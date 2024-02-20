@@ -50,6 +50,9 @@ Inferno
 Ire
 Intersystem
 Incursion
+Inventor
+Impeccable
+Item
 Mage
 Metal
 Mecha
@@ -156,6 +159,7 @@ Minions
 Mid
 MP
 Moons
+Mastery
 in
 inspiration
 it
@@ -285,6 +289,7 @@ intention
 inner
 italics
 invaluable
+instantly
 the
 takes
 titans
@@ -719,6 +724,8 @@ familiarize
 familiarized
 familiar
 factions
+finished
+fist
 came
 combines
 combat
@@ -1046,6 +1053,10 @@ crotchety
 capitalization
 capitalized
 comradery
+category
+consumables
+correct
+combine
 before
 being
 be
@@ -1205,6 +1216,7 @@ beyond
 biographing
 budding
 bold
+batch
 not
 never
 no
@@ -1495,6 +1507,7 @@ attention
 answering
 answer
 ain
+according
 wear
 with
 war
@@ -1599,6 +1612,7 @@ worlds
 wade
 welcome
 wealth
+weaknesses
 sleeve
 some
 something
@@ -1992,6 +2006,11 @@ sets
 shining
 selection
 shit
+specialty
+schematic
+supply
+simply
+salvage
 LANCER
 Learn
 Lancer
@@ -2044,6 +2063,7 @@ Lord
 Linear
 Lunar
 Log
+Legends
 The
 Tenets
 This
@@ -2443,6 +2463,8 @@ dearly
 demanded
 derived
 differentiate
+days
+developed
 ever
 expand
 easy
@@ -2614,6 +2636,7 @@ engagements
 exploration
 ensure
 embeds
+expended
 played
 pilot
 play
@@ -2851,6 +2874,7 @@ professionals
 properly
 planned
 picked
+purchased
 RP
 RPGs
 Ryutama
@@ -2973,6 +2997,7 @@ Runes
 Rebreather
 Rangers
 Rivals
+Raij
 high
 heavily
 hopes
@@ -3085,6 +3110,7 @@ heroes
 handy
 hope
 happening
+handled
 refine
 robust
 required
@@ -3288,6 +3314,8 @@ realm
 resilient
 rework
 remember
+ruin
+resistances
 Pathfinder
 PF
 Philosophy
@@ -3398,6 +3426,7 @@ Playtest
 Pluto
 Proper
 Packet
+Parade
 ABCs
 Apotheosis
 Accessibility
@@ -3508,6 +3537,8 @@ Assessment
 AMP
 Again
 Appendix
+Armorcraft
+Apply
 metal
 magic
 mechanics
@@ -3703,6 +3734,7 @@ materials
 mathematical
 manufacturing
 manner
+mortal
 GURPS
 Google
 Greyhawk
@@ -3941,6 +3973,8 @@ legend
 locales
 leaders
 latest
+legality
+losing
 Ease
 Excel
 Escalation
@@ -4013,6 +4047,7 @@ Everyone
 Encourages
 Edition
 Eliminate
+Examples
 Use
 Usable
 Unsorted
@@ -4175,6 +4210,9 @@ Cathedral
 Cities
 CHB
 Creating
+Computers
+Craftsmanship
+Contents
 We
 While
 Write
@@ -4324,6 +4362,8 @@ Highly
 Hosts
 HORSEMEN
 Humans
+Hyakki
+Hundred
 you
 your
 yourself
@@ -4379,6 +4419,7 @@ vocalize
 verge
 villains
 viability
+versed
 Function
 Form
 Fleshed
@@ -4454,6 +4495,9 @@ FOUR
 Finalizing
 Fifth
 Formed
+Flurry
+Fists
+Furaribi
 Dungeons
 Dragons
 Definitely
@@ -4543,6 +4587,9 @@ Defend
 Deaf
 Days
 DOES
+Dancing
+Demon
+Demons
 Steve
 Sheets
 Segway
@@ -4737,6 +4784,10 @@ SLAY
 Steps
 Selecting
 Statistic
+Specialized
+Schematics
+Strikes
+Stopper
 Jackson
 Jack
 Juggernaut
@@ -4821,6 +4872,7 @@ Organic
 Overlords
 Obstacle
 Outpost
+Oni
 Basics
 Beneficial
 Body
@@ -4923,6 +4975,7 @@ Your
 YAY
 Yangari
 Yards
+Yagy
 Zephyr
 Zone
 Zene
