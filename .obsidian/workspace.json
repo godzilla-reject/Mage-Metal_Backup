@@ -4,25 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "3873ead6af156dd7",
+        "id": "18836c0fc00fc031",
         "type": "tabs",
+        "dimension": 66.01063829787233,
         "children": [
           {
-            "id": "0012e4d41ddfc196",
+            "id": "4f15183fedaf07ac",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -1.0954683039527227
-                }
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+              }
+            }
+          },
+          {
+            "id": "9dadf12b837fc554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3c8228acccef904b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "194f7646a8e878ea",
+        "type": "tabs",
+        "dimension": 33.98936170212766,
+        "children": [
+          {
+            "id": "052f23266c35aaa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0257bdbbea3ed930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/General Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ced9f7326f214cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/General Lists/Conditions List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
               }
             }
           },
@@ -154,6 +224,14 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d5e9e67247021af",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
               "state": {}
             }
           },
@@ -202,11 +280,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 696.5,
+    "width": 262.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -236,8 +314,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0012e4d41ddfc196",
+  "active": "9dadf12b837fc554",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "Character Creation Playtest Packet.md",
@@ -262,8 +343,6 @@
     "GM-Facing Rules/Running The Game/GM Advise-The Toolbox and You.md",
     "General Rules/Conditions Catalog/Detrimental/Fatigued.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "GM-Facing Rules/Monsters and Men/NPC Creation Guidelines.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",

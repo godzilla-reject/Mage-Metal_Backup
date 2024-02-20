@@ -459,6 +459,7 @@ terror
 threats
 today
 thank
+timely
 great
 game
 gaming
@@ -3700,6 +3701,8 @@ memorable
 morning
 materials
 mathematical
+manufacturing
+manner
 GURPS
 Google
 Greyhawk
@@ -4045,6 +4048,7 @@ Untyped
 Unlike
 Uses
 UNITED
+Using
 Complexity
 Could
 Conflicted

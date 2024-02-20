@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Mundocraft",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
+    },
+    {
+      "basename": "Brawling",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -125,10 +137,6 @@
       "path": "Templates/Markdown Templates/General Templates/Proficiency Template.md"
     },
     {
-      "basename": "Mundocraft",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
-    },
-    {
       "basename": "Trait List",
       "path": "Utilities/Lists/General Lists/Trait List.md"
     },
@@ -143,10 +151,6 @@
     {
       "basename": "Artifice",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "Conditions Database",
@@ -195,10 +199,6 @@
     {
       "basename": "Arcane Sphere-Elemancy",
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md"
-    },
-    {
-      "basename": "Arcane Sphere-Technomynism",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
     }
   ],
   "omittedPaths": [],

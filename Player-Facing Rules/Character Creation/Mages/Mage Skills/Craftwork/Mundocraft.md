@@ -9,8 +9,8 @@ Completed: false
 This skill encompasses the ability to invent, engineer, and manufacture mundane items, such as weapons, gear, and armor. 
 
 >[!info| clear no-i] `=this.file.name` Mechanics
->**Category** | `=this.Category`   
->**Attribute**| `=this.Attribute`
+>**Category:** `=this.Category`   
+>**Attribute:** `=this.Attribute`
 - - -
 # Skill Actions
 #### Untrained Actions
