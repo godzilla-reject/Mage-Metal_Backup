@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "55fbd1077eb4cb26",
+        "id": "2dc096fc97cf6154",
         "type": "tabs",
         "children": [
           {
-            "id": "dd9ee13f4c725093",
+            "id": "8df1c9910f140bd9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.42840472301667265
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -210,12 +210,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +243,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "dd9ee13f4c725093",
+  "active": "8df1c9910f140bd9",
   "lastOpenFiles": [
     "Utilities/Lists/General Lists/Trait List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
