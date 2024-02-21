@@ -4,34 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2dc096fc97cf6154",
+        "id": "d7f2669597877788",
         "type": "tabs",
         "children": [
           {
-            "id": "8df1c9910f140bd9",
+            "id": "36bac6513d713d45",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
-          },
-          {
-            "id": "70b867e8bd0668e3",
-            "type": "leaf",
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,7 +243,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "70b867e8bd0668e3",
+  "active": "36bac6513d713d45",
   "lastOpenFiles": [
     "Utilities/Lists/General Lists/Trait List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
