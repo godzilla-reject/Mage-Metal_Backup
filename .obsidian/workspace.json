@@ -19,8 +19,24 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d15e6a2916b9a3a8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.726548978220868
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation Playtest Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation Playtest Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation Playtest Packet.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -241,8 +257,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a6c1731f08e11138",
+  "active": "d15e6a2916b9a3a8",
   "lastOpenFiles": [
+    "Character Creation Playtest Packet.md",
     "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
@@ -266,7 +283,6 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Character Creation Playtest Packet.md",
     "Utilities/Dashboard Notes/To-Do List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Utilities/Lists/Metal Lists",

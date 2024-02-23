@@ -25,7 +25,9 @@ Again, I thank you dearly for being apart of this first playtest. Have fun, Pilo
 
 # Character Creation Part 1: *The Mage*
 \*Content is presented in the order it is demanded by the Creation Steps.
+```meta-bind-embed
 ![[Mage Creation Steps]]
+```
 ## 1. *Playing The Game*
 Before you begin determining the mechanics of your character, it is important to have a grasp on the narrative of said character. This idea, referred to by us “professionals” as a *narrative concept*, will help direct and inform the mechanical choices you make during character creation. Maybe your character is some hot-shot piloting prodigy, or a crotchety old veteran that chose to join the Pilot Program after being relieved of duty. 
 
@@ -186,11 +188,17 @@ SORT Wealth DESC
 ## 11. *Finishing Up*
 
 # Character Creation Part 2: *The Metal*
+``` meta-bind-embed
 ![[Metal Creation Steps]]
+```
 
 # Appendix A: Dice Overview 
+``` meta-bind-embed
 ![[Dice Overview]]
+```
 # Appendix B: Action Overview
+``` meta-bind-embed
 ![[Actions Overview]]
+```
 # Appendix C: Spell Lists
 # Appendix D: Skill List
