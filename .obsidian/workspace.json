@@ -11,14 +11,12 @@
             "id": "fd7b37fe4493a758",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.9988599801533312
-                }
+                "file": "Character Creation Playtest Packet.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest Packet.md"
               }
             }
           },
@@ -213,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,10 +243,10 @@
   },
   "active": "fd7b37fe4493a758",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Reference Notes/School Note.md",
     "Character Creation Playtest Packet.md",
     "Reference Notes/Role Note.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md",
     "Reference Notes/Skill List.md",
@@ -271,7 +270,6 @@
     "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Mortum.md",
     "General Rules/Traits Catalog/Flourish.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",
