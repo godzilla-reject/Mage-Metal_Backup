@@ -11,14 +11,12 @@
             "id": "1d2cf79f44bf488b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Character Creation Playtest Packet.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest Packet.md"
               }
             }
           },
@@ -213,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,6 +243,7 @@
   },
   "active": "1d2cf79f44bf488b",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Reference Notes/Skill List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Character Creation Playtest Packet.md",
@@ -253,7 +253,6 @@
     "Reference Notes/Perk Note.md",
     "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/Lists/Mage Lists/Equipment List.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
@@ -271,7 +270,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",
