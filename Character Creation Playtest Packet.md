@@ -252,7 +252,7 @@ Each character in `=[[Dev Helpers]].game-short` has (a) quirk(s) that helps set 
 ```
 
 ## 10. *Selecting Equipment*
-After selecting a General Perk, 
+After selecting a General Perk, the final step of Mage creation is to 
 ## 11. *Finishing Up*
 
 # Character Creation Part 2: *The Metal*
