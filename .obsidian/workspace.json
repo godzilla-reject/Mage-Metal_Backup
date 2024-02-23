@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c35d43734baf0c",
+        "id": "45c4f98cacf38f1a",
         "type": "tabs",
         "children": [
           {
-            "id": "fd7b37fe4493a758",
+            "id": "640387d96a2bb92a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Character Creation Playtest Packet.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.9988599801533312
+                }
               }
             }
           }
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Role",
+                "query": "tag:#Equipment  [\"completed\":true]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation Playtest Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation Playtest Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation Playtest Packet.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -241,11 +243,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fd7b37fe4493a758",
+  "active": "640387d96a2bb92a",
   "lastOpenFiles": [
+    "Reference Notes/Character Creation Part 1.md",
+    "Character Creation Playtest Packet.md",
+    "Reference Notes/Equipment Appendix.md",
     "Utilities/Dashboard.canvas",
     "Reference Notes/School Note.md",
-    "Character Creation Playtest Packet.md",
     "Reference Notes/Role Note.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md",
@@ -269,7 +273,6 @@
     "General Rules/Traits Catalog/General/Escalation.md",
     "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Mortum.md",
     "General Rules/Traits Catalog/Flourish.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",

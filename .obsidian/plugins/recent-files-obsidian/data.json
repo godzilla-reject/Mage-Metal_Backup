@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Character Creation Playtest Packet",
       "path": "Character Creation Playtest Packet.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Character Creation Part 1",
+      "path": "Reference Notes/Character Creation Part 1.md"
+    },
+    {
+      "basename": "Equipment Appendix",
+      "path": "Reference Notes/Equipment Appendix.md"
     },
     {
       "basename": "School Note",
@@ -191,14 +199,6 @@
     {
       "basename": "Metal Systems List",
       "path": "Utilities/Lists/Metal Lists/Metal Systems List.md"
-    },
-    {
-      "basename": "Species Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
     }
   ],
   "omittedPaths": [],
