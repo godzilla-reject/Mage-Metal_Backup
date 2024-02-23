@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Character Creation Playtest Packet",
+      "path": "Character Creation Playtest Packet.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "Mage Creation Steps",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "Character Creation Playtest Packet",
-      "path": "Character Creation Playtest Packet.md"
     },
     {
       "basename": "To-Do List",
