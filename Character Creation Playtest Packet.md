@@ -221,6 +221,11 @@ The answer to this question is your *Pilot Role*. This is simply what *you do* o
 Select a Pilot Role from the following options, then select one of the two Role Specializations offered by the chosen Role. You then become Trained in your Role.
 
 Denote any proficiencies granted by your Role, and then denote the skills granted by your Role and Specialization. You *do not* gain aptitude in them. Finally, inscribe your Specialization’s starting Spell in your Grimoire. 
+![[Battlefield Support]]
+![[Frontline Vanguard]]
+![[Guerilla Tactics]]
+![[Logistical Controller]]
+![[Long-Range Ordinance]]
 ## 6. *Finalizing Attributes and Statistics*
 Now that your four core selections have been made, its time to finalize your Attributes. Assign 12 free Attribute points across your Attributes. You cannot begin play with an Attribute above 20.
 

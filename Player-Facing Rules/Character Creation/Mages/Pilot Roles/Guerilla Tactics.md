@@ -2,8 +2,6 @@
 cssclasses:
   - dashboard
 Attribute: Power
-newColumn3:
-  - Role
 Armor: Mobile
 Armor_Training: Trained
 Weapon_Degree: Martial
@@ -16,6 +14,8 @@ Spell_1: "[[Retrace]]"
 Spec_2: Hunter
 Skill_2: Sneakery
 Spell_2: "[[Predator's Sight]]"
+Tags:
+  - Role
 ---
 # Role: `=this.file.name`
 Guerilla Specialists gather information, scout out battles, and recon for potential hostiles. Boasting good mobility, as well as evasion, Guerillas stay out of the fray to take others out with speed.

@@ -74,27 +74,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  newColumn3:
-    input: tags
-    accessorKey: newColumn3
-    key: newColumn3
-    id: newColumn3
-    label: Tags
-    position: 2
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Role", value: "Role", color: "hsl(76, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Armor:
     input: select
     accessorKey: Armor
@@ -389,6 +368,28 @@ columns:
       - { label: "Meta-Magic", value: "Meta-Magic", color: "hsl(13, 95%, 90%)"}
       - { label: "Sneak", value: "Sneak", color: "hsl(237, 95%, 90%)"}
       - { label: "Sneakery", value: "Sneakery", color: "hsl(44, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  Tags:
+    input: tags
+    accessorKey: Tags
+    key: Tags
+    id: newColumn3
+    label: Tags
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Role", value: "Role", color: "hsl(76, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

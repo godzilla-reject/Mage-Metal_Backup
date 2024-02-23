@@ -1,8 +1,6 @@
 ---
 cssclasses:
   - dashboard
-newColumn3:
-  - Role
 Attribute: Body
 Armor: Power
 Armor_Training: Expert
@@ -16,6 +14,8 @@ Spell_1: "[[Shield Crush]]"
 Spec_2: Juggernaut
 Skill_2: Athletics
 Spell_2: "[[Blood Cry]]"
+Tags:
+  - Role
 ---
 # Role: `=this.file.name`
 The Vanguards take to the frontlines, using their extreme defenses to tank damage, make distance, and create chances for their allies.

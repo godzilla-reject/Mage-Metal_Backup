@@ -1,8 +1,6 @@
 ---
 cssclasses:
   - dashboard
-newColumn3:
-  - Role
 Attribute: Any
 Armor: Infiltrator
 Armor_Training: Trained
@@ -16,6 +14,8 @@ Skill_2: Mundocraft
 Spell_2: "[[Eunard's Portable Cover]]"
 Spec_1: Medical
 Spec_2: Barricadier
+Tags:
+  - Role
 ---
 # Role: `=this.file.name`
 Supports use buffs and healing to help allies survive the battle, as well as deal more damage. 

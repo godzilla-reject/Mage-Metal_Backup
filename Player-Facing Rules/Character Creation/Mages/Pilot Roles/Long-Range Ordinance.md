@@ -1,8 +1,6 @@
 ---
 cssclasses:
   - dashboard
-newColumn3:
-  - Role
 Attribute: Reflex
 Armor: Infiltrator
 Armor_Training: Trained
@@ -16,6 +14,8 @@ Spell_2: "[[Cedrik's Mini-Many-Minefield]]"
 Skill: Sneakery
 Skill_1: Sneakery
 Skill_2: Acrobatics
+Tags:
+  - Role
 ---
 # Role: `=this.file.name`
 Those in the Long-Range Ordinance role act as the heavy firepower of their team, either shutting down key chokes or unleashing devastating damage with high-powered weaponry. While powerful, they are nearly defenseless due to the amount of accommodation needed for such extreme firepower.

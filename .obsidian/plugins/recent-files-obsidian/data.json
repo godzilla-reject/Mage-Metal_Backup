@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Character Creation Playtest Packet",
       "path": "Character Creation Playtest Packet.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
+      "basename": "Battlefield Support",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
     },
     {
       "basename": "Skill List",
@@ -191,14 +199,6 @@
     {
       "basename": "Vague List of Places",
       "path": "Setting/Vague List of Places.md"
-    },
-    {
-      "basename": "Release Adventure Ideas",
-      "path": "Adventures/Release Adventure Ideas.md"
-    },
-    {
-      "basename": "Playtest Adventure",
-      "path": "Adventures/Playtest Adventure.md"
     }
   ],
   "omittedPaths": [],

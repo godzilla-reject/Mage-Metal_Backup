@@ -1,8 +1,6 @@
 ---
 cssclasses:
   - dashboard
-newColumn3:
-  - Role
 Attribute: Mind
 Armor: Mobile
 Armor_Training: Trained
@@ -16,6 +14,8 @@ Spec_1: Engineer
 Spell_1: "[[Auto-Shot Turret]]"
 Spec_2: Disruptor
 Spell_2: "[[Arcane Surge]]"
+Tags:
+  - Role
 ---
 # Role: `=this.file.name`
 Logistical Controllers do just that: control the pace of the battle, lest it be by locking down key points or locking foes out of their most powerful abilities.
