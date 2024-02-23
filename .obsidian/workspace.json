@@ -15,9 +15,9 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.644925777151695
                 }
               }
             }
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation Playtest Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation Playtest Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Character Creation Playtest Packet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -257,11 +253,11 @@
   },
   "active": "bbecd899c0e2bf94",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Utilities/Lists/Mage Lists/Equipment List.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
     "Character Creation Playtest Packet.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
@@ -283,7 +279,6 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
     "Utilities/Dashboard Notes/To-Do List.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",
