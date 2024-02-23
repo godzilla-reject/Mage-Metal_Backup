@@ -162,15 +162,8 @@ After your selection, ensure you denote your History’s perk and Attribute boos
 
 Make sure you also list any other starting bonuses or equipment from your chosen History.
 
-> [!info| no-i]- Histories Table
-> ```dataview
-> TABLE Wealth AS Wealth, Boost AS Attribute, Perk AS Perk
-> FROM #History
-> WHERE Completed = true
-> SORT Wealth DESC
-> ```
->
-
+Finally, ensure you denote your character’s *starting wealth*, as stated on the following chart.
+![[Starting Wealth Chart]]
 
 ### Poor Histories
 ![[Dusted]]
@@ -252,8 +245,15 @@ Each character in `=[[Dev Helpers]].game-short` has (a) quirk(s) that helps set 
 ```
 
 ## 10. *Selecting Equipment*
-After selecting a General Perk, the final step of Mage creation is to 
+After selecting a General Perk, the final step of Mage creation is to determine what equipment your Pilot uses. 
+
+Using the starting wealth granted by your **History**, purchase as little or as much equipment from [[Character Creation Playtest Packet#Appendix E Equipment|Appendix E: Equipment]]. USH-M basic gear recommendation is at least one weapon (preferably that you have a proficiency in), one suit of armor (also, preferably that you have proficiency in), and some basic gear such as Nutri-gel, a Hardlight Torch, a backpack and a set of clothes. 
+
+After gear acquisition, denote any remaining credits.  
 ## 11. *Finishing Up*
+Congratulations, you’ve completed the first (and more complicated) half of character creation for this play test. Take this time to go ahead and fill out the *Mage* section of the linked feedback questionnaire. 
+
+Now, it is time to create the *Metal* for the *Mage*. Proceed to Part 2: *The Metal*.
 
 # Character Creation Part 2: *The Metal*
 ``` meta-bind-embed
@@ -269,4 +269,7 @@ After selecting a General Perk, the final step of Mage creation is to
 ![[Actions Overview]]
 ```
 # Appendix C: Spell Lists
+![[Spell List]]
 # Appendix D: Skill List
+![[Skill List]]
+# Appendix E: Equipment 

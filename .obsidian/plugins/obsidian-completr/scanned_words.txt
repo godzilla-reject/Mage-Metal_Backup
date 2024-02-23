@@ -1063,6 +1063,8 @@ correct
 combine
 classical
 catalog
+completed
+complicated
 before
 being
 be
@@ -1517,6 +1519,7 @@ ain
 according
 assets
 assigned
+acquisition
 wear
 with
 war
@@ -2022,6 +2025,7 @@ supply
 simply
 salvage
 selections
+selecting
 LANCER
 Learn
 Lancer
@@ -2190,6 +2194,7 @@ Taking
 Take
 Their
 Table
+Torch
 oriented
 of
 on
@@ -2889,6 +2894,8 @@ picked
 purchased
 philosophical
 posed
+purchase
+preferably
 RP
 RPGs
 Ryutama
@@ -3330,6 +3337,7 @@ rework
 remember
 ruin
 resistances
+recommendation
 Pathfinder
 PF
 Philosophy
@@ -3441,6 +3449,7 @@ Pluto
 Proper
 Packet
 Parade
+Proceed
 ABCs
 Apotheosis
 Accessibility
@@ -4229,6 +4238,7 @@ Creating
 Computers
 Craftsmanship
 Contents
+Congratulations
 We
 While
 Write
@@ -4380,6 +4390,7 @@ HORSEMEN
 Humans
 Hyakki
 Hundred
+Hardlight
 you
 your
 yourself
@@ -4854,6 +4865,7 @@ Nearly
 Necrosis
 Nuevo
 Nowhere
+Nutri
 One
 Out
 Oblivion
@@ -5015,6 +5027,7 @@ quality
 qualities
 qualifer
 question
+questionnaire
 XdE
 Xcatter
 Kit

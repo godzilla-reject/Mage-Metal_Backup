@@ -1,7 +1,7 @@
 {
   "autoExpand": false,
   "defaultTemplate": "![[$filename]]",
-  "delay": 300,
+  "delay": 5100,
   "excludeCurrent": true,
   "lineEnding": "<-->",
   "prefixes": {
