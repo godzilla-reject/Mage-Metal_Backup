@@ -159,12 +159,17 @@ Pick one of the following Histories. They are presented in order of Poor to Extr
 After your selection, ensure you denote your History’s perk and Attribute boost. Once this is done, select or denote the skills gained from your History. You *do not* gain aptitude in them by default. 
 
 Make sure you also list any other starting bonuses or equipment from your chosen History.
-```dataview
-TABLE Wealth AS Wealth, Boost AS Attribute, Perk AS Perk
-FROM #History
-WHERE Completed = true
-SORT Wealth DESC
-```
+
+> [!info| no-i]- Histories Table
+> ```dataview
+> TABLE Wealth AS Wealth, Boost AS Attribute, Perk AS Perk
+> FROM #History
+> WHERE Completed = true
+> SORT Wealth DESC
+> ```
+>
+
+
 ### Poor Histories
 ![[Dusted]]
 ![[Hegemony Nomad]]
@@ -189,14 +194,27 @@ Pick from one of the following School of Arcana.
 
 After your selection, ensure you denote your School’s Attribute Boost and any starting gear. Take this time to inscribe your starting spells in your Grimoire as well. 
 
-```dataview
-TABLE without ID
-sphere AS Sphere, 
-attribute AS Attribute,
-("![[]](" + file.name + ")") AS Name
-FROM #School
-SORT row.group ASC 
-```
+
+> [!info|no-i]- Aerophasia 
+> ![[Aerophasia]]
+
+> [!info|no-i]- Hydrophasia
+> ![[Hydrophasia]]
+
+> [!info|no-i]- Pyrophasia
+> ![[Pyrophasia]]
+
+> [!info|no-i]- Terraphasia
+> ![[Terraphasia]]
+
+> [!info|no-i]- Technosophy 
+> ![[Technosophy]]
+
+> [!info|no-i]- Runeurgy
+> ![[Runeurgy]]
+
+
+
 
 ## 5. *Pilot Role*
 ## 6. *Finalizing Attributes and Statistics*

@@ -1,0 +1,11 @@
+{
+  "autoExpand": false,
+  "defaultTemplate": "![[$filename]]",
+  "delay": 300,
+  "excludeCurrent": true,
+  "lineEnding": "<-->",
+  "prefixes": {
+    "header": "^",
+    "footer": ">"
+  }
+}
