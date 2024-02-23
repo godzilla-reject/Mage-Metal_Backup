@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Role Note",
+      "path": "Reference Notes/Role Note.md"
     },
     {
       "basename": "Character Creation Playtest Packet",
       "path": "Character Creation Playtest Packet.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Pilot Role Database",
@@ -195,10 +199,6 @@
     {
       "basename": "Favor System Primer",
       "path": "General Rules/The Favor System/Favor System Primer.md"
-    },
-    {
-      "basename": "Vague List of Places",
-      "path": "Setting/Vague List of Places.md"
     }
   ],
   "omittedPaths": [],
