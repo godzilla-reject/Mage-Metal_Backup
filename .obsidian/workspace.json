@@ -4,76 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9a9bcad78af20068",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a6c1731f08e11138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation Playtest Packet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7e7865772e15ed21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/Mage Lists/Equipment List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "7cbadf82206677da",
         "type": "tabs",
         "children": [
           {
-            "id": "d15e6a2916b9a3a8",
+            "id": "8b7ab7266c5e45af",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.726548978220868
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
           },
           {
-            "id": "8b7ab7266c5e45af",
+            "id": "bbecd899c0e2bf94",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "release-notes",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
-              }
-            }
-          },
-          {
-            "id": "3a97356f982ad0bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "currentVersion": "1.5.8"
               }
             }
           }
@@ -267,12 +222,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,7 +255,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a6c1731f08e11138",
+  "active": "bbecd899c0e2bf94",
   "lastOpenFiles": [
     "Utilities/Lists/Mage Lists/Equipment List.md",
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md",
