@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d9a9113e558a849",
+        "id": "7cbadf82206677da",
         "type": "tabs",
         "children": [
           {
-            "id": "dc2b2766d7ae65cb",
+            "id": "a6c1731f08e11138",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,35 +17,12 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -1.644925777151695
+                  "zoom": -0.42840472301667265
                 }
               }
             }
           }
         ]
-      },
-      {
-        "id": "6126b5a60c6f2225",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a4e8f4a498c89295",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "de447b7c106ad840",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,11 +210,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,14 +244,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "dc2b2766d7ae65cb",
+  "active": "a6c1731f08e11138",
   "lastOpenFiles": [
+    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Templates/Markdown Templates/Metal Templates/Metal System Template.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/Lists/General Lists/Trait List.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
     "General Rules/Traits Catalog/General/Escalation.md",
@@ -286,7 +265,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
@@ -294,7 +272,6 @@
     "Character Creation Playtest Packet.md",
     "Utilities/Dashboard Notes/To-Do List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",
