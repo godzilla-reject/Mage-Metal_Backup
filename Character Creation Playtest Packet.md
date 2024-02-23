@@ -109,7 +109,7 @@ Derived from their respective Attribute, different Statistics have differing for
 	- (Reflex * 3)/10
 ##### Mind
 - Skill Aptitude
-	- A measure of how many skills one can use to their fullest extent. A skill that a character has *aptitude* gains access to the Skill Perks of that skill. Not having aptitude does not affect their capacity to use that skill in any other way.
+	- A measure of how many skills one can use to their fullest extent. A skill that a character has *aptitude* with gains access to the Skill Perks of that skill. Not having aptitude does not affect their capacity to use that skill in any other way.
 	- Mind/4
 ##### Potential 
 - Spell Memory
@@ -190,37 +190,61 @@ Now that you have decided what your character did before becoming a Mage Pilot, 
 
 The answer to this question is the methodology of magic your pilot chose to specialize in when they were training to become a Mage-Pilot. Divided into Schools, these orders of magic represent deep philosophical ideas about reality and magic, as well as their preferred method for blowing up bad guys.
 
-Pick from one of the following School of Arcana. 
+Pick from one of the following School of Arcana, then select one of the two available Paths offered by your chosen School. You become Trained in your School, and gain the first Perk of your chosen Path.
 
-After your selection, ensure you denote your School’s Attribute Boost and any starting gear. Take this time to inscribe your starting spells in your Grimoire as well. 
+After your selections, ensure you denote your School’s Attribute Boost and any starting gear. Take this time to inscribe your starting spells in your Grimoire as well. 
 
-
-> [!info|no-i]- Aerophasia 
+### Aerophasia
+> [!info|no-i]-
 > ![[Aerophasia]]
-
-> [!info|no-i]- Hydrophasia
+### Hydrophasia
+> [!info|no-i]-
 > ![[Hydrophasia]]
-
-> [!info|no-i]- Pyrophasia
+### Pyrophasia
+> [!info|no-i]- 
 > ![[Pyrophasia]]
-
-> [!info|no-i]- Terraphasia
+### Terraphasia
+> [!info|no-i]- 
 > ![[Terraphasia]]
-
-> [!info|no-i]- Technosophy 
+### Technosophy 
+> [!info|no-i]- 
 > ![[Technosophy]]
-
-> [!info|no-i]- Runeurgy
+### Runeurgy
+> [!info|no-i]- 
 > ![[Runeurgy]]
 
 
 
 
 ## 5. *Pilot Role*
+After making a selection as to the style of magic you wield, you are now posed with a final question:
+
+*What role do you fill within a squad?*
+
+The answer to this question is your *Pilot Role*. This is simply what *you do* on the battlefield, in and out of the Metal. The classical idea of the “tank”, “support” and “DPS” are all determined by this choice.
+
+Select a Pilot Role from the following options, then select one of the two Role Specializations offered by the chosen Role. You then become Trained in your Role.
+
+Denote any proficiencies granted by your Role, and then denote the skills granted by your Role and Specialization. You *do not* gain aptitude in them. Finally, inscribe your Specialization’s starting Spell in your Grimoire. 
 ## 6. *Finalizing Attributes and Statistics*
-## 7. *Finalizing Skills*
+Now that your four core selections have been made, its time to finalize your Attributes. Assign 12 free Attribute points across your Attributes. You cannot begin play with an Attribute above 20.
+
+Once you have assigned all 12 points, take this time to calculate your Statistics (if you aren’t using the *free digital character sheet*. Which, you should be. I worked really hard on it.)
+## 7. *Finalizing Skills and Proficiencies*
+After your Attributes and Statistics are finalized, you are ready to finalize your Skills and Proficiencies. 
+### **Skills**
+Designate a number of Skill Aptitudes as determined by your Skill Aptitudes Statistic, then select one Skill you are Trained in and have Aptitude with. You begin play as an Expert in that Skill.
+### **Weapon and Armor Proficiencies**
+Select one Armor proficiency and one Weapon proficiency to increase your training level with by one step (untrained to Trained or Trained to Expert.) You cannot begin play with an Armor or Weapon proficiency at or above Mastered.
+### **General Proficiencies**
+From among **Perception**, **Piloting** and **Spell-Work**, pick two to begin play at Trained and one to begin play at Expert.
 ## 8. *Creating a Grimoire*
+After all of your mechanical selections, you can move on to creating your *Grimoire*, which is a catalog of all the spells your Mage can cast. These are the guidelines for creating your Grimoire:
+1. At Tier 1, your Grimoire can contain Rank 0-3 spells.
+2. Your Grimoire can contain a number of spells equal to your Tier * 10 (which is 10.)
+3. You have access to any spell on a spell list that either does not have an access requirement or you meet the requirement for. Spells can be found in [[Character Creation Playtest Packet#Appendix C Spell Lists]]
 ## 9. *Selecting Perks*
+
 ## 10. *Selecting Equipment*
 ## 11. *Finishing Up*
 
