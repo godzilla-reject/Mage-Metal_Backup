@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Metal System Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
+      "basename": "Apopplia-Class A-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md"
     },
     {
       "basename": "Metal Systems Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
+      "basename": "Metal System Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
     },
     {
       "basename": "Trait List",
@@ -195,10 +199,6 @@
     {
       "basename": "Mage-Class NPC Template",
       "path": "Templates/Markdown Templates/General Templates/Mage-Class NPC Template.md"
-    },
-    {
-      "basename": "Proficiency Template",
-      "path": "Templates/Markdown Templates/General Templates/Proficiency Template.md"
     }
   ],
   "omittedPaths": [],
