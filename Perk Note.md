@@ -1,0 +1,8 @@
+![[Battlemage]]
+![[Jack of All Trades]]
+![[Lifebringer]]
+![[Mercurial Magics]]
+![[Novice Blood Mage]]
+![[Robust Fortitude]]
+![[Tome Mage]]
+![[Wildheart]]

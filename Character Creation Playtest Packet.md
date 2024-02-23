@@ -1,6 +1,8 @@
+---
+cssclasses: [clean-embeds]
+---
 ```table-of-contents
 ```
-
 *”Greetings Pilot and welcome back to the Terrarium. Time since last Lunar Incursion: 709 Solar Days.”*
 # Overview 
 Good morning, Pilot. You’ve graciously agreed to help test the latest in USH automatic biographing technology in the form of the *Advanced Magisterial Pilot Condition and History Bio-Log* (AMP-CHB). The following document contains all of the instruction you should need to complete the test here today.
@@ -242,10 +244,15 @@ From among **Perception**, **Piloting** and **Spell-Work**, pick two to begin pl
 After all of your mechanical selections, you can move on to creating your *Grimoire*, which is a catalog of all the spells your Mage can cast. These are the guidelines for creating your Grimoire:
 1. At Tier 1, your Grimoire can contain Rank 0-3 spells.
 2. Your Grimoire can contain a number of spells equal to your Tier * 10 (which is 10.)
-3. You have access to any spell on a spell list that either does not have an access requirement or you meet the requirement for. Spells can be found in [[Character Creation Playtest Packet#Appendix C Spell Lists]]
+3. You have access to any spell on a spell list that either does not have an access requirement or you meet the requirement for. Spells can be found in [[Character Creation Playtest Packet#Appendix C Spell Lists|Appendix C Spell Lists]]
 ## 9. *Selecting Perks*
+Each character in `=[[Dev Helpers]].game-short` has (a) quirk(s) that helps set them apart from other characters. These quirks are known as *General Perks*. Select one for your Mage Pilot.
+``` meta-bind-embed
+![[Perk Note]]
+```
 
 ## 10. *Selecting Equipment*
+After selecting a General Perk, 
 ## 11. *Finishing Up*
 
 # Character Creation Part 2: *The Metal*

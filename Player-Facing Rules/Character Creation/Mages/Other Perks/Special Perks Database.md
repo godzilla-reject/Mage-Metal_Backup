@@ -174,6 +174,7 @@ columns:
       - { label: "General", value: "General", color: "hsl(227, 95%, 90%)"}
       - { label: "Perk", value: "Perk", color: "hsl(85, 95%, 90%)"}
       - { label: "Flaw", value: "Flaw", color: "hsl(120, 95%, 90%)"}
+      - { label: "reword", value: "reword", color: "hsl(68, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

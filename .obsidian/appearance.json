@@ -12,7 +12,8 @@
     "its-callout-card-options",
     "Callout styling - Tabbed callout",
     "Callout styling - Scroller callout",
-    "Blockquote styling 01"
+    "Blockquote styling 01",
+    "clean-embeds"
   ],
   "cssTheme": "ITS Theme",
   "baseFontSize": 17

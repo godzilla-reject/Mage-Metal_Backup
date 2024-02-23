@@ -5,6 +5,18 @@
       "path": "Character Creation Playtest Packet.md"
     },
     {
+      "basename": "Special Perks Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
+    },
+    {
+      "basename": "Perk Note",
+      "path": "Perk Note.md"
+    },
+    {
+      "basename": "Jack of All Trades",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md"
+    },
+    {
       "basename": "Mage Creation Steps",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Fatigued",
       "path": "General Rules/Conditions Catalog/Detrimental/Fatigued.md"
-    },
-    {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "NPC Creation Guidelines",
-      "path": "GM-Facing Rules/Monsters and Men/NPC Creation Guidelines.md"
-    },
-    {
-      "basename": "Metal-Class NPC Template",
-      "path": "Templates/Markdown Templates/General Templates/Metal-Class NPC Template.md"
     }
   ],
   "omittedPaths": [],
