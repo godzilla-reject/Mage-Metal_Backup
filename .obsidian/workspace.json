@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c0a7da3ec805b6c",
+        "id": "97262fb453e4f9fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a7df6c3d9d79f0e5",
+            "id": "247ebcc5f712019a",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.9988599801533312
+                  "zoom": -0.644925777151695
                 }
               }
             }
@@ -76,12 +76,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -243,12 +243,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a7df6c3d9d79f0e5",
+  "active": "247ebcc5f712019a",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md",
     "Character Creation Playtest Packet.md",
-    "Utilities/Dashboard.canvas",
     "Reference Notes/Skill List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Reference Notes/Spell List.md",
@@ -272,7 +272,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
     "Utilities/Lists/Metal Lists",
     "Utilities/Lists/Mage Lists",
     "Utilities/Lists/General Lists",
