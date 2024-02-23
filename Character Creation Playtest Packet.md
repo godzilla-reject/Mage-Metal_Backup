@@ -152,7 +152,7 @@ After determining your character’s Species, you must answer another question:
 
 *Where did you come from?*
 
-The answer to this question is your character’s *History.* This is what the character did *before* becoming a Pilot, and the skills they learned there are invaluable, even now. Their History also determines their starting wealth via a measure of Wealth.
+The answer to this question is your character’s *History.* This is what the character did *before* becoming a Pilot, and the skills they learned there are invaluable, even now. Their History also determines their starting assets and currency via a measure of Wealth.
 
 Pick one of the following Histories. They are presented in order of Poor to Extreme.
 
@@ -179,6 +179,25 @@ SORT Wealth DESC
 ![[Noble]]
 
 ## 4. *School of Arcana*
+Now that you have decided what your character did before becoming a Mage Pilot, you are faced with yet another question.
+
+*How do you wield the arcane?*
+
+The answer to this question is the methodology of magic your pilot chose to specialize in when they were training to become a Mage-Pilot. Divided into Schools, these orders of magic represent deep philosophical ideas about reality and magic, as well as their preferred method for blowing up bad guys.
+
+Pick from one of the following School of Arcana. 
+
+After your selection, ensure you denote your School’s Attribute Boost and any starting gear. Take this time to inscribe your starting spells in your Grimoire as well. 
+
+```dataview
+TABLE without ID
+sphere AS Sphere, 
+attribute AS Attribute,
+("![[]](" + file.name + ")") AS Name
+FROM #School
+SORT row.group ASC 
+```
+
 ## 5. *Pilot Role*
 ## 6. *Finalizing Attributes and Statistics*
 ## 7. *Finalizing Skills*

@@ -36,7 +36,7 @@ columns:
     key: Completed?
     id: Completed?
     label: Completed?
-    position: 2
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -206,7 +206,7 @@ columns:
     key: Tags
     id: Tags
     label: Tags
-    position: 3
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Character Creation Playtest Packet",
       "path": "Character Creation Playtest Packet.md"
+    },
+    {
+      "basename": "Equipment List",
+      "path": "Utilities/Lists/Mage Lists/Equipment List.md"
+    },
+    {
+      "basename": "Schools Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Skill Template",
@@ -69,10 +81,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
     },
     {
-      "basename": "Equipment List",
-      "path": "Utilities/Lists/Mage Lists/Equipment List.md"
-    },
-    {
       "basename": "net-Hack Toolkit",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md"
     },
@@ -103,10 +111,6 @@
     {
       "basename": "Utility Notes",
       "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
     },
     {
       "basename": "To-Do List",
@@ -195,10 +199,6 @@
     {
       "basename": "Metal-Class NPC Template",
       "path": "Templates/Markdown Templates/General Templates/Metal-Class NPC Template.md"
-    },
-    {
-      "basename": "Mage-Class NPC Template",
-      "path": "Templates/Markdown Templates/General Templates/Mage-Class NPC Template.md"
     }
   ],
   "omittedPaths": [],

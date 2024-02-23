@@ -4877,7 +4877,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100562,
-      "modifiedDate": 1704328023499,
+      "modifiedDate": 1708649116935,
       "sizeInBytes": 6247
     },
     "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Artifacteomancy/Runeurgy.md": {
@@ -5982,19 +5982,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1968,
+      "wordCount": 2101,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.56,
-      "characterCount": 12758,
-      "nonWhitespaceCharacterCount": 10596,
-      "readingTimeInMinutes": 7.426415094339623,
+      "pageCount": 7.003333333333333,
+      "characterCount": 13594,
+      "nonWhitespaceCharacterCount": 11284,
+      "readingTimeInMinutes": 7.928301886792453,
       "linkCount": 1,
       "embedCount": 12,
       "aliases": null,
       "createdDate": 1708315156539,
-      "modifiedDate": 1708648119253,
-      "sizeInBytes": 12820
+      "modifiedDate": 1708649430815,
+      "sizeInBytes": 13658
     },
     "General Rules/The Favor System/Dice Structure/Dice Overview.md": {
       "isCountable": true,
