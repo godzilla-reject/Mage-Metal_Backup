@@ -14,6 +14,12 @@
       "icon": "lucide-code-2",
       "name": "Toggle Live Preview/Source mode",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-admonition:insert-admonition",
+      "icon": "plus-circle",
+      "name": "Admonition: Insert Admonition",
+      "mode": "any"
     }
   ],
   "fileMenu": [],
@@ -22,6 +28,12 @@
   "titleBar": [],
   "statusBar": [],
   "pageHeader": [
+    {
+      "id": "automatic-table-of-contents:insert-automatic-table-of-contents",
+      "icon": "list-ordered",
+      "name": "Automatic Table Of Contents: Insert table of contents",
+      "mode": "desktop"
+    },
     {
       "id": "quickadd:choice:714f8327-be7e-42d9-9ec2-4c9537308b7c",
       "icon": "activity",
@@ -84,12 +96,6 @@
       "name": "New Spell",
       "mode": "desktop",
       "color": "#1900c8"
-    },
-    {
-      "id": "automatic-table-of-contents:insert-automatic-table-of-contents",
-      "icon": "list-ordered",
-      "name": "Automatic Table Of Contents: Insert table of contents",
-      "mode": "desktop"
     },
     {
       "id": "quickadd:choice:059303b9-b54f-4f73-b0f5-204a5675a892",

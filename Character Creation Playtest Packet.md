@@ -188,29 +188,7 @@ The answer to this question is the methodology of magic your pilot chose to spec
 Pick from one of the following School of Arcana, then select one of the two available Paths offered by your chosen School. You become Trained in your School, and gain the first Perk of your chosen Path.
 
 After your selections, ensure you denote your School’s Attribute Boost and any starting gear. Take this time to inscribe your starting spells in your Grimoire as well. 
-
-### Aerophasia
-> [!info|no-i]-
-> ![[Aerophasia]]
-### Hydrophasia
-> [!info|no-i]-
-> ![[Hydrophasia]]
-### Pyrophasia
-> [!info|no-i]- 
-> ![[Pyrophasia]]
-### Terraphasia
-> [!info|no-i]- 
-> ![[Terraphasia]]
-### Technosophy 
-> [!info|no-i]- 
-> ![[Technosophy]]
-### Runeurgy
-> [!info|no-i]- 
-> ![[Runeurgy]]
-
-
-
-
+![[School Note]]
 ## 5. *Pilot Role*
 After making a selection as to the style of magic you wield, you are now posed with a final question:
 
@@ -221,7 +199,7 @@ The answer to this question is your *Pilot Role*. This is simply what *you do* o
 Select a Pilot Role from the following options, then select one of the two Role Specializations offered by the chosen Role. You then become Trained in your Role.
 
 Denote any proficiencies granted by your Role, and then denote the skills granted by your Role and Specialization. You *do not* gain aptitude in them. Finally, inscribe your Specialization’s starting Spell in your Grimoire. 
-
+![[Role Note]]
 ## 6. *Finalizing Attributes and Statistics*
 Now that your four core selections have been made, its time to finalize your Attributes. Assign 12 free Attribute points across your Attributes. You cannot begin play with an Attribute above 20.
 

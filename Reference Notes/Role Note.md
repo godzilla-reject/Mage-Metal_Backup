@@ -1,9 +1,18 @@
 ---
 cssclasses: [clean-embeds]
 ---
+> [!note]- Battlefield Support
+> ![[Battlefield Support]]
 
-![[Battlefield Support]]
-![[Frontline Vanguard]]
-![[Guerilla Tactics]]
-![[Logistical Controller]]
-![[Long-Range Ordinance]]
+> [!note]- Frontline Vangaurd
+> ![[Frontline Vanguard]]
+
+> [!note]- Guerilla Tactics 
+> ![[Guerilla Tactics]]
+
+> [!note]- Logistical Controller 
+> ![[Logistical Controller]]
+
+> [!note]- Long-Range Ordinance
+> ![[Long-Range Ordinance]]
+
