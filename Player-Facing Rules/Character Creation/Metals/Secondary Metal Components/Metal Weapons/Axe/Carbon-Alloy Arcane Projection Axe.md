@@ -9,7 +9,7 @@ Handed-ness: 1
 Mount: Primary
 Damage_Type: channeled
 Damage_Die: 1d6
-Completed: false
+Completed: true
 ---
 > [!infobox|left]+ Weapon Entry
 > # `=this.file.name`

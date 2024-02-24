@@ -565,6 +565,7 @@ gritty
 guidelines
 gotten
 got
+greatsword
 from
 first
 freeform
@@ -1084,6 +1085,7 @@ chat
 clue
 continued
 closest
+contean
 before
 being
 be
@@ -2061,6 +2063,7 @@ secondary
 superprimary
 simultaneously
 suffered
+sword
 LANCER
 Learn
 Lancer
@@ -2314,6 +2317,8 @@ occasionally
 oppose
 overwhelming
 openings
+offensive
+offline
 designer
 drag
 do
@@ -2522,6 +2527,7 @@ developed
 darkest
 dictated
 div
+defensive
 ever
 expand
 easy
@@ -2947,6 +2953,9 @@ permitted
 personally
 packing
 punch
+platforms
+profile
+profiles
 RP
 RPGs
 Ryutama
@@ -3949,6 +3958,7 @@ us
 unity
 untrained
 upon
+uber
 letting
 look
 like
@@ -4309,6 +4319,7 @@ Craftsmanship
 Contents
 Congratulations
 Caleb
+CQC
 We
 While
 Write
@@ -4895,6 +4906,7 @@ Strikes
 Stopper
 Selection
 Still
+Swapping
 Jackson
 Jack
 Juggernaut

@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Carbon-Alloy Arcane Projection Axe",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md"
+      "basename": "''Converter'' Blade-Barricade CQC System",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
+    },
+    {
+      "basename": "Metal Weapon Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+    },
+    {
+      "basename": "Exceed",
+      "path": "General Rules/Traits Catalog/Exceed.md"
+    },
+    {
+      "basename": "Heavy",
+      "path": "General Rules/Traits Catalog/Heavy.md"
     },
     {
       "basename": "Metal Weaponry Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
     },
     {
-      "basename": "Heavy-Impact Gravihammer",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers/Heavy-Impact Gravihammer.md"
+      "basename": "Powerblade",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md"
     },
     {
-      "basename": "Metal Weapon Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+      "basename": "Tower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
+    },
+    {
+      "basename": "Hydro-Oscillation Field",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md"
+    },
+    {
+      "basename": "Pattern-II Frag-Cluster Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md"
+    },
+    {
+      "basename": "Charges",
+      "path": "General Rules/Traits Catalog/Charges.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
+      "basename": "Frontline Vanguard",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
+    },
+    {
+      "basename": "Pilot Role Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
+    },
+    {
+      "basename": "Sustained",
+      "path": "General Rules/Traits Catalog/Spell-Only/Sustained.md"
+    },
+    {
+      "basename": "Carbon-Alloy Arcane Projection Axe",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md"
+    },
+    {
+      "basename": "Heavy-Impact Gravihammer",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers/Heavy-Impact Gravihammer.md"
     },
     {
       "basename": "Loading",
@@ -23,10 +71,6 @@
     {
       "basename": "Ordnance",
       "path": "General Rules/Traits Catalog/Ordnance.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
     },
     {
       "basename": "Overkill",
@@ -149,56 +193,12 @@
       "path": "Reference Notes/Role Note.md"
     },
     {
-      "basename": "Pilot Role Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
-    },
-    {
       "basename": "Battlefield Support",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
     },
     {
       "basename": "Skill List",
       "path": "Reference Notes/Skill List.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Spell List",
-      "path": "Reference Notes/Spell List.md"
-    },
-    {
-      "basename": "Special Perks Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/Special Perks Database.md"
-    },
-    {
-      "basename": "Perk Note",
-      "path": "Reference Notes/Perk Note.md"
-    },
-    {
-      "basename": "Jack of All Trades",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
-    },
-    {
-      "basename": "Equipment List",
-      "path": "Utilities/Lists/Mage Lists/Equipment List.md"
-    },
-    {
-      "basename": "Schools Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Schools Database.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Apopplia-Class A-RAID Unit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md"
     }
   ],
   "omittedPaths": [],
