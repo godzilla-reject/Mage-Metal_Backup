@@ -191,10 +191,7 @@ After all of your mechanical selections, you can move on to creating your *Grimo
 3. You have access to any spell on a spell list that either does not have an access requirement or you meet the requirement for. Spells can be found in [[Character Creation Playtest Packet#Appendix C Spell Lists|Appendix C Spell Lists]]
 ## 9. *Selecting Perks*
 Each character in `=[[Dev Helpers]].game-short` has (a) quirk(s) that helps set them apart from other characters. These quirks are known as *General Perks*. Select one for your Mage Pilot.
-``` meta-bind-embed
 ![[Perk Note]]
-```
-
 ## 10. *Selecting Equipment*
 After selecting a General Perk, the final step of Mage creation is to determine what equipment your Pilot uses. 
 

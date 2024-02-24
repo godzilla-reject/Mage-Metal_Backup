@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Character Creation Playtest Packet",
       "path": "Character Creation Playtest Packet.md"
     },
     {
+      "basename": "Metal Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
+    },
+    {
+      "basename": "Metal Frame Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
+    },
+    {
       "basename": "Character Creation Part 1",
       "path": "Reference Notes/Character Creation Part 1.md"
+    },
+    {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
+      "basename": "Metal Mechanics Outline",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Equipment Appendix",
@@ -79,10 +95,6 @@
     {
       "basename": "Metal Systems Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
       "basename": "Metal System Template",
@@ -187,18 +199,6 @@
     {
       "basename": "Dusted",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
-    },
-    {
-      "basename": "Corpo Deskie",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
-    },
-    {
-      "basename": "Influencer",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
-    },
-    {
-      "basename": "Metal Systems List",
-      "path": "Utilities/Lists/Metal Lists/Metal Systems List.md"
     }
   ],
   "omittedPaths": [],

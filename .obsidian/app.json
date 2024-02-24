@@ -1,7 +1,7 @@
 {
   "readableLineLength": false,
   "livePreview": false,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "pdfExportSettings": {
