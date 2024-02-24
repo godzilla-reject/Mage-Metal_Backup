@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Equipment Appendix",
+      "path": "Reference Notes/Equipment Appendix.md"
+    },
+    {
       "basename": "Metal Creation Steps",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "empty files",
       "path": "Utilities/empty files.md"
-    },
-    {
-      "basename": "Equipment Appendix",
-      "path": "Reference Notes/Equipment Appendix.md"
     },
     {
       "basename": "Design Note-Mounts",
