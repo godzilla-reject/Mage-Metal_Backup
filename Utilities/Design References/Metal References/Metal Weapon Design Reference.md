@@ -19,14 +19,15 @@ Each weapon begins as 1d6 Simple, Melee and 1-handed, on an Aux mount, with 1 po
 
 ### Weapon Boons
 
-|          Lesser (1 point)           |      Greater (2 Points)       |         Major (3 Points)          |
-|:-----------------------------------:|:-----------------------------:|:---------------------------------:|
-|            [[Graceful]]             |         [[Forceful]]          |             [[Reach]]             |
-|           [[Integrated]]            | [[Repeating]](per extra shot) |           [[Critical]]            |
-|              [[Dual]]               |  [[Capacity]] (per 2 shots.)  |   [[Flurry]] (per extra attack)   |
-|        [[Thrown]] (per 4 sp)        |          [[Channel]]          |         [[High-Powered]]          |
-|          [[Anti-Ablative]]          |         [[Parrying]]          |             [[Area]]              |
-|  [[Reliable]] (Ranged, per 1 die.)  |        [[Devastating]]        | [[Reliable]]  (Melee, per 1 die.) |
-| [[Scatter]] (1 point per die size.) |     [[Versatile]]                          | [[Armor-Piercing]] (3 points per 2 Toughness)                                  |
+|          Lesser (1 point)           |        Greater (2 Points)        |               Major (3 Points)                |
+|:-----------------------------------:|:--------------------------------:|:---------------------------------------------:|
+|            [[Graceful]]             |           [[Forceful]]           |                   [[Reach]]                   |
+|           [[Integrated]]            |  [[Repeating]](per extra shot)   |                 [[Critical]]                  |
+|              [[Dual]]               |   [[Capacity]] (per 2 shots.)    |         [[Flurry]] (per extra attack)         |
+|        [[Thrown]] (per 4 sp)        |           [[Channel]]            |               [[High-Powered]]                |
+|          [[Anti-Ablative]]          |           [[Parrying]]           |                   [[Area]]                    |
+|  [[Reliable]] (Ranged, per 1 die.)  |         [[Devastating]]          |       [[Reliable]]  (Melee, per 1 die.)       |
+| [[Scatter]] (1 point per die size.) |          [[Versatile]]           | [[Armor-Piercing]] (3 points per 2 Toughness) |
+|                                     | [[Overkill]] (per exploding die) |                                               |
 
 ### Finalization 

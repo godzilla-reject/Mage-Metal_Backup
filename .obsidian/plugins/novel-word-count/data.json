@@ -256,19 +256,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 208,
+      "wordCount": 212,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6933333333333334,
-      "characterCount": 2659,
-      "nonWhitespaceCharacterCount": 1502,
-      "readingTimeInMinutes": 0.7849056603773585,
-      "linkCount": 21,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 2859,
+      "nonWhitespaceCharacterCount": 1550,
+      "readingTimeInMinutes": 0.8,
+      "linkCount": 22,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1703623744727,
-      "modifiedDate": 1708750674312,
-      "sizeInBytes": 2659
+      "modifiedDate": 1708754242462,
+      "sizeInBytes": 2859
     },
     "Utilities/Design References/Metal References/Metal Shell Design Reference.md": {
       "isCountable": true,
@@ -8407,6 +8407,24 @@
       "createdDate": 1704752081304,
       "modifiedDate": 1708753162993,
       "sizeInBytes": 1417
+    },
+    "General Rules/Traits Catalog/Overkill.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 56,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 363,
+      "nonWhitespaceCharacterCount": 298,
+      "readingTimeInMinutes": 0.21132075471698114,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1708753987858,
+      "modifiedDate": 1708754256361,
+      "sizeInBytes": 420
     }
   }
 }

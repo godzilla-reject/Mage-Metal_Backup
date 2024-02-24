@@ -2697,6 +2697,8 @@ expended
 eventually
 eagerly
 element
+explodes
+exploding
 played
 pilot
 play
