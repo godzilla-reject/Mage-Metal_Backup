@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "18719a8836e08ef9",
+        "id": "2b8fe8577f348669",
         "type": "tabs",
         "children": [
           {
-            "id": "582d58ac286f4775",
+            "id": "1cc245f38cc58ac5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.6828698501252963
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "97b61b116a38c797",
@@ -228,11 +227,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "582d58ac286f4775",
+  "active": "1cc245f38cc58ac5",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Character Creation Playtest 1 Packet.tex",
     "Utilities/empty files.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
     "Character Creation Playtest 1 Packet.md",
     "Reference Notes/Equipment Appendix.md",
