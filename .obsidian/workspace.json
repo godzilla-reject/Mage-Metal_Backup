@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b3ad81d38e481fc",
+        "id": "cced5025d0d71687",
         "type": "tabs",
         "children": [
           {
-            "id": "405c9114276b540d",
+            "id": "351d78fe8ffae1ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.6792128265172074
+                }
               }
             }
           }
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -192,11 +194,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 640.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,11 +228,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "405c9114276b540d",
+  "active": "351d78fe8ffae1ec",
   "lastOpenFiles": [
+    "Character Creation Playtest 1 Packet.md",
     "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/DevHelper Templates/Inserts/Page Break.md",
-    "Character Creation Playtest 1 Packet.md",
     "Reference Notes/Character Creation Part 1.md",
     "Reference Notes/Equipment Appendix.md",
     "Character Creation Playtest 1 Packet.tex",
