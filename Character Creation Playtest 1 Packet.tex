@@ -1,0 +1,1002 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Character Creation Playtest 1 Packet},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Character Creation Playtest 1 Packet}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\emph{For my best friends, Brody, Josh, Caleb, Konnar, Matthew and
+everyone else. I made this game, and all in the future, for us.}
+
+\emph{Table of contents: no headings found}
+
+\hypertarget{foreword}{%
+\section{\texorpdfstring{\emph{Foreword}}{Foreword}}\label{foreword}}
+
+It is rare that I am without word.
+
+But, the support that I have gotten from the people who have eagerly
+awaited this mere playtest. \emph{That} leaves me without words.
+
+Thank you. If you have \emph{ever} let me rant about the Terrarium, been
+forcefully shown some random game element with ``do you think is too
+complicated?!?'' in behind it or suffered through \textbf{\emph{yet
+another}} ``Game Design is Still Hard'' status in Gen chat, this thank
+you is for you. Thank you for never angering with me while I forgo a fun
+night of games to toil away at this passion project of mine.
+
+From the bottom of my heart, \textbf{thank you}.
+
+It is with a full and happy heart I welcome you to {{\emph{The Mage in
+the Metal}}}.
+
+\hypertarget{overview}{%
+\section{Overview}\label{overview}}
+
+\emph{''Greetings Pilot and welcome back to the Terrarium. Time since
+last Lunar Incursion: 709 Solar Days.''}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Good morning, Pilot. You've graciously agreed to help test the latest in
+USH automatic biographing technology in the form of the \emph{Advanced
+Magisterial Pilot Condition and History Bio-Log} (AMP-CHB). The
+following document contains all of the instruction you should need to
+complete the test here today.
+
+Welcome to {{\emph{The Mage in the Metal}}} \emph{Character Creation
+Playtest}. The goal of this test is to check the viability, stability
+and usability of the character creation rules for this game. The
+following materials are required (and should have been provided) for
+this playtest:
+
+\begin{itemize}
+\tightlist
+\item
+  A copy of this document.
+\item
+  A personal copy of
+  \href{https://docs.google.com/spreadsheets/d/11sFDvnzlPyw0b4NcCGj40xoyfQpYLrE9l6w3kMeaYho/edit?usp=sharing}{this}
+  Google Sheet. This is the playtest character sheet, and it is
+  \emph{not} final. It is handy due to taking the stress of math off of
+  playtesters.
+\item
+  At least 3 six-sided polyhedral dice (``d6's''.)
+\item
+  A device capable of allowing you to fill out
+  \href{https://forms.gle/osrYS3qtCQ6ktG6m8}{this} feedback form.
+\end{itemize}
+
+This is the \emph{first} playtest of the \emph{first} game I have ever
+designed. I am not promising something amazing, but it is \emph{your}
+feedback that will help it \emph{become} something amazing. This has
+been a passion project of mine for the better part of the last year of
+my life, and I sincerely hope that this first playtest can spark an
+interest within you, dear player, to bear with an aspiring game designer
+as we all delve into the \emph{Terrarium} over the remnants of Earth
+Prime over this series of playtests.
+
+The following is an overview for how to create the \emph{Mage} that ends
+up being \emph{in} the \emph{Metal.} As you follow these instructions,
+read the content set out before you, and create one of the first
+characters within a budding universe, keep a few things in mind:
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{What can be better?}
+\item
+  \emph{What do you enjoy?}
+\item
+  \emph{What doesn't make sense mechanically?}
+\item
+  \emph{What DOES make sense mechanically?}
+\end{itemize}
+
+Again, I thank you dearly for being apart of this first playtest. Have
+fun, Pilots, and remember:
+
+\textbf{\emph{UNITED, WE WILL SLAY THE FOUR HORSEMEN}}
+
+\hypertarget{character-creation-part-1-the-mage}{%
+\section{\texorpdfstring{Character Creation Part 1: \emph{The
+Mage}}{Character Creation Part 1: The Mage}}\label{character-creation-part-1-the-mage}}
+
+\hypertarget{playing-the-game}{%
+\subsection{\texorpdfstring{1. \emph{Playing The
+Game}}{1. Playing The Game}}\label{playing-the-game}}
+
+Before you begin determining the mechanics of your character, it is
+important to have a grasp on the narrative of said character. This idea,
+referred to by us ``professionals'' as a \emph{narrative concept}, will
+help direct and inform the mechanical choices you make during character
+creation. Maybe your character is some hot-shot piloting prodigy, or a
+crotchety old veteran that chose to join the Pilot Program after being
+relieved of duty.
+
+Make sure your concept is appropriate for the game your GM wants to run,
+as well as the party you'll be playing with. No one wants to see that
+their friend has sat down at the table with the intention of playing
+someone evil in a game all about saving orphans. Probably. I don't know
+your friends.
+
+Once you have your concept in order, it might also be beneficial to
+familiarize yourself with the core rules and mechanics in play under the
+game, otherwise known as the \emph{system.}
+
+\hypertarget{the-favor-system}{%
+\subsubsection{The Favor System}\label{the-favor-system}}
+
+The Favor System is the name of the "engine" so-to-speak that
+{{\emph{Mage//Metal}}} runs off of. Most games' system would be as
+simple as "d20," but some are "d20, roll under" or a "dice-pool" system.
+The Favor System is the modular, under-the-hood, workings of the TTRPG
+that can be adapted into other games (with enough work). Not all of the
+mechanics of this game are part \emph{of} the Favor System; the
+mechanics that are not are wholly unique to this game, and, in theory,
+would not appear in their same form in other Favor System games. The
+core components of the Favor System are the dice mechanics, action
+structure and player mechanic layouts. These various components are
+briefly summarized below.
+
+\hypertarget{dice-structure}{%
+\paragraph{Dice Structure}\label{dice-structure}}
+
+The Favor System uses 3d6 for nearly all rolls, with the target number
+being static and the die result needing to be \textbf{lower} than the
+target number. This set of 3d6 can be changed by the game's variance
+system (think ``advantage'' and ``disadvantage'' in \emph{Fifth
+Edition}.) Rolling \emph{with favor} (or with ``advantage'') lets the
+player roll 2d6 instead, and rolling \emph{without favor} (or with
+``disadvantage'') lets the player roll 4d6 instead. This variance
+mechanic is, in my opinion, the most unique aspect of the system, and
+this is the reason the system is named for it. The dice mechanics are
+explored further in Appendix A: Dice Overview.
+
+\hypertarget{action-structure}{%
+\paragraph{Action Structure}\label{action-structure}}
+
+The Favor System uses a simple set of mechanics for governing
+\emph{timed action}, which is any scene that constitutes the players
+having limited time to perform actions, such as combat. During sequences
+of timed action, a player can move up to their Speed (or equivalent
+statistic), perform two Actions, and take one Reaction. A typical Action
+might include something like firing a Weapon, while a Reaction might be
+casting a spell to protect an ally from damage. More details can be
+found in Appendix B: Action Overview.
+
+\hypertarget{player-mechanic-layout}{%
+\paragraph{Player Mechanic Layout}\label{player-mechanic-layout}}
+
+Part of the Favor System is how it defines the relationship between a
+mechanic and its associated power progression. This idea is heavily
+inspired by usage-based progression from video games such as
+\emph{Morrowind} and \emph{Oblivion}, in which the player unlocks new
+powers (or "perks") for an ability or skill via usage. The Favor System
+changes this slightly to be based on \emph{training} instead, in order
+to prevent the players from having to book-keep how often they use
+skills or abilities. A practical explanation of this, for example, would
+be the Training-Perk progression of a player's School of Arcana: when
+Player A gains a new training level in his School, he gains a numerical
+bonus of some form; perhaps he gains a +2 bonus to damage with spells
+from that school, and then he gains the perk associated with that
+training level. This is to avoid players needing to develop things like
+a skill and \textbf{\emph{then}} get that cool perk they wanted two
+levels ago but did not meet the requirements for. Some mechanics within
+a Favor System game might forgo this direct relationship for things that
+have no real progression to them, such as a background or player
+species.
+
+Now that you know more about the inner workings of this game, lets get
+you familiarized with the nitty gritty: Attributes and Statistics; these
+are the mathematical core of your Mage.
+
+\hypertarget{mage-mechanics-overview}{%
+\subsubsection{Mage Mechanics Overview}\label{mage-mechanics-overview}}
+
+Taking the typical ``number set plus derived number set'' approach of
+most RPGs, {{\emph{Mage//Metal}}} divides these two sets into Attributes
+(the primary number set) and Statistics (the derived number set.)
+
+\emph{A Note On Rules Language}
+
+{{\emph{Mage//Metal}}} uses a combination of \emph{italics},
+\textbf{bold} and Proper capitalization in its rules text to help
+differentiate and call attention to important pieces of rules text. An
+example of this is `Attributes' and `Statistics' always being
+capitalized properly due to being mechanics.
+
+\hypertarget{attributes}{%
+\paragraph{Attributes}\label{attributes}}
+
+These are the most fundamental parts of a character. Each Attribute
+begins at 10, and are \textbf{rarely} changed after character creation.
+
+\hypertarget{power}{%
+\subparagraph{Power}\label{power}}
+
+Power is a measure of physicality and force.\\
+\emph{Governs}
+
+\begin{itemize}
+\tightlist
+\item
+  Carry Weight
+\item
+  Melee
+\end{itemize}
+
+\hypertarget{body}{%
+\subparagraph{Body}\label{body}}
+
+Body is a measure of the robustness and physical fortitude of a
+character.\\
+\emph{Governs}
+
+\begin{itemize}
+\tightlist
+\item
+  Toughness
+\item
+  Health
+\end{itemize}
+
+\hypertarget{reflex}{%
+\subparagraph{Reflex}\label{reflex}}
+
+Reflex is a measure of agility and manual dexterity.\\
+\emph{Governs}
+
+\begin{itemize}
+\tightlist
+\item
+  Accuracy
+\item
+  Speed
+\end{itemize}
+
+\hypertarget{mind}{%
+\subparagraph{Mind}\label{mind}}
+
+Mind is a measure mental fortitude, education, and memory. It
+is~\emph{not}~intelligence. A smart character can have poor memory, and
+thus, poor Mind. Mind can also influence magic.\\
+\emph{Governs:}
+
+\begin{itemize}
+\tightlist
+\item
+  Skill Aptitude
+\item
+  Spell Memory
+\end{itemize}
+
+\hypertarget{potential}{%
+\subparagraph{Potential}\label{potential}}
+
+Potential is a measure of a creature's ability to exert their influence
+on the world via metaphysical or meta-mental means, AKA magic. While
+hand-in-hand with Mind, Potential is seen by some as a form of
+spirituality as well.\\
+\emph{Governs}
+
+\begin{itemize}
+\tightlist
+\item
+  Spell Memory
+\item
+  Mana
+\end{itemize}
+
+\hypertarget{tenacity}{%
+\subparagraph{Tenacity}\label{tenacity}}
+
+Tenacity is a measure of how powerful a creature's personality and
+charisma is. Tenacious characters have a much easier time convincing
+others of things, as well as inspiring allies. Some also consider
+tenacity to be a meta-physical, or magical, measure of luck and fate.\\
+\emph{Governs}
+
+\begin{itemize}
+\tightlist
+\item
+  Luck
+\end{itemize}
+
+\hypertarget{statistics}{%
+\paragraph{Statistics}\label{statistics}}
+
+Derived from their respective Attribute, different Statistics have
+differing formulae for calculating them. If a Statistic would have a
+decimal, round \emph{down.}
+
+\hypertarget{power-1}{%
+\subparagraph{Power}\label{power-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Carry Weight
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Measures how much a character can carry and remain unaffected. A
+    character is considered encumbered when they're over half of their
+    Carry Weight.
+  \item
+    Max: Power * 12.
+  \end{itemize}
+\item
+  Melee Damage Bonus
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A bonus to melee weapon damage.
+  \item
+    Power - 10.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{body-1}{%
+\subparagraph{Body}\label{body-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Toughness
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A character's ability to resist physical damage.
+  \item
+    Body/6
+  \end{itemize}
+\item
+  Health
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is a measure of how much damage a character's body can sustain
+    before failure.
+  \item
+    Max HP: Body.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{reflex-1}{%
+\subparagraph{Reflex}\label{reflex-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Ranged Accuracy Bonus
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A bonus to ranged attack rolls.
+  \item
+    Reflex - 8.
+  \end{itemize}
+\item
+  Speed
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How far one can move in 6 seconds.
+  \item
+    (Reflex * 3)/10
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{mind-1}{%
+\subparagraph{Mind}\label{mind-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Skill Aptitude
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A measure of how many skills one can use to their fullest extent. A
+    skill that a character has \emph{aptitude} with gains access to the
+    Skill Perks of that skill. Not having aptitude does not affect their
+    capacity to use that skill in any other way.
+  \item
+    Mind/4
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{potential-1}{%
+\subparagraph{Potential}\label{potential-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Spell Memory
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How many spells can be prepared a day.
+  \item
+    Mind+Potential/4.
+  \end{itemize}
+\item
+  Mana
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Resource used to cast spells.
+  \item
+    Potential * 2.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{tenacity-1}{%
+\subparagraph{Tenacity}\label{tenacity-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Luck
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Luck is a meta-currency that players can use to fuel actions with
+    the Fated trait.
+  \item
+    Tenacity/5 (Minimum of 2.)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{proficiencies}{%
+\paragraph{Proficiencies}\label{proficiencies}}
+
+\emph{Skills and Aptitude}
+
+In {{\emph{Mage//Metal}}}, skills are essential to all characters. They
+can be found in Appendix D: Skill List. More information is found in the
+\emph{Finalizing Skills} section of character creation.
+
+{*Insert Proficiencies when Done*}
+
+\hypertarget{species}{%
+\subsection{\texorpdfstring{2.
+\emph{Species}}{2. Species}}\label{species}}
+
+Once you feel that you are familiar enough with the game's mechanics,
+you are ready to move on to creation proper. The first step in this
+process is answering this question:
+
+\emph{Who are you?}
+
+Pick one of the following three species. While there are only three
+options in this playtest, launch is planned to include at least nine
+species across three factions.
+
+Once you've picked your species, make sure you select a Species perk and
+an Attribute boost, as well as denote other bonuses from your species.
+
+Take this time to go ahead and fill out non-mechanical details, such as
+name, age, pronouns, faith, etc.
+
+\hypertarget{species-of-the-united-solar-hegemony}{%
+\subsubsection{\texorpdfstring{\textbf{\emph{Species of the United Solar
+Hegemony}}}{Species of the United Solar Hegemony}}\label{species-of-the-united-solar-hegemony}}
+
+\emph{Formed after the destruction of Earth Prime, the U.S.H. stands as
+a shining example of comradery and unity.}
+
+\hypertarget{dwaurves-of-mars}{%
+\paragraph{\texorpdfstring{\emph{Dwaurves of
+Mars}}{Dwaurves of Mars}}\label{dwaurves-of-mars}}
+
+{Dwaurves}
+
+\hypertarget{elves-of-venus}{%
+\paragraph{\texorpdfstring{\emph{Elves of
+Venus}}{Elves of Venus}}\label{elves-of-venus}}
+
+{Elves}
+
+\hypertarget{humans-of-nowhere}{%
+\paragraph{\texorpdfstring{\emph{Humans of
+Nowhere}}{Humans of Nowhere}}\label{humans-of-nowhere}}
+
+{Human}
+
+\hypertarget{history}{%
+\subsection{\texorpdfstring{3.
+\emph{History}}{3. History}}\label{history}}
+
+After determining your character's Species, you must answer another
+question:
+
+\emph{Where did you come from?}
+
+The answer to this question is your character's \emph{History.} This is
+what the character did \emph{before} becoming a Pilot, and the skills
+they learned there are invaluable, even now. Their History also
+determines their starting assets and currency via a measure of Wealth.
+
+Pick one of the following Histories. They are presented in order of Poor
+to Extreme.
+
+After your selection, ensure you denote your History's perk and
+Attribute boost. Once this is done, select or denote the skills gained
+from your History. You \emph{do not} gain aptitude in them by default.
+
+Make sure you also list any other starting bonuses or equipment from
+your chosen History.
+
+Finally, ensure you denote your character's \emph{starting wealth}, as
+stated on the following chart.\\
+{Starting Wealth Chart}
+
+\hypertarget{poor-histories}{%
+\subsubsection{Poor Histories}\label{poor-histories}}
+
+{Dusted}\\
+{Hegemony Nomad}
+
+\hypertarget{moderate-histories}{%
+\subsubsection{Moderate Histories}\label{moderate-histories}}
+
+{Rapscallion}\\
+{Wrench Monkey}
+
+\hypertarget{high-histories}{%
+\subsubsection{High Histories}\label{high-histories}}
+
+{Corpo Deskie}\\
+{Influencer}
+
+\hypertarget{extreme-histories}{%
+\subsubsection{Extreme Histories}\label{extreme-histories}}
+
+{Politologist}\\
+{Noble}
+
+\hypertarget{school-of-arcana}{%
+\subsection{\texorpdfstring{4. \emph{School of
+Arcana}}{4. School of Arcana}}\label{school-of-arcana}}
+
+Now that you have decided what your character did before becoming a Mage
+Pilot, you are faced with yet another question.
+
+\emph{How do you wield the arcane?}
+
+The answer to this question is the methodology of magic your pilot chose
+to specialize in when they were training to become a Mage-Pilot. Divided
+into Schools, these orders of magic represent deep philosophical ideas
+about reality and magic, as well as their preferred method for blowing
+up bad guys.
+
+Pick from one of the following School of Arcana, then select one of the
+two available Paths offered by your chosen School. You become Trained in
+your School, and gain the first Perk of your chosen Path.
+
+After your selections, ensure you denote your School's Attribute Boost
+and any starting gear. Take this time to inscribe your starting spells
+in your Grimoire as well.\\
+{School Note}
+
+\hypertarget{pilot-role}{%
+\subsection{\texorpdfstring{5. \emph{Pilot
+Role}}{5. Pilot Role}}\label{pilot-role}}
+
+After making a selection as to the style of magic you wield, you are now
+posed with a final question:
+
+\emph{What role do you fill within a squad?}
+
+The answer to this question is your \emph{Pilot Role}. This is simply
+what \emph{you do} on the battlefield, in and out of the Metal. The
+classical idea of the ``tank'', ``support'' and ``DPS'' are all
+determined by this choice.
+
+Select a Pilot Role from the following options, then select one of the
+two Role Specializations offered by the chosen Role. You then become
+Trained in your Role.
+
+Denote any proficiencies granted by your Role, and then denote the
+skills granted by your Role and Specialization. You \emph{do not} gain
+aptitude in them. Finally, inscribe your Specialization's starting Spell
+in your Grimoire.\\
+{Role Note}
+
+\hypertarget{finalizing-attributes-and-statistics}{%
+\subsection{\texorpdfstring{6. \emph{Finalizing Attributes and
+Statistics}}{6. Finalizing Attributes and Statistics}}\label{finalizing-attributes-and-statistics}}
+
+Now that your four core selections have been made, its time to finalize
+your Attributes. Assign 12 free Attribute points across your Attributes.
+You cannot begin play with an Attribute above 20.
+
+Once you have assigned all 12 points, take this time to calculate your
+Statistics (if you aren't using the \emph{free digital character sheet}.
+Which, you should be. I worked really hard on it.)
+
+\hypertarget{finalizing-skills-and-proficiencies}{%
+\subsection{\texorpdfstring{7. \emph{Finalizing Skills and
+Proficiencies}}{7. Finalizing Skills and Proficiencies}}\label{finalizing-skills-and-proficiencies}}
+
+After your Attributes and Statistics are finalized, you are ready to
+finalize your Skills and Proficiencies.
+
+\hypertarget{skills}{%
+\subsubsection{\texorpdfstring{\textbf{Skills}}{Skills}}\label{skills}}
+
+Designate a number of Skill Aptitudes as determined by your Skill
+Aptitudes Statistic, then select one Skill you are Trained in and have
+Aptitude with. You begin play as an Expert in that Skill.
+
+\hypertarget{weapon-and-armor-proficiencies}{%
+\subsubsection{\texorpdfstring{\textbf{Weapon and Armor
+Proficiencies}}{Weapon and Armor Proficiencies}}\label{weapon-and-armor-proficiencies}}
+
+Select one Armor proficiency and one Weapon proficiency to increase your
+training level with by one step (untrained to Trained or Trained to
+Expert.) You cannot begin play with an Armor or Weapon proficiency at or
+above Mastered.
+
+\hypertarget{general-proficiencies}{%
+\subsubsection{\texorpdfstring{\textbf{General
+Proficiencies}}{General Proficiencies}}\label{general-proficiencies}}
+
+From among \textbf{Perception}, \textbf{Piloting} and
+\textbf{Spell-Work}, pick two to begin play at Trained and one to begin
+play at Expert.
+
+\hypertarget{creating-a-grimoire}{%
+\subsection{\texorpdfstring{8. \emph{Creating a
+Grimoire}}{8. Creating a Grimoire}}\label{creating-a-grimoire}}
+
+After all of your mechanical selections, you can move on to creating
+your \emph{Grimoire}, which is a catalog of all the spells your Mage can
+cast. These are the guidelines for creating your Grimoire:
+
+\begin{enumerate}
+\tightlist
+\item
+  At Tier 1, your Grimoire can contain Rank 0-3 spells.
+\item
+  Your Grimoire can contain a number of spells equal to your Tier * 10
+  (which is 10.)
+\item
+  You have access to any spell on a spell list that either does not have
+  an access requirement or you meet the requirement for. Spells can be
+  found in Appendix C Spell Lists
+\end{enumerate}
+
+\hypertarget{selecting-perks}{%
+\subsection{\texorpdfstring{9. \emph{Selecting
+Perks}}{9. Selecting Perks}}\label{selecting-perks}}
+
+Each character in {{\emph{Mage//Metal}}} has (a) quirk(s) that helps set
+them apart from other characters. These quirks are known as
+\emph{General Perks}. Select one for your Mage Pilot.\\
+{Perk Note}
+
+\hypertarget{selecting-equipment}{%
+\subsection{\texorpdfstring{10. \emph{Selecting
+Equipment}}{10. Selecting Equipment}}\label{selecting-equipment}}
+
+After selecting a General Perk, the final step of Mage creation is to
+determine what equipment your Pilot uses.
+
+Using the starting wealth granted by your \textbf{History}, purchase as
+little or as much equipment from Appendix E: Equipment. USH-M basic gear
+recommendation is at least one weapon (preferably that you have a
+proficiency in), one suit of armor (also, preferably that you have
+proficiency in), and some basic gear such as Nutri-gel, a Hardlight
+Torch, a backpack and a set of clothes.
+
+After gear acquisition, denote any remaining credits.
+
+\hypertarget{finishing-up}{%
+\subsection{\texorpdfstring{11. \emph{Finishing
+Up}}{11. Finishing Up}}\label{finishing-up}}
+
+Congratulations, you've completed the first (and more complicated) half
+of character creation for this play test. Take this time to go ahead and
+fill out the \emph{Mage} section of the linked feedback questionnaire.
+
+Now, it is time to create the \emph{Metal} for the \emph{Mage}. Proceed
+to Part 2: \emph{The Metal}.
+
+\hypertarget{character-creation-part-2-the-metal}{%
+\section{\texorpdfstring{Character Creation Part 2: \emph{The
+Metal}}{Character Creation Part 2: The Metal}}\label{character-creation-part-2-the-metal}}
+
+Just like your Mage, a concept of your Metal is needed before you begin
+creating it. A couple things to keep in mind when making up the concept
+for your Mage's first Metal:
+
+\begin{enumerate}
+\tightlist
+\item
+  Make sure your Metal fits any criteria your playgroup agrees on
+  keeping consistent across everyone's Metals. This might be as simple
+  as a shared naming method, or as important as everyone using the same
+  Frame.
+\item
+  Ensure your Metal is a reflection and extension of your Pilot. This is
+  exactly what Metals are; extensions of the inner parts of a Mage and
+  their magic, given raw and powerful form.
+\end{enumerate}
+
+Once you've nailed down the concept of your Metal, review how Metal
+Mechanics differ from Mage.
+
+\hypertarget{metal-mechanics}{%
+\subsubsection{Metal Mechanics}\label{metal-mechanics}}
+
+{Metal Attributes and Statistics}
+
+\hypertarget{frame}{%
+\subsection{\texorpdfstring{1. \emph{Frame}}{1. Frame}}\label{frame}}
+
+The \emph{Frame} is the most basic component of the Metal, forming the
+foundation of which all other parts are mounted upon. It determines
+fundamental aspects of a Metal, such as Size, body-plan, and weapon
+mounts.
+
+Select a \textbf{Frame} from the options below, then denote the
+Attribute bonuses, Weapon Mounts, and any Perks or Integrated Systems
+granted by the Frame.
+
+{BF-001}\\
+{BF-002}\\
+{HF-001}\\
+{HF-002}\\
+{LF-001}\\
+{LF-002}\\
+{SHF-001}\\
+{SHF-002}\\
+{ULF-001}\\
+{ULF-002}
+
+\hypertarget{shell}{%
+\subsection{\texorpdfstring{2. \emph{Shell}}{2. Shell}}\label{shell}}
+
+The \emph{Shell} of the Metal is what determines the armor plating of
+your Metal, as well as an \emph{Intrinsic} ability that provides
+powerful combat abilities.
+
+Pick a \textbf{Shell} from the options below. Selection is restricted by
+your chosen \textbf{Pilot Role} during Mage creation.
+
+After you've chosen your \textbf{Shell}, denote the following: Attribute
+boost, armor type, Weapon Mounts, and Intrinsic.\\
+{Bunker Buster}\\
+{Fortress Breaker}\\
+{Subtle Dialog}\\
+{Surgeon General}\\
+{Wire Runner}
+
+\hypertarget{soul-core}{%
+\subsection{\texorpdfstring{3. \emph{Soul
+Core}}{3. Soul Core}}\label{soul-core}}
+
+The \emph{Soul Core} of the Metal is exactly that: a core, with a soul
+therewithin. It acts as the heart of the Metal's \emph{Soul-Resonance
+Reactor}, or S-R\textsuperscript{2} Engine. The soul of spirit within
+the core reacts with the latent Potential of the Pilot, providing a
+nearly infinite amount of energy to run the massive machine.
+
+The \textbf{Soul Core} of a Metal is a special choice for a Pilot, as it
+dictates a special confrontation that the Pilot must eventually face at
+their darkest hour; the \emph{Deity within the Machine}, the
+\textbf{Deus Ex Machina}. Pay special attention to the \textbf{Deus} of
+your chosen \textbf{Soul Core}.
+
+Pick a \textbf{Soul Core} for your Metal, and then denote granted the
+granted Attribute bonuses, Core Passive, and Core Intrinsic. You can
+also denote your \textbf{Deus Ex Machina}, but it will not be relevant
+in this playtest (or the next one, honestly.) In future playtests,
+\textbf{Soul Cores} will be limited by your chosen \textbf{School of
+Arcana} during Mage creation.
+
+{ATSC-001 ''Warring Dragons''}\\
+{DTSC-001 ''Steelclad Mamba''}\\
+{STSC-001 ''Infinite Hydrangea''}
+
+\hypertarget{finalizing-metal-attributes-and-statistics}{%
+\subsection{\texorpdfstring{4. \emph{Finalizing Metal Attributes and
+Statistics}}{4. Finalizing Metal Attributes and Statistics}}\label{finalizing-metal-attributes-and-statistics}}
+
+After selecting your Metal's basic components, it is time to finalize
+its Attributes and Statistics, just as you did for your Pilot.
+
+Assign 6 free Attribute points. You cannot begin play with a Metal
+Attribute above 30.
+
+Once you've assigned these points, take this time to calculate your
+Metal's Statistics if you aren't using the digital character sheet
+(which, again, you should be. I worked \emph{really} hard on it.)
+
+\hypertarget{installing-metal-systems}{%
+\subsection{\texorpdfstring{5. \emph{Installing Metal
+Systems}}{5. Installing Metal Systems}}\label{installing-metal-systems}}
+
+Other abilities, such as \emph{jet boosters} and other typical
+mecha-fantasy fair, in {{\emph{Mage//Metal}}} are relegated to
+\emph{Systems}, which each Metal can only have a select amount of. This
+limit is dictated by the \textbf{System Points} Statistic.
+
+Spend these SP on as many, or as few, systems as you want. You \emph{do
+not} have to spend all of them.
+
+In future playtests, Systems will be limited in access by the components
+of the Metal.
+
+Metal Systems can be found in Appendix F: Metal Equipment
+
+\hypertarget{mounting-weaponry}{%
+\subsection{\texorpdfstring{6. \emph{Mounting
+Weaponry}}{6. Mounting Weaponry}}\label{mounting-weaponry}}
+
+As you've created your Metal, you've seen mention of ``weapon mounts.''
+These are, in effect, `weapon slots' for your Metal. Each mount has a
+``size'': \emph{auxiliary}, \emph{secondary}, \emph{primary},
+\emph{heavy} and \emph{superprimary}.
+
+Each mount can house a weapon of its size or \emph{one smaller}.
+Additionally, \emph{super-primary} weaponry can be mounted across
+\emph{two} mounts, at least one of which must be a \emph{primary/aux} or
+\emph{heavy} mount.
+
+Some mounts also have other modifiers, such as ``Twin'' or
+``(Restriction)''. Two of the same weapon can be installed in a Twin
+mount, and can be fired independently \emph{or} simultaneously. Mounts
+with (Restrictions) are limited to only what is permitted by the
+Restriction.
+
+Finally, a mount can have a ``/Aux'' modifier, which allows for an extra
+auxiliary weapon to be installed alongside the main weapon that fires
+when the main weapon is fired.
+
+Each mount on your Metal must have a weapon installed in it.
+
+Metal Weapons can be found in Appendix F: Metal Equipment
+
+\hypertarget{finishing-up-1}{%
+\subsection{\texorpdfstring{7. \emph{Finishing
+Up}}{7. Finishing Up}}\label{finishing-up-1}}
+
+Your Metal is mechanically complete! Congratulations!
+
+\hypertarget{wrapping-up}{%
+\section{Wrapping Up}\label{wrapping-up}}
+
+There is one last step here: style and flair. Take this time to go a bit
+more in-depth on what both your Pilot and their Metal look like. Write
+up a small description of both your Mage-Pilot and your Metal,
+incorporating things chosen during creation of each of them.
+
+From here, go ahead and fill out the second part of the Playtest
+Feedback Questionnaire. Once you've done that, ensure you keep a copy of
+your character sheet, as you'll be revisiting this same character in
+Playtest 2 (and beyond!)
+
+Again, I want to personally thank you for being a participant in the
+first ever playtest for my first ever game. I had no clue the amount of
+work that would go into just getting here, but the continued interest
+from all of the people closest to me is what got me to this point. I
+look forward to the next playtest, and I hope you do too.
+
+Remember Pilots,
+
+\textbf{UNITED, WE WILL SLAY THE FOUR HORSEMEN}
+
+\hypertarget{appendices}{%
+\section{Appendices}\label{appendices}}
+
+\hypertarget{appendix-a-dice-overview}{%
+\subsection{Appendix A: Dice Overview}\label{appendix-a-dice-overview}}
+
+{Dice Overview}
+
+\hypertarget{appendix-b-action-overview}{%
+\subsection{Appendix B: Action
+Overview}\label{appendix-b-action-overview}}
+
+{Actions Overview}
+
+\hypertarget{appendix-c-spell-lists}{%
+\subsection{Appendix C: Spell Lists}\label{appendix-c-spell-lists}}
+
+{Spell List}
+
+\hypertarget{appendix-d-skill-list}{%
+\subsection{Appendix D: Skill List}\label{appendix-d-skill-list}}
+
+{Skill List}
+
+\hypertarget{appendix-e-mage-equipment}{%
+\subsection{Appendix E: Mage
+Equipment}\label{appendix-e-mage-equipment}}
+
+\hypertarget{e.1-general-equipment}{%
+\subsubsection{E.1: General Equipment}\label{e.1-general-equipment}}
+
+{Equipment Appendix}
+
+\hypertarget{e.2-weaponry-pr}{%
+\subsubsection{E.2: Weaponry Pr}\label{e.2-weaponry-pr}}
+
+\hypertarget{e.3-armor}{%
+\subsubsection{E.3: Armor}\label{e.3-armor}}
+
+\hypertarget{appendix-f-metal-equipment}{%
+\subsection{Appendix F: Metal
+Equipment}\label{appendix-f-metal-equipment}}
+
+\hypertarget{f.1-metal-systems}{%
+\subsubsection{F.1: Metal Systems}\label{f.1-metal-systems}}
+
+\hypertarget{f.2-metal-weaponry}{%
+\subsubsection{F.2: Metal Weaponry}\label{f.2-metal-weaponry}}
+
+\end{document}

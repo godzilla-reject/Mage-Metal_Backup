@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "empty files",
+      "path": "Utilities/empty files.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Metal Creation Steps",
@@ -195,10 +199,6 @@
     {
       "basename": "Politologist",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
-    },
-    {
-      "basename": "Wrench Monkey",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md"
     }
   ],
   "omittedPaths": [],
