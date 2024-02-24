@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2b8fe8577f348669",
+        "id": "786bb84f32d1704d",
         "type": "tabs",
         "children": [
           {
-            "id": "1cc245f38cc58ac5",
+            "id": "1109869ef1559c8e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -2.185980596858165
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -227,7 +227,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1cc245f38cc58ac5",
+  "active": "1109869ef1559c8e",
   "lastOpenFiles": [
     "Utilities/Dashboard.canvas",
     "Character Creation Playtest 1 Packet.tex",
