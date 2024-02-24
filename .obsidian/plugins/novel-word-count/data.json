@@ -4193,8 +4193,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704751966184,
-      "modifiedDate": 1708750967833,
-      "sizeInBytes": 1074
+      "modifiedDate": 1708755528336,
+      "sizeInBytes": 1073
     },
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md": {
       "isCountable": true,
@@ -8426,41 +8426,41 @@
       "modifiedDate": 1708754835981,
       "sizeInBytes": 299
     },
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Carbon-Alloy Arcane Projection Blade.md": {
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers/Heavy-Impact Gravihammer.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 40,
+      "wordCount": 44,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 843,
-      "nonWhitespaceCharacterCount": 507,
-      "readingTimeInMinutes": 0.1509433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704752296893,
-      "modifiedDate": 1704752374690,
-      "sizeInBytes": 843
-    },
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Heavy-Impact Gravihammer.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 40,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 841,
-      "nonWhitespaceCharacterCount": 505,
-      "readingTimeInMinutes": 0.1509433962264151,
-      "linkCount": 0,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 846,
+      "nonWhitespaceCharacterCount": 539,
+      "readingTimeInMinutes": 0.1660377358490566,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704752307401,
-      "modifiedDate": 1704752377670,
-      "sizeInBytes": 841
+      "modifiedDate": 1708755520538,
+      "sizeInBytes": 1008
+    },
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 63,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21,
+      "characterCount": 1262,
+      "nonWhitespaceCharacterCount": 677,
+      "readingTimeInMinutes": 0.23773584905660378,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704752296893,
+      "modifiedDate": 1708755907524,
+      "sizeInBytes": 1423
     }
   }
 }

@@ -4,12 +4,12 @@ Tags:
   - Metal
   - Weapon
 Category: Martial
-Group: Unsorted
-Handed-ness: 
+Group: Hammers
+Handed-ness: 2
 Mount: Heavy
-Damage_Type: 
-Damage_Die: 
-Completed: false
+Damage_Type: crushing
+Damage_Die: 1d10
+Completed: true
 ---
 > [!infobox|left]+ Weapon Entry
 > # `=this.file.name`
@@ -22,5 +22,6 @@ Completed: false
 |      **Mount**      |             `=this.Mount`              |
 |   **Handed-ness**   |          `=this.Handed-ness`           |
 |     **Damage**      | `=this.Damage_Die` `=this.Damage_Type` |
-|     **Traits**      |                                        |
+|     **Traits**      |          [[Reach\| Reach 1]], [[High-Powered]], [[Armor-Piercing\|Armor Piercing 2]], [[Overkill\|Overkill 2]]       |
 > ###### *Description*
+> A giant hammer, held up by anti-grav technology. Simple. Effective. Hammer.

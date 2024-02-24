@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "81f637836cab87ce",
+            "id": "a4dae5d2b6695327",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Heavy-Impact Gravihammer.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "1fe04214a4a0e252",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md"
               }
             }
           },
@@ -329,11 +329,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "981f4eadc8bd2cb9",
+  "active": "a4dae5d2b6695327",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Heavy-Impact Gravihammer.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Carbon-Alloy Arcane Projection Blade.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers/Heavy-Impact Gravihammer.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "General Rules/Traits Catalog/Loading.md",
     "General Rules/Traits Catalog/Ordnance.md",
@@ -357,7 +359,6 @@
     "Character Creation Playtest 1 Packet.md",
     "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/DevHelper Templates/Inserts/Page Break.md",
-    "Reference Notes/Character Creation Part 1.md",
     "Character Creation Playtest 1 Packet.tex"
   ]
 }

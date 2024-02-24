@@ -9,7 +9,7 @@ Handed-ness: 1
 Mount: Aux
 Damage_Type: cutting
 Damage_Die: 1d4
-Completed: false
+Completed: true
 ---
 > [!infobox|left]+ Weapon Entry
 > # `=this.file.name`
