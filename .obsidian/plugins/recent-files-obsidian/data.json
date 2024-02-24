@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+    },
+    {
+      "basename": "Standard-Issue 120mm 'Sizzleslinger' Assault Carbine",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/Standard-Issue 120mm 'Sizzleslinger' Assault Carbine.md"
+    },
+    {
       "basename": "Metal Weapon Design Reference",
       "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
     },
     {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
     },
     {
-      "basename": "Thumpthrower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
+      "basename": "Reliable",
+      "path": "General Rules/Traits Catalog/Weapon-Only/Reliable.md"
+    },
+    {
+      "basename": "Channeler's Tome",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Glazier Boltbow",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md"
+    },
+    {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+    },
+    {
+      "basename": "Lazerpike",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
     },
     {
       "basename": "Equipment Overview",
@@ -21,12 +49,12 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns/Standard-Issue 99mm 'Backbreaker' Handgun.md"
     },
     {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+      "basename": "Thumpthrower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
     },
     {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
       "basename": "Standard-Issue LAES Knife",
@@ -39,10 +67,6 @@
     {
       "basename": "Armor-Piercing",
       "path": "General Rules/Traits Catalog/Armor-Piercing.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
     },
     {
       "basename": "Metal Weapon Template",
@@ -175,30 +199,6 @@
     {
       "basename": "Escalation",
       "path": "General Rules/Traits Catalog/General/Escalation.md"
-    },
-    {
-      "basename": "Aurora Mortum",
-      "path": "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Mortum.md"
-    },
-    {
-      "basename": "Flourish",
-      "path": "General Rules/Traits Catalog/Flourish.md"
-    },
-    {
-      "basename": "Diplomacy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
-    },
-    {
-      "basename": "Mundocraft",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
-    },
-    {
-      "basename": "Artifice",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
-    },
-    {
-      "basename": "net-Hack Toolkit",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md"
     }
   ],
   "omittedPaths": [],
