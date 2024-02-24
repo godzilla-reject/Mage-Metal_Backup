@@ -335,10 +335,10 @@ Remember Pilots,
 ## Appendix D: Skill List
 ![[Skill List]]
 ## Appendix E: Mage Equipment 
-## E.1: General Equipment
+### E.1: General Equipment
 ![[Equipment Appendix]]
-## E.2: Weaponry Pr
-## E.3: Armor
+### E.2: Weaponry Pr
+### E.3: Armor
 ## Appendix F: Metal Equipment
-## F.1: Metal Systems 
-## F.2: Metal Weaponry 
+### F.1: Metal Systems 
+### F.2: Metal Weaponry 
