@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+    },
+    {
+      "basename": "Heavy-Impact Gravihammer",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Heavy-Impact Gravihammer.md"
+    },
+    {
+      "basename": "Carbon-Alloy Arcane Projection Blade",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Carbon-Alloy Arcane Projection Blade.md"
+    },
+    {
       "basename": "Metal Weapon Design Reference",
       "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+    },
+    {
+      "basename": "Loading",
+      "path": "General Rules/Traits Catalog/Loading.md"
+    },
+    {
+      "basename": "Ordnance",
+      "path": "General Rules/Traits Catalog/Ordnance.md"
     },
     {
       "basename": "Trait List",
@@ -19,10 +39,6 @@
     {
       "basename": "Weapon Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
     },
     {
       "basename": "Standard-Issue 120mm 'Sizzleslinger' Assault Carbine",
@@ -183,22 +199,6 @@
     {
       "basename": "Apopplia-Class A-RAID Unit",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md"
-    },
-    {
-      "basename": "Metal Systems Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
-    },
-    {
-      "basename": "Metal System Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
-    },
-    {
-      "basename": "Deception",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
-    },
-    {
-      "basename": "Brawling",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
     }
   ],
   "omittedPaths": [],

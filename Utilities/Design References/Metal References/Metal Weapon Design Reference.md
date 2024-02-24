@@ -15,7 +15,7 @@ Each weapon begins as 1d6 Simple, Melee and 1-handed, on an Aux mount, with 1 po
 |       Volley       |   Gives the weapon a *further* minimum effective range.    |                  3 points per each range increment                  |
 | Increased Training |           Increases the proficiency tier needed.           |                   4 for martial, 6 for advanced.                    |
 |    Weapon Mount    |   Governs what mount the weapon fits into on the Metal.    | 2 for Secondary, 4 for Primary, 6 for Heavy, and 8 for Superprimary |
-|                    |                                                            |                                                                     |
+|    [[Ordnance]]    |      Prevents weapon from being used with Engagement.      |            0.                                                         |
 
 ### Weapon Boons
 
