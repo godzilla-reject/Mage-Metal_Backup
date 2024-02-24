@@ -11,14 +11,12 @@
             "id": "405c9114276b540d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.9829935746943103
-                }
+                "file": "Character Creation Playtest 1 Packet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest 1 Packet.md"
               }
             }
           },
@@ -229,10 +227,10 @@
   },
   "active": "405c9114276b540d",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/DevHelper Templates/Inserts/Page Break.md",
     "Character Creation Playtest 1 Packet.md",
     "Reference Notes/Character Creation Part 1.md",
-    "Utilities/Dashboard.canvas",
     "Reference Notes/Equipment Appendix.md",
     "Character Creation Playtest 1 Packet.tex",
     "Utilities/empty files.md",
