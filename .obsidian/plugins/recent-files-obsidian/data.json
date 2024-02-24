@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Metal Weapon Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+    },
+    {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
+      "basename": "Thumpthrower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
+    },
+    {
+      "basename": "Equipment Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
+    },
+    {
+      "basename": "Standard-Issue 99mm 'Backbreaker' Handgun",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns/Standard-Issue 99mm 'Backbreaker' Handgun.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+    },
+    {
+      "basename": "Standard-Issue LAES Knife",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md"
+    },
+    {
+      "basename": "Metal Weapon Concepts",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md"
+    },
+    {
+      "basename": "Armor-Piercing",
+      "path": "General Rules/Traits Catalog/Armor-Piercing.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
+      "basename": "Metal Weapon Template",
+      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
     },
     {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Page Break",
@@ -27,10 +75,6 @@
     {
       "basename": "Design Note-Mounts",
       "path": "Design Bible/Design Notes/Design Note-Mounts.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
       "basename": "Metal Shell Database",
@@ -121,10 +165,6 @@
       "path": "Templates/Markdown Templates/Metal Templates/Metal System Template.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
-    },
-    {
       "basename": "Deception",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "net-Hack Toolkit",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md"
-    },
-    {
-      "basename": "Crafting Rules",
-      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
-    },
-    {
-      "basename": "Portable Surgery Station",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md"
-    },
-    {
-      "basename": "Set of Tools",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
-    },
-    {
-      "basename": "Equipment Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "History Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/History Database.md"
-    },
-    {
-      "basename": "Noble",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
-    },
-    {
-      "basename": "Politologist",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
     }
   ],
   "omittedPaths": [],

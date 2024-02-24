@@ -5,10 +5,10 @@ Tags:
   - Weapon
 Category: Simple
 Group: Daggers
-Handed-ness: 
+Handed-ness: 1
 Mount: Aux
-Damage_Type: 
-Damage_Die: 
+Damage_Type: cutting
+Damage_Die: 1d4
 Completed: false
 ---
 > [!infobox|left]+ Weapon Entry
@@ -22,5 +22,6 @@ Completed: false
 |      **Mount**      |             `=this.Mount`              |
 |   **Handed-ness**   |          `=this.Handed-ness`           |
 |     **Damage**      | `=this.Damage_Die` `=this.Damage_Type` |
-|     **Traits**      |                                        |
+|     **Traits**      |       [[Graceful]], [[Dual]], [[Thrown\|Thrown (4 sp.)]] |
 > ###### *Description*
+> The *Laser-Assisted Electronically-Serrated* (LAES) Knife is the standard-issue auxiliary weapon issued to new Mage Pilots. Cheap to make and useful in combat, these knives can be used by nearly any Metal.

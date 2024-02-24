@@ -13,7 +13,8 @@
     "Callout styling - Tabbed callout",
     "Callout styling - Scroller callout",
     "Blockquote styling 01",
-    "clean-embeds"
+    "clean-embeds",
+    "pagebreaks"
   ],
   "cssTheme": "ITS Theme",
   "baseFontSize": 17,

@@ -294,6 +294,7 @@ invaluable
 instantly
 ideas
 infinite
+ignores
 the
 takes
 titans
@@ -1246,6 +1247,8 @@ batch
 blowing
 boosters
 bottom
+big
+brother
 not
 never
 no
@@ -2228,6 +2231,7 @@ Their
 Table
 Torch
 Thank
+Thumperthrower
 oriented
 of
 on
@@ -2939,6 +2943,8 @@ playgroup
 plating
 permitted
 personally
+packing
+punch
 RP
 RPGs
 Ryutama
@@ -3177,6 +3183,8 @@ hope
 happening
 handled
 house
+handgun
+hell
 refine
 robust
 required

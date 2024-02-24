@@ -1,14 +1,15 @@
 {
   "main": {
-    "id": "978235cf21e7d18e",
+    "id": "8d1eeee8b5cc10e5",
     "type": "split",
     "children": [
       {
-        "id": "cced5025d0d71687",
+        "id": "a22ad072ba37e94d",
         "type": "tabs",
+        "dimension": 56.702127659574465,
         "children": [
           {
-            "id": "351d78fe8ffae1ec",
+            "id": "4e8a207246360491",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,34 +18,136 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.6792128265172074
+                  "zoom": -1.3376954107456789
                 }
               }
             }
+          },
+          {
+            "id": "981f4eadc8bd2cb9",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+              }
+            }
+          },
+          {
+            "id": "3e9340168121aa72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns/Standard-Issue 99mm 'Backbreaker' Handgun.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1fe04214a4a0e252",
+        "type": "tabs",
+        "dimension": 43.29787234042553,
+        "children": [
+          {
+            "id": "3bc6e7df0be5a8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b2b83871143a406c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8cb2d368b0515149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bb69863da54a972c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Lists/General Lists/Trait List.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f8d69cfcd79164e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a2bb2d834bc21597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b62c6b119547f1ea",
+    "id": "c7c8f8b07364a828",
     "type": "split",
     "children": [
       {
-        "id": "c7a4d764ba2c8f88",
+        "id": "0ee470924da31ab3",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc9ffef9d33c20a",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "316a95234a7358e3",
+            "id": "a6efdbb03f15d137",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,12 +157,12 @@
             }
           },
           {
-            "id": "29c70e5c21f9c4cf",
+            "id": "d968026dfd4f0b4b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Core  ",
+                "query": "tag:##todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,35 +172,43 @@
             }
           },
           {
-            "id": "bf0789d38ae203fc",
+            "id": "fac67c8071a3cd9d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "3b93557265589f72",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
-    "id": "97b61b116a38c797",
+    "id": "69a6a1297e44ad1f",
     "type": "split",
     "children": [
       {
-        "id": "9481b12bdd27cb2c",
+        "id": "82a6dd916793e22e",
         "type": "tabs",
         "children": [
           {
-            "id": "8b530236d6df3c86",
+            "id": "508dc443b848b433",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +220,19 @@
             }
           },
           {
-            "id": "562a49dc32a6247e",
+            "id": "f90135100ca5f4f6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a9a458fa9881e534",
+            "id": "a3b467e93ea37d98",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,7 +243,65 @@
             }
           },
           {
-            "id": "d1f9841494dbb3de",
+            "id": "3ad2454c886ecebf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+              }
+            }
+          },
+          {
+            "id": "35bd1d52bac4ea59",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "21cebfc490467c84",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d5e9e67247021af",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2563114bbac86f0c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4739661f3573ba43",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7a3e427e71d5d3e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9993422e933ec23",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -144,52 +313,10 @@
             }
           },
           {
-            "id": "47c49ca47f949568",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Utilities/Dashboard.canvas"
-              }
-            }
-          },
-          {
-            "id": "0e028b2b960b299c",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "f665d031d4776483",
-            "type": "leaf",
-            "state": {
-              "type": "chronology-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "e5a544227c081c51",
+            "id": "8753d1336babb804",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "c9f8217feafe6fdf",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b17a3e3e32391c6c",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
@@ -198,25 +325,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 640.5,
+    "width": 262.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "chronology:Open Chronology": false,
-      "dbfolder:Create a new database table": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "homepage:Open homepage": false,
       "media-extended:Open media": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "rpg-manager:RPG Manager": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "templater-obsidian:Templater": false,
-      "advanced-random-note:Open random note modal": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -224,12 +338,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "homepage:Open homepage": false,
+      "rpg-manager:RPG Manager": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "advanced-random-note:Open random note modal": false,
+      "chronology:Open Chronology": false,
+      "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "351d78fe8ffae1ec",
+  "active": "8cb2d368b0515149",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md",
+    "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns/Standard-Issue 99mm 'Backbreaker' Handgun.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md",
+    "General Rules/Traits Catalog/Armor-Piercing.md",
+    "Utilities/Lists/General Lists/Trait List.md",
+    "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
     "Character Creation Playtest 1 Packet.md",
     "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/DevHelper Templates/Inserts/Page Break.md",
@@ -239,7 +378,6 @@
     "Utilities/empty files.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
     "Design Bible/Design Notes/Design Note-Mounts.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",

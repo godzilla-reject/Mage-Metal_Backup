@@ -27,6 +27,6 @@ Each weapon begins as 1d6 Simple, Melee and 1-handed, on an Aux mount, with 1 po
 |        [[Thrown]] (per 4 sp)        |          [[Channel]]          |         [[High-Powered]]          |
 |          [[Anti-Ablative]]          |         [[Parrying]]          |             [[Area]]              |
 |  [[Reliable]] (Ranged, per 1 die.)  |        [[Devastating]]        | [[Reliable]]  (Melee, per 1 die.) |
-| [[Scatter]] (1 point per die size.) |                               | [[Armor-Piercing]] (3 points per 2 Toughness)                                  |
+| [[Scatter]] (1 point per die size.) |     [[Versatile]]                          | [[Armor-Piercing]] (3 points per 2 Toughness)                                  |
 
 ### Finalization 

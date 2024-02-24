@@ -4,7 +4,7 @@ cssclasses: [clean-embeds]
 *For my best friends, Brody, Josh, Caleb, Konnar, Matthew and everyone else. I made this game, and all in the future, for us.*
 ```table-of-contents
 ```
-<div style="page-break-after: always;"></div>
+
 # *Foreword*
 It is rare that I am without word.
 
@@ -15,7 +15,7 @@ Thank you. If you have *ever* let me rant about the Terrarium, been forcefully s
 From the bottom of my heart, **thank you**. 
 
 It is with a full and happy heart I welcome you to `=[[Dev Helpers]].game-full`. 
-<div style="page-break-after: always;"></div>
+
 # Overview 
 *”Greetings Pilot and welcome back to the Terrarium. Time since last Lunar Incursion: 709 Solar Days.”*
 - - -
@@ -39,7 +39,7 @@ Again, I thank you dearly for being apart of this first playtest. Have fun, Pilo
 
 ***UNITED, WE WILL SLAY THE FOUR HORSEMEN***
 
-<div style="page-break-after: always;"></div>
+
 # Character Creation Part 1: *The Mage*
 ## 1. *Playing The Game*
 Before you begin determining the mechanics of your character, it is important to have a grasp on the narrative of said character. This idea, referred to by us “professionals” as a *narrative concept*, will help direct and inform the mechanical choices you make during character creation. Maybe your character is some hot-shot piloting prodigy, or a crotchety old veteran that chose to join the Pilot Program after being relieved of duty. 
@@ -141,7 +141,7 @@ Derived from their respective Attribute, different Statistics have differing for
 
 ![[Character Mechanics Overview#^c79b91|*Insert Proficiencies when Done*]]
 
-<div style="page-break-after: always;"></div>
+
 ## 2. *Species*
 Once you feel that you are familiar enough with the game’s mechanics, you are ready to move on to creation proper. The first step in this process is answering this question:
 
@@ -161,7 +161,7 @@ Take this time to go ahead and fill out non-mechanical details, such as name, ag
 ![[Elves]]
 #### *Humans of Nowhere*
 ![[Human]]
-<div style="page-break-after: always;"></div>
+
 ## 3. *History*
 After determining your character’s Species, you must answer another question:
 
@@ -191,7 +191,7 @@ Finally, ensure you denote your character’s *starting wealth*, as stated on th
 ![[Politologist]]
 ![[Noble]]
 
-<div style="page-break-after: always;"></div>
+
 ## 4. *School of Arcana*
 Now that you have decided what your character did before becoming a Mage Pilot, you are faced with yet another question.
 
@@ -203,7 +203,7 @@ Pick from one of the following School of Arcana, then select one of the two avai
 
 After your selections, ensure you denote your School’s Attribute Boost and any starting gear. Take this time to inscribe your starting spells in your Grimoire as well. 
 ![[School Note]]
-<div style="page-break-after: always;"></div>
+
 ## 5. *Pilot Role*
 After making a selection as to the style of magic you wield, you are now posed with a final question:
 
@@ -215,12 +215,12 @@ Select a Pilot Role from the following options, then select one of the two Role 
 
 Denote any proficiencies granted by your Role, and then denote the skills granted by your Role and Specialization. You *do not* gain aptitude in them. Finally, inscribe your Specialization’s starting Spell in your Grimoire. 
 ![[Role Note]]
-<div style="page-break-after: always;"></div>
+
 ## 6. *Finalizing Attributes and Statistics*
 Now that your four core selections have been made, its time to finalize your Attributes. Assign 12 free Attribute points across your Attributes. You cannot begin play with an Attribute above 20.
 
 Once you have assigned all 12 points, take this time to calculate your Statistics (if you aren’t using the *free digital character sheet*. Which, you should be. I worked really hard on it.)
-<div style="page-break-after: always;"></div>
+
 ## 7. *Finalizing Skills and Proficiencies*
 After your Attributes and Statistics are finalized, you are ready to finalize your Skills and Proficiencies. 
 ### **Skills**
@@ -229,30 +229,30 @@ Designate a number of Skill Aptitudes as determined by your Skill Aptitudes Stat
 Select one Armor proficiency and one Weapon proficiency to increase your training level with by one step (untrained to Trained or Trained to Expert.) You cannot begin play with an Armor or Weapon proficiency at or above Mastered.
 ### **General Proficiencies**
 From among **Perception**, **Piloting** and **Spell-Work**, pick two to begin play at Trained and one to begin play at Expert.
-<div style="page-break-after: always;"></div>
+
 ## 8. *Creating a Grimoire*
 After all of your mechanical selections, you can move on to creating your *Grimoire*, which is a catalog of all the spells your Mage can cast. These are the guidelines for creating your Grimoire:
 1. At Tier 1, your Grimoire can contain Rank 0-3 spells.
 2. Your Grimoire can contain a number of spells equal to your Tier * 10 (which is 10.)
 3. You have access to any spell on a spell list that either does not have an access requirement or you meet the requirement for. Spells can be found in [[Character Creation Playtest 1 Packet#Appendix C Spell Lists|Appendix C Spell Lists]]
-<div style="page-break-after: always;"></div>
+
 ## 9. *Selecting Perks*
 Each character in `=[[Dev Helpers]].game-short` has (a) quirk(s) that helps set them apart from other characters. These quirks are known as *General Perks*. Select one for your Mage Pilot.
 ![[Perk Note]]
-<div style="page-break-after: always;"></div>
+
 ## 10. *Selecting Equipment*
 After selecting a General Perk, the final step of Mage creation is to determine what equipment your Pilot uses. 
 
 Using the starting wealth granted by your **History**, purchase as little or as much equipment from [[Character Creation Playtest 1 Packet#Appendix E Equipment|Appendix E: Equipment]]. USH-M basic gear recommendation is at least one weapon (preferably that you have a proficiency in), one suit of armor (also, preferably that you have proficiency in), and some basic gear such as Nutri-gel, a Hardlight Torch, a backpack and a set of clothes. 
 
 After gear acquisition, denote any remaining credits.  
-<div style="page-break-after: always;"></div>
+
 ## 11. *Finishing Up*
 Congratulations, you’ve completed the first (and more complicated) half of character creation for this play test. Take this time to go ahead and fill out the *Mage* section of the linked feedback questionnaire. 
 
 Now, it is time to create the *Metal* for the *Mage*. Proceed to Part 2: *The Metal*.
 
-<div style="page-break-after: always;"></div>
+
 # Character Creation Part 2: *The Metal*
 Just like your Mage, a concept of your Metal is needed before you begin creating it. A couple things to keep in mind when making up the concept for your Mage’s first Metal:
 
@@ -262,7 +262,7 @@ Just like your Mage, a concept of your Metal is needed before you begin creating
 Once you’ve nailed down the concept of your Metal, review how Metal Mechanics differ from Mage.
 ### Metal Mechanics 
 ![[Metal Attributes and Statistics]]
-<div style="page-break-after: always;"></div>
+
 ## 1.  *Frame*
 The *Frame* is the most basic component of the Metal, forming the foundation of which all other parts are mounted upon. It determines fundamental aspects of a Metal, such as Size, body-plan, and weapon mounts.
 
@@ -278,7 +278,7 @@ Select a **Frame** from the options below, then denote the Attribute bonuses, We
 ![[SHF-002]]
 ![[ULF-001]]
 ![[ULF-002]]
-<div style="page-break-after: always;"></div>
+
 ## 2. *Shell*
 The *Shell* of the Metal is what determines the armor plating of your Metal, as well as an *Intrinsic* ability that provides powerful combat abilities. 
 
@@ -291,7 +291,7 @@ After you’ve chosen your **Shell**, denote the following: Attribute boost, arm
 ![[Surgeon General]]
 ![[Wire Runner]]
 
-<div style="page-break-after: always;"></div>
+
 ## 3. *Soul Core*
 The *Soul Core* of the Metal is exactly that: a core, with a soul therewithin. It acts as the heart of the Metal’s *Soul-Resonance Reactor*, or S-R<sup>2</sup> Engine. The soul of spirit within the core reacts with the latent Potential of the Pilot, providing a nearly infinite amount of energy to run the massive machine. 
 
@@ -303,14 +303,14 @@ Pick a **Soul Core** for your Metal, and then denote granted the granted Attribu
 ![[DTSC-001 ''Steelclad Mamba'']]
 ![[STSC-001 ''Infinite Hydrangea'']]
 
-<div style="page-break-after: always;"></div>
+
 ## 4. *Finalizing Metal Attributes and Statistics*
 After selecting your Metal’s basic components, it is time to finalize its Attributes and Statistics, just as you did for your Pilot. 
 
 Assign 6 free Attribute points. You cannot begin play with a Metal Attribute above 30.
 
 Once you’ve assigned these points, take this time to calculate your Metal’s Statistics if you aren’t using the digital character sheet (which, again, you should be. I worked *really* hard on it.)
-<div style="page-break-after: always;"></div>
+
 ## 5. *Installing Metal Systems*
 Other abilities, such as *jet boosters* and other typical mecha-fantasy fair, in `=[[Dev Helpers]].game-short` are relegated to *Systems*, which each Metal can only have a select amount of. This limit is dictated by the **System Points** Statistic. 
 
@@ -319,7 +319,7 @@ Spend these SP on as many, or as few, systems as you want. You *do not* have to 
 In future playtests, Systems will be limited in access by the components of the Metal. 
 
 Metal Systems can be found in [[Character Creation Playtest 1 Packet#Appendix F Metal Equipment|Appendix F: Metal Equipment]]
-<div style="page-break-after: always;"></div>
+
 ## 6. *Mounting Weaponry*
 As you’ve created your Metal, you’ve seen mention of “weapon mounts.” These are, in effect, ‘weapon slots’ for your Metal. Each mount has a “size”: *auxiliary*, *secondary*, *primary*, *heavy* and *superprimary*. 
 
@@ -332,7 +332,7 @@ Finally, a mount can have a “/Aux” modifier, which allows for an extra auxil
 Each mount on your Metal must have a weapon installed in it. 
 
 Metal Weapons can be found in [[Character Creation Playtest 1 Packet#Appendix F Metal Equipment|Appendix F: Metal Equipment]]
-<div style="page-break-after: always;"></div>
+
 ## 7. *Finishing Up*
 Your Metal is mechanically complete! Congratulations! 
 
@@ -346,26 +346,26 @@ Again, I want to personally thank you for being a participant in the first ever 
 Remember Pilots,
 
 **UNITED, WE WILL SLAY THE FOUR HORSEMEN**
-<div style="page-break-after: always;"></div>
+
 # Appendices 
 ## Appendix A: Dice Overview 
 ![[Dice Overview]]
-<div style="page-break-after: always;"></div>
+
 ## Appendix B: Action Overview
 ![[Actions Overview]]
-<div style="page-break-after: always;"></div>
+
 ## Appendix C: Spell Lists
 ![[Spell List]]
-<div style="page-break-after: always;"></div>
+
 ## Appendix D: Skill List
 ![[Skill List]]
-<div style="page-break-after: always;"></div>
+
 ## Appendix E: Mage Equipment 
 ### E.1: General Equipment
 ![[Equipment Appendix]]
 ### E.2: Weaponry
 ### E.3: Armor
-<div style="page-break-after: always;"></div>
+
 ## Appendix F: Metal Equipment
 ### F.1: Metal Systems 
 ### F.2: Metal Weaponry 
