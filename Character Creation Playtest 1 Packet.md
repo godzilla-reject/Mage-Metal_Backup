@@ -1,10 +1,22 @@
 ---
 cssclasses: [clean-embeds]
 ---
+*For my best friends, Brody, Josh, Caleb, Konnar, Matthew and everyone else. I made this game, and all in the future, for us.*
 ```table-of-contents
 ```
-*”Greetings Pilot and welcome back to the Terrarium. Time since last Lunar Incursion: 709 Solar Days.”*
+# *Foreword*
+It is rare that I am without word.
+
+But, the support that I have gotten from the people who have eagerly awaited this mere playtest. *That* leaves me without words. 
+
+Thank you. If you have *ever* let me rant about the Terrarium, been forcefully shown some random game element with “do you think is too complicated?!?” in behind it or suffered through ***yet another*** “Game Design is Still Hard” status in Gen chat, this thank you is for you. Thank you for never angering with me while I forgo a fun night of games to toil away at this passion project of mine. 
+
+From the bottom of my heart, **thank you**. 
+
+It is with a full and happy heart I welcome you to `=[[Dev Helpers]].game-full`. 
 # Overview 
+*”Greetings Pilot and welcome back to the Terrarium. Time since last Lunar Incursion: 709 Solar Days.”*
+- - -
 Good morning, Pilot. You’ve graciously agreed to help test the latest in USH automatic biographing technology in the form of the *Advanced Magisterial Pilot Condition and History Bio-Log* (AMP-CHB). The following document contains all of the instruction you should need to complete the test here today.
 
 Welcome to `=[[Dev Helpers]].game-full` *Character Creation Playtest*. The goal of this test is to check the viability, stability and usability of the character creation rules for this game. The following materials are required (and should have been provided) for this playtest:
@@ -212,14 +224,14 @@ From among **Perception**, **Piloting** and **Spell-Work**, pick two to begin pl
 After all of your mechanical selections, you can move on to creating your *Grimoire*, which is a catalog of all the spells your Mage can cast. These are the guidelines for creating your Grimoire:
 1. At Tier 1, your Grimoire can contain Rank 0-3 spells.
 2. Your Grimoire can contain a number of spells equal to your Tier * 10 (which is 10.)
-3. You have access to any spell on a spell list that either does not have an access requirement or you meet the requirement for. Spells can be found in [[Character Creation Playtest Packet#Appendix C Spell Lists|Appendix C Spell Lists]]
+3. You have access to any spell on a spell list that either does not have an access requirement or you meet the requirement for. Spells can be found in [[Character Creation Playtest 1 Packet#Appendix C Spell Lists|Appendix C Spell Lists]]
 ## 9. *Selecting Perks*
 Each character in `=[[Dev Helpers]].game-short` has (a) quirk(s) that helps set them apart from other characters. These quirks are known as *General Perks*. Select one for your Mage Pilot.
 ![[Perk Note]]
 ## 10. *Selecting Equipment*
 After selecting a General Perk, the final step of Mage creation is to determine what equipment your Pilot uses. 
 
-Using the starting wealth granted by your **History**, purchase as little or as much equipment from [[Character Creation Playtest Packet#Appendix E Equipment|Appendix E: Equipment]]. USH-M basic gear recommendation is at least one weapon (preferably that you have a proficiency in), one suit of armor (also, preferably that you have proficiency in), and some basic gear such as Nutri-gel, a Hardlight Torch, a backpack and a set of clothes. 
+Using the starting wealth granted by your **History**, purchase as little or as much equipment from [[Character Creation Playtest 1 Packet#Appendix E Equipment|Appendix E: Equipment]]. USH-M basic gear recommendation is at least one weapon (preferably that you have a proficiency in), one suit of armor (also, preferably that you have proficiency in), and some basic gear such as Nutri-gel, a Hardlight Torch, a backpack and a set of clothes. 
 
 After gear acquisition, denote any remaining credits.  
 ## 11. *Finishing Up*
@@ -264,18 +276,69 @@ After you’ve chosen your **Shell**, denote the following: Attribute boost, arm
 ![[Wire Runner]]
 
 ## 3. *Soul Core*
+The *Soul Core* of the Metal is exactly that: a core, with a soul therewithin. It acts as the heart of the Metal’s *Soul-Resonance Reactor*, or S-R<sup>2</sup> Engine. The soul of spirit within the core reacts with the latent Potential of the Pilot, providing a nearly infinite amount of energy to run the massive machine. 
 
-## 4.  *Finalizing Metal Attributes and Statistics*
+The **Soul Core** of a Metal is a special choice for a Pilot, as it dictates a special confrontation that the Pilot must eventually face at their darkest hour; the *Deity within the Machine*, the **Deus Ex Machina**. Pay special attention to the **Deus** of your chosen **Soul Core**. 
+
+Pick a **Soul Core** for your Metal, and then denote granted the granted Attribute bonuses, Core Passive, and Core Intrinsic. You can also denote your **Deus Ex Machina**, but it will not be relevant in this playtest (or the next one, honestly.) In future playtests, **Soul Cores** will be limited by your chosen **School of Arcana** during Mage creation.
+
+![[ATSC-001 ''Warring Dragons'']]
+![[DTSC-001 ''Steelclad Mamba'']]
+![[STSC-001 ''Infinite Hydrangea'']]
+
+## 4. *Finalizing Metal Attributes and Statistics*
+After selecting your Metal’s basic components, it is time to finalize its Attributes and Statistics, just as you did for your Pilot. 
+
+Assign 6 free Attribute points. You cannot begin play with a Metal Attribute above 30.
+
+Once you’ve assigned these points, take this time to calculate your Metal’s Statistics if you aren’t using the digital character sheet (which, again, you should be. I worked *really* hard on it.)
 ## 5. *Installing Metal Systems*
+Other abilities, such as *jet boosters* and other typical mecha-fantasy fair, in `=[[Dev Helpers]].game-short` are relegated to *Systems*, which each Metal can only have a select amount of. This limit is dictated by the **System Points** Statistic. 
+
+Spend these SP on as many, or as few, systems as you want. You *do not* have to spend all of them. 
+
+In future playtests, Systems will be limited in access by the components of the Metal. 
+
+Metal Systems can be found in [[Character Creation Playtest 1 Packet#Appendix F Metal Equipment|Appendix F: Metal Equipment]]
 ## 6. *Mounting Weaponry*
+As you’ve created your Metal, you’ve seen mention of “weapon mounts.” These are, in effect, ‘weapon slots’ for your Metal. Each mount has a “size”: *auxiliary*, *secondary*, *primary*, *heavy* and *superprimary*. 
+
+Each mount can house a weapon of its size or *one smaller*. Additionally, *super-primary* weaponry can be mounted across *two* mounts, at least one of which must be a *primary/aux* or *heavy* mount.
+
+Some mounts also have other modifiers, such as “Twin” or “(Restriction)”. Two of the same weapon can be installed in a Twin mount, and can be fired independently *or* simultaneously. Mounts with (Restrictions) are limited to only what is permitted by the Restriction. 
+
+Finally, a mount can have a “/Aux” modifier, which allows for an extra auxiliary weapon to be installed alongside the main weapon that fires when the main weapon is fired. 
+
+Each mount on your Metal must have a weapon installed in it. 
+
+Metal Weapons can be found in [[Character Creation Playtest 1 Packet#Appendix F Metal Equipment|Appendix F: Metal Equipment]]
 ## 7. *Finishing Up*
-# Appendix A: Dice Overview 
+Your Metal is mechanically complete! Congratulations! 
+# Wrapping Up
+There is one last step here: style and flair. Take this time to go a bit more in-depth on what both your Pilot and their Metal look like. Write up a small description of both your Mage-Pilot and your Metal, incorporating things chosen during creation of each of them.
+
+From here, go ahead and fill out the second part of the Playtest Feedback Questionnaire. Once you’ve done that, ensure you keep a copy of your character sheet, as you’ll be revisiting this same character in Playtest 2 (and beyond!)
+
+Again, I want to personally thank you for being a participant in the first ever playtest for my first ever game. I had no clue the amount of work that would go into just getting here, but the continued interest from all of the people closest to me is what got me to this point. I look forward to the next playtest, and I hope you do too.
+
+Remember Pilots,
+
+**UNITED, WE WILL SLAY THE FOUR HORSEMEN**
+
+# Appendices 
+## Appendix A: Dice Overview 
 ![[Dice Overview]]
-# Appendix B: Action Overview
+## Appendix B: Action Overview
 ![[Actions Overview]]
-# Appendix C: Spell Lists
+## Appendix C: Spell Lists
 ![[Spell List]]
-# Appendix D: Skill List
+## Appendix D: Skill List
 ![[Skill List]]
-# Appendix E: Equipment 
+## Appendix E: Mage Equipment 
+## E.1: General Equipment
 ![[Equipment Appendix]]
+## E.2: Weaponry 
+## E.3: Armor
+## Appendix F: Metal Equipment
+## F.1: Metal Systems 
+## F.2: Metal Weaponry 

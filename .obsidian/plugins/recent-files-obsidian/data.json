@@ -1,36 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Character Creation Playtest Packet",
-      "path": "Character Creation Playtest Packet.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Character Creation Playtest 1 Packet",
+      "path": "Character Creation Playtest 1 Packet.md"
     },
     {
       "basename": "Metal Creation Steps",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
     },
     {
-      "basename": "Metal Frame Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
+      "basename": "Equipment Appendix",
+      "path": "Reference Notes/Equipment Appendix.md"
     },
     {
-      "basename": "Character Creation Part 1",
-      "path": "Reference Notes/Character Creation Part 1.md"
+      "basename": "Design Note-Mounts",
+      "path": "Design Bible/Design Notes/Design Note-Mounts.md"
     },
     {
       "basename": "Metal Attributes and Statistics",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
     },
     {
+      "basename": "Character Creation Part 1",
+      "path": "Reference Notes/Character Creation Part 1.md"
+    },
+    {
+      "basename": "Metal Shell Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
+    },
+    {
+      "basename": "Metal Frame Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
+    },
+    {
+      "basename": "Metal Core Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
+    },
+    {
+      "basename": "ATSC-001 ''Warring Dragons''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
+    },
+    {
       "basename": "Metal Mechanics Outline",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Equipment Appendix",
-      "path": "Reference Notes/Equipment Appendix.md"
     },
     {
       "basename": "School Note",
@@ -153,10 +169,6 @@
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
     },
     {
-      "basename": "ATSC-001 ''Warring Dragons''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
-    },
-    {
       "basename": "Equipment Overview",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Wrench Monkey",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md"
-    },
-    {
-      "basename": "Rapscallion",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md"
-    },
-    {
-      "basename": "Hegemony Nomad",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
-    },
-    {
-      "basename": "Dusted",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
     }
   ],
   "omittedPaths": [],

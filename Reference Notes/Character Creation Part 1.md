@@ -188,14 +188,14 @@ From among **Perception**, **Piloting** and **Spell-Work**, pick two to begin pl
 After all of your mechanical selections, you can move on to creating your *Grimoire*, which is a catalog of all the spells your Mage can cast. These are the guidelines for creating your Grimoire:
 1. At Tier 1, your Grimoire can contain Rank 0-3 spells.
 2. Your Grimoire can contain a number of spells equal to your Tier * 10 (which is 10.)
-3. You have access to any spell on a spell list that either does not have an access requirement or you meet the requirement for. Spells can be found in [[Character Creation Playtest Packet#Appendix C Spell Lists|Appendix C Spell Lists]]
+3. You have access to any spell on a spell list that either does not have an access requirement or you meet the requirement for. Spells can be found in [[Character Creation Playtest 1 Packet#Appendix C Spell Lists|Appendix C Spell Lists]]
 ## 9. *Selecting Perks*
 Each character in `=[[Dev Helpers]].game-short` has (a) quirk(s) that helps set them apart from other characters. These quirks are known as *General Perks*. Select one for your Mage Pilot.
 ![[Perk Note]]
 ## 10. *Selecting Equipment*
 After selecting a General Perk, the final step of Mage creation is to determine what equipment your Pilot uses. 
 
-Using the starting wealth granted by your **History**, purchase as little or as much equipment from [[Character Creation Playtest Packet#Appendix E Equipment|Appendix E: Equipment]]. USH-M basic gear recommendation is at least one weapon (preferably that you have a proficiency in), one suit of armor (also, preferably that you have proficiency in), and some basic gear such as Nutri-gel, a Hardlight Torch, a backpack and a set of clothes. 
+Using the starting wealth granted by your **History**, purchase as little or as much equipment from [[Character Creation Playtest 1 Packet#Appendix E Equipment|Appendix E: Equipment]]. USH-M basic gear recommendation is at least one weapon (preferably that you have a proficiency in), one suit of armor (also, preferably that you have proficiency in), and some basic gear such as Nutri-gel, a Hardlight Torch, a backpack and a set of clothes. 
 
 After gear acquisition, denote any remaining credits.  
 ## 11. *Finishing Up*

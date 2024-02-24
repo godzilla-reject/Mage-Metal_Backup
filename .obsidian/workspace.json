@@ -4,61 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb88fb1afe5491c3",
+        "id": "d7576c4641315e39",
         "type": "tabs",
         "children": [
           {
-            "id": "9c41c1a5672b269b",
+            "id": "ef1e3d6ed20b9748",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Character Creation Playtest Packet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "85e88836a1a4469e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1c46f0b1f71926ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "aab01daa3dab8e10",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
-              }
-            }
-          },
-          {
-            "id": "081fa29051242a66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Character Creation Part 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -99,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Shell",
+                "query": "tag:#Core  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation Playtest Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation Playtest Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation Playtest Packet.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -234,12 +194,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,13 +227,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9c41c1a5672b269b",
+  "active": "ef1e3d6ed20b9748",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
-    "Character Creation Playtest Packet.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md",
-    "Reference Notes/Character Creation Part 1.md",
+    "Character Creation Playtest 1 Packet.md",
+    "Reference Notes/Equipment Appendix.md",
+    "Design Bible/Design Notes/Design Note-Mounts.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Reference Notes/Character Creation Part 1.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md",
     "Utilities/Dashboard.canvas"
   ]
