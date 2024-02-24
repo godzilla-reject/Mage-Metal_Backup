@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0ab0be445ffdfb",
+        "id": "18719a8836e08ef9",
         "type": "tabs",
         "children": [
           {
-            "id": "a0c5cb4e2aabb00f",
+            "id": "582d58ac286f4775",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.6828698501252963
+                }
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -197,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +228,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a0c5cb4e2aabb00f",
+  "active": "582d58ac286f4775",
   "lastOpenFiles": [
     "Character Creation Playtest 1 Packet.tex",
     "Utilities/empty files.md",
