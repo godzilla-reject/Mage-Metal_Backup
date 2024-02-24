@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bf0d65d9640ed8a1",
+        "id": "14841c9b3220f6a6",
         "type": "tabs",
         "children": [
           {
-            "id": "3c8dc92b339ac0c3",
+            "id": "42822a9499b866a9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.9829935746943103
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -227,7 +227,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3c8dc92b339ac0c3",
+  "active": "42822a9499b866a9",
   "lastOpenFiles": [
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md",
