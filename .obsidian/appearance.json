@@ -16,5 +16,6 @@
     "clean-embeds"
   ],
   "cssTheme": "ITS Theme",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "theme": "obsidian"
 }
