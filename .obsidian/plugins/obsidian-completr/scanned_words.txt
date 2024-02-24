@@ -470,6 +470,7 @@ today
 thank
 timely
 therewithin
+toil
 great
 game
 gaming
@@ -561,6 +562,8 @@ graciously
 grasp
 gritty
 guidelines
+gotten
+got
 from
 first
 freeform
@@ -737,6 +740,7 @@ finalized
 forming
 foundation
 fair
+forcefully
 came
 combines
 combat
@@ -1075,6 +1079,10 @@ complicated
 couple
 criteria
 confrontation
+chat
+clue
+continued
+closest
 before
 being
 be
@@ -1237,6 +1245,7 @@ bold
 batch
 blowing
 boosters
+bottom
 not
 never
 no
@@ -1535,6 +1544,8 @@ acquisition
 agrees
 auxiliary
 aux
+awaited
+angering
 wear
 with
 war
@@ -2046,6 +2057,7 @@ soul
 secondary
 superprimary
 simultaneously
+suffered
 LANCER
 Learn
 Lancer
@@ -2215,6 +2227,7 @@ Take
 Their
 Table
 Torch
+Thank
 oriented
 of
 on
@@ -2677,6 +2690,8 @@ ensure
 embeds
 expended
 eventually
+eagerly
+element
 played
 pilot
 play
@@ -2922,6 +2937,7 @@ preferably
 playgroup
 plating
 permitted
+personally
 RP
 RPGs
 Ryutama
@@ -3045,6 +3061,7 @@ Rebreather
 Rangers
 Rivals
 Raij
+Remember
 high
 heavily
 hopes
@@ -3367,6 +3384,8 @@ resistances
 recommendation
 review
 reacts
+rant
+revisiting
 Pathfinder
 PF
 Philosophy
@@ -3592,6 +3611,7 @@ Again
 Appendix
 Armorcraft
 Apply
+Appendices
 metal
 magic
 mechanics
@@ -3791,6 +3811,7 @@ mortal
 methodology
 mecha
 mention
+mere
 GURPS
 Google
 Greyhawk
@@ -4035,6 +4056,7 @@ legality
 losing
 latent
 limit
+leaves
 Ease
 Excel
 Escalation
@@ -4273,6 +4295,7 @@ Computers
 Craftsmanship
 Contents
 Congratulations
+Caleb
 We
 While
 Write
@@ -4562,6 +4585,8 @@ Formed
 Flurry
 Fists
 Furaribi
+Foreword
+Feedback
 Dungeons
 Dragons
 Definitely
@@ -4856,6 +4881,7 @@ Schematics
 Strikes
 Stopper
 Selection
+Still
 Jackson
 Jack
 Juggernaut
@@ -4866,6 +4892,7 @@ Jet
 Jan
 Jupiter
 Just
+Josh
 No
 Notes
 Not
@@ -5009,6 +5036,8 @@ Blossom
 Breecher
 Bolster
 Blended
+Brody
+But
 Varies
 Vast
 Void
@@ -5081,5 +5110,6 @@ Kingslayer
 Quantum
 Quirks
 Quick
+Questionnaire
 zero
 zealous
