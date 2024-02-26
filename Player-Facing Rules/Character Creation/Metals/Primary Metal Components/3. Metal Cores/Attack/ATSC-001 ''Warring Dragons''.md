@@ -28,7 +28,7 @@ The first of the Attack Type S-R<sup>2</sup> Engine cores to be produced by Supe
 |   **Traits:**   | [[Air]], [[Earth]], [[Fire]], [[Water]] |
 
 > [!embed-feat]- ### Core Passive: *`=this.Passive`*
-> [[Modal]]
+> [[Usage\|Usage: Metal]], [[Modal]]
 > - - -
 > *As you summon your Metal, and at the start of each combat, pick one of the following options*
 > 
