@@ -297,6 +297,7 @@ instantly
 ideas
 infinite
 ignores
+illusions
 the
 takes
 titans
@@ -568,6 +569,7 @@ guidelines
 gotten
 got
 greatsword
+guess
 from
 first
 freeform
@@ -745,6 +747,7 @@ forming
 foundation
 fair
 forcefully
+falsehoods
 came
 combines
 combat
@@ -1253,6 +1256,7 @@ boosters
 bottom
 big
 brother
+belong
 not
 never
 no
@@ -2119,6 +2123,7 @@ Linear
 Lunar
 Log
 Legends
+Loader
 The
 Tenets
 This
@@ -2237,6 +2242,7 @@ Table
 Torch
 Thank
 Thumperthrower
+Thorough
 oriented
 of
 on
@@ -2707,6 +2713,9 @@ eagerly
 element
 explodes
 exploding
+everything
+elect
+exceptions
 played
 pilot
 play
@@ -4158,6 +4167,8 @@ Edition
 Eliminate
 Examples
 Ensure
+Eyes
+Extend
 Use
 Usable
 Unsorted
@@ -4324,6 +4335,8 @@ Contents
 Congratulations
 Caleb
 CQC
+Cumulative
+Criticals
 We
 While
 Write
@@ -4617,6 +4630,7 @@ Fists
 Furaribi
 Foreword
 Feedback
+Fast
 Dungeons
 Dragons
 Definitely
@@ -4914,6 +4928,11 @@ Selection
 Still
 Swapping
 Stunt
+Searcher
+Scan
+Seeing
+Simplicity
+Stacking
 Jackson
 Jack
 Juggernaut
@@ -5070,6 +5089,7 @@ Bolster
 Blended
 Brody
 But
+Better
 Varies
 Vast
 Void
@@ -5101,6 +5121,7 @@ Villainous
 Villain
 Villains
 Vene
+Viewfinder
 You
 Your
 YAY

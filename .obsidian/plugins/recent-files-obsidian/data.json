@@ -5,6 +5,22 @@
       "path": "General Rules/Character Mechanics Overview.md"
     },
     {
+      "basename": "Dice Overview",
+      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
+    },
+    {
+      "basename": "Lazerpike",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
+    },
+    {
+      "basename": "Range",
+      "path": "General Rules/Traits Catalog/Weapon-Only/Range.md"
+    },
+    {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
       "basename": "Utility Notes",
       "path": "Utilities/Dashboard Notes/Utility Notes.md"
     },
@@ -97,10 +113,6 @@
       "path": "General Rules/Traits Catalog/Overkill.md"
     },
     {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
       "basename": "Weapon Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     },
@@ -123,10 +135,6 @@
     {
       "basename": "Grabenkanon",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
-      "basename": "Lazerpike",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
     },
     {
       "basename": "Equipment Overview",
@@ -191,14 +199,6 @@
     {
       "basename": "Metal Core Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
-    },
-    {
-      "basename": "ATSC-001 ''Warring Dragons''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
-    },
-    {
-      "basename": "Metal Mechanics Outline",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
     }
   ],
   "omittedPaths": [],

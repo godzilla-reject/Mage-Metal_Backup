@@ -162,17 +162,21 @@ These proficiencies are for abilities that all Mage-Pilots will need, and are th
 >> Perception is how well a character is trained at spotting subtle details, as well as a measure of reaction speed.
 >> **Key Attribute: Mind**
 >
->> [!metadata|right] *Trained Perk: *
+>> [!metadata|right] *Trained Perk: Thorough Searcher*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> You take your time to ensure you find everything. When you Search or Scan a location, you can elect to take twice the amount of time to do so. If you do, you gain a +3 circumstance bonus to **Perception** checks made as a part of those actions.
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Viewfinder*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> You ignore -2 in range penalties when making Ranged weapon attacks. This increases to -4 when you become a Master in **Perception**.
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Scouting*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> Whenever you **Scout**, you grant allies a +3 circumstance bonus to initiative instead of a +1.  
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: All-Seeing Eyes*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> You make checks to see through illusions and other falsehoods with favor. 
 
 >[!column]- ### **Piloting**
 >> [!note] #### *Description*
@@ -212,7 +216,7 @@ These proficiencies are for abilities that all Mage-Pilots will need, and are th
 >
 >> [!metadata|right] *Trained Perk: Magician*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
->> 
+>> Spells you cast of Rank 1 or lower cost half as much mana. When you increase your Spell-Work training level, the Rank of spells effected increases by 1. 
 >
 >> [!metadata|right] *Expertise Perk: Magus*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
@@ -231,90 +235,111 @@ These proficiencies are for abilities that all Mage-Pilots will need, and are th
 Weapon proficiencies dictate how well a pilot can use, understand, and engage with weaponry of that specific type.
 >[!column]- ### **Simple  Ranged Weapons**
 >> [!note] #### *Description*
->> **Key Attribute:**
+>> **Key Attribute: Reflex**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Simple Ranged Weapon Specialty* 
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Ranged Weapon Group. Simple Weapons you wield that belong to that group gain its listed Specialty trait. 
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Power In Simplicity*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Increase the damage die size of Simple Ranged weapons you wield by one step. 
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Fast Loader*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> You take one less action to reload Simple Ranged weapons you wield, and two less actions to reload weapons that belong to your Simple Ranged Weapon Specialty. 
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Better Critical*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> Extend the critical range of weapons you wield that belong to your Simple Ranged Weapon Specialty by 1 (typically to 6 and lower.)
 
 >[!column]- ### **Martial  Ranged Weapons**
 >> [!note] #### *Description*
->> **Key Attribute:**
+>> **Key Attribute: Reflex**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Martial Ranged Weapon Specialty*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Ranged Weapon Group. Martial Weapons you wield that belong to that group gain its listed Specialty trait
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Spell and Bullet*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Whenever you attack with a weapon that belongs to your Martial Ranged Weapon Specialty, if you casted a spell this turn, that attack deals an extra die of **channeled** damage.
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Close-Quarters Gunplay*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> You ignore penalties to using Martial Ranged weapons within Engagement range.
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Martial Prowess*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> Increase the damage die size of Martial Ranged weapons you wield by one step. 
 
 >[!column]- ### **Advanced  Ranged Weapons**
 >> [!note] #### *Description*
->> **Key Attribute:**
+>> **Key Attribute: Reflex**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Advanced Ranged Weapon Specialty*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Ranged Weapon Group. Advanced Weapons you wield that belong to that group gain its listed Specialty trait.
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Fast Loader*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> You take one less action to reload Advanced Ranged weapons you wield, and two less actions to reload weapons that belong to your Advanced Ranged Weapon Specialty.
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Sharpshot*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> You ignore up to -2 in Range penalties when making ranged attacks with weapons you wield that belong to your Advanced Ranged Weapon Specialty. This is cumulative with other such effects, such as the **Perception** perk ‘Viewfinder’.
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Brutal Critical*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> Extend the critical range of weapons you wield that belong to your Advanced Ranged Weapon Specialty by 1 (typically to 6 and lower.) Additionally, when you roll a critical hit on an attack with such a weapon, multiply the damage by 3, instead of 2. 
 
 >[!column]- ### **Simple Melee Weapons**
 >> [!note] #### *Description*
->> **Key Attribute:**
+>> **Key Attribute: Power**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Simple Melee Weapon Specialty*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Melee Weapon Group. Simple Weapons you wield that belong to that group gain its listed Specialty trait.
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Power in Simplicity*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Increase the damage die size of Simple Melee weapons you wield by one step.
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Brutality*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> Increase the critical damage multiplier for weapons you wield that belong to your Simple Melee Weapon Specialty to 3.
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Onslaught*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> Weapons you wield that belong to your Simple Melee Weapon Specialty gain [[Flurry\|Flurry 1]]. This is additive with any Flurry it already has. 
 
 >[!column]- ### **Martial Melee Weapons**
 >> [!note] #### *Description*
->> **Key Attribute:**
+>> **Key Attribute: Power**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Martial Melee Weapon Specialty*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Melee Weapon Group. Martial Weapons you wield that belong to that group gain its listed Specialty trait.
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Gun and Blade*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Whenever you attack with a weapon that belongs to your Martial Melee Weapon Specialty, if you attacked with a Ranged weapon this turn, that attack gains a +3 circumstance bonus. 
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Sword and Sorcery*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> Whenever you attack with a weapon that belongs to your Martial Melee Weapon Specialty, if you casted a spell this turn, that attack deals an extra die of **channeled** damage.
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Martial Prowess.*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> Increase the damage die size of Martial Melee weapons you wield by one step. 
 
 >[!column]- ### **Advanced Melee Weapons**
 >> [!note] #### *Description*
->> **Key Attribute:**
+>> **Key Attribute: Power**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Advanced Melee Weapon Specialty*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Melee Weapon Group. Advanced Weapons you wield that belong to that group gain its listed Specialty trait.
 >
 >> [!metadata|right] *Expertise Perk:*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
