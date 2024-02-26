@@ -5896,15 +5896,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 12.72,
-      "characterCount": 24082,
+      "characterCount": 24081,
       "nonWhitespaceCharacterCount": 19954,
       "readingTimeInMinutes": 14.4,
       "linkCount": 5,
       "embedCount": 40,
       "aliases": null,
       "createdDate": 1708315156539,
-      "modifiedDate": 1708750254459,
-      "sizeInBytes": 24258
+      "modifiedDate": 1708935960773,
+      "sizeInBytes": 24257
     },
     "GM-Facing Rules/Running The Game/GM Advise-The Toolbox and You.md": {
       "isCountable": true,

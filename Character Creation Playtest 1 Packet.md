@@ -262,7 +262,6 @@ Just like your Mage, a concept of your Metal is needed before you begin creating
 Once you’ve nailed down the concept of your Metal, review how Metal Mechanics differ from Mage.
 ### Metal Mechanics 
 ![[Metal Attributes and Statistics]]
-
 ## 1.  *Frame*
 The *Frame* is the most basic component of the Metal, forming the foundation of which all other parts are mounted upon. It determines fundamental aspects of a Metal, such as Size, body-plan, and weapon mounts.
 

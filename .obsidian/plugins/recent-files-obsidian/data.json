@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Character Creation Playtest 1 Packet",
+      "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "DTSC-001 ''Steelclad Mamba''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
+    },
+    {
+      "basename": "STSC-001 ''Infinite Hydrangea''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -169,10 +181,6 @@
       "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
     },
     {
-      "basename": "Character Creation Playtest 1 Packet",
-      "path": "Character Creation Playtest 1 Packet.md"
-    },
-    {
       "basename": "Page Break",
       "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Page Break.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Design Note-Mounts",
       "path": "Design Bible/Design Notes/Design Note-Mounts.md"
-    },
-    {
-      "basename": "Metal Shell Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Metal Shell Database.md"
-    },
-    {
-      "basename": "Metal Frame Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
     }
   ],
   "omittedPaths": [],

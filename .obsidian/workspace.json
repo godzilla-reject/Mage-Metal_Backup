@@ -8,17 +8,41 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3a7ecc4031687fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation Playtest 1 Packet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "d2e642032c4c6392",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -617.2008606319313,
-                  "y": -866.9360880257377,
-                  "zoom": -0.4462704686887856
-                }
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9bcdcbb4baa97463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest 1 Packet.md"
               }
             }
           },
@@ -243,14 +267,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d2e642032c4c6392",
+  "active": "3a7ecc4031687fbd",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
+    "Character Creation Playtest 1 Packet.md",
+    "Utilities/Dashboard.canvas",
     "General Rules/The Favor System/Dice Structure/Dice Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
     "General Rules/Character Mechanics Overview.md",
     "General Rules/Traits Catalog/Weapon-Only/Range.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-    "Utilities/Dashboard.canvas",
     "README.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
@@ -271,9 +298,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers/Heavy-Impact Gravihammer.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
-    "General Rules/Traits Catalog/Loading.md",
-    "General Rules/Traits Catalog/Ordnance.md",
-    "General Rules/Traits Catalog/Overkill.md",
     "Character Creation Playtest 1 Packet.tex"
   ]
 }
