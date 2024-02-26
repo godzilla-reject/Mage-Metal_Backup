@@ -136,10 +136,6 @@ Derived from their respective Attribute, different Statistics have differing for
 	- Luck is a meta-currency that players can use to fuel actions with the [[Fated]] trait.
 	- Tenacity/5 (Minimum of 2.)
 #### Proficiencies
-> [!info|right ws-med txt-left ttl-c] *Skills and Aptitude*
-> In `=[[Dev Helpers]].game-short`, skills are essential to all characters. They can be found in Appendix D: Skill List. More information is found in the *Finalizing Skills* section of character creation.
-
-![[Character Mechanics Overview#^c79b91|*Insert Proficiencies when Done*]]
 
 
 ## 2. *Species*
@@ -223,13 +219,33 @@ Once you have assigned all 12 points, take this time to calculate your Statistic
 
 ## 7. *Finalizing Skills and Proficiencies*
 After your Attributes and Statistics are finalized, you are ready to finalize your Skills and Proficiencies. 
+
 ### **Skills**
 Designate a number of Skill Aptitudes as determined by your Skill Aptitudes Statistic, then select one Skill you are Trained in and have Aptitude with. You begin play as an Expert in that Skill.
-### **Weapon and Armor Proficiencies**
+> [!info|right ws-med txt-left ttl-c] *Skills and Aptitude*
+> In `=[[Dev Helpers]].game-short`, skills are essential to all characters. They can be found in Appendix D: Skill List. More information is found in the *Finalizing Skills* section of character creation.
+### **Proficiencies**
+Proficiencies are similar to statistics, in that they are tied directly to an attribute (typically to meet requirements), but they are tracked with training levels instead of numeric values. Each new training level in a proficiency also gains the player character a new Perk associated with that proficiency. 
+#### **Weapon and Armor Proficiencies**
 Select one Armor proficiency and one Weapon proficiency to increase your training level with by one step (untrained to Trained or Trained to Expert.) You cannot begin play with an Armor or Weapon proficiency at or above Mastered.
-### **General Proficiencies**
-From among **Perception**, **Piloting** and **Spell-Work**, pick two to begin play at Trained and one to begin play at Expert.
+##### *Weaponry*
+![[Character Mechanics Overview#^f991af]]
+![[Character Mechanics Overview#^ca05a7]]
+![[Character Mechanics Overview#^648230]]
+![[Character Mechanics Overview#^97ca1e]]
+![[Character Mechanics Overview#^15c3a5]]
+![[Character Mechanics Overview#^22fd06]]
 
+##### *Armor*
+![[Character Mechanics Overview#^059684]]
+![[Character Mechanics Overview#^85f3b3]]
+![[Character Mechanics Overview#^83a377]]
+
+#### **General Proficiencies**
+From among **Perception**, **Piloting** and **Spell-Work**, pick two to begin play at Trained and one to begin play at Expert.
+![[Character Mechanics Overview#^7dd3de]]
+![[Character Mechanics Overview#^61734a]]
+![[Character Mechanics Overview#^87679e]]
 ## 8. *Creating a Grimoire*
 After all of your mechanical selections, you can move on to creating your *Grimoire*, which is a catalog of all the spells your Mage can cast. These are the guidelines for creating your Grimoire:
 1. At Tier 1, your Grimoire can contain Rank 0-3 spells.

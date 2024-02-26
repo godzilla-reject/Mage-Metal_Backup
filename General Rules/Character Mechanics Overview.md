@@ -65,9 +65,6 @@ Derived from their respective Attribute, different Statistics have differing for
 - - -
 
 ##  Proficiencies
-
-^c79b91
-
 Proficiencies are similar to statistics, in that they are tied directly to an attribute (typically to meet requirements), but they are tracked with training levels instead of numeric values. Each new training level in a proficiency also gains the player character a new Perk associated with that proficiency. 
 ### Armor  Proficiencies
 - Each character is trained in one more types of armor. These armor forms are pilot-wearable suits that enhance a Mage's protections when their boots are on the ground. Armor training *also* influences how well a Mage can utilize their Metal's armor. The armor forms are as follows, and are explored in-depth in the [[Armor Overview]].
@@ -157,7 +154,7 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 
 ### General Proficiencies
 These proficiencies are for abilities that all Mage-Pilots will need, and are therefore, not really optional. 
->[!column]- ### **Perception:**
+>[!column]- ### **Perception**
 >> [!note] #### *Description*
 >> Perception is how well a character is trained at spotting subtle details, as well as a measure of reaction speed.
 >> **Key Attribute: Mind**
@@ -177,6 +174,8 @@ These proficiencies are for abilities that all Mage-Pilots will need, and are th
 >> [!metadata|right] *Legendary Perk: All-Seeing Eyes*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> You make checks to see through illusions and other falsehoods with favor. 
+
+^7dd3de
 
 >[!column]- ### **Piloting**
 >> [!note] #### *Description*
@@ -209,6 +208,8 @@ These proficiencies are for abilities that all Mage-Pilots will need, and are th
 >> You cannot fail (but you can still *critically fail*) **Piloting** checks.
 >
 
+^61734a
+
 >[!column]- ### **Spell-Work**
 >> [!note] #### *Description*
 >> Spell-Work is just a fancy way to say "casting," specifically spells that are *not* cantrips. When outside of a Metal, a Mage must make a Spell-Work roll to cast a spell, and when in their Metal, they typically roll Spell Working to cast a spell when severely damaged or out of mana. 
@@ -230,6 +231,8 @@ These proficiencies are for abilities that all Mage-Pilots will need, and are th
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> You treat all spells as if they were two Ranks lower. If this would reduce a spell to below Rank 0, it becomes Rank 0 instead.
 >
+
+^87679e
 
 ### Weaponry Proficiencies
 Weapon proficiencies dictate how well a pilot can use, understand, and engage with weaponry of that specific type.
@@ -253,6 +256,8 @@ Weapon proficiencies dictate how well a pilot can use, understand, and engage wi
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> Extend the critical range of weapons you wield that belong to your Simple Ranged Weapon Specialty by 1 (typically to 6 and lower.)
 
+^f991af
+
 >[!column]- ### **Martial  Ranged Weapons**
 >> [!note] #### *Description*
 >> **Key Attribute: Reflex**
@@ -272,6 +277,8 @@ Weapon proficiencies dictate how well a pilot can use, understand, and engage wi
 >> [!metadata|right] *Legendary Perk: Martial Prowess*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> Increase the damage die size of Martial Ranged weapons you wield by one step. 
+
+^ca05a7
 
 >[!column]- ### **Advanced  Ranged Weapons**
 >> [!note] #### *Description*
@@ -293,6 +300,8 @@ Weapon proficiencies dictate how well a pilot can use, understand, and engage wi
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> Extend the critical range of weapons you wield that belong to your Advanced Ranged Weapon Specialty by 1 (typically to 6 and lower.) Additionally, when you roll a critical hit on an attack with such a weapon, multiply the damage by 3, instead of 2. 
 
+^648230
+
 >[!column]- ### **Simple Melee Weapons**
 >> [!note] #### *Description*
 >> **Key Attribute: Power**
@@ -312,6 +321,8 @@ Weapon proficiencies dictate how well a pilot can use, understand, and engage wi
 >> [!metadata|right] *Legendary Perk: Onslaught*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> Weapons you wield that belong to your Simple Melee Weapon Specialty gain [[Flurry\|Flurry 1]]. This is additive with any Flurry it already has. 
+
+^97ca1e
 
 >[!column]- ### **Martial Melee Weapons**
 >> [!note] #### *Description*
@@ -333,6 +344,8 @@ Weapon proficiencies dictate how well a pilot can use, understand, and engage wi
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> Increase the damage die size of Martial Melee weapons you wield by one step. 
 
+^15c3a5
+
 >[!column]- ### **Advanced Melee Weapons**
 >> [!note] #### *Description*
 >> **Key Attribute: Power**
@@ -350,3 +363,5 @@ Weapon proficiencies dictate how well a pilot can use, understand, and engage wi
 >> [!metadata|right] *Legendary Perk:*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >
+
+^22fd06

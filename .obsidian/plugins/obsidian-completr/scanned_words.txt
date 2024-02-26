@@ -480,6 +480,7 @@ timely
 therewithin
 toil
 trillions
+tends
 great
 game
 gaming
@@ -753,6 +754,7 @@ foundation
 fair
 forcefully
 falsehoods
+forced
 came
 combines
 combat
@@ -1097,6 +1099,9 @@ continued
 closest
 contean
 contract
+clearing
+cure
+casted
 before
 being
 be
@@ -1263,6 +1268,8 @@ bottom
 big
 brother
 belong
+behaviors
+belongs
 not
 never
 no
@@ -1321,6 +1328,7 @@ niche
 necessarily
 nitty
 nailed
+negative
 afraid
 and
 aesthetic
@@ -1564,6 +1572,7 @@ aux
 awaited
 angering
 acutely
+attacked
 wear
 with
 war
@@ -2080,6 +2089,9 @@ sword
 serpent
 scales
 snake
+shed
+statuses
+shedding
 LANCER
 Learn
 Lancer
@@ -2977,6 +2989,7 @@ punch
 platforms
 profile
 profiles
+poison
 RP
 RPGs
 Ryutama
@@ -3859,6 +3872,7 @@ methodology
 mecha
 mention
 mere
+multiplier
 GURPS
 Google
 Greyhawk
@@ -3915,6 +3929,7 @@ Grunts
 Grunt
 Generals
 Greetings
+Gunplay
 utmost
 use
 up
@@ -4349,6 +4364,7 @@ Caleb
 CQC
 Cumulative
 Criticals
+Close
 We
 While
 Write
@@ -4562,6 +4578,7 @@ verge
 villains
 viability
 versed
+virulent
 Function
 Form
 Fleshed
@@ -4946,6 +4963,8 @@ Seeing
 Simplicity
 Stacking
 Steelclad
+Sharpshot
+Sorcery
 Jackson
 Jack
 Juggernaut
@@ -5034,6 +5053,7 @@ Overlords
 Obstacle
 Outpost
 Oni
+Onslaught
 Basics
 Beneficial
 Body
@@ -5103,6 +5123,9 @@ Blended
 Brody
 But
 Better
+Bullet
+Brutal
+Brutality
 Varies
 Vast
 Void
@@ -5177,5 +5200,6 @@ Quantum
 Quirks
 Quick
 Questionnaire
+Quarters
 zero
 zealous

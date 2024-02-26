@@ -25,12 +25,19 @@ First of the Defense-Type  S-R<sup>2</sup> Engine cores produced as apart of SMR
 |   **Traits:**   |  [[Metal]]                   |
 
 > [!embed-feat]+ ### Core Passive: *`=this.Passive`*
-> 
+> [[Usage\|Usage: Metal]]
+> - - -
+> You gain a +1 magical bonus to attacks made as a part of a reaction. This bonus increases by 1 each time you upgrade the quality of this soul core.
 
 >[!column]+ ### ***Core Intrinsic and Intrinsic Upgrades*** 
 > 
->> [!embed-feat] Basic Intrinsic: *`=this.Intrinsic`*
+>> [!embed-feat] Basic Intrinsic: *`=this.Intrinsic`* `=[[Dev Helpers]].three-action`
 >> *This is the Core's Intrinsic Ability*
+>> 
+>> ***Frequency: Once Per Combat***
+>> [[Usage\|Usage: Metal]]
+>> - - -
+>> You shed your scales, clearing all negative statuses and shedding all penalties to Toughness. 
 >
 >> [!embed-feat] *Advanced Enhancement*
 >> *When this part is upgraded to Advanced, your Metal's Core Intrinsic Ability gains this enhancement.*
@@ -42,3 +49,6 @@ First of the Defense-Type  S-R<sup>2</sup> Engine cores produced as apart of SMR
 >>*When this part is upgraded to Divine, your Metal's Core Intrinsic Ability gains this enhancement.*
 
 > [!embed-feat]+ ### Deus Ex Machina: *`=this.Deus`*
+> You find the cure for the *Iron Adder’s* most virulent poison. 
+> 
+> If you would be forced to attempt to survive an impossible circumstance, you can invoke this Deus Ex Machina. The Escalation die is immediately set to maximum, and you must face a Test of Soul, which has been carefully determined by your GM. On a success, your Soul ignites. Replace your Potential attribute with Soul, and increase your Tier to 5. 

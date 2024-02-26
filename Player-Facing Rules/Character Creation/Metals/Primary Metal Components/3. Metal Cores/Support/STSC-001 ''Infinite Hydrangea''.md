@@ -28,6 +28,8 @@ First of the Support-Type Soul Cores, the *Infinite Hydrangea* employs a single 
 |   **Traits:**   |    [[Brilliant]]    |
 
 > [!embed-feat]+ ### Core Passive: *`=this.Passive`*
+> [[Usage\|Usage: Metal]]
+> - - -
 > You are imbued with the light of the ***Grovetender*** by your mending. Whenever you cast a spell with the [[Healing]] trait, you gain a single Focus die. This die starts as a d6, and increases by one step every time you improve this Core's quality. Your Focus die pool can have a maximum of your Tier * 2 dice in it.
 
 >[!column]+ ### ***Core Intrinsic and Intrinsic Upgrades*** 
