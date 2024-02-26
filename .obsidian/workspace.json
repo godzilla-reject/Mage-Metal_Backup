@@ -11,14 +11,12 @@
             "id": "981f4eadc8bd2cb9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
-                }
+                "file": "General Rules/Character Mechanics Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/Character Mechanics Overview.md"
               }
             }
           },
@@ -214,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,16 +234,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "981f4eadc8bd2cb9",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+    "General Rules/Character Mechanics Overview.md",
+    "Utilities/Dashboard.canvas",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "General Rules/Traits Catalog/Exceed.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
@@ -271,9 +273,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/Standard-Issue 120mm 'Sizzleslinger' Assault Carbine.md",
     "General Rules/Traits Catalog/Weapon-Only/Reliable.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
-    "Utilities/Dashboard.canvas",
     "Character Creation Playtest 1 Packet.tex"
   ]
 }

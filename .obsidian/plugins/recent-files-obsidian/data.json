@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "School Note",
       "path": "Reference Notes/School Note.md"
-    },
-    {
-      "basename": "Role Note",
-      "path": "Reference Notes/Role Note.md"
-    },
-    {
-      "basename": "Battlefield Support",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
-    },
-    {
-      "basename": "Skill List",
-      "path": "Reference Notes/Skill List.md"
     }
   ],
   "omittedPaths": [],

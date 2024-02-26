@@ -179,25 +179,30 @@ These proficiencies are for abilities that all Mage-Pilots will need, and are th
 >> Piloting is arguably the most important proficiency in *Metal*. All PCs, and nearly all NPCs will have it to at least some degree of it. It is a measure of a pilot's skill, but it also a measure of how well-connected to their Metal they are.
 >> **Key Attribute: Reflex+Potential**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Stunt Pilot*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
 >> 
 >> You can now use Novice piloting maneuvers you have access to.
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Hot-Shot Pilot*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
 >> 
 >> You can now use Expert piloting maneuvers you have access to.
+>> 
+>> Whenever you critically fail a **Piloting** check, you can spend a Luck point to instead succeed. If you do, you make your next **Piloting** check without favor. 
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Ace Pilot*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
 >>
 >> You can now use Master piloting maneuvers you have access to.
+>> 
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Perfect Pilot*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> 
 >> You can now use Legendary piloting maneuvers you have access to.
+>> 
+>> You cannot fail (but you can still *critically fail*) **Piloting** checks.
 >
 
 >[!column]- ### **Spell-Work**
@@ -205,17 +210,21 @@ These proficiencies are for abilities that all Mage-Pilots will need, and are th
 >> Spell-Work is just a fancy way to say "casting," specifically spells that are *not* cantrips. When outside of a Metal, a Mage must make a Spell-Work roll to cast a spell, and when in their Metal, they typically roll Spell Working to cast a spell when severely damaged or out of mana. 
 >> **Key Attribute: Mind+Poential**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: Magician*
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> 
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Magus*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Your spells are harder to resist. Creatures rolling to resist the effects of a spell you cast suffer a difficulty penalty equal to your Tier.
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Wizard*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> Increase the damage die size of spells you cast that are Rank 3 or lower. 
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Archmage*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> You treat all spells as if they were two Ranks lower. If this would reduce a spell to below Rank 0, it becomes Rank 0 instead.
 >
 
 ### Weaponry Proficiencies
