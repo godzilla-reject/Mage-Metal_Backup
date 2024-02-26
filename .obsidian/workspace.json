@@ -45,8 +45,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6b3da80b6594c769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
               }
             }
           },
@@ -267,11 +281,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3a7ecc4031687fbd",
+  "active": "9bcdcbb4baa97463",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
     "Character Creation Playtest 1 Packet.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
     "Utilities/Dashboard.canvas",
     "General Rules/The Favor System/Dice Structure/Dice Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
@@ -295,7 +310,6 @@
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md",
     "General Rules/Traits Catalog/Spell-Only/Sustained.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers/Heavy-Impact Gravihammer.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
     "Character Creation Playtest 1 Packet.tex"

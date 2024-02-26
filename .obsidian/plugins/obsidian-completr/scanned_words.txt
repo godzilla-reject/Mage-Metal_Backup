@@ -55,6 +55,7 @@ Impeccable
 Item
 Installing
 Iconic
+Iron
 Mage
 Metal
 Mecha
@@ -165,6 +166,8 @@ Mastery
 Mounting
 Magician
 Magus
+Mamba
+Mambas
 in
 inspiration
 it
@@ -476,6 +479,7 @@ thank
 timely
 therewithin
 toil
+trillions
 great
 game
 gaming
@@ -1092,6 +1096,7 @@ clue
 continued
 closest
 contean
+contract
 before
 being
 be
@@ -1558,6 +1563,7 @@ auxiliary
 aux
 awaited
 angering
+acutely
 wear
 with
 war
@@ -2071,6 +2077,9 @@ superprimary
 simultaneously
 suffered
 sword
+serpent
+scales
+snake
 LANCER
 Learn
 Lancer
@@ -3648,6 +3657,8 @@ Apply
 Appendices
 Ace
 Archmage
+Adder
+Adders
 metal
 magic
 mechanics
@@ -4934,6 +4945,7 @@ Scan
 Seeing
 Simplicity
 Stacking
+Steelclad
 Jackson
 Jack
 Juggernaut
