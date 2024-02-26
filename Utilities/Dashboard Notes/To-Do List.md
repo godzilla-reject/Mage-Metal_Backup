@@ -7,7 +7,6 @@ cssclasses:
 
 - [ ] #### 🔺To-Do For: Playtest 1 (holy shit its happening ain’t it) 
 	- [ ] 🔺 Playtest 1 Packet
-		- [ ] Eliminate embeds in the Playtest Packet.
 		- [ ] Add Iconic character creation through-line.
 	- [ ] 🔺To-Do For: Players
 		- [ ] To-Do For: Player Knowledge Basics

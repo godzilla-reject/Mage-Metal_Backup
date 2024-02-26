@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Character Mechanics Overview",
       "path": "General Rules/Character Mechanics Overview.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Metal Frame Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Metal Frame Database.md"
-    },
-    {
-      "basename": "Metal Core Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md"
     }
   ],
   "omittedPaths": [],
