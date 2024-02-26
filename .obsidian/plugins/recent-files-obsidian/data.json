@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Character Mechanics Overview",
       "path": "General Rules/Character Mechanics Overview.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Metal Mechanics Outline",
       "path": "Player-Facing Rules/Character Creation/Metals/Metal Mechanics Outline.md"
-    },
-    {
-      "basename": "School Note",
-      "path": "Reference Notes/School Note.md"
     }
   ],
   "omittedPaths": [],

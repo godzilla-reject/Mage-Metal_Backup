@@ -9,10 +9,8 @@ This is just an Obsidian vault, so you can fork it for a copy of your own or mak
 - Current Version: v.0.0.2 Pre-Alpha 
 
 # Road Map
-- v.0.0.5: Character Generation Test: Mage
-	- Current Goal
-- v.0.0.9: Character Generation Test: Metal
-	- Est. Time-Frame: Jan-Feb 2024
+- v.0.0.5: Character Generation Test: 
+	- Current Goal, Est. Time-Frame: Jan-March 2024
 - v.0.1.0: Pre-Alpha Test 1: Character Creation and Progression Test
 	- Spring 2024
 - v.0.5.0: Pre-Alpha Test 2: Mage Combat Prototype Test
