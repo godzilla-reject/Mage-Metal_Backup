@@ -162,6 +162,8 @@ MP
 Moons
 Mastery
 Mounting
+Magician
+Magus
 in
 inspiration
 it
@@ -3634,6 +3636,8 @@ Appendix
 Armorcraft
 Apply
 Appendices
+Ace
+Archmage
 metal
 magic
 mechanics
@@ -4380,6 +4384,7 @@ Wards
 WE
 WILL
 Wrapping
+Wizard
 keeping
 keep
 kek
@@ -4474,6 +4479,7 @@ Humans
 Hyakki
 Hundred
 Hardlight
+Hot
 you
 your
 yourself
@@ -4907,6 +4913,7 @@ Stopper
 Selection
 Still
 Swapping
+Stunt
 Jackson
 Jack
 Juggernaut

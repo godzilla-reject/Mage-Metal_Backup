@@ -11,14 +11,12 @@
             "id": "b83a830b887fe60b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
-                }
+                "file": "General Rules/Character Mechanics Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/Character Mechanics Overview.md"
               }
             }
           },
@@ -245,8 +243,8 @@
   },
   "active": "b83a830b887fe60b",
   "lastOpenFiles": [
-    "README.md",
     "Utilities/Dashboard.canvas",
+    "README.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "General Rules/Character Mechanics Overview.md",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
@@ -273,7 +271,6 @@
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/Standard-Issue 120mm 'Sizzleslinger' Assault Carbine.md",
-    "General Rules/Traits Catalog/Weapon-Only/Reliable.md",
     "Character Creation Playtest 1 Packet.tex"
   ]
 }

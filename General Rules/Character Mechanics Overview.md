@@ -162,7 +162,7 @@ These proficiencies are for abilities that all Mage-Pilots will need, and are th
 >> Perception is how well a character is trained at spotting subtle details, as well as a measure of reaction speed.
 >> **Key Attribute: Mind**
 >
->> [!metadata|right] *Trained Perk:*
+>> [!metadata|right] *Trained Perk: *
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
 >
 >> [!metadata|right] *Expertise Perk:*

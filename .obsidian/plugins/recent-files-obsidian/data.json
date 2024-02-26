@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
+      "basename": "Utility Notes",
+      "path": "Utilities/Dashboard Notes/Utility Notes.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -9,16 +17,8 @@
       "path": "README.md"
     },
     {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Utility Notes",
-      "path": "Utilities/Dashboard Notes/Utility Notes.md"
     },
     {
       "basename": "''Converter'' Blade-Barricade CQC System",

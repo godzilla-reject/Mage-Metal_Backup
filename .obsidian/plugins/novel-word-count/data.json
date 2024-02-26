@@ -3644,15 +3644,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 7.246666666666667,
-      "characterCount": 15723,
+      "characterCount": 15724,
       "nonWhitespaceCharacterCount": 13167,
       "readingTimeInMinutes": 8.20377358490566,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734101906,
-      "modifiedDate": 1708907379027,
-      "sizeInBytes": 15727
+      "modifiedDate": 1708918130634,
+      "sizeInBytes": 15728
     },
     "Player-Facing Rules/Playing the Game.md": {
       "isCountable": true,
