@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Deception",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Diplomacy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
+    },
+    {
+      "basename": "Intimidation",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
+    },
+    {
+      "basename": "Performance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Character Creation Playtest 1 Packet",
@@ -27,10 +55,6 @@
     {
       "basename": "ATSC-001 ''Warring Dragons''",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Dice Overview",
@@ -175,30 +199,6 @@
     {
       "basename": "Metal Weapon Concepts",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md"
-    },
-    {
-      "basename": "Armor-Piercing",
-      "path": "General Rules/Traits Catalog/Armor-Piercing.md"
-    },
-    {
-      "basename": "Metal Weapon Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
-    },
-    {
-      "basename": "Page Break",
-      "path": "Templates/Markdown Templates/DevHelper Templates/Inserts/Page Break.md"
-    },
-    {
-      "basename": "Equipment Appendix",
-      "path": "Reference Notes/Equipment Appendix.md"
-    },
-    {
-      "basename": "Metal Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Creation Steps.md"
-    },
-    {
-      "basename": "empty files",
-      "path": "Utilities/empty files.md"
     }
   ],
   "omittedPaths": [],

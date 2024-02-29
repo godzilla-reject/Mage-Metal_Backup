@@ -16,7 +16,7 @@ cssclasses:
 			- [ ] Playing The Game
 		- [ ]  To-Do For: Mage Section of Character Creation (YAY)
 			- [ ]  ⏫  Get Skills Database to 100% complete markers.
-			- [ ]  ⏫  Get the rest of the proficiencies in working order. 
+			- [x] ⏫  Get the rest of the proficiencies in working order. ✅ 2024-02-28
 
 - [ ] ##### ⏬To-Do For: Game Master 
 	- [ ] 🔼 GM Basics
