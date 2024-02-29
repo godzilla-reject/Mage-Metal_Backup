@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "504c3ab9013c7d63",
+        "id": "2690908ad34db05d",
         "type": "tabs",
         "children": [
           {
-            "id": "8046e4de8616f3ce",
+            "id": "71b42c531e1dd041",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.9462704686887856
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -242,7 +242,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8046e4de8616f3ce",
+  "active": "71b42c531e1dd041",
   "lastOpenFiles": [
     "General Rules/Character Mechanics Overview.md",
     "Character Creation Playtest 1 Packet.md",
