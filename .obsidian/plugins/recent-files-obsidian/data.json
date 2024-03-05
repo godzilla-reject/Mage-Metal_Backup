@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Deception",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Performance",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "To-Do List",
