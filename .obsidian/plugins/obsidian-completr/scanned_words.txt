@@ -481,6 +481,9 @@ therewithin
 toil
 trillions
 tends
+trickery
+tricking
+trick
 great
 game
 gaming
@@ -755,6 +758,7 @@ fair
 forcefully
 falsehoods
 forced
+forgeries
 came
 combines
 combat
@@ -2092,6 +2096,7 @@ snake
 shed
 statuses
 shedding
+subterfuge
 LANCER
 Learn
 Lancer
@@ -2558,6 +2563,8 @@ darkest
 dictated
 div
 defensive
+disguises
+diversion
 ever
 expand
 easy
@@ -2738,6 +2745,7 @@ exploding
 everything
 elect
 exceptions
+elsewhere
 played
 pilot
 play
@@ -3873,6 +3881,7 @@ mecha
 mention
 mere
 multiplier
+misleading
 GURPS
 Google
 Greyhawk
@@ -3999,6 +4008,7 @@ unity
 untrained
 upon
 uber
+utterance
 letting
 look
 like
@@ -4120,6 +4130,7 @@ losing
 latent
 limit
 leaves
+lies
 Ease
 Excel
 Escalation
@@ -4755,6 +4766,7 @@ Demons
 Divided
 Designate
 Deity
+Diversion
 Steve
 Sheets
 Segway

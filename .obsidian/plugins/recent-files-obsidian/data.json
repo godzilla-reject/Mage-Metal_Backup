@@ -1,32 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Deception",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+      "basename": "Intimidation",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
     },
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
+      "basename": "Performance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md"
+    },
+    {
       "basename": "Diplomacy",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
     },
     {
-      "basename": "Intimidation",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
+      "basename": "Deception",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
     },
     {
-      "basename": "Performance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
     {
       "basename": "To-Do List",
