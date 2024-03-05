@@ -20,12 +20,33 @@ These actions can be performed without any training in `=this.file.name `; they 
 >- - -
 > With a single gesture or utterance, you create a diversion that draws creatures’ attention elsewhere than it currently. If you use a physical gesture or trick, this action gains the [[Manipulate]] trait, and if you use words, it gains the [[Auditory]] and [[Linguistic]] traits. 
 > 
+> Make a **`=this.file.name`** contest against the **Perception** of the creatures you are attempting to distract. Regardless of outcome, affected creatures gain a +4 circumstance bonus to **Perception** checks made against subsequent Create a Diversion attempts. 
 > 
+> On a success, you become [[Hidden]] to any creatures you succeeded against. This lasts until the end of turn or until you take an action that would cause you to become Seen. 
+
+> [!note]+ ##### Impersonation
+> [[Concentrate]], [[Exploration]], [[Manipulate]], [[Secret]]
+>- - -
+>  You create a disguise to pass yourself off as someone or something you are not. Assembling a convincing disguise takes 10 minutes and requires a [[Set of Tools\|Set of Tools (Disguise Kit)]]
+>  
+>  In most cases, creatures have a chance to detect your deception only if they use the Seek action to attempt to do so. If you attempt to directly interact with someone while disguised, you make a *secret* **`=this.file.name`** contest against creature’s **Perception** instead. If you’re disguised as a specific individual, the GM might give creatures you interact with a circumstance bonus based on how well they know the person you’re imitating, or the GM might roll a secret Deception check even if you aren’t directly interacting with others.
+>  
+>  On a success, you trick the creature into thinking you’re the person you’re disguised as. You might have to attempt a new check if your behavior changes.
+>  
+>  On a failure, the creature can tell you’re not who you claim to be, and on a critical failure, the creature can tell you’re not who you claim to be, and it recognizes you if it would know you without a disguise.
 
 #### Trained Actions
 These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
-#### Expert Actions
-These actions can be performed by characters who are *Experts* in `=this.file.name`; they are not available to characters with lesser training.
+
+> [!note]+ ##### Feint ●
+> [[Mental]]
+>- - -
+>With a misleading action, you leave an opponent off-kilter. Make a **`=this.file.name`** contest against the **Perception** of a creature you are Engaged with.
+>
+>On a success, your foe is fooled momentarily; they are [[Off-Guard]] to the next melee attack you attempt against it. On a critical success, they are [[Off-Guard]] to *all* melee attacks you make against them until the end of your next turn.
+>
+>On a critical failure, your feint backfires. You become [[Off-Guard]] to melee attacks made by your feint target.
+
 - - -
 # Perks
 >> [!info|text-Center clear] Trained Perk: 

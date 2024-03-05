@@ -2097,6 +2097,7 @@ shed
 statuses
 shedding
 subterfuge
+subsequent
 LANCER
 Learn
 Lancer
@@ -2565,6 +2566,7 @@ div
 defensive
 disguises
 diversion
+distract
 ever
 expand
 easy
@@ -4977,6 +4979,7 @@ Stacking
 Steelclad
 Sharpshot
 Sorcery
+Seen
 Jackson
 Jack
 Juggernaut

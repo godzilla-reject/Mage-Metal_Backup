@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "194f7646a8e878ea",
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
               }
             }
           },
@@ -340,15 +340,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bbd0ff0136827a3f",
+  "active": "1cdda008719e094e",
   "lastOpenFiles": [
+    "Utilities/Lists/General Lists/Conditions List.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
     "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
     "General Rules/Character Mechanics Overview.md",
     "Character Creation Playtest 1 Packet.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",

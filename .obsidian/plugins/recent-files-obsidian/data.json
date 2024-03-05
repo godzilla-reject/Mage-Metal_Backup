@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Deception",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
+    },
+    {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/General Lists/Conditions List.md"
+    },
+    {
       "basename": "Intimidation",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Diplomacy",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
-    },
-    {
-      "basename": "Deception",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "Standard-Issue LAES Knife",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md"
-    },
-    {
-      "basename": "Metal Weapon Concepts",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md"
     }
   ],
   "omittedPaths": [],
