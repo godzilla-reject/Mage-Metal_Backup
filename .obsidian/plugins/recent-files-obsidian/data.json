@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Elves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+    },
+    {
+      "basename": "Species Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Glazier Boltbow",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md"
-    },
-    {
-      "basename": "Grabenkanon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
-      "basename": "Standard-Issue 99mm 'Backbreaker' Handgun",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns/Standard-Issue 99mm 'Backbreaker' Handgun.md"
-    },
-    {
-      "basename": "Thumpthrower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
     }
   ],
   "omittedPaths": [],

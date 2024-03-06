@@ -4740,19 +4740,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 112,
+      "wordCount": 132,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.37333333333333335,
-      "characterCount": 931,
-      "nonWhitespaceCharacterCount": 784,
-      "readingTimeInMinutes": 0.4226415094339623,
+      "pageCount": 0.44,
+      "characterCount": 1072,
+      "nonWhitespaceCharacterCount": 906,
+      "readingTimeInMinutes": 0.4981132075471698,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100608,
-      "modifiedDate": 1708322134011,
-      "sizeInBytes": 1067
+      "modifiedDate": 1709698850194,
+      "sizeInBytes": 1208
     },
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md": {
       "isCountable": true,
@@ -4787,7 +4787,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100600,
-      "modifiedDate": 1708322428367,
+      "modifiedDate": 1709698633916,
       "sizeInBytes": 6876
     },
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md": {

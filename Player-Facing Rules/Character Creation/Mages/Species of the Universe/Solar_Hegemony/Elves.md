@@ -9,7 +9,7 @@ Tags:
   - Species
 ---
 #  `=this.file.name`
-
+*One of the three Founding People alongside Dwaurvenkind and Humankind, the Elves are a mystical, superstitious and martial people dedicated*
 ## Characteristics
 
 ## Physical Description
