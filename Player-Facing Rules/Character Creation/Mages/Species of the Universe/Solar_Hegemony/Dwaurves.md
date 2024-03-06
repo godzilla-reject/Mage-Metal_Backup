@@ -9,7 +9,7 @@ Tags:
   - Species
 ---
 #  `=this.file.name`
-*One of the three Founding People of the Unified Solar Hegemony, the Dwaurves are a hearty people, stern and powerful. Strangers consider them to be too work-centric, putting their working lives ahead of all else aside from family and drink. Those who have spent time within the cold, dry air of the Martian stone-cities, however, can attest that they are a zealous people, dedicated to family and craft with an unparalleled passion only found miles below the Martian dessert.*
+*One of the three Founding People of the Unified Solar Hegemony, the Dwaurves are a hearty people, stern and powerful. Strangers consider them to be too work-centric, putting their working lives ahead of all else aside from family and drink. Those who have spent time within the cold, dry air of the Martian stone-cities, however, can attest that they are a zealous people, dedicated to family and craft with an unparalleled passion only found miles below the Martian desert.*
 
 Dwaurves were the last of the Founding Peoples to ratify the United Constitution of Sol, and many attribute this to the fact that they are slow to trust outsiders. In their own history, they have a long past of constant warfare; the horrors of Mars refuse to let even a single drop of blood go unearned. When something is won of a dwaurf, lest it be blood or honor, that pact is kept eternal. 
 

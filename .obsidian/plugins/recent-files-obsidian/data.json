@@ -9,6 +9,14 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
     },
     {
+      "basename": "Species Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
+    },
+    {
+      "basename": "Vague List of Places",
+      "path": "Setting/Vague List of Places.md"
+    },
+    {
       "basename": "Species Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Reliable",
       "path": "General Rules/Traits Catalog/Weapon-Only/Reliable.md"
-    },
-    {
-      "basename": "Channeler's Tome",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
-    },
-    {
-      "basename": "Glazier Boltbow",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md"
     }
   ],
   "omittedPaths": [],
