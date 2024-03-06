@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Diplomacy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
     {
       "basename": "Skills Database",
@@ -13,8 +17,8 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
     },
     {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/General Lists/Conditions List.md"
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
     },
     {
       "basename": "Intimidation",
@@ -25,12 +29,12 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md"
     },
     {
-      "basename": "Diplomacy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/General Lists/Conditions List.md"
     },
     {
       "basename": "To-Do List",
@@ -195,10 +199,6 @@
     {
       "basename": "Thumpthrower",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
-    },
-    {
-      "basename": "Standard-Issue LAES Knife",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md"
     }
   ],
   "omittedPaths": [],

@@ -3,7 +3,7 @@ Category: Social
 Attribute: Tenacity
 Tags:
   - Skills
-Completed: false
+Completed: true
 ---
 # Skill Description-`=this.file.name`
 You use your tenacity to engage in trickery and subterfuge, misleading and tricking others. The ability to tell convincing lies, craft forgeries, and make disguises.
@@ -49,18 +49,23 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 
 - - -
 # Perks
->> [!info|text-Center clear] Trained Perk: 
+>> [!info|text-Center clear] Trained Perk: Confabulating Inquirer
 >> *When you become Trained in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
->> 
+>> Your talents in the art of lying allows you to **Gather Information** using **`=this.file.name`** instead of [[Diplomacy]]. Additionally, reduce the bonus creatures get to subsequent **Diversion** attempts to +3. Reduce it by a further 1 every time you increase your training level in **`=this.file.name`**.
 
->> [!info|text-Center clear] Expertise Perk: 
+>> [!info|text-Center clear] Expertise Perk: Liar-Mage 
 >> *When you become an Expert in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
->> 
+>> Your ability to spin falsehoods makes it more difficult to disrupt your magic. Whenever a creature attempts to Counter a spell you are casting, they suffer a -2 magical penalty their **Spell-Work** check to do so. Additionally, as a reaction, you can make a *very difficult* ****`=this.file.name`** contest against that creature’s **Spell-Work**. On a success, you lie to the Weave, stopping their attempt to Counter your spell. 
 
->> [!info|text-Center clear] Masterful Perk: 
+>> [!info|text-Center clear] Masterful Perk: Doublespeak
 >> *When you become a Master in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
->> 
+>> You can speak freely to your allies in coded tongues only you and them can understand. You become fluent in Doublespeak, and can teach this special language to any ally over the course of 1 week. Other creatures cannot understand this language unless they succeed on a **Perception** contest against your **`=this.file.name`** (even if they also have Doublespeak.) 
 
->> [!info|text-Center clear] Legendary Perk: 
->> *When you become a Legend in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
+>> [!info|text-Center clear] Legendary Perk: Unveil Machinations `=[[Dev Helpers]].two-action`
 >> 
+>> *When you become a Legend in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
+>> You reveal to someone that you’ve played an integral role in the events that are transpiring to them in this moment, and that your machinations are finally coming to fruition (even if you are lying through your teeth, lmao.)  
+>> 
+>> Make a **`=this.file.name`** contest against the target’s **Mind**. On a success, the target becomes [[Frightened\|Frightened 1]], and you learn their Weaknesses, Vulnerabilities, Resistances and Immunities. 
+>> 
+>> As apart of this action, you can let any ally you’ve taught Doublespeak to “in” on the reveal as it happens. For each ally that you let in on it, you gain a +1 circumstance bonus to the **`=this.file.name`** contest and, on a success, increase the Frightened value inflicted by 1 for each ally.

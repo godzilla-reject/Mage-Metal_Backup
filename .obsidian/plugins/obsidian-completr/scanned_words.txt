@@ -56,6 +56,7 @@ Item
 Installing
 Iconic
 Iron
+Impersonation
 Mage
 Metal
 Mecha
@@ -302,6 +303,8 @@ ideas
 infinite
 ignores
 illusions
+imitating
+interacting
 the
 takes
 titans
@@ -759,6 +762,8 @@ forcefully
 falsehoods
 forced
 forgeries
+fooled
+feint
 came
 combines
 combat
@@ -1274,6 +1279,8 @@ brother
 belong
 behaviors
 belongs
+behavior
+backfires
 not
 never
 no
@@ -2355,6 +2362,7 @@ overwhelming
 openings
 offensive
 offline
+opponent
 designer
 drag
 do
@@ -2567,6 +2575,9 @@ defensive
 disguises
 diversion
 distract
+disguise
+deception
+disguised
 ever
 expand
 easy
@@ -3450,6 +3461,7 @@ review
 reacts
 rant
 revisiting
+recognizes
 Pathfinder
 PF
 Philosophy
@@ -3682,6 +3694,7 @@ Ace
 Archmage
 Adder
 Adders
+Assembling
 metal
 magic
 mechanics
@@ -3884,6 +3897,7 @@ mention
 mere
 multiplier
 misleading
+momentarily
 GURPS
 Google
 Greyhawk
@@ -4458,6 +4472,7 @@ knowing
 kneecaps
 keyed
 killing
+kilter
 just
 jurisdiction
 justify
@@ -4673,6 +4688,7 @@ Furaribi
 Foreword
 Feedback
 Fast
+Feint
 Dungeons
 Dragons
 Definitely
@@ -4769,6 +4785,7 @@ Divided
 Designate
 Deity
 Diversion
+Deception
 Steve
 Sheets
 Segway
@@ -4980,6 +4997,7 @@ Steelclad
 Sharpshot
 Sorcery
 Seen
+Seek
 Jackson
 Jack
 Juggernaut
