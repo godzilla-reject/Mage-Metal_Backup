@@ -15,9 +15,9 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.644925777151695
                 }
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -245,10 +245,10 @@
   },
   "active": "4f15183fedaf07ac",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Utilities/Lists/General Lists/Conditions List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "Utilities/Dashboard.canvas",
