@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Techno-Babble",
       "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Species Database",
