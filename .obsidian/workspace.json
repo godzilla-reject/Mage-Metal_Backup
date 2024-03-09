@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b5b3f5ec775a95",
+        "id": "d0e2dd31bf922736",
         "type": "tabs",
         "children": [
           {
-            "id": "e3a0f9622a9e4d5c",
+            "id": "a0934fe31b7b0e02",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.7293824227471422
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest 1 Packet.md"
               }
             }
           },
@@ -235,14 +235,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e3a0f9622a9e4d5c",
+  "active": "a0934fe31b7b0e02",
   "lastOpenFiles": [
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
+    "Character Creation Playtest 1 Packet.md",
+    "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Templates/Markdown Templates/Mage Templates/Species Template.md",
     "Setting/Vague List of Places.md",
-    "Utilities/Dashboard.canvas",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
@@ -252,7 +256,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
     "Utilities/Lists/General Lists/Conditions List.md",
     "General Rules/Character Mechanics Overview.md",
-    "Character Creation Playtest 1 Packet.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
@@ -261,9 +264,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
     "General Rules/Traits Catalog/Weapon-Only/Range.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-    "README.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-    "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
     "Character Creation Playtest 1 Packet.tex"

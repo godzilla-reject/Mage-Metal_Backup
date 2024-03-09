@@ -170,6 +170,7 @@ Magus
 Mamba
 Mambas
 Martians
+ManaScript
 in
 inspiration
 it
@@ -1142,6 +1143,8 @@ corner
 curse
 concepts
 convoluted
+coded
+coding
 before
 being
 be
@@ -2175,6 +2178,7 @@ summons
 sport
 sects
 straying
+store
 LANCER
 Learn
 Lancer
@@ -2229,6 +2233,7 @@ Lunar
 Log
 Legends
 Loader
+LLC
 The
 Tenets
 This
@@ -2658,6 +2663,7 @@ driving
 desperate
 development
 descendants
+digitize
 ever
 expand
 easy
@@ -4068,6 +4074,7 @@ Grunt
 Generals
 Greetings
 Gunplay
+Grim
 utmost
 use
 up
@@ -4582,6 +4589,7 @@ WE
 WILL
 Wrapping
 Wizard
+Ware
 keeping
 keep
 kek
@@ -4925,6 +4933,7 @@ Diversion
 Deception
 Dwaurvenkind
 Descendants
+Detect
 Steve
 Sheets
 Segway
