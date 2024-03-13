@@ -150,8 +150,6 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 >> Increase the Toughness bonus from Powered armor you wear by 1. Additionally, while wearing Powered armor, you gain Resistance to **physical** damage, and you make [[Block]] checks with favor.
 >
 
-^83a377
-
 ### General Proficiencies
 These proficiencies are for abilities that all Mage-Pilots will need, and are therefore, not really optional. 
 >[!column]- ### **Perception**
@@ -174,8 +172,6 @@ These proficiencies are for abilities that all Mage-Pilots will need, and are th
 >> [!metadata|right] *Legendary Perk: All-Seeing Eyes*
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
 >> You make checks to see through illusions and other falsehoods with favor. 
-
-^7dd3de
 
 >[!column]- ### **Piloting**
 >> [!note] #### *Description*
@@ -354,14 +350,19 @@ Weapon proficiencies dictate how well a pilot can use, understand, and engage wi
 >> *When you become Trained in this Proficiency, you gain the following benefits.*
 >> Pick one Melee Weapon Group. Advanced Weapons you wield that belong to that group gain its listed Specialty trait.
 >
->> [!metadata|right] *Expertise Perk:*
+>> [!metadata|right] *Expertise Perk: Brutal Critical*
 >> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Extend the critical range of weapons you wield that belong to your Advanced Melee Weapon Specialty by 1 (typically to 6 and lower.) Additionally, when you roll a critical hit on an attack with such a weapon, multiply the damage by 3, instead of 2. 
 >
->> [!metadata|right] *Masterful Perk:*
+>> [!metadata|right] *Masterful Perk: Devastating Blow*
 >>*When you become a Master in this Proficiency, you gain the following benefits.*
+>>  Weapons you wield that belong to your Advanced Melee Weapon Specialty gain the [[Devastating]] and [[Critical\|Critical dX]] traits. X is one step higher than the weapon’s damage die.
 >
->> [!metadata|right] *Legendary Perk:*
+>> [!metadata|right] *Legendary Perk: Relentless Stance* `=[[Dev Helpers]].one-action`
 >> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> [[Stance]]
+>> - - -
+>>  While you are in this stance, you make all attacks with Advanced Melee Specialty weapons with favor. All attacks are made against you with favor. While you are Relentless, you cannot Dodge or Block.
 >
 
 ^22fd06

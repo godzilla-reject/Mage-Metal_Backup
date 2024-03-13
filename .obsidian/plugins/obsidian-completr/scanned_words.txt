@@ -2295,6 +2295,8 @@ Legends
 Loader
 LLC
 Lanza
+Lifebringer
+LF
 The
 Tenets
 This
@@ -2737,6 +2739,7 @@ distinctly
 drives
 dd
 de
+drums
 ever
 expand
 easy
@@ -3319,6 +3322,8 @@ Rangers
 Rivals
 Remember
 Rapscallion
+Relentless
+Robust
 high
 heavily
 hopes
@@ -4503,6 +4508,7 @@ Unlike
 Uses
 Using
 Units
+ULF
 Complexity
 Could
 Conflicted
@@ -4711,6 +4717,7 @@ Wizard
 Ware
 Way
 Wrench
+Wildheart
 keeping
 keep
 kek
@@ -4962,6 +4969,7 @@ Fear
 Find
 Flaming
 Frontline
+Fortitude
 Dungeons
 Dragons
 Definitely
@@ -5066,6 +5074,7 @@ Desire
 DNA
 Deletreer
 Deskie
+Devastating
 Steve
 Sheets
 Segway
@@ -5335,6 +5344,7 @@ Never
 Ncouti
 Nomad
 Noble
+Natureomancy
 One
 Out
 Oblivion
@@ -5451,6 +5461,9 @@ Brutality
 Blindaje
 Bloodline
 Barricader
+Blow
+Battlemage
+Blood
 Varies
 Vast
 Void

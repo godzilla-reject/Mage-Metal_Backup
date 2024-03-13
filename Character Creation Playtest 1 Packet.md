@@ -1040,12 +1040,128 @@ Proficiencies are similar to statistics, in that they are tied directly to an at
 #### **Weapon and Armor Proficiencies**
 Select one Armor proficiency and one Weapon proficiency to increase your training level with by one step (untrained to Trained or Trained to Expert.) You cannot begin play with an Armor or Weapon proficiency at or above Mastered.
 ##### *Weaponry*
-![[Character Mechanics Overview#^f991af]]
-![[Character Mechanics Overview#^ca05a7]]
-![[Character Mechanics Overview#^648230]]
-![[Character Mechanics Overview#^97ca1e]]
-![[Character Mechanics Overview#^15c3a5]]
-![[Character Mechanics Overview#^22fd06]]
+>[!column]- ### **Simple  Ranged Weapons**
+>> [!note] #### *Description*
+>> **Key Attribute: Reflex**
+>
+>> [!metadata|right] *Trained Perk: Simple Ranged Weapon Specialty* 
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Ranged Weapon Group. Simple Weapons you wield that belong to that group gain its listed Specialty trait. 
+>
+>> [!metadata|right] *Expertise Perk: Power In Simplicity*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Increase the damage die size of Simple Ranged weapons you wield by one step. 
+>
+>> [!metadata|right] *Masterful Perk: Fast Loader*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> You take one less action to reload Simple Ranged weapons you wield, and two less actions to reload weapons that belong to your Simple Ranged Weapon Specialty. 
+>
+>> [!metadata|right] *Legendary Perk: Better Critical*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> Extend the critical range of weapons you wield that belong to your Simple Ranged Weapon Specialty by 1 (typically to 6 and lower.)
+
+>[!column]- ### **Martial  Ranged Weapons**
+>> [!note] #### *Description*
+>> **Key Attribute: Reflex**
+>
+>> [!metadata|right] *Trained Perk: Martial Ranged Weapon Specialty*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Ranged Weapon Group. Martial Weapons you wield that belong to that group gain its listed Specialty trait
+>
+>> [!metadata|right] *Expertise Perk: Spell and Bullet*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Whenever you attack with a weapon that belongs to your Martial Ranged Weapon Specialty, if you casted a spell this turn, that attack deals an extra die of **channeled** damage.
+>
+>> [!metadata|right] *Masterful Perk: Close-Quarters Gunplay*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> You ignore penalties to using Martial Ranged weapons within Engagement range.
+>
+>> [!metadata|right] *Legendary Perk: Martial Prowess*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> Increase the damage die size of Martial Ranged weapons you wield by one step.
+
+>[!column]- ### **Advanced  Ranged Weapons**
+>> [!note] #### *Description*
+>> **Key Attribute: Reflex**
+>
+>> [!metadata|right] *Trained Perk: Advanced Ranged Weapon Specialty*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Ranged Weapon Group. Advanced Weapons you wield that belong to that group gain its listed Specialty trait.
+>
+>> [!metadata|right] *Expertise Perk: Fast Loader*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> You take one less action to reload Advanced Ranged weapons you wield, and two less actions to reload weapons that belong to your Advanced Ranged Weapon Specialty.
+>
+>> [!metadata|right] *Masterful Perk: Sharpshot*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> You ignore up to -2 in Range penalties when making ranged attacks with weapons you wield that belong to your Advanced Ranged Weapon Specialty. This is cumulative with other such effects, such as the **Perception** perk ‘Viewfinder’.
+>
+>> [!metadata|right] *Legendary Perk: Brutal Critical*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> Extend the critical range of weapons you wield that belong to your Advanced Ranged Weapon Specialty by 1 (typically to 6 and lower.) Additionally, when you roll a critical hit on an attack with such a weapon, multiply the damage by 3, instead of 2. 
+
+>[!column]- ### **Simple Melee Weapons**
+>> [!note] #### *Description*
+>> **Key Attribute: Power**
+>
+>> [!metadata|right] *Trained Perk: Simple Melee Weapon Specialty*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Melee Weapon Group. Simple Weapons you wield that belong to that group gain its listed Specialty trait.
+>
+>> [!metadata|right] *Expertise Perk: Power in Simplicity*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Increase the damage die size of Simple Melee weapons you wield by one step.
+>
+>> [!metadata|right] *Masterful Perk: Brutality*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> Increase the critical damage multiplier for weapons you wield that belong to your Simple Melee Weapon Specialty to 3.
+>
+>> [!metadata|right] *Legendary Perk: Onslaught*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> Weapons you wield that belong to your Simple Melee Weapon Specialty gain [[Flurry\|Flurry 1]]. This is additive with any Flurry it already has. 
+
+>[!column]- ### **Martial Melee Weapons**
+>> [!note] #### *Description*
+>> **Key Attribute: Power**
+>
+>> [!metadata|right] *Trained Perk: Martial Melee Weapon Specialty*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Melee Weapon Group. Martial Weapons you wield that belong to that group gain its listed Specialty trait.
+>
+>> [!metadata|right] *Expertise Perk: Gun and Blade*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Whenever you attack with a weapon that belongs to your Martial Melee Weapon Specialty, if you attacked with a Ranged weapon this turn, that attack gains a +3 circumstance bonus. 
+>
+>> [!metadata|right] *Masterful Perk: Sword and Sorcery*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> Whenever you attack with a weapon that belongs to your Martial Melee Weapon Specialty, if you casted a spell this turn, that attack deals an extra die of **channeled** damage.
+>
+>> [!metadata|right] *Legendary Perk: Martial Prowess.*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> Increase the damage die size of Martial Melee weapons you wield by one step. 
+
+>[!column]- ### **Advanced Melee Weapons**
+>> [!note] #### *Description*
+>> **Key Attribute: Power**
+>
+>> [!metadata|right] *Trained Perk: Advanced Melee Weapon Specialty*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Pick one Melee Weapon Group. Advanced Weapons you wield that belong to that group gain its listed Specialty trait.
+>
+>> [!metadata|right] *Expertise Perk: Brutal Critical*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Extend the critical range of weapons you wield that belong to your Advanced Melee Weapon Specialty by 1 (typically to 6 and lower.) Additionally, when you roll a critical hit on an attack with such a weapon, multiply the damage by 3, instead of 2. 
+>
+>> [!metadata|right] *Masterful Perk: Devastating Blow*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>>  Weapons you wield that belong to your Advanced Melee Weapon Specialty gain the [[Devastating]] and [[Critical\|Critical dX]] traits. X is one step higher than the weapon’s damage die.
+>
+>> [!metadata|right] *Legendary Perk: Relentless Stance* `=[[Dev Helpers]].one-action`
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> [[Stance]]
+>> - - -
+>>  While you are in this stance, you make all attacks with Advanced Melee Specialty weapons with favor. All attacks are made against you with favor. While you are Relentless, you cannot Dodge or Block.
+>
 
 ##### *Armor*
 ![[Character Mechanics Overview#^059684]]
@@ -1054,9 +1170,79 @@ Select one Armor proficiency and one Weapon proficiency to increase your trainin
 
 #### **General Proficiencies**
 From among **Perception**, **Piloting** and **Spell-Work**, pick two to begin play at Trained and one to begin play at Expert.
-![[Character Mechanics Overview#^7dd3de]]
-![[Character Mechanics Overview#^61734a]]
-![[Character Mechanics Overview#^87679e]]
+>[!column]- ### **Perception**
+>> [!note] #### *Description*
+>> Perception is how well a character is trained at spotting subtle details, as well as a measure of reaction speed.
+>> **Key Attribute: Mind**
+>
+>> [!metadata|right] *Trained Perk: Thorough Searcher*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> You take your time to ensure you find everything. When you Search or Scan a location, you can elect to take twice the amount of time to do so. If you do, you gain a +3 circumstance bonus to **Perception** checks made as a part of those actions.
+>
+>> [!metadata|right] *Expertise Perk: Viewfinder*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> You ignore -2 in range penalties when making Ranged weapon attacks. This increases to -4 when you become a Master in **Perception**.
+>
+>> [!metadata|right] *Masterful Perk: Scouting*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> Whenever you **Scout**, you grant allies a +3 circumstance bonus to initiative instead of a +1.  
+>
+>> [!metadata|right] *Legendary Perk: All-Seeing Eyes*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> You make checks to see through illusions and other falsehoods with favor. 
+
+>[!column]- ### **Piloting**
+>> [!note] #### *Description*
+>> Piloting is arguably the most important proficiency in *Metal*. All PCs, and nearly all NPCs will have it to at least some degree of it. It is a measure of a pilot's skill, but it also a measure of how well-connected to their Metal they are.
+>> **Key Attribute: Reflex+Potential**
+>
+>> [!metadata|right] *Trained Perk: Stunt Pilot*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> 
+>> You can now use Novice piloting maneuvers you have access to.
+>
+>> [!metadata|right] *Expertise Perk: Hot-Shot Pilot*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> 
+>> You can now use Expert piloting maneuvers you have access to.
+>> 
+>> Whenever you critically fail a **Piloting** check, you can spend a Luck point to instead succeed. If you do, you make your next **Piloting** check without favor. 
+>
+>> [!metadata|right] *Masterful Perk: Ace Pilot*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>>
+>> You can now use Master piloting maneuvers you have access to.
+>> 
+>
+>> [!metadata|right] *Legendary Perk: Perfect Pilot*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> 
+>> You can now use Legendary piloting maneuvers you have access to.
+>> 
+>> You cannot fail (but you can still *critically fail*) **Piloting** checks.
+>
+
+>[!column]- ### **Spell-Work**
+>> [!note] #### *Description*
+>> Spell-Work is just a fancy way to say "casting," specifically spells that are *not* cantrips. When outside of a Metal, a Mage must make a Spell-Work roll to cast a spell, and when in their Metal, they typically roll Spell Working to cast a spell when severely damaged or out of mana. 
+>> **Key Attribute: Mind+Poential**
+>
+>> [!metadata|right] *Trained Perk: Magician*
+>> *When you become Trained in this Proficiency, you gain the following benefits.*
+>> Spells you cast of Rank 1 or lower cost half as much mana. When you increase your Spell-Work training level, the Rank of spells effected increases by 1. 
+>
+>> [!metadata|right] *Expertise Perk: Magus*
+>> *When you become an Expert in this Proficiency, you gain the following benefits.*
+>> Your spells are harder to resist. Creatures rolling to resist the effects of a spell you cast suffer a difficulty penalty equal to your Tier.
+>
+>> [!metadata|right] *Masterful Perk: Wizard*
+>>*When you become a Master in this Proficiency, you gain the following benefits.*
+>> Increase the damage die size of spells you cast that are Rank 3 or lower. 
+>
+>> [!metadata|right] *Legendary Perk: Archmage*
+>> *When you become a Legend in this Proficiency, you gain the following benefits.*
+>> You treat all spells as if they were two Ranks lower. If this would reduce a spell to below Rank 0, it becomes Rank 0 instead.
+>
 ## 8. *Creating a Grimoire*
 After all of your mechanical selections, you can move on to creating your *Grimoire*, which is a catalog of all the spells your Mage can cast. These are the guidelines for creating your Grimoire:
 1. At Tier 1, your Grimoire can contain Rank 0-3 spells.
@@ -1065,7 +1251,76 @@ After all of your mechanical selections, you can move on to creating your *Grimo
 
 ## 9. *Selecting Perks*
 Each character in `=[[Dev Helpers]].game-short` has (a) quirk(s) that helps set them apart from other characters. These quirks are known as *General Perks*. Select one for your Mage Pilot.
-![[Perk Note]]
+### Perks 
+> [!info|n-th no-i]- #### Battlemage
+> ##### Mechanics
+> | | |
+> |:---:|:---:|
+> |**Tier:** | 1  |
+> | **Type:** | General  |
+> | **Requirements:** |*Expert in a Melee weaponry proficiency* |
+> #### Details:
+> You can use any melee weapons as a spellcasting catalyst, including conjured ones. Additionally, any spell you cast that would conjure a weapon no longer requires a catalyst or material, and gains the [[Flash]] trait.
+
+> [!info|n-th no-i]- #### Jack of All Trades
+> ##### Information
+> | | |
+> |:---:|:---:|
+> |**Tier:** | 1  |
+> | **Type:** | General  |
+> | **Requirements:** | *Mind 14+* |
+> #### Details:
+> You gain a +4 fortune bonus to skills you are not trained in, but roll those skills without favor.
+
+> [!info|n-th no-i]- ####  Lifebringer
+> ##### Information
+> | | |
+> |:---:|:---:|
+> |**Tier:** | 1  |
+> | **Type:** | General  |
+> | **Requirements:** | *Your Grimoire contains three or less spells that deal damage.* |
+> #### Details:
+> Increase the die size of all healing from spells you cast by one step. Decrease the die size of all damage you deal from spells you cast by two steps (If this would bring the die size to a d2 or lower, it deals no damage instead.)
+
+> [!info|n-th no-i]- #### Novice Blood Mage 
+> ##### Information
+> | | |
+> |:---:|:---:|
+> |**Tier:** | 1  |
+> | **Type:** | General  |
+> | **Requirements:** | *Either the Hemaphoresis School, or;  Your Grimoire contains at least five spells with the [[Life-Bound]] trait.*|
+> #### Details:
+> You can no longer cast [[Life-Bound]] spells using Mana, but you gain Resistance to the damage you take from casting spells. Like normal, your Toughness does not apply to this damage and you cannot reduce it by other means (unless otherwise stated.)
+
+> [!info|n-th no-i]- #### Robust Fortitude
+> ##### Information
+> | | |
+> |:---:|:---:|
+> |**Tier:** | 1  |
+> | **Type:** | General  |
+> | **Requirements:** |*Body 12+* |
+> #### Details:
+> You gain Resistance to two of the physical damage types or one of the energy damage types.
+
+> [!info|n-th no-i]- #### Tome Mage
+> ##### Information
+> | | |
+> |:---:|:---:|
+> |**Tier:** | 1  |
+> | **Type:** | General  |
+> | **Requirements:** | *None* |
+> #### Details:
+> You calculate the cost of spells that belong to your School as if they were one Rank *lower* and you calculate the cost of non-School spells as if they were one Rank *higher*.
+
+> [!info|n-th no-i]- #### Wildheart
+> ##### Information
+> | | |
+> |:---:|:---:|
+> |**Tier:** | 1  |
+> | **Type:** | General  |
+> | **Requirements:** | *An Elemancy or Natureomancy School* |
+> #### Details:
+> Increase the die size of all of your spell's damage by one step, and you treat all 1’s rolled for spell damage as 2’s. Your grimoire can only contain spells from the Elemancy and Natureomancy spheres that deal damage. Finally, you cast all spells as if they are two Ranks higher.
 
 ## 10. *Selecting Equipment*
 After selecting a General Perk, the final step of Mage creation is to determine what equipment your Pilot uses. 
@@ -1088,22 +1343,59 @@ Just like your Mage, a concept of your Metal is needed before you begin creating
 
 Once you’ve nailed down the concept of your Metal, review how Metal Mechanics differ from Mage.
 ### Metal Mechanics 
-![[Metal Attributes and Statistics]]
+#### Attributes 
+A Metal's Attributes are slightly different from a Mage's; they lack the "mental" Attributes of a Mage-Pilot (which are Mind, Potential, and Tenacity), as well as a measure of reaction speed (Reflex) due to these things being pilot-dependent. It is still the pilot in control, after all, and Metals aren't quite capable of truly acting on their own. 
+##### Structure = ((Power + Body)/2)
+This is the measure of the physical construction and ability of the Metal. 
+Governs: Health, Toughness, and Melee Damage Bonus 
+##### Engineering = ((Reflex + Tenacity)/2)
+This is a measure of the quality of the design of a Metal, and this dictates how far one can push the limits of their Metal.
+Governs: Heat Limit, Shields, Speed
+##### Computation = ((Mind + Potential)/2)
+This is the measure of the computational ability of the on-board abilities 
+Governs: Systems Points (SP), Sensor Range, Ranged Accuracy Bonus
+#### Statistics
+Derived from their respective Attribute, different Statistics have differing formulae for calculating them. If a Stat would have a decimal, round *down.*
+##### Structure 
+- Health 
+	- How much punishment a Metal's hull can sustain before facing Integrity failure.
+	- Max Health=Structure
+- Toughness 
+	- A Metal's resistance to damage.
+	- Structure/3
+- Melee Damage Bonus 
+	- A bonus to Melee damage. 
+	- Structure - 15
+##### Engineering
+- Heat Limit 
+	- How much heat the S-R<sup>2</sup> Engine can accrue before entering [[Meltdown]], and then [[Criticality]]. 
+	- Max Heat: Engineering/2
+- Barrier 
+	- An meta-ablative barrier that further protects from damage.
+	- Max Shield = Engineering * Tier
+- Speed 
+	- How far a Metal can move in 12 seconds. 
+	- Engineering/2
+##### Computation  
+- Ranged Accuracy Bonus
+	- A bonus to ranged *attack rolls.*
+	- Computation - 15
+- System Points 
+	- How many systems the on-board computer can run in parallel.
+	- Computation/8
+- Sensor Range 
+	- How many spaces the Metal's perception sensors can detect other Metals and creatures.
+	- Computation
+##### Unkeyed 
+These are stats that do not have a keyed Attribute; they are free-standing.
+- Integrity 
+	- Metals do not enter a death spiral when reduced to 0 Health; instead, they mark off one Integrity and go back to full Health. When a Metal reaches 0 Integrity, it is destroyed.
 ## 1.  *Frame*
 The *Frame* is the most basic component of the Metal, forming the foundation of which all other parts are mounted upon. It determines fundamental aspects of a Metal, such as Size, body-plan, and weapon mounts.
 
 Select a **Frame** from the options below, then denote the Attribute bonuses, Weapon Mounts, and any Perks or Integrated Systems granted by the Frame.
 
-![[BF-001]]
-![[BF-002]]
-![[HF-001]]
-![[HF-002]]
-![[LF-001]]
-![[LF-002]]
-![[SHF-001]]
-![[SHF-002]]
-![[ULF-001]]
-![[ULF-002]]
+
 
 ## 2. *Shell*
 The *Shell* of the Metal is what determines the armor plating of your Metal, as well as an *Intrinsic* ability that provides powerful combat abilities. 

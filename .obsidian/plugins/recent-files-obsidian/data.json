@@ -1,16 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
+      "basename": "Frame Note",
+      "path": "Reference Notes/Frame Note.md"
+    },
+    {
+      "basename": "LF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-002.md"
+    },
+    {
+      "basename": "LF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-001.md"
+    },
+    {
+      "basename": "ULF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-002.md"
+    },
+    {
+      "basename": "ULF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-001.md"
     },
     {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
     },
     {
-      "basename": "Role Note",
-      "path": "Reference Notes/Role Note.md"
+      "basename": "SHF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-002.md"
+    },
+    {
+      "basename": "SHF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Superheavy/SHF-001.md"
+    },
+    {
+      "basename": "HF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-002.md"
+    },
+    {
+      "basename": "HF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md"
+    },
+    {
+      "basename": "BF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-002.md"
+    },
+    {
+      "basename": "BF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-001.md"
+    },
+    {
+      "basename": "Metal Attributes and Statistics",
+      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
+    },
+    {
+      "basename": "Wildheart",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Wildheart.md"
+    },
+    {
+      "basename": "Tome Mage",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Tome Mage.md"
+    },
+    {
+      "basename": "Robust Fortitude",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Robust Fortitude.md"
+    },
+    {
+      "basename": "Novice Blood Mage",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md"
+    },
+    {
+      "basename": "Lifebringer",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Lifebringer.md"
+    },
+    {
+      "basename": "Jack of All Trades",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md"
+    },
+    {
+      "basename": "Battlemage",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Battlemage.md"
+    },
+    {
+      "basename": "Mercurial Magics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Mercurial Magics.md"
+    },
+    {
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
+      "basename": "Critical",
+      "path": "General Rules/Traits Catalog/Weapon-Only/Critical.md"
     },
     {
       "basename": "Battlefield Support",
@@ -35,10 +115,6 @@
     {
       "basename": "Long-Range Ordinance",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md"
-    },
-    {
-      "basename": "School Note",
-      "path": "Reference Notes/School Note.md"
     },
     {
       "basename": "Runeurgy",
@@ -123,82 +199,6 @@
     {
       "basename": "Metal Weapon Appendix",
       "path": "Reference Notes/Appendices/Metal Weapon Appendix.md"
-    },
-    {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
-    },
-    {
-      "basename": "Metal Weapons List",
-      "path": "Utilities/Lists/Metal Lists/Metal Weapons List.md"
-    },
-    {
-      "basename": "''Converter'' Blade-Barricade CQC System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
-    },
-    {
-      "basename": "Pattern-II Smoke-Screen Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md"
-    },
-    {
-      "basename": "Metal Systems List",
-      "path": "Utilities/Lists/Metal Lists/Metal Systems List.md"
-    },
-    {
-      "basename": "Dante-Class A-RAID Unit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md"
-    },
-    {
-      "basename": "Metal Systems Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
-    },
-    {
-      "basename": "Syn-theather",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md"
-    },
-    {
-      "basename": "Armor Appendix",
-      "path": "Reference Notes/Appendices/Armor Appendix.md"
-    },
-    {
-      "basename": "Verocloth",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md"
-    },
-    {
-      "basename": "High-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Equipment Appendix",
-      "path": "Reference Notes/Appendices/Equipment Appendix.md"
-    },
-    {
-      "basename": "Mage Weapon Appendix",
-      "path": "Reference Notes/Appendices/Mage Weapon Appendix.md"
-    },
-    {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-    },
-    {
-      "basename": "Smart-Arrows",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md"
-    },
-    {
-      "basename": "Low-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Laser Charges",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
-    },
-    {
-      "basename": "Large-Gauge Scattershells",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md"
-    },
-    {
-      "basename": "Weapon Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
     }
   ],
   "omittedPaths": [],
