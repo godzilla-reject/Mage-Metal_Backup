@@ -4,93 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b5b3f5ec775a95",
+        "id": "30f8d5132b9a74fc",
         "type": "tabs",
-        "dimension": 50.0531914893617,
         "children": [
           {
-            "id": "934f317e46159ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Appendices/Equipment Appendix.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "68028156d9a84fad",
-        "type": "tabs",
-        "dimension": 39.308510638297875,
-        "children": [
-          {
-            "id": "abfbd472363ce948",
+            "id": "ba89e5f60e20f830",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -1.7754911154355217
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
           }
         ]
-      },
-      {
-        "id": "1888f839ecc64130",
-        "type": "tabs",
-        "dimension": 10.638297872340425,
-        "children": [
-          {
-            "id": "a5bccbe0ddfeb6ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e371366fbcb6652f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "05456c07fcd123db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\":weapon], [\"tags\":Mage]",
+                "query": "[\"type\":A-RAID]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,12 +76,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -165,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
               }
             }
           },
@@ -274,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,17 +235,29 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "abfbd472363ce948",
+  "active": "d968026dfd4f0b4b",
   "lastOpenFiles": [
-    "Reference Notes/Appendices/Equipment Appendix.md",
     "Character Creation Playtest 1 Packet.md",
-    "Reference Notes/Appendices/Mage Weapon Appendix.md",
+    "Reference Notes/Appendices/System Appendix.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md",
     "Reference Notes/Appendices/Metal Weapon Appendix.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md",
+    "Reference Notes/Appendices/Armor Appendix.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
+    "Reference Notes/Appendices/Equipment Appendix.md",
+    "Reference Notes/Appendices/Mage Weapon Appendix.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
     "Reference Notes/Appendices",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
@@ -322,18 +265,6 @@
     "Templates/Markdown Templates/Mage Templates/Species Template.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
-    "Setting/Vague List of Places.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
-    "Utilities/Lists/General Lists/Conditions List.md",
-    "General Rules/Character Mechanics Overview.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
     "Character Creation Playtest 1 Packet.tex"

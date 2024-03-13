@@ -24,6 +24,3 @@ Heft: 8
 |      Traits       |           -                |
 > ###### *Description*
 > Made from lab-grown, vegan-friendly synthetic leather, a suit of this type of armor provides a small amount of protection, but does not hinder fine tasks and is not noisy. 
-> - - -
-> ***Synthflesh***
-> The thickness of armors in this group act as a second skin, dispersing crushing forces across its surface area. You gain resistance to crushing damage. 

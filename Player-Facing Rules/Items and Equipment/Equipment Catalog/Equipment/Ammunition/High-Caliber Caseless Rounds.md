@@ -20,10 +20,10 @@ Tags:
 | **Traits** |      -             |
 > ###### *Description*
 > In the modern day of the Hegemony, standardization is the name of the game. Many of the old-world calibers of firearm have been broken down into the slick, new, modern Unified Solar Hegemony Military-Standard (USH-S) internally-propelled 14 mm "Wall-Wrecker" round. Due to being caseless, these rounds can be transported in small, densely-packed, containers. These rounds are sold in cases of 48.
-> Related Weapons
 > > ##### Related Weapons
 > ```dataview
 > LIST 
 > FROM [[]]
+> WHERE file.name != "Equipment Appendix"
 > SORT file.name ASC
 > ```

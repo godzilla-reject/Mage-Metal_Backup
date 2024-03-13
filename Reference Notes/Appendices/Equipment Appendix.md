@@ -1,51 +1,70 @@
 ---
 cssclasses: [clean-embeds]
 ---
+#### *Adventuring* 
 ![[10-foot Pole]]
-![[Air Canister (1 hr)]]
-![[Air Canister (24 hr)]]
-![[Backpack]]
-![[Bandolier]]
-![[Bio-Software's Biomonitor Solutions]]
-![[Buckler]]
-![[Common Clothes]]
-![[Cyber-Arm]]
-![[Cybermagistic Solution's Grim-Ware]]
-![[Environmental Suit]]
-![[Exquisite Clothes]]
-![[Fine Clothes]]
-![[Flare Gun]]
-![[Gel Dispenser]]
-![[Grappling Hook]]
-![[Hardlight Torch]]
-![[Heater]]
+![[Mess Set]]
+![[Nanofiber Rope (50 feet)]]
+![[Omni-Wire (50 feet)]]
+![[Personal Habitat]]
+![[Two-Person Habitat]]
+#### *Ammunition* 
 ![[High-Caliber Caseless Rounds]]
-![[High-Integrity Spine-Replacement Unit]]
 ![[Large-Gauge Scattershells]]
 ![[Laser Charges]]
 ![[Low-Caliber Caseless Rounds]]
-![[Magne-Boots]]
-![[Medi-gel]]
-![[Mess Set]]
-![[Nanofiber Rope (50 feet)]]
-![[net-Hack Toolkit]]
-![[Nutri-gel (1 day)]]
-![[Omni-Wire (50 feet)]]
-![[Personal Comms Gear]]
+![[Smart-Arrows]]
+#### *Catalyst*
+![[Spellcasting Catalyst]]
+#### *Clothing*
+![[Common Clothes]]
+![[Environmental Suit]]
+![[Exquisite Clothes]]
+![[Fine Clothes]]
+#### *Computer*
 ![[Personal Computer]]
-![[Personal Habitat]]
 ![[Personal Scanner]]
 ![[PiC-Mi]]
+#### *Consumable* 
+![[Air Canister (1 hr)]]
+![[Air Canister (24 hr)]]
+![[Medi-gel]]
+![[Nutri-gel (1 day)]]
+#### *Cybernetics* 
+![[Cyber-Arm]]
+![[High-Integrity Spine-Replacement Unit]]
+![[Sub-Dermal Self-Integrated Weaponry Holster]]
+#### *Grimoire*
+![[Spell Grimoire]]
+#### *Kits*
+N/A
+#### Resonator
+![[Spellcasting Resonator]]
+#### *Shields* 
+##### **Infiltration**
+![[Buckler]]
+##### **Mobile**
+![[Heater]]
+##### **Powered**
+![[Tower]]
+#### *Software* 
+![[Bio-Software's Biomonitor Solutions]]
+![[Cybermagistic Solution's Grim-Ware]]
+![[net-Hack Toolkit]]
+#### *Storage*
+![[Backpack]]
+![[Bandolier]]
+#### *Traversal*
+![[Grappling Hook]]
+![[Magne-Boots]]
+![[Thruster Pack]]
+#### *Utility*
+![[Flare Gun]]
+![[Gel Dispenser]]
+![[Hardlight Torch]]
+![[Personal Comms Gear]]
 ![[Portable Surgery Station]]
 ![[Rebreather]]
 ![[Set of Tools]]
-![[Smart-Arrows]]
-![[Spellcasting Catalyst]]
-![[Spellcasting Resonator]]
-![[Spell Grimoire]]
-![[Sub-Dermal Self-Integrated Weaponry Holster]]
-![[Thruster Pack]]
-![[Tower]]
-![[Two-Person Habitat]]
 ![[Viewfinder]]
 ![[Weather-proof Flare]]

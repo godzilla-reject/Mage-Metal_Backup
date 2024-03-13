@@ -4,7 +4,7 @@
 ###### **Martial**
 ![[Grabenkanon]]
 ![[Lazerpike]]
-###### **Advanced***
+###### **Advanced**
 ![[Channeler's Tome]]
 ![[Glazier Boltbow]]
 #####  *Melee Weapons*

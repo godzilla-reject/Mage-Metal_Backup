@@ -25,5 +25,6 @@ Price: 5
 > ```dataview
 > LIST 
 > FROM [[]]
+> WHERE file.name != "Equipment Appendix"
 > SORT file.name ASC
 > ```

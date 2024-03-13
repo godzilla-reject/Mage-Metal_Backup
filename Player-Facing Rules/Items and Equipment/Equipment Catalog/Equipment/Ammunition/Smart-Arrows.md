@@ -25,5 +25,6 @@ Tags:
 > ```dataview
 > LIST 
 > FROM [[]]
+> WHERE file.name != "Equipment Appendix"
 > SORT file.name ASC
 > ```

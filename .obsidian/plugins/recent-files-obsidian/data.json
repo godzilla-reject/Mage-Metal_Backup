@@ -1,24 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Metal Systems Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
     },
     {
-      "basename": "Equipment Appendix",
-      "path": "Reference Notes/Appendices/Equipment Appendix.md"
+      "basename": "System Appendix",
+      "path": "Reference Notes/Appendices/System Appendix.md"
     },
     {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
     },
     {
-      "basename": "Mage Weapon Appendix",
-      "path": "Reference Notes/Appendices/Mage Weapon Appendix.md"
+      "basename": "Dante-Class A-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md"
     },
     {
       "basename": "Metal Weapon Appendix",
       "path": "Reference Notes/Appendices/Metal Weapon Appendix.md"
+    },
+    {
+      "basename": "Syn-theather",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md"
+    },
+    {
+      "basename": "Armor Appendix",
+      "path": "Reference Notes/Appendices/Armor Appendix.md"
+    },
+    {
+      "basename": "Verocloth",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md"
+    },
+    {
+      "basename": "High-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Equipment Appendix",
+      "path": "Reference Notes/Appendices/Equipment Appendix.md"
+    },
+    {
+      "basename": "Mage Weapon Appendix",
+      "path": "Reference Notes/Appendices/Mage Weapon Appendix.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Smart-Arrows",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md"
+    },
+    {
+      "basename": "Low-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Laser Charges",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
+    },
+    {
+      "basename": "Large-Gauge Scattershells",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Weapon Database",
@@ -151,54 +199,6 @@
     {
       "basename": "''Converter'' Blade-Barricade CQC System",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
-    },
-    {
-      "basename": "Metal Weapon Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
-    },
-    {
-      "basename": "Exceed",
-      "path": "General Rules/Traits Catalog/Exceed.md"
-    },
-    {
-      "basename": "Heavy",
-      "path": "General Rules/Traits Catalog/Heavy.md"
-    },
-    {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
-    },
-    {
-      "basename": "Powerblade",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md"
-    },
-    {
-      "basename": "Tower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
-    },
-    {
-      "basename": "Hydro-Oscillation Field",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md"
-    },
-    {
-      "basename": "Pattern-II Frag-Cluster Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md"
-    },
-    {
-      "basename": "Charges",
-      "path": "General Rules/Traits Catalog/Charges.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
-    },
-    {
-      "basename": "Frontline Vanguard",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
-    },
-    {
-      "basename": "Pilot Role Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
     }
   ],
   "omittedPaths": [],

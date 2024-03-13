@@ -1,5 +1,4 @@
 ---
-tags: 
 Completed: true
 Tier: 0
 Type: A-RAID

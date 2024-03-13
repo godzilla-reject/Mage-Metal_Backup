@@ -379,9 +379,10 @@ Remember Pilots,
 ### E.1: General Equipment
 ![[Equipment Appendix]]
 ### E.2: Weaponry
-
+![[Mage Weapon Appendix]]
 ### E.3: Armor
-
+![[Armor Appendix]]
 ## Appendix F: Metal Equipment
 ### F.1: Metal Systems 
+
 ### F.2: Metal Weaponry 
