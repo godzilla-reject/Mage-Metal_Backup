@@ -13,31 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Appendices/Metal Weapon Appendix.md",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "902c3be78de5418f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5b60c381c6627525",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -1.7274928415459239
-                }
               }
             }
           }
@@ -95,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest 1 Packet.md"
               }
             }
           },
@@ -255,10 +233,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5b60c381c6627525",
+  "active": "ba89e5f60e20f830",
   "lastOpenFiles": [
-    "Reference Notes/Appendices/Metal Weapon Appendix.md",
     "Reference Notes/Appendices/System Appendix.md",
+    "Reference Notes/Appendices/Metal Weapon Appendix.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+    "Utilities/Lists/Metal Lists/Metal Weapons List.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md",
     "Utilities/Lists/Metal Lists/Metal Systems List.md",
@@ -282,8 +263,6 @@
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
     "Character Creation Playtest 1 Packet.tex"

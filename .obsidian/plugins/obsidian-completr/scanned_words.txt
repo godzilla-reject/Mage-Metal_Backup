@@ -4453,6 +4453,7 @@ Extend
 El
 Espada
 Ehecatli
+Exceed
 Use
 Usable
 Unsorted
@@ -5258,6 +5259,7 @@ Sorcery
 Seen
 Seek
 States
+Such
 Jackson
 Jack
 Juggernaut
@@ -5350,6 +5352,7 @@ Outpost
 Oni
 Onslaught
 Oraci
+Overkill
 Basics
 Beneficial
 Body

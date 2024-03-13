@@ -1,10 +1,11 @@
 ---
 cssclasses: [clean-embeds]
 ---
-*For my best friends, Brody, Josh, Caleb, Konnar, Matthew and everyone else. I made this game, and all in the future, for us.*
+*For my best friends*
+
+*I made this game, and all in the future, for us.*
 ```table-of-contents
 ```
-
 # *Foreword*
 It is rare that I am without word.
 
@@ -384,5 +385,6 @@ Remember Pilots,
 ![[Armor Appendix]]
 ## Appendix F: Metal Equipment
 ### F.1: Metal Systems 
-
+![[System Appendix]]
 ### F.2: Metal Weaponry 
+![[Metal Weapon Appendix]]

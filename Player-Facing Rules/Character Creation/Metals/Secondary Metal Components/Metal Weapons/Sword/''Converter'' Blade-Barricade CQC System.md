@@ -9,7 +9,7 @@ Handed-ness: 2
 Mount: Superprimary
 Damage_Type: 
 Damage_Die: 
-Completed: false
+Completed: true
 ---
 > [!infobox|left ttl-c no-i n-th t-w tbl-cln]+ Weapon Entry
 > # `=this.file.name`
@@ -58,10 +58,3 @@ Completed: false
 >>|   **Damage**    | 1d8 cutting    |
 >>|   **Traits**    | [[Heavy]], [[High-Powered]], [[Parrying]], [[Reach\|Reach 2]], [[Armor-Piercing\|Armor-Piercing 4]], [[Overkill\| Overkill 2]], [[Exceed\|Exceed 3]]  |
 >> ***Exceed*** Whenever you Exceed an attack with this weapon, increase its damage die by one step and change its damage type to **Fire**. Such attacks do not cause you to mark Heat in order to Overkill. 
-
-
-
-*Notes*
-- Modes:
-	- Greatsword 
-	- Sword and Shield
