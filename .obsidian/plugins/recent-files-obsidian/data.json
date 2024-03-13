@@ -5,6 +5,10 @@
       "path": "Character Creation Playtest 1 Packet.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "System Appendix",
       "path": "Reference Notes/Appendices/System Appendix.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "''Converter'' Blade-Barricade CQC System",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Pattern-II Smoke-Screen Charges",
