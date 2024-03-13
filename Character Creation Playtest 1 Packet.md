@@ -4,8 +4,7 @@ cssclasses: [clean-embeds]
 *For my best friends*
 
 *I made this game, and all in the future, for us.*
-```table-of-contents
-```
+
 # *Foreword*
 It is rare that I am without word.
 
@@ -15,7 +14,7 @@ Thank you. If you have *ever* let me rant about the Terrarium, been forcefully s
 
 From the bottom of my heart, **thank you**. 
 
-It is with a full and happy heart I welcome you to `=[[Dev Helpers]].game-full`. 
+It is with a full and happy heart I welcome you to *`=[[Dev Helpers]].game-full`*. 
 
 # Overview 
 *”Greetings Pilot and welcome back to the Terrarium. Time since last Lunar Incursion: 709 Solar Days.”*
@@ -153,11 +152,212 @@ Take this time to go ahead and fill out non-mechanical details, such as name, ag
 ### ***Species of the United Solar Hegemony*** 
 *Formed after the destruction of Earth Prime, the U.S.H. stands as a shining example of comradery and unity.*
 #### *Dwaurves of Mars*
-![[Dwaurves]]
+*One of the three Founding People of the Unified Solar Hegemony, the Dwaurves are a hearty people, stern and powerful. Strangers consider them to be too work-centric, putting their working lives ahead of all else aside from family and drink. Those who have spent time within the cold, dry air of the Martian stone-cities, however, can attest that they are a zealous people, dedicated to family and craft with an unparalleled passion only found miles below the Martian desert.*
+
+Dwaurves were the last of the Founding Peoples to ratify the United Constitution of Sol, and many attribute this to the fact that they are slow to trust outsiders. In their own history, they have a long past of constant warfare; the horrors of Mars refuse to let even a single drop of blood go unearned. When something is won of a dwaurf, lest it be blood or honor, that pact is kept eternal. 
+
+If you seek to play a Mage-Pilot who can survive any horror of the cosmos, dedicate a heart of iron to their allies, and brandish wanton loyalty, the Dwaurves of Mars is right for you. 
+##### Characteristics
+###### You Might...
+- Remain loyal to those you consider forge-sibling, no matter their petty slights against you.
+- Have an eye for all things stone and metal, knowing pinnacle craftsmanship when you see it.
+- Refuse to break or back down when given the chance to do so.
+###### Others Probably...
+- See you as, frankly, a *stubborn ass.* Some say this is an asset, though most claim it to be a liability.
+- Assume you are a heavy drinker.
+- Respect, or fail to, the deep connection you hold with your family, clan, and clade.
+##### Physical Description
+Dwaurves are shorter than the standard Human by about one foot, standing around five foot on average. They boast wide, compact bodies, built on burly frames. Dwaurves of all genders are fully capable of growing thick, curly beards, which they often braid into intricate arrays of complex patterns that are specific to their job, family, clan, and clade. Long beards and short head hair are a sign of masculinity and leadership amongst them, while thin, face-hugging beards and long, flowing hair is a powerful sign of femininity. Clean-shaven, bald dwaurves are dishonorable, untrustworthy, and unclean.
+
+The Dwaurves of Mars typically mature into adulthood around age 50, though each clan has more specific coming-of-age ceremonies that draw the line of adulthood in other ways. A dwaurf's lifespan is around 400 years, though death is typically regarded as something a dwaurf must agree to.
+##### Society and Culture
+Long before the Venusian Elves claimed the moons of Saturn, or mankind grasped the dust of their moon, the Dwaurves fought against the other *natives* of Mars: the Starbeasts. Natively named for the sounds Dwaurven hunters made when running from them, these animals represent the bulk of the history of the Dwaurves; that is, an arms race against a species of ever-evolving megafauna. As such, craftsmanship of new and better weapons was the name of the game, and the only place they could do so was deep in the caverns of Mars.
+
+Today's dwaurves, having nearly hunted the Starbeasts to extinction, still maintain a production-based, group-minded culture. This is merely a broad-stroke for them, however. Culture varies vastly between the different stone-cities, and even between clades within the cities. Most dwaurves, even still, share a passion for the finer aspects of metallurgy, stonework, masonry, and gem-cutting. Most enjoy bare-hand brawling, architectures, and mining as well. 
+
+Each dwaurf is given an *icon* at birth; this represents their clan and clade. This icon is typically a weapon, though it varies. To have an icon taken is an ultimate crime, and to freely part with it is an ultimate dishonor. 
+##### Morality and Religion
+While quite a bit more secular than both humans and elves, dwaurves do have a primary religion: The Steel Pact, which is named such for the original Dwaurf, Adaman, forging a pact with the Serpent of the Heavenly Steels at the dawn of creation. This pact afforded a boon to Adaman: he was granted the ability to wield the Six Heavenly Steels, which are mythical metal alloys that hold magical properties. In modern times, the Pact is highly metaphorical; each alloy represents a balancing act between two opposing forces in the world, such as the Sixth Steel, Tyrannium, representing the balance between the need for leadership and the desire of tyranny. 
+
+Most dwaurves are lawful in nature, and while they are quite selfless, they are also very protective of their own and warry of outsiders, leading some to declare them quite neutral parties. A strong sense of justice helps define them further as a people who work hard, but play even harder. 
+##### Naming Tendencies 
+Dwaurves have, admittedly, quite complex naming conventions. A dwaurf's full name is their chosen name (selected when they come of-age), their given name (the name given by their birthing-parents), their family name, their clan name, and their clade name. Given names are normally a virtue, while chosen names are normally relevant to the individual's coming-of-age. 
+###### Sample Names
+Below are some examples of names.
+####### Chosen Names 
+Agna, Bodril, Doegin, Vinyar, Kotri, Rogar.
+####### Given Names 
+Torra (Tenacious), Yangari (Powerful), Viim (Silent), Ruski (Loud), Kazva (Calm).
+####### Family Names 
+White-Beard, Star-Runner, Moon-Catcher, Boulder-Breaker, Beast-Waker.
+####### Clan Names 
+Mogrung, Fargraven, Gigantua, Nekarik, Bodungrin.
+####### Clade Names 
+Shipwrighter, Stonecutter, Timberyarder, Anvilbreaker.
+- - -
+###### Dwaurf Mechanics
+
+>[!info|left] Species Information 
+>**Attribute Boost**: Body
+>
+>**Size:** 1
+>
+>**Species Bonuses:** Dwaurves gain a +1 to Toughness at character creation. Dwaurves also begin play with one weapon or equipment that acts as the icon of their clan and clade. 
+>
+>**Languages:** Common, Dwaurven , Additional *common* Languages equal to 1 minus your Skill Aptitude.
+>
+>**Special Senses:** 
+>- *Night Vision:* You can see in total darkness as if it were moderate light.
+>
+
+>[!column|left] ***Species Perks:*** Choose 1 From Options Below
+>> [!metadata] *Option 1* Arcane Resilience
+>> You take 2 less damage from all spells. This applies *before* Toughness.
+>
+>> [!metadata] *Option 2* Hardy
+>> You gain a +5 bonus to Health at character creation.
+>
+>> [!metadata] *Option 3* Rock and Stone!
+>> You gain Stonesight, a sense that allows you to see through mundane stonework, with a range of 60 feet.
 #### *Elves of Venus*
-![[Elves]]
+*One of the three Founding People alongside Dwaurvenkind and Humankind, the Elves are a mystical, superstitious and martial people dedicated to their endless pursuit of understanding perfection. Those foreign to the City-States of Venus consider the Elves to be esoteric, cold and brutal. Those who are willing to shelter from the burning heat of the Venus landscape in the grand pyramids, however, know that the Elves are, in fact, brutal, and maybe even esoteric, but they are ruthlessly dedicated to an idea of fulfilment others can barely fathom.*
+
+First of the species of Sol to leave their planet, Elves lived in the shadows of Old Earth until humankind was ready to take their baby steps into the stars. The elves were quick to ratify the United Constitution of Sol, which sits in stark contrast to the Dwaurves. 
+
+Much like the Martians, Elves also have a history soaked in blood, though not their own. Descendants of an intergalactic race of uber-warriors, elves warred amongst themselves across the cosmos until they quite literally blew themselves back to the stone age. This happened long before the advent of humankind on Old Earth, and much of this history has been lost to the endless eons. To lose history, or any other knowledge, is to fall off of *El Camino a la Perfección*. 
+
+Elves seek perfection through both mystical and mechanical, but through martial as well. Elves are astute fighters, who are quick to act but slow to win, loving to toy with their prey on the battlefield.
+
+If you wish to play a Mage-Pilot who seeks to understand the universe through magic and metal, shed brilliant blood, and preserve history, the Elves of Sol are right for you. 
+##### Characteristics
+##### You Might 
+- Be slow to trust and form bonds due to your extreme lifespan.
+- Never break bonds once they are formed.
+- Seek to understand a very narrow corner of reality in pursuit of *El Camino a la Perfección*.
+##### Others Might 
+- See you as “odd” or “unusual” due to the stories told of Elven tradition.
+- Assume you are a perfectionist, to your detriment.
+- Adore, or slight, you for your people’s dedication to knowledge and religion. 
+##### Physical Description
+Elves stand taller than the average Human by about one foot, standing roughly seven feet tall on average. They have lithe, wiry frames, with slightly-too-long limbs. Most elves are thin, though there is just as much possible variation between body types as humans.
+
+Most who have never seen an elf typically have an issue telling apart "male" elves from "female" elves. This is primarily due to elves’ lack of sexual dimorphism and facial androgyny. Elves possess no secondary sex characteristics, and possess the capacity to change their reproductive organs at will.
+
+Facially, elves typically possess sharp features and pointed ears, though some House bloodlines have rounded or even squared ears. Elves also cannot grow facial hair. 
+
+Elves have an exceptionally long lifespan, living normally around 1,000 years. This leads to the timescale of their perception working fundamentally differently to other mortalkind. Elves normally come of age at 200 years old, as this is when they first typically hear the Summoning for the first time. The Summoning, a curse upon the very blood of the Elves, summons the deepest instinct of their warrior-race past, driving them into an animalistic frenzy roughly once every fifty years.
+##### Society and Culture
+While the Dwaurves warred against nearly unconquerable beasts on Mars, Elves were in an arms race of their own; they were desperate to find a way to fight the slow collapse of Venus’ atmosphere. 
+
+After being set back to a stone-age level of technology at the very end of the Forerunner War, elves used remnants of their ancestor’s technology to accelerate technologically at an alarming rate, eventually shedding concepts such as war in favor of peace to unite against the common problem. As such, elven society, even now, is still leagues ahead of the other Sol species. The elven idea of philosophy is that war is unneeded, but violence is an acceptable answer and that technology is the only way forward. This stands in stark contrast with the Summoning, the magical curse put upon Elven blood. 
+
+In time, these opposing forces have come to conflict, and now harmony. Each elf is taught the ways of war, the ways of magic, and the ways of technology. This three-fold path is essential to an elf’s development in spirit, body, and mind, and their society seeks to perfect them all. 
+
+##### Morality and Religion
+Classically, the Elves follow the Tradition, a religion formed from the fundamentalist ideas of the Forerunners in which they are descendants of. The Tradition is a wild combination of martial blood-sport, flesh sacrifice, ritual sexual acts and convoluted rituals. This "religion" is not followed openly in the modern day of the Hegemony, but it is *felt* throughout Elven society. There are some sects who still follow the Tradition, and believe that the Summoning is tied to straying from the Path set forth by the Tradition.
+
+In modernity, elves follow the Three-Fold Path, or *El Camino a la Perfección*. This can be summed up as the idea that, in order to lead a perfect life, one must perfect their body, soul, and mind. Past this, the elves idea of “morality” is the pursuit of making life fair for all things, if not equitable. 
+##### Naming Tendencies 
+Elves choose their own names in accordance to their pursuit of the Three Paths, as well as have a name that is given to them at birth and their House name.
+##### Sample Names
+###### Given Names
+Mahoti, Ikla, Ncouti, Chunguti
+###### Perfect Mind Names 
+Conoci, Medacón, Papel
+###### Perfect Body Names 
+Lanza, Espada, Blindaje
+###### Perfect Soul Names
+Oración, Magi, Deletreer
+###### Family Names 
+1. Tialoc
+2. Xolotli 
+3. Ehecatli
+4. Centeōtl
+5. Xipe Totec
+6. Tōnatiuh
+- - -
+##### Elf Mechanics
+
+>[!info|left] Species Information 
+>**Attribute Boost**: Reflex
+>
+>**Size:** 1
+>
+>**Species Bonuses:** Elves gain a +3 bonus to Skill Aptitude at character creation.
+>
+>**Languages:** Common, Elvish, Additional *common* Languages equal to 1 minus your Skill Aptitude.
+>
+>**Special Senses:** None.
+
+>[!column|left] ***Species Perks:*** Choose 1 From Options Below
+>> [!metadata] *Option 1* Elven Nimble-ness
+>> You gain a +2 bonus to Speed.
+>
+>> [!metadata] *Option 2* War-God Accuracy
+>> You gain a +1 bonus to Accuracy.
+>
+>> [!metadata] *Option 3* Bloodline Magic
+>> You gain an extra starting Rank-0 Spell. You do not have to meet its School requirements. You always have this spell prepared, regardless of Spell Memory. 
 #### *Humans of Nowhere*
-![[Human]]
+*First of the Founders of the Hegemony, Humankind is a barbaric, bloody, and war-driven race with the unique ability to form a pack-bond with nearly any creature or inanimate object in the known universe. Many, including their Hegemony contemporaries, think them to be too short-sighted, but it is this short-sightedness that has taken humankind to the stars, past the Fringe, and into deep space. With their home planet annihilated by the Apostels, Humankind now calls the Terrarium home.*
+
+The youngest of the three major species in the Sol system, humankind once called Old Earth home, but after it was torn asunder by the first coming of the Apostels, humankind constructed the Terrarium to act as a new home and center of the budding United Solar Hegemony. This new empire, the first of its kind in the Milky Way, allowed the species of Sol to consolidate enough power, resources and intellect to finish Project New Steel, which gave the Hegemony the first truly mass-produced Metals, as well as the ability to train Mage-Pilots en masse. 
+
+As for the attitudes of humankind, we are all *too* familiar with how driven humankind is, lest it be by passion, lust or war. 
+
+If you seek to play a Mage-Pilot who desires the throes of combat and harbors limitless potential, the Humans of Nowhere might be for you. Humans are complicated. They know. 
+##### Characteristics
+###### You Might…
+- Seek to manifest your ideals at all costs.
+- Desire a new Earth for humankind.
+- Form relationships and friendships with all peoples easily.
+###### Others Probably…
+- Respect your capability to fit into any niche and find a role in any situation.
+- Fear you seek only blood and death.
+- Find it difficult to form expectations of you. 
+##### Physical Description
+Humans are highly adaptable, and due to their tragically short life-spans, evolve to fit new environments quickly. As such, their appearance is highly dependent on climate, with sunny, bright or hot environments causing humans to have darker skin while colder climates give rise to humans with much lighter skin tones. 
+
+Humans can have hair and eyes of nearly any color. In previous times, this was limited to only select colors, but awakening humankind’s latent magic seems to have caused new mutations that allow for the full color spectrum to be expressed. Humans will typically have hair and/or eye color that relates to the type of magic they have the most talent in. 
+
+Humans reach physical maturity around the age of 15, though they are unique in that they do not reach *mental* maturity at the same time (that typically happens around age 25.) A typical human can live for roughly 90 years, though some can live longer. Humans also have a highly mutable two-helix DNA structure, which allows them to intermarry with nearly any other species and produce offspring that bear traits of both parent species. The most notable of these half-humans are the eladryn, or half-elves, and the gnomes, or half-dwaurves.
+
+It’s complicated, they know. 
+##### Society and Culture
+Humans have a long, varied and rich history of doing two things: fighting and reproducing. Humans, despite all originating from the same small group on Old Earth, grew to hate one another across their long history, only learning to put differences such as skin color and sexual preference aside when faced with an extinction-level climate crisis during the final centuries of Old Earth. 
+
+Now, in modernity, Humankind shares the common burdens of being the leading species of the Hegemony and having no place to call their own. They bear constant reminder of the destruction brought to Earth, looking down on its remnants from the massive space-city known as the Terrarium. 
+
+Culturally, humankind still widely varies across each group and niche; this constant state of change makes humankind seem to lack a concise culture and empire. It’s complicated, they know. 
+##### Morality and Religion
+Humans are widely superstitious, even if they claim not to be. The idea of “luck” and “fate” are both distinctly human in that *something random could just happen.* Nearly all other species believe that there is a reason for all things, but humans instead think that *randomness* is the core aspect of the universe that drives all things.
+
+Despite this die-roll driving force, humans are strict about both morality and religion, having waged many a war over both. The issue is that no two groups of humans can actually agree on one religion or moral code. It’s complicated, they know. 
+##### Naming Tendencies 
+Humans, at least cosmically, have pretty simple names. A birth name, given by parents, and a surname, or family name. Humans are also widely known to choose a completely different name and go by that, ignoring their given name. Still other groups of humans use naming schema from dwaurves or elves, and even still others might not even have names at all! It’s complicated, they know.
+- - -
+##### Human Mechanics
+
+>[!info|left] Species Information 
+>**Attribute Boost**: Any.
+>
+>**Size:** 1
+>
+>**Species Bonuses:** At character creation, humans can select an additional Weapon, Armor, or General proficiency to become Trained in. 
+>
+>**Languages:** Common, Additional *common* Languages equal to 1 minus your Skill Aptitude.
+>
+>**Special Senses:** None.
+
+>[!column|left] ***Species Perks:*** Choose 1 From Options Below
+>> [!metadata] *Option 1* Intuitive Skill 
+>> Choose a Skill you are proficient in and have aptitude with. Whenever you gain a new level of training in another Skill, you also gain that training in the chosen Skill.
+>
+>> [!metadata] *Option 2* Naturalborn Pilot
+>> You begin play as an Expert in Piloting.
+>
+>> [!metadata] *Option 3* Supernatural Talent
+>> Once per day, you can spend a Luck point to choose the outcome of a single roll you make. 
 
 ## 3. *History*
 After determining your character’s Species, you must answer another question:
@@ -173,21 +373,112 @@ After your selection, ensure you denote your History’s perk and Attribute boos
 Make sure you also list any other starting bonuses or equipment from your chosen History.
 
 Finally, ensure you denote your character’s *starting wealth*, as stated on the following chart.
-![[Starting Wealth Chart]]
+
+| Wealth Level | Starting Funds |
+|:------------:|:--------------:|
+|     Poor     |      800       |
+|   Moderate   |      1200      |
+|     High     |      1800      |
+|   Extreme    |      2700      |
 
 ### Poor Histories
-![[Dusted]]
-![[Hegemony Nomad]]
-### Moderate Histories
-![[Rapscallion]]
-![[Wrench Monkey]]
-### High Histories
-![[Corpo Deskie]]
-![[Influencer]]
-### Extreme Histories
-![[Politologist]]
-![[Noble]]
+> [!info|no-i]- #### Dusted
+> Referred to as such due to the amount of exhaust dust that coats the slums, you are one of the Dusted. The Dusted sit at the lowest of Terrarium society, being relegated to working the hydroponics yards or super-factories, both of which pay little. The Dusted are also not allowed to leave the slums without special permission, typically gained via a lucky job opportunity or pilot academy scholarships.
+>>[!info| clear no-i] Mechanics
+>>**Wealth**: *Poor*
+>> **Attribute**: **Body**
+>>> [!metadata|text-Center c-p-sm] Skill Proficiencies
+>>> Two of your choice.
+>
+>> [!info|text-Center clear] Perk: Untouchable
+>> As one of the Dusted, you are effectively invisible to people of higher classes. Most non-violent crime you commit goes unpunished due to the fact enforcers rarely want to interact with you. You can also get access to the Slums’ black markets and other hubs of non-regulated activity with ease.
 
+> [!info|no-i]- #### Hegemony Nomad
+The Nomads are a small fleet of highly powerful hedge mages that exist outside of the Circles of Magi, but still within the Hegemony jurisdiction.  You are one of these Nomads. Despite powerful magic, your lifestyle is minimalistic and poor, and your people's perceptions by the general populous does not help either.
+>>[!info| clear no-i] Mechanics
+>>**Wealth**: *Poor*
+>>**Attribute**: **Potential**
+>>> [!metadata|text-Center c-p-sm] Skill Proficiencies
+>>> - [[Meta-Magic]]
+>
+>> [!info|text-Center clear] Perk: Wanderer Arcana
+>> You begin as an Expert in Meta-Magic, and you gain aptitude in it if you do not otherwise have it. Additionally, you can change your Meta-Magic spell-forms when you prepare your spells each day.  
+### Moderate Histories
+> [!info|no-i]- #### Wrench Monkey
+You sit at the heart of the economy: the working class. You repair, destroy, or otherwise work on vehicles, of which the kind has little bearing. This knowledge is practical, and while hard work, wrench monkeys never run out of work.
+>>[!info| clear no-i] Mechanics
+>>**Wealth**: *Moderate*
+>>**Attribute**: **Power**
+>>> [!metadata|text-Center c-p-sm] Skill Proficiencies
+>>> [[Mundocraft]] *or* [[Artifice]]
+>>> *…and*
+>>> One Power Skill
+>
+>> [!info|text-Center clear] Perk: Well-Stocked Workshop
+>> You have access to a suite of tools that you can use at any time. You can use these tools to craft, maintain and work on nearly any mechanical weapon, armor, or vehicle (other than Metals.)
+
+> [!info|no-i]- #### Rapscallion
+Lowest of the low, you are comfortable in the Terrarium’s worst streets and deepest alleys. You partake in illicit, unscrupulous activities consistently, and prefer to work alone. Despite your poor company and worse smell, you can maintain a decent living.
+>>[!info| clear no-i] Mechanics
+>>**Wealth**: *Moderate*
+>>**Attribute**: **Reflex**
+>>> [!metadata|text-Center c-p-sm] Skill Proficiencies
+>>> One **Reflex** Skill
+>>> *…and*
+>>> One **Tenacity** Skill
+>
+>> [!info|text-Center clear] Perk: Night of Debauchery
+>> You can find a place to partake in hedonism anywhere you go. When exploring, you can spend 4 hours finding a local red light district or otherwise place of illicit activity.
+### High Histories
+> [!info|no-i]- #### Corpo Deskie
+You work for one of the six mega-corporations that own and control 95 % of the Terrarium.
+>>[!info| clear no-i] Mechanics
+>>**Wealth**: *High*
+>>**Attribute**: **Mind**
+>>> [!metadata|text-Center c-p-sm] Skill Proficiencies
+>>> Two Mind Skills.
+>>> *…or*
+>>> One Power Skill *and* One Tenacity Skill.
+>
+>> [!info|text-Center clear] Perk: Ready-Access Loans
+>> You can take out a company loan at nearly any time. These loans can be used to procure most standard equipment that doesn't have a rarity trait. Typically, these loans are repaid in favors to your higher-ups, not money. Your starting credits is one of these such loans.
+
+> [!info|no-i]- #### Influencer
+Whether it be from musical talent, video essays, or an All_Your_Fans, you sit at the height of a media community cultivated by your own hand. You maintain a wealthy, comfortable lifestyle in the Terrarium, but also live at the mercy of trends and your fanbase. After all, without them you are *nothing*.
+>>[!info| clear no-i] Mechanics
+>>**Wealth**: *High*
+>>**Attribute**: **Tenacity**
+>>> [!metadata|text-Center c-p-sm] Skill Proficiencies
+>>> One Tenacity Skill.
+>>> *…and*
+>>> One Mind Skill *or* One Body Skill.
+>
+>> [!info|text-Center clear] Perk: Adoring Fans
+>> You can use your fans for small tasks that require little physical action. When exploring or during downtime, you can implore your fanbase to attempt to locate a person, location, or other information accessible via the Hypranet. This information cannot be classified, though it can be otherwise kept secret. There is a chance of failure, however, and using this perk, regardless of success, requires you to take a week of downtime to produce content to keep your fanbase happy.
+### Extreme Histories
+> [!info|no-i]- #### Politologist
+You are a Politologist, a scholar-philosopher who sits at the nexus of the Hegemony's long history of both Politics and Science. You have studied these things deeply, and now you are a leader within your community who must justify their politics with science.
+>>[!info| clear no-i] Mechanics
+>>**Wealth**: *Extreme*
+>>**Attribute**: **Mind**
+>>> [!metadata|text-Center c-p-sm] Skill Proficiencies
+>>> [[Diplomacy]] *or* [[Deception]].
+>>> *…and*
+>>> One Mind Skill.
+>
+>> [!info|text-Center clear] Perk: Impromptu Speech
+>> In times of stress or peril, you can rally the people and inspire your allies with a powerful, Impromptu speech. When you use this ability, you can make a request of a large crowd using a Tenacity skill of the GM's choice. Any ally that hears this speech gains 1dE temporary Health, which is doubled on a critical success.
+
+> [!info|no-i]- #### Noble
+You come from the height of luxury in the Terrarium, living in the Upper Epitaph or Outer Shells. You might be from a family of career pilots, training from birth to be the best the Terrarium has to offer, or you might be from one of the Black Houses, brought up with an education comparable to no other.
+>>[!info| clear no-i] Mechanics
+>>**Wealth**: *Extreme*
+>>**Attribute**: **Tenacity**
+>>> [!metadata|text-Center c-p-sm] Skill Proficiencies
+>>> Two Mind Skills.
+>
+>> [!info|text-Center clear] Perk: Namedrop
+>> You can drop your last name in conversations with people of high class, such as merchants who specialize in high-value products, in order to get special access to “in-the-back” inventory, invites to social events, and even audiences with people of utmost importance.
 
 ## 4. *School of Arcana*
 Now that you have decided what your character did before becoming a Mage Pilot, you are faced with yet another question.
@@ -199,7 +490,276 @@ The answer to this question is the methodology of magic your pilot chose to spec
 Pick from one of the following School of Arcana, then select one of the two available Paths offered by your chosen School. You become Trained in your School, and gain the first Perk of your chosen Path.
 
 After your selections, ensure you denote your School’s Attribute Boost and any starting gear. Take this time to inscribe your starting spells in your Grimoire as well. 
-![[School Note]]
+### Aerophasia
+Aeromancers are the masters of mobility and ranged combat, slinging arrows and dashing around on the screaming squails of the torrential winds.
+#### Starting Equipment
+You begin play with the following equipment:
+- Catalyst: A bright green leaf that seems to billow on its own. It flies away if held by anyone else.
+- Grimoire: A thin journal with a feather quill that never needs ink. Only you can open the journal.
+- Resonator: A arrowhead with feathers attached, bound to a necklace.
+- - -
+>[!info] ### Mechanics
+>**Sphere:** Elemancy
+> **Attribute Boost:** **Reflex**
+> **Starting Spell:** [[Aerostrike]]
+
+##### When you select  this School,  select  a  Path. 
+
+>[!column]- ***Path of the Valliant Zephyr*** 
+>> [!metadata] *Trained Perk: Zephyr's Winds*
+>> *When you become Trained in this School, you gain the following benefits.*
+>> Any time a spell with the [[Air]] trait allows you to move as apart of casting it, you can move an additional 2 spaces and you do not trigger reactions during that movement.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>> ***Coming Soon…***
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this School, you gain the following benefits.*
+>>***Coming Soon…***
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this School, you gain the following benefits.*
+>>***Coming Soon…***
+
+*…or*
+
+>[!column]- ***Path of the Wind Dancer*** 
+>> [!metadata] *Trained Perk: Windborn Cutter*
+>>*When you become Trained in this School, you gain the following benefits.*
+>>You gain a +2 bonus to damage with [[Air]] spells each time you move as a part of an Air spell. This bonus caps at +4, and you lose it if you move by other means.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>> ***Coming Soon…***
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this School, you gain the following benefits.*
+>>***Coming Soon…***
+>
+>> [!metadata] *Legendary Perk:*
+>> *When you become a Legend in this School, you gain the following benefits.*
+>> ***Coming Soon…***
+### Hydrophasia
+The most spiritual of the Elemancy schools, hydromancers flow from state to state, using frozen ice as well as scalding steam to bring calamity.
+#### Starting Equipment
+You begin play with the following equipment:
+- Catalyst: A wristband with bright blue water in it, which changes states with your spells. It melts in anyone else’s hands, reforming around your wrist.
+- Grimoire: A water-proof scroll that wraps around your forearm. Its text washes off when held by anyone else, soaking them in the process.
+- Resonator: A chunk of permafrost bound to a necklace.
+- - -
+>[!info] #### Mechanics
+>**Sphere:** Elemancy
+> **Attribute Boost:** **Potential**
+> **Starting Spell:** [[Steam-Spike]]
+
+#### When you select  this School,  select  a  Path. 
+
+>[!column]- ***Path of the All-Consuming Tsunami*** 
+>> [!metadata] *Trained Perk: Tsunami's Deluge*
+>> *When you become Trained in this School, you gain the following benefits.*
+>> Your Hydrophasia is powerful, but draining. Treat all damage rolls of a 1 as a 2 for Hydrophasia spells, but increase their mana cost as if it was a spell level higher.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this School, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this School, you gain the following benefits.*
+
+*…or*
+
+>[!column]- ***Path of the Ever-Shifting Tide*** 
+>> [!metadata] *Trained Perk: Even Flow, Constant Change.*
+>>*When you become Trained in this School, you gain the following benefits.*
+>>You are a master at changing the flow and state of water. Each time you alternate Ice and Steam modes of your Hydrophasia spells, you gain a +1 *cumulative* magical bonus to attacks and Spell-Work, which caps out at +4. If you take damage or use the same mode twice, you lose this bonus immediately.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this School, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>> *When you become a Legend in this School, you gain the following benefits.*
+### Pyrophasia
+Harnessing the power of wicked flame, practitioners of this school, typically known as *pyromancers,* bring immolation through desolate flame. Despite this wanton destruction, their flames can give new life the chance to rise.
+#### Starting Equipment
+You begin play with the following equipment:
+- Catalyst: A palm lighter, with an important name engraved on it. It is too hot for anyone else to hold.
+- Grimoire: A matchbook that always seems to have matches. Each stick is rune-scribed with with spells. It always seems to find its way into your pocket.
+- Resonator: A small piece of black-charred wood that always seems to smolder. This flame does not cause harm or spread. It is affixed to a small necklace.
+- - -
+>[!info] #### Mechanics
+>**Sphere:** Elemancy 
+> **Attribute Boost:** **Power**
+> **Starting Spell:** [[Ignition]]
+
+#### When you select  this School,  select  a  Path. 
+
+>[!column]- ***Path of the White Phoenix Down*** 
+>> [!metadata] *Trained Perk: Healing Downflame*
+>> *When you become Trained in this School, you gain the following benefits.*
+>> You can cast any spell with the [[Fire]] trait on an ally to heal them for the damage normally dealt. If they are Immune to fire damage, your healing has no effect. Spells cast this way gain the [[Healing]] trait.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this School, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this School, you gain the following benefits.*
+
+*…or*
+
+>[!column]- ***Path of the Flaming Lion Emperor*** 
+>> [!metadata] *Trained Perk: Emperor's Pyretics*
+>>*When you become Trained in this School, you gain the following benefits.*
+>>You are Immune to Fire damage, and can use [[Ignition]] to set yourself aflame, giving you the [[Ignited]] condition. While on fire, your Pyrophasia spells always gain their ***Immolation*** effect (even if you don’t meet the trigger) and cost additional mana as if they were two Ranks higher.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this School, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>> *When you become a Legend in this School, you gain the following benefits.*
+### Terraphasia
+With stubbornness and unyielding loyalty, Terramancers are stalwart warriors who forge weapons and armor from the earth below them.
+#### Starting Equipment
+You begin play with the following equipment:
+- Catalyst: A set of six stone arm rings, which fit only your arms.
+- Grimoire: A stone tablet, which has been enchanted to never leave your side.
+- Resonator: A worked, polished, and cut gem or mineral, attached to a necklace.
+- - -
+>[!info] #### Mechanics
+>**Sphere:** Elemancy
+> **Attribute Boost:** **Body**
+> **Starting Spell:** [[Earthen Armor]]
+
+#### When you select  this School,  select  a  Path. 
+
+>[!column]- ***Path of the Tectonic Bastion*** 
+>> [!metadata] *Trained Perk: Shifting Plates*
+>> *When you become Trained in this School, you gain the following benefits.*
+>> Whenever you Cast or Dispel a Spell with the [[Defensive]] trait, you can use a reaction to Move up to your Speed, ignoring penalties from the spell.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this School, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this School, you gain the following benefits.*
+
+*…or*
+
+>[!column]- ***Path of Crystal Watchtower*** 
+>> [!metadata] *Trained Perk: Crystallomancy*
+>>*When you become Trained in this School, you gain the following benefits.*
+>>Your Terraphasia spells manifest crystals instead of earthen stone. Any  spell you cast with the [[Earth]] trait can deal cutting damage instead of crushing, and you reduce any Speed penalty from those spells by 5. You also gain access to [[Uncommon]] spells with the [[Crystal]] trait.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this School, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>> *When you become a Legend in this School, you gain the following benefits.*
+### Technosophy 
+Technomancers have a special relationship with the Metals; instead of seeing them as resonators for magical power, they view them as extensions of the self. Most technomancers augment their bodies with cybernetics and magitech in order to feel closer to their Metals.
+#### Starting Equipment.
+You begin play with the following equipment:
+- Catalyst: A [[PiC-Mi]] (Personally-Integrated Computer Machine Interface)
+- Grimoire: A copy of [[Cybermagistic Solution's Grim-Ware]] software.
+- Resonator: One cybernetic enhancement.
+- - -
+>[!info] ####  Mechanics
+>**Sphere:** Technomynism
+> **Attribute Boost:** **Mind**
+> **Starting Spell:** [[Techno-Babble]]
+
+#### When you select  this School,  select  a  Path. 
+
+>[!column]- ***Path of the Technosorcerer*** 
+>> [!metadata] *Trained Perk: Sp3ll_C0d1ng*
+>> *When you become Trained in this School, you gain the following benefits.*
+>> Once per hour, you can attempt to code a new spell on-the-fly as a free action. Pick one spell you have access to but do not have in your grimoire. Roll a **Spell-Works** check, with a penalty equal to the spell’s Rank. On a success, you can cast the spell. On a failure, you suffer feedback, and cannot cast a spell for a round.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this School, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this School, you gain the following benefits.*
+
+*…or*
+
+>[!column]- ***Path of the Biotechnician*** 
+>> [!metadata] *Trained Perk: Bionic Integration*
+>>*When you become Trained in this School, you gain the following benefits.*
+>>You can directly integrate computer technology into your body. Your PiC-Mi is directly integrated into your brain (and as such, loses the [[Upgrade]] trait), and you can use any cybernetic or bio-tech enhancement as a catalyst.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this School, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>> *When you become a Legend in this School, you gain the following benefits.*
+### Runeurgy
+Sometimes called scribes, runeurgists are masterful practitioners of the most basic component of spell-work: language. Magic is a language a Mage speaks with the universe, and runeurgists are exceptionally fluent. 
+#### Starting Equipment.
+You begin play with the following equipment:
+- Catalyst: A large writing utensil with your name etched across it. It never seems to run out of ink.  
+- Grimoire: A tome who's pages are blank to anyone other than you. Only your catalyst can inscribe within it.
+- Resonator: A vial of pitch-black ink, strung on a necklace. 
+- - -
+>[!info] #### Mechanics
+>**Sphere:** Artifacteomancy
+> **Attribute Boost:** **Tenacity**
+> **Starting Spell:** [[Power-Word 'Harm']]
+
+#### When you select  this School,  select  a  Path. 
+
+>[!column]- ***Path of the Rune-Scribed*** 
+>> [!metadata] *Trained Perk: Bound in Ink*
+>> *When you become Trained in this School, you gain the following benefits.*
+>> You can cast spells by drawing their spoken components in ink instead. Any spell you cast with the [[Vocal]] trait is cast as if affected by the *Silent Spell* spell-shape, but this is *not* a spell-shaping effect. Additionally, your grimoire is the canvas of your skin; any spell you learn becomes tattooed onto your skin, and your prepared spells' tattoos glow with a faint ebb and glow. 
+>
+>> [!metadata] *Expertise Perk: Ink Duelist*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk: Ink-Wrought Soul*
+>>*When you become a Master in this School, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk: Power Word-'Creation'*
+>>*When you become a Legend in this School, you gain the following benefits.*
+
+*…or*
+
+>[!column]- ***Path of the Word-Caller*** 
+>> [!metadata] *Trained Perk: Word-Shaper*
+>>*When you become Trained in this School, you gain the following benefits.*
+>> You can freely shape the spellform of your Power Words. Any spell you cast with the [[Vocal]] trait can have an additional spell-shape applied to it (for a total of two, or three if you are Legendary in [[Meta-Magic]].) This increases by another additional spell-shape each time you gain a training level in this School.
+>
+>> [!metadata] *Expertise Perk: Word-Speaker*
+>> *When you become an Expert in this School, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk: Word-Weaver*
+>>*When you become a Master in this School, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk: Power Word-'Obliteration'*
+>> *When you become a Legend in this School, you gain the following benefits.*
 
 ## 5. *Pilot Role*
 After making a selection as to the style of magic you wield, you are now posed with a final question:
@@ -211,7 +771,258 @@ The answer to this question is your *Pilot Role*. This is simply what *you do* o
 Select a Pilot Role from the following options, then select one of the two Role Specializations offered by the chosen Role. You then become Trained in your Role.
 
 Denote any proficiencies granted by your Role, and then denote the skills granted by your Role and Specialization. You *do not* gain aptitude in them. Finally, inscribe your Specialization’s starting Spell in your Grimoire. 
-![[Role Note]]
+### Battlefield Support
+Supports use buffs and healing to help allies survive the battle, as well as deal more damage. 
+- - -
+>[!info] #### Role Mechanics
+> **Attribute Boost:** Any
+> **Armor Proficiency :** Infiltrator (Trained)
+> **Weapon Proficiency:** Simple Ranged (Expert)
+> **Role Skill:** [[Arcanology]]
+
+#### When you select  this Role,  select  a  Specialization. 
+>[!column]+ ***Role Specialization: Medic*** 
+>>[!info] #### Mechanics
+>Medical Supports specialize in healing and repair on the battlefield. 
+> **Specialty Skill:** [[Medicine]]
+> **Starting Spell:** [[Patch-Up]]
+> 
+>> [!metadata] *Trained Perk: Resplendent Life*
+>> *When you become Trained in this Role, you gain the following benefits.*
+>> You gain a +3 magical bonus to healing you do to allies who are [[Bloodied]]. Additionally, you can pay for up to half of an ally's spell's mana cost. Doing so costs your reaction. 
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this Role, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this Rolel, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this Role, you gain the following benefits.*
+
+*…or*
+
+>[!column]+ ***Role Specialization: Barricader*** 
+>>[!info|left] #### Mechanics
+>>Barricadier Supports generate cover and utilize perfect positioning to create advantageous situations for their allies.  
+> **Specialty Skill:** [[Mundocraft]]
+> **Starting Spell:** [[Eunard's Portable Cover]]
+> 
+>> [!metadata] *Trained Perk: Reinforced Constructs*
+>> *When you become Trained in this Role, you gain the following benefits.*
+>> Constructs you create (such as via spells with the [[Construct]] trait) gain a +2 bonus to Toughness and cannot be pierced. Additionally, you can pay for up to half of an ally's spell's mana cost. Doing so costs your reaction. 
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this Role, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this Rolel, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this Role, you gain the following benefits.*
+
+
+### Frontline Vanguard
+The Vanguards take to the frontlines, using their extreme defenses to tank damage, make distance, and create chances for their allies.
+- - -
+>[!info] #### Role Mechanics
+> **Attribute Boost:** **Body**
+> **Armor Proficiency :** Powered (Expert)
+> **Weapon Proficiency:** Simple Melee (Trained)
+> **Role Skill:** [[Athletics]]
+
+#### When you select  this Role,  select  a  Specialization. 
+>[!column]+ ***Role Specialization : Bastion*** 
+>>[!info] #### Mechanics
+>Bastions are the living shield of their groups, using massive armor and powerful shields to stop damage before it ever has the chance to wound them and their allies. 
+> **Specialty Skill:** [[Intimidation]]
+> **Starting Spell:** [[Shield Crush]]
+> 
+>> [!metadata] *Trained Perk: Living Shield*
+>> *When you become Trained in this Role, you gain the following benefits.*
+>> You gain resistance to physical damage. Additionally, you roll with favor against any check that would move you by force with favor.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this Role, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this Rolel, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this Role, you gain the following benefits.*
+
+*…or*
+
+>[!column]+ ***Role Specialization: Juggernaut***
+>>[!info|left] #### Mechanics
+>Juggernauts are beacons of light in the dark of the battlefield; using powerful war-cries, these front-liners burn their own life to stoke the fires of their allies. 
+> **Specialty Skill:** [[Athletics]]
+> **Starting Spell:** [[Blood Cry]]
+> 
+>> [!metadata] *Trained Perk: Unyielding*
+>> *When you become Trained in this Role, you gain the following benefits.*
+>> You gain an additional 5 Health at character creation, and any time you would increase your max Health, you gain an additional +3 Health. Additionally, you roll with favor against any check that would move you by force.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this Role, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this Rolel, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this Role, you gain the following benefits.*
+
+### Guerilla Tactics 
+Guerilla Specialists gather information, scout out battles, and recon for potential hostiles. Boasting good mobility, as well as evasion, Guerillas stay out of the fray to take others out with speed.
+- - -
+>[!info] #### Role Mechanics
+> **Attribute Boost:** **Power**
+> **Armor Proficiency :** Mobile (Trained)
+> **Weapon Proficiency:**  Martial Ranged (Trained) *and* Simple Melee (Trained)
+> **Role Skill:** [[Survivalism]]
+
+#### When you select  this Role,  select  a  Specialization. 
+>[!column]+ ***Role Specialization : Scout*** 
+>>[!info] #### Mechanics
+>Scouts get ahead of their allies, using information gathered from the shadows to help them line up the perfect ambush.
+> **Specialty Skill:** [[Survivalism]]
+>>
+> **Starting Spell:** [[Retrace]]
+>  
+>> [!metadata] *Trained Perk: Scouting Communications*
+>> *When you become Trained in this Role, you gain the following benefits.*
+>> You can double the range of any spell you cast with the [[Communication]] trait. Additionally, whenever you reduce a foes to 0 Health, you heal for a number of Health equal to your level.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this Role, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this Rolel, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this Role, you gain the following benefits.*
+
+*…or*
+
+>[!column]+ ***Role Specialization : Hunter*** 
+>>[!info|left] #### Mechanics
+>Hunters slink through the edge of the tree-line, taking out key targets with speed before the main engagement begins.
+> **Specialty Skill:** [[Sneakery]]
+>> 
+> **Starting Spell:** [[Predator's Sight]]
+> 
+>> [!metadata] *Trained Perk: Predation*
+>> *When you become Trained in this Role, you gain the following benefits.*
+>> You gain a +2 Space bonus to reach with any melee attack, as long you would lose the [[Hidden]] condition as apart of that attack. Additionally, whenever you reduce a foes to 0 Health, you heal for a number of Health equal to your level.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this Role, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this Rolel, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this Role, you gain the following benefits.*
+
+### Logistical Controller 
+Logistical Controllers do just that: control the pace of the battle, lest it be by locking down key points or locking foes out of their most powerful abilities.
+- - -
+>[!info] #### Role Mechanics
+> **Attribute Boost:** **Mind**
+> **Armor Proficiency :** Mobile (Trained)
+> **Weapon Proficiency:** Martial Melee (Expert)
+> **Role Skill:** [[Meta-Magic]]
+
+#### When you select  this Role,  select  a  Specialization. 
+>[!column]+ ***Role Specialization : Engineer*** 
+>>[!info] #### Mechanics 
+>Engineer Controllers create minions and other constructs to control the pace of encounters.
+> **Specialty Skill:** [[Artifice]]
+> **Starting Spell:** [[Auto-Shot Turret]]
+> 
+>> [!metadata] *Trained Perk: Construct Spell-Origination Disjunction*
+>> *When you become Trained in this Role, you gain the following benefits.*
+>> You can treat Constructs you summon as the origin point of spells you cast for the purposes of range and line of sight. Additionally, allies within 12 spaces of you gain a +1 magical bonus to Move, while enemies suffer a -1 magical penalty to Move.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this Role, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this Rolel, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this Role, you gain the following benefits.*
+
+*…or*
+
+>[!column]+ ***Role Specialization : Disruptor*** 
+>>[!info|left]  #### Mechanics
+>Disruptor Controllers attack the enemies directly in order to lock them out of their most powerful abilities. 
+> **Specialty Skill:** [[Meta-Magic]]
+> **Starting Spell:** [[Arc Surge]]
+> 
+>> [!metadata] *Trained Perk: Electro-Neural Dissipation*
+>> *When you become Trained in this Role, you gain the following benefits.*
+>> Shocked enemies have a -2 to rolls against any of your spells or effects that require a **Mind** check. Additionally, allies within 12 spaces of you gain a +1 magical bonus to Move, while enemies suffer a -1 magical penalty to Move.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this Role, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this Rolel, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this Role, you gain the following benefits.*
+
+### Long-Range Ordinance
+Those in the Long-Range Ordinance role act as the heavy firepower of their team, either shutting down key chokes or unleashing devastating damage with high-powered weaponry. While powerful, they are nearly defenseless due to the amount of accommodation needed for such extreme firepower.
+- - -
+>[!info] #### Mechanics
+> **Attribute Boost:** **Reflex**
+> **Armor Proficiency :** Infiltrator (Trained)
+> **Weapon Proficiency:** Advanced Ranged (Trained)
+> **Role Skill:** [[Sneakery]]
+
+#### When you select  this Role,  select  a  Specialization. 
+>[!column]+ ***Role Specialization : Sniper*** 
+>>[!info] ##### Mechanics
+> Snipers are single-target annihilators; they hide and wait, allowing their teammates to set up the perfect kill-shot.
+> **Specialty Skill:** [[Sneakery]]
+> **Starting Spell:** [[Sniper's Mark]]
+> 
+>> [!metadata] *Trained Perk: Critical Reload*
+>> *When you become Trained in this Role, you gain the following benefits.*
+>> Whenever you score a critical hit with a weapon you are trained in, you can reload that weapon as a free action. If it has any heat accumulated, you vent it off as part of this reload. Additionally, you ignore up to -4 in range penalties.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this Role, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this Rolel, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this Role, you gain the following benefits.*
+
+*…or*
+
+>[!column]+ ***Role Specialization : Heavy Artillery*** 
+>>[!info|left] ##### Mechanics
+> Artillerists deliver high-yield payloads of powerful explosive magic and area-denying weaponry. If you need a chokepoint held, these are the pilots for you.
+> **Specialty Skill:** [[Acrobatics]]
+> **Starting Spell:** [[Cedrik's Mini-Many-Minefield]]
+> 
+>> [!metadata] *Trained Perk: Delayed Payload Delivery*
+>> *When you become Trained in this Role, you gain the following benefits.*
+>> You can choose to delay the detonation of any spell or weapon you use with the [[Area]] trait by one round. When delayed this way, it deals an additional die of damage when it does detonate. Additionally, you ignore up to -4 in range penalties.
+>
+>> [!metadata] *Expertise Perk:*
+>> *When you become an Expert in this Role, you gain the following benefits.*
+>
+>> [!metadata] *Masterful Perk:*
+>>*When you become a Master in this Rolel, you gain the following benefits.*
+>
+>> [!metadata] *Legendary Perk:*
+>>*When you become a Legend in this Role, you gain the following benefits.*]
 
 ## 6. *Finalizing Attributes and Statistics*
 Now that your four core selections have been made, its time to finalize your Attributes. Assign 12 free Attribute points across your Attributes. You cannot begin play with an Attribute above 20.
@@ -220,7 +1031,6 @@ Once you have assigned all 12 points, take this time to calculate your Statistic
 
 ## 7. *Finalizing Skills and Proficiencies*
 After your Attributes and Statistics are finalized, you are ready to finalize your Skills and Proficiencies. 
-
 ### **Skills**
 Designate a number of Skill Aptitudes as determined by your Skill Aptitudes Statistic, then select one Skill you are Trained in and have Aptitude with. You begin play as an Expert in that Skill.
 > [!info|right ws-med txt-left ttl-c] *Skills and Aptitude*

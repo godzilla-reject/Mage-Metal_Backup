@@ -13,7 +13,7 @@ Skill_2: Meta-Magic
 Spec_1: Engineer
 Spell_1: "[[Auto-Shot Turret]]"
 Spec_2: Disruptor
-Spell_2: "[[Arcane Surge]]"
+Spell_2: "[[Arc Surge]]"
 Tags:
   - Role
 ---

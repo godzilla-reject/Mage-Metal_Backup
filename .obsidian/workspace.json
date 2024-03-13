@@ -11,18 +11,30 @@
             "id": "d7508e4553e3e3be",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -1.1077049764716203
-                }
+                "file": "Character Creation Playtest 1 Packet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5162804f95dd3955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/Character Mechanics Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "General Rules/Character Mechanics Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "General Rules/Character Mechanics Overview.md"
               }
             }
           },
@@ -205,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,36 +248,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d7508e4553e3e3be",
+  "active": "5162804f95dd3955",
   "lastOpenFiles": [
-    "Character Creation Playtest 1 Packet.docx",
-    "Utilities/Dashboard.canvas",
-    "Reference Notes/Appendices/System Appendix.md",
-    "Reference Notes/Appendices/Metal Weapon Appendix.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
-    "Utilities/Lists/Metal Lists/Metal Weapons List.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md",
-    "Utilities/Lists/Metal Lists/Metal Systems List.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
     "Character Creation Playtest 1 Packet.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md",
-    "Reference Notes/Appendices/Armor Appendix.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
-    "Reference Notes/Appendices/Equipment Appendix.md",
-    "Reference Notes/Appendices/Mage Weapon Appendix.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
-    "Reference Notes/Appendices",
+    "General Rules/Character Mechanics Overview.md",
+    "Reference Notes/Role Note.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md",
+    "Player-Facing Rules/Spells/Spells Database/Electromancy/Arc Surge.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md",
+    "Reference Notes/School Note.md",
+    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Artifacteomancy/Runeurgy.md",
+    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md",
+    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Terraphasia.md",
+    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Pyrophasia.md",
+    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Hydrophasia.md",
+    "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md",
+    "Utilities/Design References/General References/Starting Wealth Chart.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
+    "Utilities/Dashboard.canvas",
+    "Character Creation Playtest 1 Packet.docx",
+    "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
     "Character Creation Playtest 1 Packet.tex"

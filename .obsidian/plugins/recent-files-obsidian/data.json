@@ -1,12 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
     },
     {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "Role Note",
+      "path": "Reference Notes/Role Note.md"
+    },
+    {
+      "basename": "Battlefield Support",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
+    },
+    {
+      "basename": "Frontline Vanguard",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
+    },
+    {
+      "basename": "Guerilla Tactics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
+    },
+    {
+      "basename": "Logistical Controller",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md"
+    },
+    {
+      "basename": "Arc Surge",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Arc Surge.md"
+    },
+    {
+      "basename": "Long-Range Ordinance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md"
+    },
+    {
+      "basename": "School Note",
+      "path": "Reference Notes/School Note.md"
+    },
+    {
+      "basename": "Runeurgy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Artifacteomancy/Runeurgy.md"
+    },
+    {
+      "basename": "Technosophy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md"
+    },
+    {
+      "basename": "Terraphasia",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Terraphasia.md"
+    },
+    {
+      "basename": "Pyrophasia",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Pyrophasia.md"
+    },
+    {
+      "basename": "Hydrophasia",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Hydrophasia.md"
+    },
+    {
+      "basename": "Aerophasia",
+      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md"
+    },
+    {
+      "basename": "Noble",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
+    },
+    {
+      "basename": "Politologist",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
+    },
+    {
+      "basename": "Influencer",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
+    },
+    {
+      "basename": "Corpo Deskie",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
+    },
+    {
+      "basename": "Rapscallion",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md"
+    },
+    {
+      "basename": "Wrench Monkey",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md"
+    },
+    {
+      "basename": "Hegemony Nomad",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
+    },
+    {
+      "basename": "Dusted",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
+    },
+    {
+      "basename": "Starting Wealth Chart",
+      "path": "Utilities/Design References/General References/Starting Wealth Chart.md"
+    },
+    {
+      "basename": "Human",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
+    },
+    {
+      "basename": "Elves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "System Appendix",
@@ -91,114 +199,6 @@
     {
       "basename": "Weapon Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-    },
-    {
-      "basename": "Bonesplitter",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md"
-    },
-    {
-      "basename": "Lazerpike",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
-    },
-    {
-      "basename": "Human",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
-    },
-    {
-      "basename": "Elves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
-    },
-    {
-      "basename": "Species Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "Species Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
-    },
-    {
-      "basename": "Cybermagistic Solution's Grim-Ware",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md"
-    },
-    {
-      "basename": "PiC-Mi",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md"
-    },
-    {
-      "basename": "Techno-Babble",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md"
-    },
-    {
-      "basename": "Vague List of Places",
-      "path": "Setting/Vague List of Places.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Diplomacy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
-    },
-    {
-      "basename": "Deception",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
-    },
-    {
-      "basename": "Dodge",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
-    },
-    {
-      "basename": "Intimidation",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
-    },
-    {
-      "basename": "Performance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md"
-    },
-    {
-      "basename": "Conditions List",
-      "path": "Utilities/Lists/General Lists/Conditions List.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Equipment Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
-    },
-    {
-      "basename": "DTSC-001 ''Steelclad Mamba''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
-    },
-    {
-      "basename": "STSC-001 ''Infinite Hydrangea''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
-    },
-    {
-      "basename": "ATSC-001 ''Warring Dragons''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
-    },
-    {
-      "basename": "Dice Overview",
-      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
-    },
-    {
-      "basename": "Range",
-      "path": "General Rules/Traits Catalog/Weapon-Only/Range.md"
     }
   ],
   "omittedPaths": [],
