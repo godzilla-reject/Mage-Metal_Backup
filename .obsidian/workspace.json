@@ -11,14 +11,12 @@
             "id": "6f51286687e69bdd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -1.1077049764716203
-                }
+                "file": "Character Creation Playtest 1 Packet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest 1 Packet.md"
               }
             }
           },
@@ -205,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
