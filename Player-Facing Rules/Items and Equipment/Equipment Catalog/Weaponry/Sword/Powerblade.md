@@ -1,6 +1,7 @@
 ---
 Tags:
   - Weapon
+  - Mage
 Type: Melee
 Category: Martial
 Group: Sword

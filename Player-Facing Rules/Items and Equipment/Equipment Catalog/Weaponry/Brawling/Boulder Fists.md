@@ -2,6 +2,7 @@
 Type: Melee
 Tags:
   - Weapon
+  - Mage
 Category: Simple
 Group: Brawling
 Handed-ness: 2

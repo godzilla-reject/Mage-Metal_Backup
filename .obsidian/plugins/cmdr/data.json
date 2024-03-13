@@ -35,6 +35,12 @@
       "mode": "desktop"
     },
     {
+      "id": "mrj-text-expand:editor-expand",
+      "icon": "check",
+      "name": "Text expand: expand",
+      "mode": "desktop"
+    },
+    {
       "id": "quickadd:choice:714f8327-be7e-42d9-9ec2-4c9537308b7c",
       "icon": "activity",
       "name": "New Trait",

@@ -2,6 +2,7 @@
 Type: Ranged
 Tags:
   - Weapon
+  - Mage
 Category: Martial
 Group: Long Guns
 Handed-ness: 2

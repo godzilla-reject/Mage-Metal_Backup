@@ -1,6 +1,7 @@
 ---
 Tags:
   - Weapon
+  - Mage
 Type: Ranged
 Category: Simple
 Group: Handguns

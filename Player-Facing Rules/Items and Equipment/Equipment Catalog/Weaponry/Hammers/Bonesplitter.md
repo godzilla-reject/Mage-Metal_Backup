@@ -2,6 +2,7 @@
 Type: Melee
 Tags:
   - Weapon
+  - Mage
 Category: Advanced
 Group: Hammers
 Handed-ness: 2

@@ -4427,12 +4427,23 @@ async function renderMarkdown(app, file, config) {
   if (!data) {
     new import_obsidian.Notice("data is empty!");
   }
+  const frontMatter = getFrontMatter(app, file);
+  const cssclasses = [];
+  for (const [key, val] of Object.entries(frontMatter)) {
+    if (key.toLowerCase() == "cssclass" || key.toLowerCase() == "cssclasses") {
+      if (Array.isArray(val)) {
+        cssclasses.push(...val);
+      } else {
+        cssclasses.push(val);
+      }
+    }
+  }
   const comp = new import_obsidian.Component();
   comp.load();
   const promises = [];
   const printEl = document.body.createDiv("print");
   const viewEl = printEl.createDiv({
-    cls: "markdown-preview-view markdown-rendered"
+    cls: "markdown-preview-view markdown-rendered " + cssclasses.join(" ")
   });
   app.vault.cachedRead(file);
   viewEl.toggleClass("rtl", app.vault.getConfig("rightToLeft"));

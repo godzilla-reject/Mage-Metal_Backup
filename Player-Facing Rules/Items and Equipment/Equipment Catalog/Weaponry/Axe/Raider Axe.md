@@ -1,6 +1,7 @@
 ---
 Tags:
   - Weapon
+  - Mage
 Type: Melee
 Category: Advanced
 Group: Axe

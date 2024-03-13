@@ -42,6 +42,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "Weapon", value: "Weapon", color: "hsl(355, 95%, 90%)"}
+      - { label: "Mage", value: "Mage", color: "hsl(298, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

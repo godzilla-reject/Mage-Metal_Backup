@@ -5,8 +5,52 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Equipment Appendix",
+      "path": "Reference Notes/Appendices/Equipment Appendix.md"
+    },
+    {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "Mage Weapon Appendix",
+      "path": "Reference Notes/Appendices/Mage Weapon Appendix.md"
+    },
+    {
+      "basename": "Metal Weapon Appendix",
+      "path": "Reference Notes/Appendices/Metal Weapon Appendix.md"
+    },
+    {
+      "basename": "Weapon Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
+    },
+    {
+      "basename": "Bonesplitter",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md"
+    },
+    {
+      "basename": "Lazerpike",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
+    },
+    {
+      "basename": "Human",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
+    },
+    {
+      "basename": "Elves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
+    },
+    {
+      "basename": "Species Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
+    },
+    {
+      "basename": "Dwaurves",
+      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
+    },
+    {
+      "basename": "Species Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
     },
     {
       "basename": "Cybermagistic Solution's Grim-Ware",
@@ -19,22 +63,6 @@
     {
       "basename": "Techno-Babble",
       "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md"
-    },
-    {
-      "basename": "Species Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md"
-    },
-    {
-      "basename": "Elves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "Species Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Species Template.md"
     },
     {
       "basename": "Vague List of Places",
@@ -99,10 +127,6 @@
     {
       "basename": "Dice Overview",
       "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
-    },
-    {
-      "basename": "Lazerpike",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
     },
     {
       "basename": "Range",
@@ -175,30 +199,6 @@
     {
       "basename": "Pilot Role Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Pilot Role Database.md"
-    },
-    {
-      "basename": "Sustained",
-      "path": "General Rules/Traits Catalog/Spell-Only/Sustained.md"
-    },
-    {
-      "basename": "Carbon-Alloy Arcane Projection Axe",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md"
-    },
-    {
-      "basename": "Heavy-Impact Gravihammer",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers/Heavy-Impact Gravihammer.md"
-    },
-    {
-      "basename": "Loading",
-      "path": "General Rules/Traits Catalog/Loading.md"
-    },
-    {
-      "basename": "Ordnance",
-      "path": "General Rules/Traits Catalog/Ordnance.md"
-    },
-    {
-      "basename": "Overkill",
-      "path": "General Rules/Traits Catalog/Overkill.md"
     }
   ],
   "omittedPaths": [],

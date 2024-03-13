@@ -13,7 +13,7 @@ Tags:
 
 Dwaurves were the last of the Founding Peoples to ratify the United Constitution of Sol, and many attribute this to the fact that they are slow to trust outsiders. In their own history, they have a long past of constant warfare; the horrors of Mars refuse to let even a single drop of blood go unearned. When something is won of a dwaurf, lest it be blood or honor, that pact is kept eternal. 
 
-If you seek to play a Mage-Pilot who can survive any horror of the cosmos, dedicate a heart of iron to their allies, and brandish wanton loyalty, the Dwaurves of Sol is right for you. 
+If you seek to play a Mage-Pilot who can survive any horror of the cosmos, dedicate a heart of iron to their allies, and brandish wanton loyalty, the Dwaurves of Mars is right for you. 
 ## Characteristics
 ### You Might...
 - Remain loyal to those you consider forge-sibling, no matter their petty slights against you.

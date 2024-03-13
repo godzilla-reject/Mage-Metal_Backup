@@ -1,6 +1,7 @@
 ---
 Tags:
   - Weapon
+  - Mage
 Price: 75
 Type: Melee
 Category: Simple

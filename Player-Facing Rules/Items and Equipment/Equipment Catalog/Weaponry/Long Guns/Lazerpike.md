@@ -1,8 +1,6 @@
 ---
 Type: Ranged
 Category: Martial
-tags:
-  - Weapon
 Price: 120
 Group: Long Guns
 Handed-ness: 2
@@ -11,6 +9,7 @@ Damage_Type: fire
 Heft: 8
 Tags:
   - Weapon
+  - Mage
 Completed: true
 ---
 > [!infobox|left]+ Weapon Entry

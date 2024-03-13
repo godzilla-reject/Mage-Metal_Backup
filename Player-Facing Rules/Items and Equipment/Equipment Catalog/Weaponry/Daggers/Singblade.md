@@ -2,6 +2,7 @@
 Type: Melee
 Tags:
   - Weapon
+  - Mage
 Category: Simple
 Group: Daggers
 Handed-ness: 1

@@ -3,6 +3,7 @@ Type: Ranged
 Category: Advanced
 Tags:
   - Weapon
+  - Mage
 Group: Bows
 Handed-ness: 2
 Price: 160

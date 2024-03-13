@@ -2,6 +2,7 @@
 Type: Ranged
 Tags:
   - Weapon
+  - Mage
 Category: Advanced
 Group: Tome
 Handed-ness: 1

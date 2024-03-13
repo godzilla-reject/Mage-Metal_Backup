@@ -379,6 +379,7 @@ Remember Pilots,
 ### E.1: General Equipment
 ![[Equipment Appendix]]
 ### E.2: Weaponry
+
 ### E.3: Armor
 
 ## Appendix F: Metal Equipment

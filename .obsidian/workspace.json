@@ -4,11 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "84f04638df1d3b9f",
+        "id": "c8b5b3f5ec775a95",
         "type": "tabs",
+        "dimension": 50.0531914893617,
         "children": [
           {
-            "id": "d1f6a056d3ae7ade",
+            "id": "934f317e46159ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Appendices/Equipment Appendix.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "68028156d9a84fad",
+        "type": "tabs",
+        "dimension": 39.308510638297875,
+        "children": [
+          {
+            "id": "abfbd472363ce948",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,12 +38,59 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.7293824227471422
+                  "zoom": -1.7754911154355217
                 }
               }
             }
           }
         ]
+      },
+      {
+        "id": "1888f839ecc64130",
+        "type": "tabs",
+        "dimension": 10.638297872340425,
+        "children": [
+          {
+            "id": "a5bccbe0ddfeb6ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e371366fbcb6652f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "05456c07fcd123db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:##todo",
+                "query": "[\"tags\":weapon], [\"tags\":Mage]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,6 +234,14 @@
             }
           },
           {
+            "id": "4739661f3573ba43",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
             "id": "d7a3e427e71d5d3e",
             "type": "leaf",
             "state": {
@@ -192,26 +268,19 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
-          {
-            "id": "6fc17b31e725753e",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "media-extended:Open media": false,
+      "obsidian-memos:Thino": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -225,27 +294,35 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "homepage:Open homepage": false,
       "rpg-manager:RPG Manager": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-memos:Memos": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d1f6a056d3ae7ade",
+  "active": "abfbd472363ce948",
   "lastOpenFiles": [
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
+    "Reference Notes/Appendices/Equipment Appendix.md",
     "Character Creation Playtest 1 Packet.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
+    "Reference Notes/Appendices/Mage Weapon Appendix.md",
+    "Reference Notes/Appendices/Metal Weapon Appendix.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
+    "Reference Notes/Appendices",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Templates/Markdown Templates/Mage Templates/Species Template.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
+    "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
     "Setting/Vague List of Places.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
@@ -257,13 +334,6 @@
     "Utilities/Lists/General Lists/Conditions List.md",
     "General Rules/Character Mechanics Overview.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
-    "General Rules/The Favor System/Dice Structure/Dice Overview.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
-    "General Rules/Traits Catalog/Weapon-Only/Range.md",
-    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
     "Character Creation Playtest 1 Packet.tex"
