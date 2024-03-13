@@ -1,5 +1,10 @@
-#####  *Ranged Weapons*
+%%
 ![[]]
+%%
+```expander
+```
+
+#####  *Ranged Weapons*
 ###### **Simple**
 ###### **Martial**
 ###### **Advanced***

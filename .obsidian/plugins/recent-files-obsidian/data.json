@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Metal Weapon Appendix",
+      "path": "Reference Notes/Appendices/Metal Weapon Appendix.md"
+    },
+    {
       "basename": "System Appendix",
       "path": "Reference Notes/Appendices/System Appendix.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Pattern-II Smoke-Screen Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md"
+    },
+    {
+      "basename": "Metal Systems List",
+      "path": "Utilities/Lists/Metal Lists/Metal Systems List.md"
+    },
+    {
+      "basename": "Dante-Class A-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md"
     },
     {
       "basename": "Metal Systems Database",
@@ -15,14 +31,6 @@
     {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
-    },
-    {
-      "basename": "Dante-Class A-RAID Unit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md"
-    },
-    {
-      "basename": "Metal Weapon Appendix",
-      "path": "Reference Notes/Appendices/Metal Weapon Appendix.md"
     },
     {
       "basename": "Syn-theather",
@@ -191,14 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Athletics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "''Converter'' Blade-Barricade CQC System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
     }
   ],
   "omittedPaths": [],

@@ -13,10 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Appendices/System Appendix.md",
+                "file": "Reference Notes/Appendices/Metal Weapon Appendix.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "902c3be78de5418f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b60c381c6627525",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -1.7274928415459239
+                }
               }
             }
           }
@@ -49,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Weapon tag:#Metal  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Appendices/System Appendix.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Appendices/System Appendix.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Appendices/System Appendix.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -204,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,14 +255,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ba89e5f60e20f830",
+  "active": "5b60c381c6627525",
   "lastOpenFiles": [
+    "Reference Notes/Appendices/Metal Weapon Appendix.md",
+    "Reference Notes/Appendices/System Appendix.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md",
+    "Utilities/Lists/Metal Lists/Metal Systems List.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md",
     "Character Creation Playtest 1 Packet.md",
-    "Reference Notes/Appendices/System Appendix.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md",
-    "Reference Notes/Appendices/Metal Weapon Appendix.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md",
     "Reference Notes/Appendices/Armor Appendix.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md",
@@ -260,8 +284,6 @@
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md",
-    "Templates/Markdown Templates/Mage Templates/Species Template.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
     "Character Creation Playtest 1 Packet.tex"
