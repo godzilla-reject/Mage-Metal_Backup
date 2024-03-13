@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Metal Systems Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
-    },
-    {
       "basename": "System Appendix",
       "path": "Reference Notes/Appendices/System Appendix.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Metal Systems Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
     },
     {
       "basename": "Character Creation Playtest 1 Packet",
@@ -63,10 +67,6 @@
     {
       "basename": "Large-Gauge Scattershells",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Weapon Database",
