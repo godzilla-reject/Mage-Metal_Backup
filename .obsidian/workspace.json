@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "30f8d5132b9a74fc",
+        "id": "ee14cfa87b318918",
         "type": "tabs",
         "children": [
           {
-            "id": "ba89e5f60e20f830",
+            "id": "6710f8cd073d92ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -203,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,7 +234,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ba89e5f60e20f830",
+  "active": "6710f8cd073d92ec",
   "lastOpenFiles": [
     "Reference Notes/Appendices/System Appendix.md",
     "Reference Notes/Appendices/Metal Weapon Appendix.md",
