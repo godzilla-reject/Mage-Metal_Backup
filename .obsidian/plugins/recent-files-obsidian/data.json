@@ -5,6 +5,10 @@
       "path": "Reference Notes/Frame Note.md"
     },
     {
+      "basename": "BF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-001.md"
+    },
+    {
       "basename": "LF-002",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-002.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "BF-002",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-002.md"
-    },
-    {
-      "basename": "BF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-001.md"
     },
     {
       "basename": "Metal Attributes and Statistics",

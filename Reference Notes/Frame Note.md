@@ -106,5 +106,8 @@ The *Shadow-Stalker* line exists as SMR's response to the USH Grand Military com
 >> [!metadata] *Divine Perk:*
 >>*When this part is upgraded to Divine, your Metal gains this perk.*
 ### Balanced Frames 
+#### 
+
+#### 
 ### Heavy Frames 
 ### Superheavy Frames
