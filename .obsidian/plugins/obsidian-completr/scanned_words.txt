@@ -517,6 +517,7 @@ throes
 tragically
 tones
 tl
+tempo
 great
 game
 gaming
@@ -3911,6 +3912,8 @@ Adders
 Assembling
 Adore
 Apostels
+Au
+ATSC
 metal
 magic
 mechanics
@@ -4816,6 +4819,7 @@ Hardlight
 Hot
 Humankind
 House
+HF
 you
 your
 yourself
@@ -5075,6 +5079,8 @@ DNA
 Deletreer
 Deskie
 Devastating
+Dialog
+DTSC
 Steve
 Sheets
 Segway
@@ -5290,6 +5296,9 @@ Seek
 States
 Such
 Soon
+SHF
+Subtle
+Surgeon
 Jackson
 Jack
 Juggernaut
@@ -5464,6 +5473,9 @@ Barricader
 Blow
 Battlemage
 Blood
+BF
+Bunker
+Buster
 Varies
 Vast
 Void

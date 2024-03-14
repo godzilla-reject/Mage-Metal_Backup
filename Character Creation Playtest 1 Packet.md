@@ -1395,6 +1395,272 @@ The *Frame* is the most basic component of the Metal, forming the foundation of 
 
 Select a **Frame** from the options below, then denote the Attribute bonuses, Weapon Mounts, and any Perks or Integrated Systems granted by the Frame.
 
+### Ultralight Frames 
+#### ULF-001 "Dogfighter"
+The first-ever mass-production frame in the *Ultralight* weight-class, the *Dogfighter* is prized for its reliable construction and diverse mounts. 
+>[!info|n-th no-i] ###### Mechanics  
+|                   |                     |
+|:-----------------:|:-------------------:|
+|     **Size**      |    1     |
+| ***Attributes***                       |
+|   **Structure**   |  2  |
+|  **Engineering**  | 3 |
+|  **Computation**  | 2 |
+| **Weapon Mounts** |   Secondary, Aux/Aux   |
+
+>[!column]+ ***Upgrade Perks*** 
+> 
+>> [!metadata] *Basic Perk: Mass Production*
+>> *When this part is upgraded to Basic, your Metal gains this perk.*
+>> Parts for this frame are available *everywhere*; When you attempt Field Repairs, you gain a +4 equipment bonus to any related checks. 
+>
+>> [!metadata] *Advanced Perk:*
+>> *When this part is upgraded to Advanced, your Metal gains this perk.*
+>
+>> [!metadata] *Ethereal Perk:*
+>>*When this part is upgraded to Ethereal, your Metal gains this perk.*
+>
+>> [!metadata] *Divine Perk:*
+>>*When this part is upgraded to Divine, your Metal gains this perk.*
+
+#### ULF-002 "Spring-Leaf"
+One of the many prototypes for the *Dogfighter*, this early iteration focused on extreme speed, though the quality of production is still notable. Its odd mounts are considered by many to be the killing factor of its design.
+>[!info|n-th no-i] ###### Mechanics  
+|                   |                                           |
+|:-----------------:|:-----------------------------------------:|
+|     **Size**      |                     1                     |
+| ***Attributes***  |                                           |
+|   **Structure**   |                     1                     |
+|  **Engineering**  |                     4                     |
+|  **Computation**  |                     2                     |
+| **Weapon Mounts** | Secondary (Melee-Only), Twin Aux, Aux/Aux |
+
+>[!column]+ ***Upgrade Perks*** 
+> 
+>> [!metadata] *Basic Perk: Whispers on the Winds*
+>> *When this part is upgraded to Basic, your Metal gains this perk.*
+>> Whenever you fire an Auxiliary weapon while Engaged, you can move up to half your Speed as part of that action. 
+>
+>> [!metadata] *Advanced Perk:*
+>> *When this part is upgraded to Advanced, your Metal gains this perk.*
+>
+>> [!metadata] *Ethereal Perk:*
+>>*When this part is upgraded to Ethereal, your Metal gains this perk.*
+>
+>> [!metadata] *Divine Perk:*
+>>*When this part is upgraded to Divine, your Metal gains this perk.*
+### Light Frames 
+#### LF-001 "Side-Winder"
+Super-Massive Robotic’s premier Light Frame is the Side Winder. The Side Winder was the first SMR frame designed to utilize the highly experimental Laminar-Momtion Drive to aid in near perpetual motion. This frame sacrifices Structure in order to support its higher speed and systems capacity.
+>[!info|n-th no-i] ###### Mechanics  
+|                   |                     |
+|:-----------------:|:-------------------:|
+|     **Size**      |    1     |
+| ***Attributes***  |                     |
+|   **Structure**   |  1  |
+|  **Engineering**  | 3 |
+|  **Computation**  | 3 |
+| **Weapon Mounts** | Twin Secondary/Aux      |
+
+>[!column]+ ***Upgrade Perks*** 
+> 
+>> [!metadata] *Basic Perk: Repetitive-Motion Stress-Dissipation*
+>> *When this part is upgraded to Basic, your Metal gains this perk.*
+>> As long as you are not Engaged, you can ignore the penalty incurred by repeated [[Dodge#^8b0f15\|Evade]] attempts.
+>
+>> [!metadata] *Advanced Perk:*
+>> *When this part is upgraded to Advanced, your Metal gains this perk.*
+>
+>> [!metadata] *Ethereal Perk:*
+>>*When this part is upgraded to Ethereal, your Metal gains this perk.*
+>
+>> [!metadata] *Divine Perk:*
+>>*When this part is upgraded to Divine, your Metal gains this perk.*
+#### LF-002 "Shadow-Stalker"
+The *Shadow-Stalker* line exists as SMR's response to the USH Grand Military commissioning a battlefield stealth solution. It came about by retrofitting a *Side-Winder* with a host of stealth-augmenting upgrades, such as refitting the Laminar-Motion Drive channel to accommodate a Radial Vision Obscurement Device (R-VOD.)
+>[!info|n-th no-i] ##### Mechanics  
+|                   |                     |
+|:-----------------:|:-------------------:|
+|     **Size**      |    1     |
+| ***Attributes***  |                     |
+|   **Structure**   |  2  |
+|  **Engineering**  | 2 |
+|  **Computation**  | 3 |
+| **Weapon Mounts** |   Primary/Aux, Aux/Aux    |
+
+>[!column]+ ***Upgrade Perks*** 
+> 
+>> [!metadata] *Basic Perk: Obfuscation-Preservation Warding  *
+>> *When this part is upgraded to Basic, your Metal gains this perk.*
+>> The first time each round you would become *noticed*, you do not (but you *do* gain any effects you would've as if you *did* become noticed.)
+>
+>> [!metadata] *Advanced Perk:*
+>> *When this part is upgraded to Advanced, your Metal gains this perk.*
+>
+>> [!metadata] *Ethereal Perk:*
+>>*When this part is upgraded to Ethereal, your Metal gains this perk.*
+>
+>> [!metadata] *Divine Perk:*
+>>*When this part is upgraded to Divine, your Metal gains this perk.*
+### Balanced Frames 
+#### BF-001 "Average Joe"
+The most commonly created, reliable, and basic frame. The *Average Joe* is what all Mage-Pilots learn to pilot on.
+>[!info|n-th no-i] ##### Mechanics  
+|                   |                                           |
+|:-----------------:|:-----------------------------------------:|
+|     **Size**      |                     1                     |
+| ***Attributes***  |                                           |
+|   **Structure**   |                     2                     |
+|  **Engineering**  |                     2                     |
+|  **Computation**  |                     2                     |
+| **Weapon Mounts** | Primary, Secondary (One-Handed Only), Aux |
+
+>[!column]+ ***Upgrade Perks*** 
+> 
+>> [!metadata] *Basic Perk: Intrinsic-Variation Override*
+>> *When this part is upgraded to Basic, your Metal gains this perk.*
+>> At character creation, select two different Attributes. Your Metal gains a +1 bonus to those Attributes. 
+>
+>> [!metadata] *Advanced Perk:*
+>> *When this part is upgraded to Advanced, your Metal gains this perk.*
+>
+>> [!metadata] *Ethereal Perk:*
+>>*When this part is upgraded to Ethereal, your Metal gains this perk.*
+>
+>> [!metadata] *Divine Perk:*
+>>*When this part is upgraded to Divine, your Metal gains this perk.*
+#### BF-002 "Giant Robot"
+The second-ever mass-produced SMR Frame. The *Giant Robot* was intended to be a Frame capable of carrying a singular Heavy weapon.
+>[!info|n-th no-i] ##### Mechanics  
+|                   |                     |
+|:-----------------:|:-------------------:|
+|     **Size**      |   1     |
+| ***Attributes***  |                     |
+|   **Structure**   | 3 |
+|  **Engineering**  | 2 |
+|  **Computation**  | 2 |
+| **Weapon Mounts** |  Heavy     |
+
+>[!column]+ ***Upgrade Perks*** 
+> 
+>> [!metadata] *Basic Perk: Failsafe Contingency  Protocol "Super Robo"*
+>> *When this part is upgraded to Basic, your Metal gains this perk.*
+>> Whenever your Metal would be compromised and fail due to having marked max Integrity, you may roll a single d6. On a roll of 4+, set your Integrity to 1 instead, and mark max Heat, and in turn, your Metal immediately enters Meltdown.
+>
+>> [!metadata] *Advanced Perk:*
+>> *When this part is upgraded to Advanced, your Metal gains this perk.*
+>
+>> [!metadata] *Ethereal Perk:*
+>>*When this part is upgraded to Ethereal, your Metal gains this perk.*
+>
+>> [!metadata] *Divine Perk:*
+>>*When this part is upgraded to Divine, your Metal gains this perk.*
+### Heavy Frames 
+#### HF-001 "Paul Bunyan"
+Named for an Old Earth giant monster myth, this Frame was one of the first SMR frames to be made in Standard Metal Size (SMS) 2. This was done in order to accommodate the extra integrated armor and warding that enables the high-powered use of massive weapon systems.
+>[!info|n-th no-i] ##### Mechanics  
+|                   |                     |
+|:-----------------:|:-------------------:|
+|     **Size**      |    2     |
+| ***Attributes***  |                     |
+|   **Structure**   |  4 |
+|  **Engineering**  | 2 |
+|  **Computation**  | 2 |
+| **Weapon Mounts** |  Primary/Aux, Secondary/Aux, Aux     |
+
+>[!column]+ ***Upgrade Perks*** 
+> 
+>> [!metadata] *Basic Perk: Freedom Faller*
+>> *When this part is upgraded to Basic, your Metal gains this perk.*
+>> A serious of strategically placed runes allow your Metal to swing Melee weapons with great speed. Primary and Super-Primary Melee weapons your Metal wields gain the [[Flurry\|Flurry 1]] trait.
+>
+>> [!metadata] *Advanced Perk:*
+>> *When this part is upgraded to Advanced, your Metal gains this perk.*
+>
+>> [!metadata] *Ethereal Perk:*
+>>*When this part is upgraded to Ethereal, your Metal gains this perk.*
+>
+>> [!metadata] *Divine Perk:*
+>>*When this part is upgraded to Divine, your Metal gains this perk.*
+#### HF-002 "Thunder Drum"
+A unique take on the standardized *Lightweight* heavy frame, the *Thunder Drum* model replaces the integrated system of its predecessor with the “Taiko” Ally Reinforcement Array. While still outfitted with robust integrated armor and warding, this frame was designed to exploit high system capacity in order to provide powerful battlefield support.
+>[!info|n-th no-i] ##### Mechanics  
+|                   |                    |
+|:-----------------:|:------------------:|
+|     **Size**      |         2          |
+| ***Attributes***  |                    |
+|   **Structure**   |         2          |
+|  **Engineering**  |         1          |
+|  **Computation**  |         4          |
+| **Weapon Mounts** | Heavy/Aux, Aux/Aux |
+
+>[!column]+ ***Upgrade Perks*** 
+> 
+>> [!metadata] *Basic Perk: Integrated System-"Taiko" Ally Reinforcement Array*
+>> *When this part is upgraded to Basic, your Metal gains this perk.*
+>> (Once per Encounter) The thundering rhythm of the Array roars to life, providing a fierce tempo to fight to. All allies within a 6-space aura around you gain a +2 bonus to attack rolls. Additionally, whenever an ally successfully lands an attack while within the aura, lightning leaps from the drums, dealing an additional 2 **electric** damage.
+>
+>> [!metadata] *Advanced Perk:*
+>> *When this part is upgraded to Advanced, your Metal gains this perk.*
+>
+>> [!metadata] *Ethereal Perk:*
+>>*When this part is upgraded to Ethereal, your Metal gains this perk.*
+>
+>> [!metadata] *Divine Perk:*
+>>*When this part is upgraded to Divine, your Metal gains this perk.*
+### Superheavy Frames
+#### SHF-001 "Kaiju"
+The SMR *Kaiju* superheavy frame is the top-of-the-line, state-of-the-art, heavy engagement platform. It was created as a homage to the Star Beasts of Mars, and as a way to kill them as well. Standard Metal Size 3 frames are *exceptionally* difficult to pilot, and the *Kaiju* is even more temperamental than other frames.
+>[!info|n-th no-i] ##### Mechanics  
+|                   |                     |
+|:-----------------:|:-------------------:|
+|     **Size**      |    3     |
+| ***Attributes***  |                     |
+|   **Structure**   |  4 |
+|  **Engineering**  | 1 |
+|  **Computation**  | 2|
+| **Weapon Mounts** |  Heavy, Twin Secondary     |
+
+>[!column]+ ***Upgrade Perks*** 
+> 
+>> [!metadata] *Basic Perk: Integrated Weapon- Kingslayer Atomic Cannon*
+>> *When this part is upgraded to Basic, your Metal gains this perk.*
+>> (Recharge 4+) You fire a massive beam of atomic hellfire from the mouth-mounted cannon. This beam deals 2d6 *plus marked Heat* **fire** damage in a 15-space line. This beam deals *triple* damage to structures and can pierce cover. If your Metal is in Meltdown, this beam instead deals 2d12 damage.
+>
+>> [!metadata] *Advanced Perk:*
+>> *When this part is upgraded to Advanced, your Metal gains this perk.*
+>
+>> [!metadata] *Ethereal Perk:*
+>>*When this part is upgraded to Ethereal, your Metal gains this perk.*
+>
+>> [!metadata] *Divine Perk:*
+>>*When this part is upgraded to Divine, your Metal gains this perk.*
+#### SHF-002 "Colossus"
+The largest Frame ever manufactured by Super Massive Robotics, the Colossus was named for the Old Earth "*Colossus of Rhodes*", which was thought to be the first Metal created by mankind. The Colossus represents the pinnacle of human engineering and piloting ability, as no other species have ever had a pilot that could use one. Due to sheer size, a pilot must use the Cerebral-Interfacing Colossus Control (CICC) System, which uses complex wards and enchantments to allow the pilot to see as the Colossus does. Some pilots believe this Frame should be outlawed due to the system required for a single pilot to use it, as the Colossus has allegedly been known to “test the spirit” of its pilots.
+>[!info|n-th no-i] ##### Mechanics  
+|                   |                     |
+|:-----------------:|:-------------------:|
+|     **Size**      |    4     |
+| ***Attributes***  |                     |
+|   **Structure**   |  5 |
+|  **Engineering**  | 1 |
+|  **Computation**  | 1 |
+| **Weapon Mounts** | Primary/Aux, Secondary/Aux, Secondary/Aux, Aux      |
+
+>[!column]+ ***Upgrade Perks*** 
+> 
+>> [!metadata] *Basic Perk:  Cerebral-Interfacing Colossus Control System*
+>> *When this part is upgraded to Basic, your Metal gains this perk.*
+>> Whenever your Metal sustains damage, you take 1 **mental** damage that cannot be avoided or reduced in *any* way. You ignore Size penalties to Piloting checks.
+>
+>> [!metadata] *Advanced Perk:*
+>> *When this part is upgraded to Advanced, your Metal gains this perk.*
+>
+>> [!metadata] *Ethereal Perk:*
+>>*When this part is upgraded to Ethereal, your Metal gains this perk.*
+>
+>> [!metadata] *Divine Perk:*
+>>*When this part is upgraded to Divine, your Metal gains this perk.*
 
 
 ## 2. *Shell*
@@ -1403,11 +1669,162 @@ The *Shell* of the Metal is what determines the armor plating of your Metal, as 
 Pick a **Shell** from the options below. Selection is restricted by your chosen **Pilot Role** during Mage creation. 
 
 After you’ve chosen your **Shell**, denote the following: Attribute boost, armor type, Weapon Mounts, and Intrinsic.
-![[Bunker Buster]]
-![[Fortress Breaker]]
-![[Subtle Dialog]]
-![[Surgeon General]]
-![[Wire Runner]]
+
+### Infiltrator
+#### Surgeon General
+Named for a well-respected Old World medical practitioner, this Shell provides powerful support in the form of healing and armor reinforcement. 
+>[!info|no-i n-th] ## Mechanics 
+|                   |                     |
+|:-----------------:|:-------------------:|
+|  **Armor Type**   |    Infiltrator     |
+| **Weapon Mounts** |   Secondary, Aux   |
+|   *Attributes*    |                     |
+|   **Structure**   |  1 |
+|  **Engineering**  | 4 |
+|  **Computation**  | 2 |
+
+>[!column]+ ***Intrinsic and Intrinsic Upgrades*** 
+> 
+>> [!metadata] *Basic Intrinsic:* Reinforce Armor `=[[Dev Helpers]].two-action`
+>> *This is the Shell's Intrinsic Ability*
+>> 
+>> [[Defensive\| Defensive (Ability)]]
+>> 
+>> *Frequency: Once Per Encounter*
+>> - - -
+>> All allies within Sensors range gain a +2 circumstance bonus to Toughness until the end of the encounter. This bonus is lost if they enter Meltdown or their Integrity fails (and cannot be regained).
+>
+>> [!metadata] *Advanced Enhancement*
+>> *When this part is upgraded to Advanced, your Metal's Intrinsic Ability gains this enhancement.*
+>
+>> [!metadata] *Ethereal Enhancement*
+>>*When this part is upgraded to Ethereal, your Metal's Intrinsic Ability gains this enhancement.*
+>
+>> [!metadata] *Divine Enhancement*
+>>*When this part is upgraded to Divine, your Metal's Intrinsic Ability gains this enhancement.*
+#### Bunker Buster
+Two words: payload delivery. This Shell allows Metals to get "dug in," increasing Sensor range while crippling movement in order to avoid flanks on stationary artillery delivery. 
+
+>[!info|no-i n-th] ## Mechanics 
+|                   |                     |
+|:-----------------:|:-------------------:|
+|  **Armor Type**   |    Infiltrator    |
+| **Weapon Mounts** |   Secondary, Aux   |
+|   *Attributes*    |                     |
+|   **Structure**   |  1  |
+|  **Engineering**  | 5 |
+|  **Computation**  | 1 |
+
+>[!column]+ ***Intrinsic and Intrinsic Upgrades*** 
+> 
+>> [!metadata] *Basic Intrinsic:* Entrenchment `=[[Dev Helpers]].free-action`
+>> *This is the Shell's Intrinsic Ability*
+>> 
+>> *Frequency: Once Per Round*
+>> - - -
+>> You convert your method of movement (legs, typically) into a stationery intrenchment, allowing you to stabilize your shots and increase perception. Your Speed becomes 0, and your Sensor range is doubled. This transformation lasts until you spend one action to reconfigure.
+>
+>> [!metadata] *Advanced Enhancement*
+>> *When this part is upgraded to Advanced, your Metal's Intrinsic Ability gains this enhancement.*
+>
+>> [!metadata] *Ethereal Enhancement*
+>>*When this part is upgraded to Ethereal, your Metal's Intrinsic Ability gains this enhancement.*
+>
+>> [!metadata] *Divine Enhancement*
+>>*When this part is upgraded to Divine, your Metal's Intrinsic Ability gains this enhancement.*
+### Mobile 
+#### Subtle Dialog 
+Useful for Metals who use stealth to gather information, this Shell ensures that Metal can guarantee a fast get-away when cover is blown and the fight goes loud.
+
+>[!info|no-i n-th] ## Mechanics 
+|                   |                     |
+|:-----------------:|:-------------------:|
+|  **Armor Type**   |    Mobile    |
+| **Weapon Mounts** |   Primary, Aux    |
+|   *Attributes*    |                     |
+|   **Structure**   |  2  |
+|  **Engineering**  | 2 |
+|  **Computation**  | 3 |
+
+>[!column]+ ***Intrinsic and Intrinsic Upgrades*** 
+> 
+>> [!metadata] *Basic Intrinsic:* Auto-Retreat "Skedaddle" Mechanism `=[[Dev Helpers]].two-action`
+>> *This is the Shell's Intrinsic Ability*
+>> 
+>> *Frequency: Once Per Encounter*
+>> - - -
+>> Triple your Speed for the next 3 rounds. You cannot move directly towards an enemy, and lose this bonus if you make an attack of any form while affected by it.
+>
+>> [!metadata] *Advanced Enhancement*
+>> *When this part is upgraded to Advanced, your Metal's Intrinsic Ability gains this enhancement.*
+>
+>> [!metadata] *Ethereal Enhancement*
+>>*When this part is upgraded to Ethereal, your Metal's Intrinsic Ability gains this enhancement.*
+>
+>> [!metadata] *Divine Enhancement*
+>>*When this part is upgraded to Divine, your Metal's Intrinsic Ability gains this enhancement.*
+#### Wire Runner 
+In order to control the pace of battle, the Wire Runner shell employs a powerful lock-out subroutine.
+
+>[!info|no-i n-th] ## Mechanics 
+|                   |                     |
+|:-----------------:|:-------------------:|
+|  **Armor Type**   |    Mobile    |
+| **Weapon Mounts** |   Primary, Aux   |
+|   *Attributes*    |                     |
+|   **Structure**   |  1 |
+|  **Engineering**  | 2 |
+|  **Computation**  | 4 |
+
+>[!column]+ ***Intrinsic and Intrinsic Upgrades*** 
+> 
+>> [!metadata] *Basic Intrinsic:* Weapon Mount Lock-Out Sub-Routine `=[[Dev Helpers]].one-action`
+>> *This is the Shell's Intrinsic Ability*
+>> 
+>> 
+>> *Frequency: Once Per Round*
+>> - - -
+>>Select a Metal within Sensors range, then make a [[Hacking]] contest against their **Computation**. On a success, the next time they take the Attack action, you select which mount they fire from. On a failure, you instead select one of their mounts. They cannot use the selected mount until the end of your next turn. 
+>
+>> [!metadata] *Advanced Enhancement*
+>> *When this part is upgraded to Advanced, your Metal's Intrinsic Ability gains this enhancement.*
+>
+>> [!metadata] *Ethereal Enhancement*
+>>*When this part is upgraded to Ethereal, your Metal's Intrinsic Ability gains this enhancement.*
+>
+>> [!metadata] *Divine Enhancement*
+>>*When this part is upgraded to Divine, your Metal's Intrinsic Ability gains this enhancement.*
+### Powered
+#### Fortress Breaker Shell 
+Named for the Shell's main strength, which is shattering the walls of fortresses, this Shell is preferred by Bastions and Juggernauts alike. 
+>[!info|no-i n-th] ## Mechanics 
+|                   |                     |
+|:-----------------:|:-------------------:|
+|  **Armor Type**   |    Powered    |
+| **Weapon Mounts** |  Heavy, Aux    |
+|   *Attributes*    |                     |
+|   **Structure**   |  4  |
+|  **Engineering**  | 1 |
+|  **Computation**  | 2 |
+
+>[!column]+ ***Intrinsic and Intrinsic Upgrades*** 
+> 
+>> [!metadata] *Basic Intrinsic:* Thundering Crash `=[[Dev Helpers]].two-action`
+>> *This is the Shell's Intrinsic Ability*
+>> [[Move]], [[Electric]]
+>> 
+>> *Frequency: Recharge 5+*
+>> - - -
+>> You target an enemy within Sensors range, and then barrel towards them. You Move up to that target, crashing into them with a sonic boom that deals **sonic**/**electric** damage equal to your Toughness to that target and half that to any Metal or creature who's space you moved through.
+>
+>> [!metadata] *Advanced Enhancement*
+>> *When this part is upgraded to Advanced, your Metal's Intrinsic Ability gains this enhancement.*
+>
+>> [!metadata] *Ethereal Enhancement*
+>>*When this part is upgraded to Ethereal, your Metal's Intrinsic Ability gains this enhancement.*
+>
+>> [!metadata] *Divine Enhancement*
+>>*When this part is upgraded to Divine, your Metal's Intrinsic Ability gains this enhancement.*
 
 
 ## 3. *Soul Core*
@@ -1416,11 +1833,111 @@ The *Soul Core* of the Metal is exactly that: a core, with a soul therewithin. I
 The **Soul Core** of a Metal is a special choice for a Pilot, as it dictates a special confrontation that the Pilot must eventually face at their darkest hour; the *Deity within the Machine*, the **Deus Ex Machina**. Pay special attention to the **Deus** of your chosen **Soul Core**. 
 
 Pick a **Soul Core** for your Metal, and then denote granted the granted Attribute bonuses, Core Passive, and Core Intrinsic. You can also denote your **Deus Ex Machina**, but it will not be relevant in this playtest (or the next one, honestly.) In future playtests, **Soul Cores** will be limited by your chosen **School of Arcana** during Mage creation.
+### Attack-Type Cores
+#### ATSC-001 ''Warring Dragons'' 
+***Requirements: None.***
 
-![[ATSC-001 ''Warring Dragons'']]
-![[DTSC-001 ''Steelclad Mamba'']]
-![[STSC-001 ''Infinite Hydrangea'']]
+The first of the Attack Type S-R<sup>2</sup> Engine cores to be produced by Super-Massive Robotics, the *Warring Dragons* utilizes two, shall we say, ***highly adversarial*** dragon spirits to facilitate the requisite Soul-Resonance reaction. These spirits, like all other spirits used in the  S-R<sup>2</sup> Engines, are perfectly safe for the pilot*, but this model of Core has been known to cause the occasional outburst in pilots who interface with it for prolonged periods.
 
+<sub>\*Assuming proper usage</sub>
+
+*This Core is recommended for players who want to play a heavily conflicted, passionate character, who has strong, polarizing stances on situations and ordeals.*
+
+>[!info|no-i n-th] ##### Mechanics 
+|  *Attributes*   |                                         |
+|:---------------:|:---------------------------------------:|
+|  **Structure**  |                    3                    |
+| **Engineering** |                    2                    |
+| **Computation** |                    2                    |
+|   **Traits:**   | [[Air]], [[Earth]], [[Fire]], [[Water]] |
+
+> [!embed-feat]- ### Core Passive: *A War of Two Dragons*
+> [[Usage\|Usage: Metal]], [[Modal]]
+> - - -
+> *As you summon your Metal, and at the start of each combat, pick one of the following options*
+> 
+> ***Gozuryū's Pentafocus*** When you cast a spell or fire a weapon that has the [[Air]], [[Earth]], [[Fire]], or [[Water]] traits, you become [[Energized\|Energized 1]], or increase your Energized condition by one, up to a maximum of Energized 4. If you cast a spell or fire a weapon with the same trait more than once in a row, your Energized condition does not increase. 
+> 
+> ***Tiamat's Singular Point*** When you cast a spell or fire a weapon that has the [[Air]], [[Earth]], [[Fire]], or [[Water]] traits, you gain a  +1 *stacking*, *cumulative*, magical bonus to damage that has one of the aforementioned traits. This bonus stacks up to +4, and does not increase if you cast a spell or fire a weapon with the same trait more than once in a row.
+
+>[!column]- ### ***Core Intrinsic and Intrinsic Upgrades*** 
+> 
+>> [!embed-feat]- Basic Intrinsic: *Draconic Outburst `=[[Dev Helpers]].two-action`*
+>> *This is the Core's Intrinsic Ability*
+>> 
+>> ***Frequency: Once Per Combat***
+>> 
+>> [[Modal]]
+>> - - -
+>> *When you use this ability, its effect depends on which Passive mode you are currently using.*
+>> 
+>>>[!embed-feat]- ***Devastation of Gozuryū***
+>>>
+>>> [[Area\|Area (12-space Cone)]], [[Earth]], [[Fire]] 
+>>> 
+>>> A slurry of molten stones and roaring fire bellows forth from the Spirit Core. All creatures within the area take 1d6 **crushing** damage and 1d8 **fire** damage, and must make a *basic* **Reflex** save. Any creature who critically fails becomes [[Ignited]] and [[Coated]] for 1 minute.. 
+>> 
+>>>[!embed-feat]- ***Lamentation of Tiamat***
+>>> 
+>>> [[Area\|Area (8-space Emanation)]], [[Auditory]], [[Air]], [[Water]]
+>>> 
+>>> A horrid cry of mournful lament rings out from the Spirit Core, threatening to freeze all of creation solid. All creatures within the area must make a **Body** check. On a failure, affected creatures become [[Frozen]] for 1 round, and on a critical failure, they become Frozen for 1 minute instead. Regardless of outcome, all creatures in the area are [[Flustered]]. 
+>
+>> [!embed-feat] *Advanced Enhancement*
+>> *When this part is upgraded to Advanced, your Metal's Core Intrinsic Ability gains this enhancement.*
+>
+>> [!embed-feat] *Ethereal Enhancement*
+>>*When this part is upgraded to Ethereal, your Metal's Core Intrinsic Ability gains this enhancement.*
+>
+>> [!embed-feat] *Divine Enhancement*
+>>*When this part is upgraded to Divine, your Metal's Core Intrinsic Ability gains this enhancement.*
+
+> [!embed-feat]- ### Deus Ex Machina: *A War Within, Finally Won*
+> You finally confront the war between the spirits that reside in the core of your Metal, and in turn, the war within yourself. If you would be faced with a choice that you truly find no way to resolve, you can invoke this Deus Ex Machina. The Escalation die immediately is set to maximum, and you must face a Test of Soul, which will be determined by your GM. On a success, your Soul ignites. Replace your Potential attribute with Soul, and increase your Tier to 5. 
+### Defense-Type Cores
+#### DTSC-001 ''Steelclad Mamba''
+***Requirements: None*** 
+First of the Defense-Type  S-R<sup>2</sup> Engine cores produced as apart of SMR’s contract with the USH military, the *Steelclad Mamba* utilizes a Spirit that is internally referred to as the *Iron Adder*\*. This spirit is a massive serpent, clad in trillions of steel plates in place of scales that it can use to create weapons and shields at will. This core, after prolonged exposure, tends to illicit protective behaviors in pilots.  
+
+<sub>\*SMR and the USH-M are acutely aware that Adders and Mambas are two different species of snake.</sub>
+
+>[!info|no-i n-th] ##### Mechanics 
+|  *Attributes*   |                     |
+|:---------------:|:-------------------:|
+|  **Structure**  |  2  |
+| **Engineering** | 3 |
+| **Computation** |2 |
+|   **Traits:**   |  [[Metal]]                   |
+
+> [!embed-feat]+ ### Core Passive: *Coiled Blade*
+> [[Usage\|Usage: Metal]]
+> - - -
+> You gain a +1 magical bonus to attacks made as a part of a reaction. This bonus increases by 1 each time you upgrade the quality of this soul core.
+
+>[!column]+ ### ***Core Intrinsic and Intrinsic Upgrades*** 
+> 
+>> [!embed-feat] Basic Intrinsic: *Shed Scales* `=[[Dev Helpers]].three-action`
+>> *This is the Core's Intrinsic Ability*
+>> 
+>> ***Frequency: Once Per Combat***
+>> [[Usage\|Usage: Metal]]
+>> - - -
+>> You shed your scales, clearing all negative statuses and shedding all penalties to Toughness. 
+>
+>> [!embed-feat] *Advanced Enhancement*
+>> *When this part is upgraded to Advanced, your Metal's Core Intrinsic Ability gains this enhancement.*
+>
+>> [!embed-feat] *Ethereal Enhancement*
+>>*When this part is upgraded to Ethereal, your Metal's Core Intrinsic Ability gains this enhancement.*
+>
+>> [!embed-feat] *Divine Enhancement*
+>>*When this part is upgraded to Divine, your Metal's Core Intrinsic Ability gains this enhancement.*
+
+> [!embed-feat]+ ### Deus Ex Machina: *A Cure For Poison*
+> You find the cure for the *Iron Adder’s* most virulent poison. 
+> 
+> If you would be forced to attempt to survive an impossible circumstance, you can invoke this Deus Ex Machina. The Escalation die is immediately set to maximum, and you must face a Test of Soul, which has been carefully determined by your GM. On a success, your Soul ignites. Replace your Potential attribute with Soul, and increase your Tier to 5. 
+### Support-Type Cores
 
 ## 4. *Finalizing Metal Attributes and Statistics*
 After selecting your Metal’s basic components, it is time to finalize its Attributes and Statistics, just as you did for your Pilot. 

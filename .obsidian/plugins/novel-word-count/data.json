@@ -8322,19 +8322,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 13901,
+      "wordCount": 17223,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 46.336666666666666,
-      "characterCount": 92867,
-      "nonWhitespaceCharacterCount": 77254,
-      "readingTimeInMinutes": 52.4566037735849,
-      "linkCount": 71,
-      "embedCount": 20,
+      "pageCount": 57.41,
+      "characterCount": 120305,
+      "nonWhitespaceCharacterCount": 98578,
+      "readingTimeInMinutes": 64.99245283018868,
+      "linkCount": 107,
+      "embedCount": 12,
       "aliases": null,
       "createdDate": 1708315156539,
-      "modifiedDate": 1710371841082,
-      "sizeInBytes": 93181
+      "modifiedDate": 1710377626660,
+      "sizeInBytes": 120643
     },
     "Character Creation Playtest 1 Packet.docx": {
       "isCountable": false,
@@ -8516,23 +8516,23 @@
       "modifiedDate": 1699865927223,
       "sizeInBytes": 563
     },
-    "Reference Notes/Frame Note.md": {
+    "Reference Notes/Core Note.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 580,
+      "wordCount": 1359,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9333333333333333,
-      "characterCount": 5192,
-      "nonWhitespaceCharacterCount": 3888,
-      "readingTimeInMinutes": 2.188679245283019,
-      "linkCount": 1,
+      "pageCount": 4.53,
+      "characterCount": 9934,
+      "nonWhitespaceCharacterCount": 8098,
+      "readingTimeInMinutes": 5.128301886792453,
+      "linkCount": 37,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1710371776628,
-      "modifiedDate": 1710374702376,
-      "sizeInBytes": 5198
+      "createdDate": 1710376203948,
+      "modifiedDate": 1710377526582,
+      "sizeInBytes": 9940
     }
   }
 }

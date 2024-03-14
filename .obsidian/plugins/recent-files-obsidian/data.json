@@ -1,32 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Frame Note",
-      "path": "Reference Notes/Frame Note.md"
-    },
-    {
-      "basename": "BF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-001.md"
-    },
-    {
-      "basename": "LF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-002.md"
-    },
-    {
-      "basename": "LF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-001.md"
-    },
-    {
-      "basename": "ULF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-002.md"
-    },
-    {
-      "basename": "ULF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-001.md"
-    },
-    {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "Core Note",
+      "path": "Reference Notes/Core Note.md"
+    },
+    {
+      "basename": "STSC-001 ''Infinite Hydrangea''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
+    },
+    {
+      "basename": "DTSC-001 ''Steelclad Mamba''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
+    },
+    {
+      "basename": "ATSC-001 ''Warring Dragons''",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md"
+    },
+    {
+      "basename": "Bunker Buster",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Bunker Buster.md"
+    },
+    {
+      "basename": "Surgeon General",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md"
+    },
+    {
+      "basename": "Wire Runner",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md"
+    },
+    {
+      "basename": "Subtle Dialog",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Subtle Dialog.md"
+    },
+    {
+      "basename": "Fortress Breaker",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Powered/Fortress Breaker.md"
     },
     {
       "basename": "SHF-002",
@@ -47,6 +59,26 @@
     {
       "basename": "BF-002",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-002.md"
+    },
+    {
+      "basename": "BF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-001.md"
+    },
+    {
+      "basename": "LF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-002.md"
+    },
+    {
+      "basename": "LF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-001.md"
+    },
+    {
+      "basename": "ULF-002",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-002.md"
+    },
+    {
+      "basename": "ULF-001",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-001.md"
     },
     {
       "basename": "Metal Attributes and Statistics",
@@ -167,38 +199,6 @@
     {
       "basename": "Hegemony Nomad",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
-    },
-    {
-      "basename": "Dusted",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Dusted.md"
-    },
-    {
-      "basename": "Starting Wealth Chart",
-      "path": "Utilities/Design References/General References/Starting Wealth Chart.md"
-    },
-    {
-      "basename": "Human",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Human.md"
-    },
-    {
-      "basename": "Elves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Elves.md"
-    },
-    {
-      "basename": "Dwaurves",
-      "path": "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Solar_Hegemony/Dwaurves.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "System Appendix",
-      "path": "Reference Notes/Appendices/System Appendix.md"
-    },
-    {
-      "basename": "Metal Weapon Appendix",
-      "path": "Reference Notes/Appendices/Metal Weapon Appendix.md"
     }
   ],
   "omittedPaths": [],
