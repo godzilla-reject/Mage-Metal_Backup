@@ -4,25 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "56c8801d477581bc",
+        "id": "5805e7afc8322dca",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "ab66fbc567e027e2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.7293824227471422
-                }
+                "file": "Character Creation Playtest 1 Packet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
         ]
+      },
+      {
+        "id": "56c8801d477581bc",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "2122f2b5436524cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Spell List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "61be2cf37771ff44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/The Favor System/Action Structure/Actions Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest 1 Packet.md"
               }
             }
           },
@@ -206,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,11 +271,16 @@
   },
   "active": "ab66fbc567e027e2",
   "lastOpenFiles": [
+    "General Rules/The Favor System/Dice Structure/Dice Overview.md",
+    "Character Creation Playtest 1 Packet.md",
+    "Reference Notes/Skill List.md",
+    "Reference Notes/Spell List.md",
+    "General Rules/The Favor System/Action Structure/Actions Overview.md",
+    "Utilities/Dashboard.canvas",
     "Reference Notes/Core Note.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Attack/ATSC-001 ''Warring Dragons''.md",
-    "Character Creation Playtest 1 Packet.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Bunker Buster.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Infiltrator/Surgeon General.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md",
@@ -259,11 +298,6 @@
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-002.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-001.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
-    "Reference Notes/Perk Note.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Wildheart.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Tome Mage.md",
-    "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Robust Fortitude.md",
-    "Utilities/Dashboard.canvas",
     "Character Creation Playtest 1 Packet.docx",
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",

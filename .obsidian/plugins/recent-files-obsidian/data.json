@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "Dice Overview",
+      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
+    },
+    {
+      "basename": "Skill List",
+      "path": "Reference Notes/Skill List.md"
+    },
+    {
+      "basename": "Spell List",
+      "path": "Reference Notes/Spell List.md"
+    },
+    {
+      "basename": "Actions Overview",
+      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Core Note",
@@ -183,22 +199,6 @@
     {
       "basename": "Politologist",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
-    },
-    {
-      "basename": "Influencer",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Influencer.md"
-    },
-    {
-      "basename": "Corpo Deskie",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/High/Corpo Deskie.md"
-    },
-    {
-      "basename": "Rapscallion",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Rapscallion.md"
-    },
-    {
-      "basename": "Wrench Monkey",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Moderate/Wrench Monkey.md"
     }
   ],
   "omittedPaths": [],
