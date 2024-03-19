@@ -66,19 +66,33 @@
 ##### *Rank 1*
 > [!infobox|left]+ Blood Cry
 > ###### Spell Information
-|        |                                              |
-|:------:|:--------------------------------------------:|
-|  Rank  |                 1                 |
-| School |                Hemaphoresis                |
-| Range  |               Self               |
-| Duration |                    1 minute.                  |
-| Traits | [[Aura\|Aura (6 sp)]], [[Slow]], [[Vocal]], [[Life-Bound]] |
+|          |                                                            |
+|:--------:|:----------------------------------------------------------:|
+|   Rank   |                             1                              |
+|  School  |                        Hemaphoresis                        |
+|  Range   |                            Self                            |
+| Duration |                         1 minute.                          |
+|  Traits  | [[Aura\|Aura (6 sp)]], [[Slow]], [[Vocal]], [[Life-Bound]] |
 > ###### *Details*
 > You let out a bloody war-cry, boosting the capabilities of your allies. Each ally within the aura deals an additional 2 **true** damage for the duration, while you gain [[Regeneration\|Regeneration 3]].
 > - - -
 > ***Bloody Effect***
 > If you are [[Bloodied]] when you cast this spell, your allies deal an additional 1d6 **true** damage , and you gain [[Regeneration\|Regeneration 6]] , instead.
 ##### *Rank 2*
+> [!infobox|left]+ Melanie’s Shared Suffering
+> ###### Spell Information
+|          |                                                                 |
+|:--------:|:---------------------------------------------------------------:|
+|   Rank   |                                2                                |
+|  School  |                          Hemaphoresis                           |
+|  Range   |                             12 sp.                              |
+| Duration |                            1 minute.                            |
+|  Traits  | [[Swift]], [[Life-Bound]], [[Vocal]], [[Auditory]], [[Somatic]] |
+> ###### *Details*
+> You bellow a mighty cry, your words linking you and ally together. Pick one ally within range. For the duration, any damage either you or that ally would take is divided between both of you evenly, as is any healing. Your linked ally also gains Resistance to **physical** damage for the duration. 
+> - - -
+> ***Bloody Effect***
+> If you are [[Bloodied]] while you cast this spell, you gain Resistance to **physical** damage for the duration, and your linked ally gains Resistance to **all** damage instead.
 ##### *Rank 3*
 #### Somaphoresis
 ##### *Rank 0*
