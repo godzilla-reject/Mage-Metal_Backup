@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Spell List",
+      "path": "Reference Notes/Spell List.md"
+    },
+    {
+      "basename": "Cedrik's Mini-Many-Minefield",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Cedrik's Mini-Many-Minefield.md"
+    },
+    {
+      "basename": "Auto-Shot Turret",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
+    },
+    {
+      "basename": "Techno-Babble",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md"
+    },
+    {
+      "basename": "Spell List-Technosophy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md"
+    },
+    {
+      "basename": "Conjure Advanced Weaponry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md"
+    },
+    {
+      "basename": "Conjure Martial Weaponry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md"
+    },
+    {
+      "basename": "Conjure Simple Weaponry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md"
+    },
+    {
+      "basename": "Arcane Sphere-Technomynism",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
+    },
+    {
+      "basename": "Spell List-Resonancia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md"
+    },
+    {
+      "basename": "Arcane Sphere-Humaana",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md"
+    },
+    {
+      "basename": "Arcane Sphere-Artifacteomancy",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
+    },
+    {
+      "basename": "Arcane Sphere-Elemancy",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md"
+    },
+    {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
     },
@@ -11,10 +63,6 @@
     {
       "basename": "Skill List",
       "path": "Reference Notes/Skill List.md"
-    },
-    {
-      "basename": "Spell List",
-      "path": "Reference Notes/Spell List.md"
     },
     {
       "basename": "Actions Overview",
@@ -151,54 +199,6 @@
     {
       "basename": "Frontline Vanguard",
       "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
-    },
-    {
-      "basename": "Guerilla Tactics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Guerilla Tactics.md"
-    },
-    {
-      "basename": "Logistical Controller",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md"
-    },
-    {
-      "basename": "Arc Surge",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Arc Surge.md"
-    },
-    {
-      "basename": "Long-Range Ordinance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Long-Range Ordinance.md"
-    },
-    {
-      "basename": "Runeurgy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Artifacteomancy/Runeurgy.md"
-    },
-    {
-      "basename": "Technosophy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Technomynism/Technosophy.md"
-    },
-    {
-      "basename": "Terraphasia",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Terraphasia.md"
-    },
-    {
-      "basename": "Pyrophasia",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Pyrophasia.md"
-    },
-    {
-      "basename": "Hydrophasia",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Hydrophasia.md"
-    },
-    {
-      "basename": "Aerophasia",
-      "path": "Player-Facing Rules/Character Creation/Mages/Schools of Arcana/Elemancy/Aerophasia.md"
-    },
-    {
-      "basename": "Noble",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Noble.md"
-    },
-    {
-      "basename": "Politologist",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
     }
   ],
   "omittedPaths": [],

@@ -2421,6 +2421,8 @@ Tradition
 Tialoc
 Totec
 Tactics
+Techno
+Turret
 oriented
 of
 on
@@ -4820,6 +4822,7 @@ Hot
 Humankind
 House
 HF
+Humaana
 you
 your
 yourself
@@ -5476,6 +5479,7 @@ Blood
 BF
 Bunker
 Buster
+Babble
 Varies
 Vast
 Void
