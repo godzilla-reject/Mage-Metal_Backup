@@ -110,72 +110,51 @@
 ##### *Rank 2*
 > [!infobox|left]+ Conjure Martial Weaponry
 > ###### Spell Information
+|          |                                                        |
+|:--------:|:------------------------------------------------------:|
+|   Rank   |                      2                  |
+|  School  |                     Technosophy                     |
+|  Range   |                          Self                          |
+| Duration |                        1 minute                        |
+|  Traits  | [[Construct]], [[Material\|Material-Scrap]], [[Metal]] |
+> ###### *Details*
+> You assemble scraps into a temporary weapon. Pick a Martial weapon. You create that weapon, which lasts for the duration, except you choose what damage type it does (it cannot be **true**) and it gains the [[Magical]] trait.
+##### *Rank 3*
+> [!infobox|left]+ Conjure Advanced Weaponry 
+> ###### Spell Information
 |        |                |
 |:------:|:--------------:|
-|  Rank  |  `=this.Rank`  |
-| School | `=this.School` |
+|  Rank  |  3  |
+| School |Technosophy |
 | Range  |     Self           |
 |  Duration     |     1 minute           |
 | Traits |    [[Construct]], [[Material\|Material-Scrap]], [[Metal]]  
 > ###### *Details*
-> You assemble scraps into a temporary weapon. Pick a Martial weapon. You create that weapon, which lasts for the duration, except you choose what damage type it does (it cannot be **true**) and it gains the [[Magical]] trait.
-##### *Rank 3*
+> You assemble scraps into a temporary weapon. Pick an Advanced weapon. You create that weapon, which lasts for the duration, except you choose what damage type (it cannot be **true**) it does and it gains the [[Magical]] trait. 
 #### Resonancia
-##### *Rank 0*
 ##### *Rank 1*
-##### *Rank 2*
+> [!infobox|left]+ Metal Summoning Resonance
+> ###### Spell Information
+|        |                |
+|:------:|:--------------:|
+|  Rank  |  1  |
+| School | Resonancia |
+| Range  |      Self         |
+|  Duration     |    Instant            |
+| Traits | [[Slow]], [[Teleport]], [[Resonance]]               |
+> ###### *Details*
+> ***Limit:*** *You can only cast this spell if the Escalation die is a d8 or higher.*
+> You engage the magical connection between your Resonator, Catalyst and Grimoire in order to open a *Slip-bridge* to the USH slip-space hangar that stores your Metal. You then teleport into the Metal. 
 ##### *Rank 3*
-
-![[Aerostrike]]
-![[Ane's Screaming Cyclone]]
-![[Arcane Barrier]]
-![[Arcane Salvo]]
-![[Arc Surge]]
-![[Aurora Mortum]]
-![[Aurora Vitam]]
-![[Auto-Shot Turret]]
-![[Blood Cry]]
-![[Cedrik's Mini-Many-Minefield]]
-![[Clamorous Clang]]
-![[Clamp-Maw Trap]]
-![[Conjure Advanced Weaponry]]
-![[Conjure Martial Weaponry]]
-![[Conjure Simple Weaponry]]
-![[Dolman's Scorcher]]
-![[Earthen Armor]]
-![[Earthen Spikes]]
-![[Electroflex]]
-![[Escaton's Boulder Fists]]
-![[Escaton's Seismic Shudder]]
-![[Eunard's Grinding Gears]]
-![[Eunard's Portable Cover]]
-![[Fiery Dissipation]]
-![[Fireball]]
-![[Fleeting Featherstep]]
-![[Flusterdome]]
-![[Harm Wounds]]
-![[Heal Wounds]]
-![[Hemaspike]]
-![[Hydro-Oscillation Field]]
-![[Ignition]]
-![[Lightning Bolt]]
-![[Melanie's Shared Suffering]]
-![[Melanie's Wail of Blood]]
-![[Metal Summoning Resonance]]
-![[Patch-Up]]
-![[Power-Word 'Ache']]
-![[Power-Word 'Harm']]
-![[Power-Word 'Haste']]
-![[Power-Word 'Heal']]
-![[Predator's Sight]]
-![[Reinforce Vitality]]
-![[Relieve Malediction]]
-![[Retrace]]
-![[Shield Crush]]
-![[Shifting Tides]]
-![[Shockjolt]]
-![[Simple Metal Combination Resonance]]
-![[Sniper's Mark]]
-![[Steam-Spike]]
-![[Techno-Babble]]
-![[Wormik's Torrent]]
+> [!infobox|left]+ Simple Metal Combination Resonance
+> ###### Spell Information
+|        |                |
+|:------:|:--------------:|
+|  Rank  |  3 |
+| School | Resonancia |
+| Range  |      Self          |
+|  Duration     |    Instant            |
+| Traits |    [[Flash]], [[Resonance]]            |
+> ###### *Details*
+> ***Limit:*** *You can only cast this spell if the Escalation die is a d10 or higher.*
+> You engage the Resonance Reactor in your Metal, opening it up to be combined with other metals. When you cast this spell, up to four other allied pilots can do the same, initiating a *Combination Sequence.* 

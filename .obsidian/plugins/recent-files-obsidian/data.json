@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Spell List",
       "path": "Reference Notes/Spell List.md"
+    },
+    {
+      "basename": "Simple Metal Combination Resonance",
+      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Simple Metal Combination Resonance.md"
+    },
+    {
+      "basename": "Metal Summoning Resonance",
+      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md"
+    },
+    {
+      "basename": "Spell List-Resonancia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md"
+    },
+    {
+      "basename": "Conjure Advanced Weaponry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md"
     },
     {
       "basename": "Conjure Martial Weaponry",
@@ -29,16 +49,8 @@
       "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md"
     },
     {
-      "basename": "Conjure Advanced Weaponry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md"
-    },
-    {
       "basename": "Arcane Sphere-Technomynism",
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
-    },
-    {
-      "basename": "Spell List-Resonancia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md"
     },
     {
       "basename": "Arcane Sphere-Humaana",
@@ -67,10 +79,6 @@
     {
       "basename": "Actions Overview",
       "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Core Note",
@@ -191,14 +199,6 @@
     {
       "basename": "Critical",
       "path": "General Rules/Traits Catalog/Weapon-Only/Critical.md"
-    },
-    {
-      "basename": "Battlefield Support",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Battlefield Support.md"
-    },
-    {
-      "basename": "Frontline Vanguard",
-      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md"
     }
   ],
   "omittedPaths": [],
