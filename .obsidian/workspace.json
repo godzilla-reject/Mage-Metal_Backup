@@ -281,7 +281,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "obsidian-memos:Thino": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
@@ -303,7 +302,8 @@
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "media-extended:Open media": false
     }
   },
   "active": "2122f2b5436524cc",
