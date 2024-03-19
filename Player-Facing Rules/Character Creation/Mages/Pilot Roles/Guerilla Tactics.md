@@ -13,7 +13,7 @@ Skill_1: Survivalism
 Spell_1: "[[Retrace]]"
 Spec_2: Hunter
 Skill_2: Sneakery
-Spell_2: "[[Predator's Sight]]"
+Spell_2: "[[Predator Sight]]"
 Tags:
   - Role
 ---

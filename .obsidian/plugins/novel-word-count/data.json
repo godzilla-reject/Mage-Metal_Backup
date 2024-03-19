@@ -2829,24 +2829,6 @@
       "modifiedDate": 1700026101227,
       "sizeInBytes": 769
     },
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator's Sight.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 52,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 563,
-      "nonWhitespaceCharacterCount": 382,
-      "readingTimeInMinutes": 0.19622641509433963,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1698734100838,
-      "modifiedDate": 1699867300598,
-      "sizeInBytes": 633
-    },
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -5112,8 +5094,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100547,
-      "modifiedDate": 1708730758029,
-      "sizeInBytes": 2903
+      "modifiedDate": 1710807587415,
+      "sizeInBytes": 2901
     },
     "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Frontline Vanguard.md": {
       "isCountable": true,
@@ -5857,19 +5839,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 643,
+      "wordCount": 1280,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.1433333333333335,
-      "characterCount": 6395,
-      "nonWhitespaceCharacterCount": 4440,
-      "readingTimeInMinutes": 2.4264150943396228,
-      "linkCount": 27,
+      "pageCount": 4.266666666666667,
+      "characterCount": 12396,
+      "nonWhitespaceCharacterCount": 8691,
+      "readingTimeInMinutes": 4.830188679245283,
+      "linkCount": 52,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1708729969632,
-      "modifiedDate": 1710807416854,
-      "sizeInBytes": 6395
+      "modifiedDate": 1710808055323,
+      "sizeInBytes": 12412
     },
     "Reference Notes/Appendices/System Appendix.md": {
       "isCountable": true,
@@ -8534,6 +8516,24 @@
       "createdDate": 1710319449777,
       "modifiedDate": 1710319449831,
       "sizeInBytes": 25471
+    },
+    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator Sight.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 52,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 563,
+      "nonWhitespaceCharacterCount": 382,
+      "readingTimeInMinutes": 0.19622641509433963,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1698734100838,
+      "modifiedDate": 1699867300598,
+      "sizeInBytes": 633
     }
   }
 }

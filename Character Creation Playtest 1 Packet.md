@@ -909,7 +909,7 @@ Guerilla Specialists gather information, scout out battles, and recon for potent
 >Hunters slink through the edge of the tree-line, taking out key targets with speed before the main engagement begins.
 > **Specialty Skill:** [[Sneakery]]
 >> 
-> **Starting Spell:** [[Predator's Sight]]
+> **Starting Spell:** [[Predator Sight]]
 > 
 >> [!metadata] *Trained Perk: Predation*
 >> *When you become Trained in this Role, you gain the following benefits.*

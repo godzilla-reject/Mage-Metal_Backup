@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Spell List",
       "path": "Reference Notes/Spell List.md"
+    },
+    {
+      "basename": "Blood Cry",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md"
+    },
+    {
+      "basename": "Hemaspike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
+    },
+    {
+      "basename": "Melanie's Wail of Blood",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md"
+    },
+    {
+      "basename": "Spell List-Hemaphoresis",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md"
+    },
+    {
+      "basename": "Melanie's Shared Suffering",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md"
+    },
+    {
+      "basename": "Heal Wounds",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
+    },
+    {
+      "basename": "Harm Wounds",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md"
+    },
+    {
+      "basename": "Reinforce Vitality",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md"
+    },
+    {
+      "basename": "Predator Sight",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator Sight.md"
+    },
+    {
+      "basename": "Patch-Up",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Patch-Up.md"
+    },
+    {
+      "basename": "Relieve Malediction",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Relieve Malediction.md"
+    },
+    {
+      "basename": "Spell List-Somaphoresis",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md"
+    },
+    {
+      "basename": "Arcane Sphere-Humaana",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Simple Metal Combination Resonance",
@@ -51,10 +103,6 @@
     {
       "basename": "Arcane Sphere-Technomynism",
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
-    },
-    {
-      "basename": "Arcane Sphere-Humaana",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md"
     },
     {
       "basename": "Arcane Sphere-Artifacteomancy",
@@ -151,54 +199,6 @@
     {
       "basename": "ULF-002",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-002.md"
-    },
-    {
-      "basename": "ULF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-001.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
-      "basename": "Wildheart",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Wildheart.md"
-    },
-    {
-      "basename": "Tome Mage",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Tome Mage.md"
-    },
-    {
-      "basename": "Robust Fortitude",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Robust Fortitude.md"
-    },
-    {
-      "basename": "Novice Blood Mage",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Novice Blood Mage.md"
-    },
-    {
-      "basename": "Lifebringer",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Lifebringer.md"
-    },
-    {
-      "basename": "Jack of All Trades",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Jack of All Trades.md"
-    },
-    {
-      "basename": "Battlemage",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Battlemage.md"
-    },
-    {
-      "basename": "Mercurial Magics",
-      "path": "Player-Facing Rules/Character Creation/Mages/Other Perks/General/Mercurial Magics.md"
-    },
-    {
-      "basename": "Character Mechanics Overview",
-      "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Critical",
-      "path": "General Rules/Traits Catalog/Weapon-Only/Critical.md"
     }
   ],
   "omittedPaths": [],

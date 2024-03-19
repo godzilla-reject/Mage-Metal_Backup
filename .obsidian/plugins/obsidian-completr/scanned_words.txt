@@ -181,6 +181,7 @@ Monkey
 Medic
 Mini
 Minefield
+Malediction
 in
 inspiration
 it
@@ -1688,6 +1689,9 @@ appearance
 awakening
 accordance
 af
+ailment
+afflicting
+applicable
 wear
 with
 war
@@ -3332,6 +3336,7 @@ Remember
 Rapscallion
 Relentless
 Robust
+Relieve
 high
 heavily
 hopes
@@ -3680,6 +3685,7 @@ rich
 reproducing
 reminder
 randomness
+relieve
 Pathfinder
 PF
 Philosophy
@@ -3799,6 +3805,8 @@ Perfecci
 Past
 Project
 Papel
+Patch
+Predator
 ABCs
 Apotheosis
 Accessibility
@@ -4134,6 +4142,7 @@ maturity
 mutable
 moral
 metals
+malediction
 GURPS
 Google
 Greyhawk
@@ -4731,6 +4740,7 @@ Ware
 Way
 Wrench
 Wildheart
+Wounds
 keeping
 keep
 kek
@@ -4831,6 +4841,9 @@ Humankind
 House
 HF
 Humaana
+Harm
+Hemaspike
+Heal
 you
 your
 yourself
@@ -5311,6 +5324,7 @@ SHF
 Subtle
 Surgeon
 Sequence
+Sight
 Jackson
 Jack
 Juggernaut
@@ -5489,6 +5503,7 @@ BF
 Bunker
 Buster
 Babble
+Burst
 Varies
 Vast
 Void
