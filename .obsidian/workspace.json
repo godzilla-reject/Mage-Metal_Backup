@@ -53,32 +53,6 @@
             }
           },
           {
-            "id": "d939f6d67ab38cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dac98c2b7857c610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Technosophy/Cedrik's Mini-Many-Minefield.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "278b5a18cfbe5fdd",
             "type": "leaf",
             "state": {
@@ -92,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,7 +255,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-memos:Thino": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -295,27 +268,27 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "homepage:Open homepage": false,
       "rpg-manager:RPG Manager": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-memos:Thino": false
     }
   },
   "active": "2122f2b5436524cc",
   "lastOpenFiles": [
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Cedrik's Mini-Many-Minefield.md",
+    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md",
     "Reference Notes/Spell List.md",
+    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md",
+    "Player-Facing Rules/Spells/Spells Database/Technosophy/Cedrik's Mini-Many-Minefield.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
     "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md",
     "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",

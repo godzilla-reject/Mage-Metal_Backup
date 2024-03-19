@@ -84,7 +84,7 @@
 > ###### *Details*
 > You construct a turret that, for the duration,  fires automatically once per turn at an enemy within 6 sp. It deals 2 **piercing** damage per shot (it does *not* roll to hit), has 5 Health, and Toughness 2. 
 
- > [!infobox|left]+ Cedrik's Mini-Many-Minefield
+> [!infobox|left]+ Cedrik's Mini-Many-Minefield
 > ###### Spell Information
 |          |                                                  |
 |:--------:|:------------------------------------------------:|
@@ -95,7 +95,30 @@
 |  Traits  | [[Area\|Area (1-space burst)]], [[Trap]], [[Fire]] |
 > ###### *Details*
 > You place multiple mini-mines around you. Mark 4 spaces within range.  For the duration, whenever a foe enters one of the marked spaces, they must make a **Reflex** check. On a failure, they take 2d6 **fire** damage and are pushed back one space. On a success, they take 2 **fire** damage and are not pushed back.
+
+> [!infobox|left]+ Conjure Simple Weaponry
+> ###### Spell Information
+|        |                |
+|:------:|:--------------:|
+|  Rank  |  1  |
+| School | Technosophy |
+| Range  |     Self           |
+|  Duration     |     1 minute           |
+| Traits |    [[Construct]], [[Material\|Material-Scrap]], [[Metal]]            |
+> ###### *Details*
+> You assemble scraps into a temporary weapon. Pick a Simple weapon. You create that weapon, which lasts for the duration, except you choose what damage type (it cannot be **true**) it deals and it gains the [[Magical]] trait. 
 ##### *Rank 2*
+> [!infobox|left]+ Conjure Martial Weaponry
+> ###### Spell Information
+|        |                |
+|:------:|:--------------:|
+|  Rank  |  `=this.Rank`  |
+| School | `=this.School` |
+| Range  |     Self           |
+|  Duration     |     1 minute           |
+| Traits |    [[Construct]], [[Material\|Material-Scrap]], [[Metal]]  
+> ###### *Details*
+> You assemble scraps into a temporary weapon. Pick a Martial weapon. You create that weapon, which lasts for the duration, except you choose what damage type it does (it cannot be **true**) and it gains the [[Magical]] trait.
 ##### *Rank 3*
 #### Resonancia
 ##### *Rank 0*
