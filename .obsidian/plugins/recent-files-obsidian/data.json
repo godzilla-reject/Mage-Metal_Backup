@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "Spell List",
       "path": "Reference Notes/Spell List.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Arcane Sphere-Humaana",
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Simple Metal Combination Resonance",
