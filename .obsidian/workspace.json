@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "402f08824133c6e1",
+        "id": "dc467b5cb4a4c985",
         "type": "tabs",
         "children": [
           {
-            "id": "c4297eefc5b446af",
+            "id": "442b2e8f35aa982a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.7293824227471422
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -235,7 +235,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "c4297eefc5b446af",
+  "active": "442b2e8f35aa982a",
   "lastOpenFiles": [
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md",
     "Reference Notes/Spell List.md",
