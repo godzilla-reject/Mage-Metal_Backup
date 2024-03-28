@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Character Creation Playtest 1 Packet",
+      "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
       "basename": "Spell List",
       "path": "Reference Notes/Spell List.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "Arcane Sphere-Elemancy",
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md"
-    },
-    {
-      "basename": "Character Creation Playtest 1 Packet",
-      "path": "Character Creation Playtest 1 Packet.md"
     },
     {
       "basename": "Dice Overview",

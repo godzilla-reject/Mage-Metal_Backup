@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc467b5cb4a4c985",
+        "id": "2b4670287e908fba",
         "type": "tabs",
         "children": [
           {
-            "id": "442b2e8f35aa982a",
+            "id": "a34bb4c5c5c49fbb",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.7293824227471422
+                  "zoom": -1.1077049764716203
                 }
               }
             }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -194,7 +193,7 @@
             }
           },
           {
-            "id": "8753d1336babb804",
+            "id": "72e0419003eefe2a",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -210,7 +209,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -229,14 +227,16 @@
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
-      "media-extended:Open media": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "media-extended:Open media": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-memos:Thino": false
     }
   },
-  "active": "442b2e8f35aa982a",
+  "active": "a34bb4c5c5c49fbb",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md",
     "Reference Notes/Spell List.md",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md",
@@ -251,7 +251,6 @@
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Relieve Malediction.md",
     "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Resonancia/Simple Metal Combination Resonance.md",
     "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md",
     "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md",
@@ -263,7 +262,6 @@
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
     "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md",
-    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md",
     "Character Creation Playtest 1 Packet.docx",
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
