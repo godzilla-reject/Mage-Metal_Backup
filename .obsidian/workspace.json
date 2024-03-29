@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b4670287e908fba",
+        "id": "555ce77c2874429d",
         "type": "tabs",
         "children": [
           {
-            "id": "a34bb4c5c5c49fbb",
+            "id": "f13a8d2c8be8cee0",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -222,20 +222,21 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "homepage:Open homepage": false,
       "rpg-manager:RPG Manager": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "media-extended:Open media": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-memos:Thino": false
     }
   },
-  "active": "a34bb4c5c5c49fbb",
+  "active": "f13a8d2c8be8cee0",
   "lastOpenFiles": [
+    "Character Creation Playtest 1 Packet.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md",
     "Reference Notes/Spell List.md",
@@ -266,6 +267,4 @@
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
-    "Character Creation Playtest 1 Packet.tex"
-  ]
-}
+    "Character Creation Playtest 1 P
