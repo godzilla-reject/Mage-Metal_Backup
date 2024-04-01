@@ -48,7 +48,7 @@
 ### Humaana 
 #### Hemaphoresis 
 ##### *Rank 0*
-> [!infobox|left]+ Hemaspike
+> [!info|n-th no-i]+ Hemaspike
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -64,7 +64,7 @@
 > If you are [[Bloodied]] when you cast this spell, Hemaspike heals you for 6 Health, regardless of damage dealt.
 
 ##### *Rank 1*
-> [!infobox|left]+ Blood Cry
+> [!info|n-th no-i]+ Blood Cry
 > ###### Spell Information
 |          |                                                            |
 |:--------:|:----------------------------------------------------------:|
@@ -79,7 +79,7 @@
 > ***Bloody Effect***
 > If you are [[Bloodied]] when you cast this spell, your allies deal an additional 1d6 **true** damage , and you gain [[Regeneration\|Regeneration 6]] , instead.
 ##### *Rank 2*
-> [!infobox|left]+ Melanie’s Shared Suffering
+> [!info|n-th no-i]+ Melanie’s Shared Suffering
 > ###### Spell Information
 |          |                                                                 |
 |:--------:|:---------------------------------------------------------------:|
@@ -94,9 +94,26 @@
 > ***Bloody Effect***
 > If you are [[Bloodied]] while you cast this spell, you gain Resistance to **physical** damage for the duration, and your linked ally gains Resistance to **all** damage instead.
 ##### *Rank 3*
+> [!info|n-th no-i]+ Melanie’s Wail of Blood
+> ###### Spell Information
+|          |                                       |
+|:--------:|:-------------------------------------:|
+|   Rank   |             `=this.Rank`              |
+|  School  |            `=this.School`             |
+|  Range   |                Self                |
+| Duration |               Instant                |
+|  Traits  | [[Slow]], [[Life-Bound]], [[Area\|Area (10-space Burst)]], [[Healing]], [[Vocal]], [[Auditory]] |
+> ###### *Details*
+> You begin to wail violently, the sound boiling the blood of all who hear it. 
+> This spell deals `dice:1d8` **sound** damage to all creatures within the Area, who must make an *all-or-nothing* **Body** check. Any creature that fails this check gains the [[Bleeding\|Bleeding 1d6]] condition for 1 minute. 
+> You are then healed for a number of Health equal to the number of Bleeding creatures within the Area.
+> - - -
+> ***Bloody Effect***
+> If you are [[Bloodied]] when you cast this spell, the Area of this spell increases to a 20-foot Burst, and the die size of the Bleeding inflicted becomes a d12.
+
 #### Somaphoresis
 ##### *Rank 0*
-> [!infobox|left]+ Relieve Malediction
+> [!info|n-th no-i]+ Relieve Malediction
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -108,7 +125,7 @@
 > ###### *Details*
 > You relieve the target of an ailment or malediction. Pick one ally within range. You must then make a Medicine check. On a success, you end one detrimental condition afflicting that ally. On a failure, that ally immediately takes damage from the condition, if applicable, and on a critical failure, one of their conditions persists for another minute (chosen at random.)
 
-> [!infobox|left]+ Patch-Up
+> [!info|n-th no-i]+ Patch-Up
 > ###### Spell Information
 |          |                 |
 |:--------:|:---------------:|
@@ -120,7 +137,7 @@
 > ###### *Details*
 > You release a weak wave of healing around you. All allies within the Area regain `dice:1d4` Health.
 ##### *Rank 1*
-> [!infobox|left]+ Predator Sight
+> [!info|n-th no-i]+ Predator Sight
 > ###### Spell Information
 |          |                          |
 |:--------:|:------------------------:|
@@ -132,7 +149,7 @@
 > ###### *Details*
 > For the next 10 minutes, you gain limited heatsight with a range of 60 feet. Heatsight is a special sense that allows you to see in a heat gradient, akin to heat-detecting optics. 
 ##### *Rank 2*
-> [!infobox|left]+ Reinforce Vitality
+> [!info|n-th no-i]+ Reinforce Vitality
 > ###### Spell Information
 |          |                                              |
 |:--------:|:--------------------------------------------:|
@@ -144,7 +161,7 @@
 > ###### *Details*
 > You release a wave of reinforcing energy, bolstering your allies' vitality. All allies within the Area gain 2d4+4 temporary Health and a +3 magical bonus to **Body** checks for as long as they have those temporary Health points.
 ##### *Rank 3*
-> [!infobox|left]+ Harm Wounds
+> [!info|n-th no-i]+ Harm Wounds
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -175,7 +192,7 @@
 > *Traits: [[Area\|Area (12-space Emanation)]]*
 > You harm all enemies within the Area for 2d4+4 **void** damage if they are below their maximum Health (if they are not, this spell has no effect) and heal yourself for the damage dealt.
 
-> [!infobox|left]+ Heal Wounds
+> [!info|n-th no-i]+ Heal Wounds
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -234,7 +251,7 @@
 > ###### *Details*
 > You construct a turret that, for the duration,  fires automatically once per turn at an enemy within 6 sp. It deals 2 **piercing** damage per shot (it does *not* roll to hit), has 5 Health, and Toughness 2. 
 
-> [!infobox|left]+ Cedrik's Mini-Many-Minefield
+> [!info|n-th no-i]+ Cedrik's Mini-Many-Minefield
 > ###### Spell Information
 |          |                                                  |
 |:--------:|:------------------------------------------------:|
@@ -246,7 +263,7 @@
 > ###### *Details*
 > You place multiple mini-mines around you. Mark 4 spaces within range.  For the duration, whenever a foe enters one of the marked spaces, they must make a **Reflex** check. On a failure, they take 2d6 **fire** damage and are pushed back one space. On a success, they take 2 **fire** damage and are not pushed back.
 
-> [!infobox|left]+ Conjure Simple Weaponry
+> [!info|n-th no-i]+ Conjure Simple Weaponry
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -258,7 +275,7 @@
 > ###### *Details*
 > You assemble scraps into a temporary weapon. Pick a Simple weapon. You create that weapon, which lasts for the duration, except you choose what damage type (it cannot be **true**) it deals and it gains the [[Magical]] trait. 
 ##### *Rank 2*
-> [!infobox|left]+ Conjure Martial Weaponry
+> [!info|n-th no-i]+ Conjure Martial Weaponry
 > ###### Spell Information
 |          |                                                        |
 |:--------:|:------------------------------------------------------:|
@@ -270,7 +287,7 @@
 > ###### *Details*
 > You assemble scraps into a temporary weapon. Pick a Martial weapon. You create that weapon, which lasts for the duration, except you choose what damage type it does (it cannot be **true**) and it gains the [[Magical]] trait.
 ##### *Rank 3*
-> [!infobox|left]+ Conjure Advanced Weaponry 
+> [!info|n-th no-i]+ Conjure Advanced Weaponry 
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -283,7 +300,7 @@
 > You assemble scraps into a temporary weapon. Pick an Advanced weapon. You create that weapon, which lasts for the duration, except you choose what damage type (it cannot be **true**) it does and it gains the [[Magical]] trait. 
 #### Resonancia
 ##### *Rank 1*
-> [!infobox|left]+ Metal Summoning Resonance
+> [!info|n-th no-i]+ Metal Summoning Resonance
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -296,7 +313,7 @@
 > ***Limit:*** *You can only cast this spell if the Escalation die is a d8 or higher.*
 > You engage the magical connection between your Resonator, Catalyst and Grimoire in order to open a *Slip-bridge* to the USH slip-space hangar that stores your Metal. You then teleport into the Metal. 
 ##### *Rank 3*
-> [!infobox|left]+ Simple Metal Combination Resonance
+> [!info|n-th no-i]+ Simple Metal Combination Resonance
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|

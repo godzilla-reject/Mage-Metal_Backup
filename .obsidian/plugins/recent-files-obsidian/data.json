@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Spell List",
       "path": "Reference Notes/Spell List.md"
     },
     {
+      "basename": "Melanie's Wail of Blood",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md"
+    },
+    {
+      "basename": "Spell List-Hemaphoresis",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md"
+    },
+    {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Melanie's Shared Suffering",
@@ -23,14 +31,6 @@
     {
       "basename": "Hemaspike",
       "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
-    },
-    {
-      "basename": "Melanie's Wail of Blood",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md"
-    },
-    {
-      "basename": "Spell List-Hemaphoresis",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md"
     },
     {
       "basename": "Heal Wounds",
