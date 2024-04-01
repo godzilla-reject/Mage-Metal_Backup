@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "555ce77c2874429d",
+        "id": "5f0062f3d1458acf",
         "type": "tabs",
         "children": [
           {
-            "id": "f13a8d2c8be8cee0",
+            "id": "b6f9dfbd32d9e77a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -1.1077049764716203
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -234,7 +234,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "f13a8d2c8be8cee0",
+  "active": "b6f9dfbd32d9e77a",
   "lastOpenFiles": [
     "Character Creation Playtest 1 Packet.md",
     "Utilities/Dashboard.canvas",
@@ -267,4 +267,6 @@
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
-    "Character Creation Playtest 1 P
+    "Character Creation Playtest 1 Packet.tex"
+  ]
+}
