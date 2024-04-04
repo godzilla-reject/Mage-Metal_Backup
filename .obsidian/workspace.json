@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "c54af087acac8c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "226f39ba29cf2a6d",
             "type": "leaf",
             "state": {
@@ -86,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "1fe04214a4a0e252",
@@ -191,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -356,14 +344,15 @@
   },
   "active": "226f39ba29cf2a6d",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/Gauntlet.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
     "General Rules/Traits Catalog/General/Area.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
     "General Rules/Traits Catalog/Weapon-Only/Range.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/Gauntlet.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/''Pepperboxer'' Harrying Micro-Cannons.md",
     "Utilities/Dashboard.canvas",
@@ -383,7 +372,6 @@
     "Reference Notes/Spell List.md",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md",
     "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md",
-    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md",
     "Character Creation Playtest 1 Packet.docx",
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
