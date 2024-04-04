@@ -4,37 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5f0062f3d1458acf",
+        "id": "0d31d2e8210db41c",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f9dfbd32d9e77a",
+            "id": "f3b618364fd3f25d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "646af923e80c0c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Spell List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Spell List.md",
+                "file": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Spell List.md",
+                "file": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Spell List.md"
+                "file": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md"
               }
             }
           },
@@ -218,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,10 +235,17 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "646af923e80c0c73",
+  "active": "f3b618364fd3f25d",
   "lastOpenFiles": [
-    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md",
+    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Metallomancy.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Hydrophasia.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Electromancy.md",
+    "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md",
     "Reference Notes/Spell List.md",
+    "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md",
     "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md",
     "Character Creation Playtest 1 Packet.md",
     "Utilities/Dashboard.canvas",
@@ -270,12 +264,6 @@
     "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md",
     "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md",
     "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Cedrik's Mini-Many-Minefield.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md",
-    "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md",
     "Character Creation Playtest 1 Packet.docx",
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",

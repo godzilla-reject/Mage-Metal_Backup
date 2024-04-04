@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Spell List-Aerophasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Aerophasia.md"
+    },
+    {
+      "basename": "Spell List-Terraphasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md"
+    },
+    {
+      "basename": "Arcane Sphere-Elemancy",
+      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md"
+    },
+    {
+      "basename": "Spell List-Pyrophasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md"
+    },
+    {
+      "basename": "Spell List-Metallomancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Metallomancy.md"
+    },
+    {
+      "basename": "Spell List-Hydrophasia",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Hydrophasia.md"
+    },
+    {
+      "basename": "Spell List-Electromancy",
+      "path": "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Electromancy.md"
+    },
+    {
       "basename": "Spell List",
       "path": "Reference Notes/Spell List.md"
     },
@@ -113,10 +141,6 @@
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
     },
     {
-      "basename": "Arcane Sphere-Elemancy",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md"
-    },
-    {
       "basename": "Dice Overview",
       "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "HF-002",
       "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-002.md"
-    },
-    {
-      "basename": "HF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Heavy/HF-001.md"
-    },
-    {
-      "basename": "BF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-002.md"
-    },
-    {
-      "basename": "BF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Balanced/BF-001.md"
-    },
-    {
-      "basename": "LF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-002.md"
-    },
-    {
-      "basename": "LF-001",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Light/LF-001.md"
-    },
-    {
-      "basename": "ULF-002",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/1. Metal Frames/Ultralight/ULF-002.md"
     }
   ],
   "omittedPaths": [],
