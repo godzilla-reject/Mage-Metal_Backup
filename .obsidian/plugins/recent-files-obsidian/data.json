@@ -5,16 +5,20 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md"
     },
     {
+      "basename": "Metal Weapon Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+    },
+    {
+      "basename": "High-Powered",
+      "path": "General Rules/Traits Catalog/Weapon-Only/High-Powered.md"
+    },
+    {
       "basename": "Gauntlet",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/Gauntlet.md"
     },
     {
       "basename": "Flusterdome",
       "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
-    },
-    {
-      "basename": "Metal Weapon Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
     },
     {
       "basename": "Equipment Overview",
@@ -195,10 +199,6 @@
     {
       "basename": "Arcane Sphere-Artifacteomancy",
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
-    },
-    {
-      "basename": "Dice Overview",
-      "path": "General Rules/The Favor System/Dice Structure/Dice Overview.md"
     }
   ],
   "omittedPaths": [],

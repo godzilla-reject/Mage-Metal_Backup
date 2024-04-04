@@ -40,7 +40,7 @@ Completed: false
 >>|                 |     |
 >>|:---------------:|:---:|
 >>|   **Damage**    | 1d6 crushing   |
->>|   **Traits**    |[[Anti-Ablative]]^, [[Repeating\|Repeating 2]]^, [[Scatter\|Scatter 1d4]]^, [[Area\|Area (24-space Burst)]]^|
+>>|   **Traits**    |[[Anti-Ablative]]^, [[Forceful]]^, [[Repeating\|Repeating 2]]^, [[Scatter\|Scatter 1d4]]^, [[Area\|Area (24-space Burst)]]^|
 >>
 >
 >>[!infobox|left s-t no-i]- Blue Mana-Fire Bombs
