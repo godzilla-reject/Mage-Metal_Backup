@@ -1175,19 +1175,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 46,
+      "wordCount": 44,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.15333333333333332,
-      "characterCount": 631,
-      "nonWhitespaceCharacterCount": 569,
-      "readingTimeInMinutes": 0.17358490566037735,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 612,
+      "nonWhitespaceCharacterCount": 552,
+      "readingTimeInMinutes": 0.1660377358490566,
       "linkCount": 0,
       "embedCount": 10,
       "aliases": null,
       "createdDate": 1710293621336,
-      "modifiedDate": 1710297235253,
-      "sizeInBytes": 631
+      "modifiedDate": 1712203542136,
+      "sizeInBytes": 612
     },
     "Reference Notes/Appendices/Equipment Appendix.md": {
       "isCountable": true,
@@ -4125,24 +4125,6 @@
       "modifiedDate": 1710296886179,
       "sizeInBytes": 2296
     },
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Placeholder Melee Secondary.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 24,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 690,
-      "nonWhitespaceCharacterCount": 380,
-      "readingTimeInMinutes": 0.09056603773584905,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704752302964,
-      "modifiedDate": 1704752371142,
-      "sizeInBytes": 844
-    },
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4194,7 +4176,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1703631290374,
-      "modifiedDate": 1704752171419,
+      "modifiedDate": 1712203658398,
       "sizeInBytes": 2326
     },
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/Standard-Issue 120mm 'Sizzleslinger' Assault Carbine.md": {
@@ -4273,19 +4255,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 139,
+      "wordCount": 135,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4633333333333333,
-      "characterCount": 1808,
-      "nonWhitespaceCharacterCount": 1236,
-      "readingTimeInMinutes": 0.5245283018867924,
-      "linkCount": 2,
+      "pageCount": 0.45,
+      "characterCount": 1911,
+      "nonWhitespaceCharacterCount": 1363,
+      "readingTimeInMinutes": 0.5094339622641509,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704751416237,
-      "modifiedDate": 1712203085908,
-      "sizeInBytes": 1982
+      "modifiedDate": 1712204428441,
+      "sizeInBytes": 2087
     },
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/''Pepperboxer'' Harrying Micro-Cannons.md": {
       "isCountable": true,
@@ -8516,6 +8498,24 @@
       "createdDate": 1702408939051,
       "modifiedDate": 1702409388555,
       "sizeInBytes": 360
+    },
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/Gauntlet.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 797,
+      "nonWhitespaceCharacterCount": 470,
+      "readingTimeInMinutes": 0.15471698113207547,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704752302964,
+      "modifiedDate": 1712203637556,
+      "sizeInBytes": 952
     }
   }
 }

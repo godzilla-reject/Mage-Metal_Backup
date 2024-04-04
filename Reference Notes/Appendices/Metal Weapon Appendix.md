@@ -16,7 +16,7 @@
 ###### **Aux**
 ![[Standard-Issue LAES Knife]]
 ###### **Secondary**
-![[Placeholder Melee Secondary]]
+![[Gauntlet]]
 ###### **Primary**
 ![[Carbon-Alloy Arcane Projection Axe]]
 ###### **Heavy***

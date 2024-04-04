@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+      "basename": "Metal Weapon Design Reference",
+      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+    },
+    {
+      "basename": "Equipment Overview",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
+    },
+    {
+      "basename": "Area",
+      "path": "General Rules/Traits Catalog/General/Area.md"
     },
     {
       "basename": "Omni-Ammo Multi-Launcher",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md"
     },
     {
-      "basename": "Placeholder Melee Secondary",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Placeholder Melee Secondary.md"
+      "basename": "Range",
+      "path": "General Rules/Traits Catalog/Weapon-Only/Range.md"
+    },
+    {
+      "basename": "A.J.A.X. Gun",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
+    },
+    {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+    },
+    {
+      "basename": "Gauntlet",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/Gauntlet.md"
     },
     {
       "basename": "''Pepperboxer'' Harrying Micro-Cannons",
@@ -27,10 +47,6 @@
     {
       "basename": "''Converter'' Blade-Barricade CQC System",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
-    },
-    {
-      "basename": "Metal Weapon Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
     },
     {
       "basename": "Metal Attributes and Statistics",
@@ -183,22 +199,6 @@
     {
       "basename": "Skill List",
       "path": "Reference Notes/Skill List.md"
-    },
-    {
-      "basename": "Actions Overview",
-      "path": "General Rules/The Favor System/Action Structure/Actions Overview.md"
-    },
-    {
-      "basename": "Core Note",
-      "path": "Reference Notes/Core Note.md"
-    },
-    {
-      "basename": "STSC-001 ''Infinite Hydrangea''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Support/STSC-001 ''Infinite Hydrangea''.md"
-    },
-    {
-      "basename": "DTSC-001 ''Steelclad Mamba''",
-      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Defensive/DTSC-001 ''Steelclad Mamba''.md"
     }
   ],
   "omittedPaths": [],

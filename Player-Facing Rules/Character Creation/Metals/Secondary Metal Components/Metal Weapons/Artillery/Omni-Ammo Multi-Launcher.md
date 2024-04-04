@@ -21,14 +21,20 @@ Completed: false
 |  **Weapon Group**   |             `=this.Group`              |
 |      **Mount**      |             `=this.Mount`              |
 |   **Handed-ness**   |          `=this.Handed-ness`           |
-|     **Damage**      | `=this.Damage_Die` `=this.Damage_Type` |
-|     **Traits**      |      [[Ordnance]], [[Integrated]],                                  |
+|     **Damage**      | `=this.Damage_Die`^ `=this.Damage_Type`^ |
+|     **Traits**      |      [[Ordnance]], [[Integrated]],  [[Repeating\|Repeating 1]], [[Loading\|Loading 3]], [[Range\|Range 12 sp.]], [[Volley\|Volley 1]], [[Armor-Piercing\|Armor-Piercing 8]]^  |
 > ###### *Description*
+> 
+> *Attributes denoted with a ^ are ammo-type exclusive*
+> 
 > The Omni-Ammo Multi-Launcher is a massive, twin-barreled ordnance platform designed to utilize a wide array of ammo types to provide a combat solution in any conflict. 
 > 
-> Offered ammo types include recursive cluster shells for wide-area denial, lingering manafire bombs for hazard creation and  high altitude, armor-piercing, crater-maker rounds. 
+> Offered ammo types include recursive cluster-shells for wide-area denial, lingering mana-fire bombs for hazard creation and  high altitude, armor-piercing, crater-maker rounds. 
 > 
->>[!infobox|left s-t no-i]- Recursive Clustershell Bombs
+> The weapon’s standard profile is direct-fire payload that delivers high single-target damage via incredible armor-piercing.
+> 
+> 
+>>[!infobox|left s-t no-i]- Recursive Cluster-Shell Bombs
 >>
 >>|                 |     |
 >>|:---------------:|:---:|
@@ -36,7 +42,7 @@ Completed: false
 >>|   **Traits**    | |
 >>
 >
->>[!infobox|left s-t no-i]- Blue Manafire Bombs
+>>[!infobox|left s-t no-i]- Blue Mana-Fire Bombs
 >> 
 >>|                 |     |
 >>|:---------------:|:---:|
@@ -49,4 +55,4 @@ Completed: false
 >>|:---------------:|:---:|
 >>|   **Damage**    | 1d8 cutting    |
 >>|   **Traits**    |  |
->> ***Exceed*** Whenever you Exceed an attack with this weapon, increase its damage die by one step and change its damage type to **Fire**. Such attacks do not cause you to mark Heat in order to Overkill. 
+>>

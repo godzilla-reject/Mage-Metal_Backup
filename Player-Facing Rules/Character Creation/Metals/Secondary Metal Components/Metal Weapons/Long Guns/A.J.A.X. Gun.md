@@ -8,7 +8,7 @@ Group: Long Guns
 Handed-ness: 2
 Mount: Heavy
 Damage_Type: piercing
-Damage_Die: 1d12
+Damage_Die: 1d10
 Completed: true
 ---
 > [!infobox|left]+ Weapon Entry

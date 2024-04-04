@@ -4,8 +4,8 @@ Tags:
   - Metal
   - Weapon
 Category: Simple
-Group: Unsorted
-Handed-ness: 
+Group: Brawling
+Handed-ness: 0
 Mount: Secondary
 Damage_Type: 
 Damage_Die: 
@@ -22,5 +22,6 @@ Completed: false
 |      **Mount**      |             `=this.Mount`              |
 |   **Handed-ness**   |          `=this.Handed-ness`           |
 |     **Damage**      | `=this.Damage_Die` `=this.Damage_Type` |
-|     **Traits**      |                                        |
+|     **Traits**      |   [[Integrated]]                                     |
 > ###### *Description*
+> *A simple set of gauntlets that can swap between all three physical damage types at will.*
