@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Metal Weaponry Database",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
     },
@@ -13,16 +9,32 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md"
     },
     {
+      "basename": "''Converter'' Blade-Barricade CQC System",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
+    },
+    {
+      "basename": "Exceed",
+      "path": "General Rules/Traits Catalog/Exceed.md"
+    },
+    {
       "basename": "Metal Weapon Design Reference",
       "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
     },
     {
-      "basename": "High-Powered",
-      "path": "General Rules/Traits Catalog/Weapon-Only/High-Powered.md"
-    },
-    {
       "basename": "Gauntlet",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/Gauntlet.md"
+    },
+    {
+      "basename": "''Pepperboxer'' Harrying Micro-Cannons",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/''Pepperboxer'' Harrying Micro-Cannons.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "High-Powered",
+      "path": "General Rules/Traits Catalog/Weapon-Only/High-Powered.md"
     },
     {
       "basename": "Flusterdome",
@@ -45,16 +57,8 @@
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
     },
     {
-      "basename": "''Pepperboxer'' Harrying Micro-Cannons",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/''Pepperboxer'' Harrying Micro-Cannons.md"
-    },
-    {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
-    },
-    {
-      "basename": "''Converter'' Blade-Barricade CQC System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
     },
     {
       "basename": "Metal Attributes and Statistics",
@@ -195,10 +199,6 @@
     {
       "basename": "Arcane Sphere-Technomynism",
       "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
-    },
-    {
-      "basename": "Arcane Sphere-Artifacteomancy",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Artifacteomancy.md"
     }
   ],
   "omittedPaths": [],

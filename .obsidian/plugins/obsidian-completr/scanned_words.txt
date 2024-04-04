@@ -1193,6 +1193,7 @@ cosmically
 ca
 combined
 crater
+clusters
 before
 being
 be
@@ -2257,6 +2258,7 @@ seem
 strict
 surname
 schema
+spontaneously
 LANCER
 Learn
 Lancer
@@ -2531,6 +2533,7 @@ offspring
 originating
 opening
 ordnance
+overlap
 designer
 drag
 do
@@ -2765,6 +2768,7 @@ drums
 denial
 delivers
 destructive
+duplicate
 ever
 expand
 easy
@@ -2957,6 +2961,7 @@ en
 expectations
 evolve
 eladryn
+extinguish
 played
 pilot
 play
@@ -3223,6 +3228,7 @@ peoples
 parent
 preference
 pretty
+proto
 RP
 RPGs
 Ryutama
@@ -3945,6 +3951,7 @@ Adore
 Apostels
 Au
 ATSC
+Areas
 metal
 magic
 mechanics
@@ -4294,6 +4301,7 @@ unusual
 unconquerable
 unite
 unneeded
+unstable
 letting
 look
 like
