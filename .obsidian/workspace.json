@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md"
               }
             }
           },
@@ -354,8 +354,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8cb2d368b0515149",
+  "active": "226f39ba29cf2a6d",
   "lastOpenFiles": [
+    "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md",
     "General Rules/Traits Catalog/General/Area.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
@@ -368,7 +369,6 @@
     "Utilities/Dashboard.canvas",
     "Character Creation Playtest 1 Packet.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
-    "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
     "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md",

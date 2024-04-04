@@ -22,7 +22,7 @@ Completed: false
 |      **Mount**      |             `=this.Mount`              |
 |   **Handed-ness**   |          `=this.Handed-ness`           |
 |     **Damage**      | `=this.Damage_Die`^ `=this.Damage_Type`^ |
-|     **Traits**      |      [[Ordnance]], [[Integrated]],  [[Repeating\|Repeating 1]], [[Loading\|Loading 3]], [[Range\|Range 12 sp.]], [[Volley\|Volley 1]], [[Armor-Piercing\|Armor-Piercing 8]]^  |
+|     **Traits**      |      [[Ordnance]], [[Integrated]],  [[Repeating\|Repeating 1]]^, [[Loading\|Loading 3]], [[Range\|Range 12 sp.]], [[Volley\|Volley 1]], [[Armor-Piercing\|Armor-Piercing 8]]^  |
 > ###### *Description*
 > 
 > *Attributes denoted with a ^ are ammo-type exclusive*
