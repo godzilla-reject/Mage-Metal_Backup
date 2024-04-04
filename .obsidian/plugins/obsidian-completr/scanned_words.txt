@@ -183,6 +183,8 @@ Mini
 Minefield
 Malediction
 Melanie
+Manafire
+Maker
 in
 inspiration
 it
@@ -1189,6 +1191,7 @@ concise
 cosmically
 ca
 combined
+crater
 before
 being
 be
@@ -1372,6 +1375,7 @@ barbaric
 bond
 burdens
 barreled
+bombs
 not
 never
 no
@@ -1695,6 +1699,7 @@ af
 ailment
 afflicting
 applicable
+altitude
 wear
 with
 war
@@ -2756,6 +2761,7 @@ drives
 dd
 de
 drums
+denial
 ever
 expand
 easy
@@ -3341,6 +3347,7 @@ Rapscallion
 Relentless
 Robust
 Relieve
+Recursive
 high
 heavily
 hopes
@@ -3465,6 +3472,7 @@ harbors
 happens
 helix
 happen
+hazard
 refine
 robust
 required
@@ -3690,6 +3698,7 @@ reproducing
 reminder
 randomness
 relieve
+recursive
 Pathfinder
 PF
 Philosophy
@@ -4147,6 +4156,8 @@ mutable
 moral
 metals
 malediction
+manafire
+maker
 GURPS
 Google
 Greyhawk
@@ -4415,6 +4426,7 @@ lust
 limitless
 learning
 looking
+lingering
 Ease
 Excel
 Escalation
@@ -4680,6 +4692,8 @@ Coming
 Cedrik
 Conjure
 Cry
+Clustershell
+Crater
 We
 While
 Write
@@ -5429,6 +5443,7 @@ Oni
 Onslaught
 Oraci
 Overkill
+Offered
 Basics
 Beneficial
 Body
@@ -5512,6 +5527,8 @@ Bunker
 Buster
 Babble
 Burst
+Bombs
+Blue
 Varies
 Vast
 Void
