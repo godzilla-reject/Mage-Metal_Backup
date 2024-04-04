@@ -185,6 +185,7 @@ Malediction
 Melanie
 Manafire
 Maker
+Micro
 in
 inspiration
 it
@@ -1378,6 +1379,7 @@ bond
 burdens
 barreled
 bombs
+boxgun
 not
 never
 no
@@ -2259,6 +2261,7 @@ strict
 surname
 schema
 spontaneously
+square
 LANCER
 Learn
 Lancer

@@ -16,7 +16,7 @@
 ###### **Aux**
 ![[Standard-Issue LAES Knife]]
 ###### **Secondary**
-![[Gauntlet]]
+![[''Bee-Sting'' Reactive Combat Gauntlet]]
 ###### **Primary**
 ![[Carbon-Alloy Arcane Projection Axe]]
 ###### **Heavy***
