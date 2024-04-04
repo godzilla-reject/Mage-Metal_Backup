@@ -523,6 +523,7 @@ tragically
 tones
 tl
 tempo
+twin
 great
 game
 gaming
@@ -1370,6 +1371,7 @@ beasts
 barbaric
 bond
 burdens
+barreled
 not
 never
 no
@@ -2522,6 +2524,7 @@ openly
 offspring
 originating
 opening
+ordnance
 designer
 drag
 do

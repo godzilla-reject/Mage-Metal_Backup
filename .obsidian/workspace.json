@@ -6,7 +6,7 @@
       {
         "id": "a22ad072ba37e94d",
         "type": "tabs",
-        "dimension": 53.24468085106383,
+        "dimension": 55.23809523809524,
         "children": [
           {
             "id": "4e8a207246360491",
@@ -16,10 +16,23 @@
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -1.3376954107456789
+                  "x": -1239.4553881807649,
+                  "y": -1100.8806488991888,
+                  "zoom": -0.5517049204027176
                 }
+              }
+            }
+          },
+          {
+            "id": "824f5848f53a6577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation Playtest 1 Packet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -32,6 +45,45 @@
                 "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
               }
             }
+          },
+          {
+            "id": "226f39ba29cf2a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "179a9d77fe3e3269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/''Pepperboxer'' Harrying Micro-Cannons.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2f3e8daa216d3df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Placeholder Melee Secondary.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -39,7 +91,7 @@
       {
         "id": "1fe04214a4a0e252",
         "type": "tabs",
-        "dimension": 46.75531914893617,
+        "dimension": 44.761904761904766,
         "children": [
           {
             "id": "6ed251c764503070",
@@ -79,24 +131,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "bb69863da54a972c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f8d69cfcd79164e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -171,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+                "file": "Character Creation Playtest 1 Packet.md"
               }
             }
           },
@@ -318,12 +354,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "981f4eadc8bd2cb9",
+  "active": "824f5848f53a6577",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
+    "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
+    "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/''Pepperboxer'' Harrying Micro-Cannons.md",
+    "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Placeholder Melee Secondary.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md",
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Pyrophasia.md",
@@ -339,14 +382,6 @@
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md",
     "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator Sight.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Patch-Up.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Relieve Malediction.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md",
-    "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",
-    "Player-Facing Rules/Spells/Spells Database/Resonancia/Simple Metal Combination Resonance.md",
     "Character Creation Playtest 1 Packet.docx",
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
