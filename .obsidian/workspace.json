@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0d31d2e8210db41c",
+        "id": "a22ad072ba37e94d",
         "type": "tabs",
+        "dimension": 53.24468085106383,
         "children": [
           {
-            "id": "f3b618364fd3f25d",
+            "id": "4e8a207246360491",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,9 +18,82 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.42840472301667265
+                  "zoom": -1.3376954107456789
                 }
               }
+            }
+          },
+          {
+            "id": "981f4eadc8bd2cb9",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1fe04214a4a0e252",
+        "type": "tabs",
+        "dimension": 46.75531914893617,
+        "children": [
+          {
+            "id": "6ed251c764503070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b2b83871143a406c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8cb2d368b0515149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bb69863da54a972c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8d69cfcd79164e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -51,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Weapon tag:#Metal  ",
+                "query": "tag:##todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
+    "width": 304.5,
     "collapsed": true
   },
   "right": {
@@ -97,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
               }
             }
           },
@@ -154,6 +228,14 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d5e9e67247021af",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
               "state": {}
             }
           },
@@ -194,7 +276,7 @@
             }
           },
           {
-            "id": "72e0419003eefe2a",
+            "id": "8753d1336babb804",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -206,11 +288,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
+    "width": 262.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-memos:Thino": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -224,20 +309,20 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "homepage:Open homepage": false,
       "rpg-manager:RPG Manager": false,
-      "advanced-random-note:Open random note modal": false,
-      "chronology:Open Chronology": false,
-      "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false,
-      "media-extended:Open media": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-memos:Thino": false
+      "advanced-random-note:Open random note modal": false,
+      "chronology:Open Chronology": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f3b618364fd3f25d",
+  "active": "981f4eadc8bd2cb9",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weapon Concepts.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Species of the Universe/Species Database.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Spells/Spell School Registry/Elemancy/Spell List-Terraphasia.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Elemancy.md",
@@ -262,8 +347,6 @@
     "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md",
     "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md",
     "Player-Facing Rules/Spells/Spells Database/Resonancia/Simple Metal Combination Resonance.md",
-    "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md",
-    "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md",
     "Character Creation Playtest 1 Packet.docx",
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
