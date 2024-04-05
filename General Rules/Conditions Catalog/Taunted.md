@@ -11,4 +11,4 @@ Completed: true
 > 
 > A taunted creature is provoked into attacking its provocateur. The taunted creature makes its next X amount of attacks *against its taunter* with favor, but it makes that same amount of attacks without favor against any other target. 
 > 
-> Taunting is additive as long all instances come from the same creature. 
+> Taunting is additive as long all instances come from the same source (*Combatants, equipment and activities are sources*). 

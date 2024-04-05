@@ -1,16 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "Diplomacy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Intimidation",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
+      "basename": "Deception",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
+    },
+    {
+      "basename": "Performance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md"
+    },
+    {
+      "basename": "Block",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
+      "basename": "Brawling",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
+    },
+    {
+      "basename": "Pain-Tolerance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md"
+    },
+    {
+      "basename": "Prowess",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md"
+    },
+    {
+      "basename": "Politologist",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md"
+    },
+    {
+      "basename": "Taunted",
+      "path": "General Rules/Conditions Catalog/Taunted.md"
+    },
+    {
+      "basename": "Swift",
+      "path": "General Rules/Traits Catalog/General/Swift.md"
+    },
+    {
+      "basename": "Somatic",
+      "path": "General Rules/Traits Catalog/General/Somatic.md"
+    },
+    {
+      "basename": "Usage",
+      "path": "General Rules/Traits Catalog/Meta/Usage.md"
+    },
+    {
+      "basename": "Character Creation Playtest 1 Packet",
+      "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "New Workflow Canvas",
+      "path": "Utilities/Random Bullshit/New Workflow Canvas.canvas"
+    },
+    {
+      "basename": "Release Adventure Ideas",
+      "path": "Adventures/Release Adventure Ideas.md"
+    },
+    {
+      "basename": "Playtest Adventure",
+      "path": "Adventures/Playtest Adventure.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Metal Weaponry Database",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
-    },
-    {
       "basename": "''Bee-Sting'' Reactive Combat Gauntlet",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/''Bee-Sting'' Reactive Combat Gauntlet.md"
+    },
+    {
+      "basename": "Metal Weaponry Database",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md"
     },
     {
       "basename": "Metal Weapon Design Reference",
@@ -55,10 +135,6 @@
     {
       "basename": "A.J.A.X. Gun",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
-    },
-    {
-      "basename": "Character Creation Playtest 1 Packet",
-      "path": "Character Creation Playtest 1 Packet.md"
     },
     {
       "basename": "Metal Attributes and Statistics",
@@ -123,82 +199,6 @@
     {
       "basename": "Hemaspike",
       "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
-    },
-    {
-      "basename": "Heal Wounds",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
-    },
-    {
-      "basename": "Harm Wounds",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Harm Wounds.md"
-    },
-    {
-      "basename": "Reinforce Vitality",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Reinforce Vitality.md"
-    },
-    {
-      "basename": "Predator Sight",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Predator Sight.md"
-    },
-    {
-      "basename": "Patch-Up",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Patch-Up.md"
-    },
-    {
-      "basename": "Relieve Malediction",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Relieve Malediction.md"
-    },
-    {
-      "basename": "Spell List-Somaphoresis",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Somaphoresis.md"
-    },
-    {
-      "basename": "Arcane Sphere-Humaana",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Humaana.md"
-    },
-    {
-      "basename": "Simple Metal Combination Resonance",
-      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Simple Metal Combination Resonance.md"
-    },
-    {
-      "basename": "Metal Summoning Resonance",
-      "path": "Player-Facing Rules/Spells/Spells Database/Resonancia/Metal Summoning Resonance.md"
-    },
-    {
-      "basename": "Spell List-Resonancia",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Resonancia.md"
-    },
-    {
-      "basename": "Conjure Advanced Weaponry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Advanced Weaponry.md"
-    },
-    {
-      "basename": "Conjure Martial Weaponry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Martial Weaponry.md"
-    },
-    {
-      "basename": "Conjure Simple Weaponry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Conjure Simple Weaponry.md"
-    },
-    {
-      "basename": "Cedrik's Mini-Many-Minefield",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Cedrik's Mini-Many-Minefield.md"
-    },
-    {
-      "basename": "Auto-Shot Turret",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Auto-Shot Turret.md"
-    },
-    {
-      "basename": "Techno-Babble",
-      "path": "Player-Facing Rules/Spells/Spells Database/Technosophy/Techno-Babble.md"
-    },
-    {
-      "basename": "Spell List-Technosophy",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Technomynism/Spell List-Technosophy.md"
-    },
-    {
-      "basename": "Arcane Sphere-Technomynism",
-      "path": "Player-Facing Rules/Spells/Arcane Spheres Ledger/Arcane Sphere-Technomynism.md"
     }
   ],
   "omittedPaths": [],

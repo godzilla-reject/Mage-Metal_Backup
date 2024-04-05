@@ -1,4 +1,5 @@
 {
+  "FirstLoaded": false,
   "StartDate": "Sunday",
   "InsertAfter": "# Journal",
   "UserName": "THINO 😉",
@@ -93,10 +94,14 @@
   "MomentsIcon": "https://images.pexels.com/photos/256514/pexels-photo-256514.jpeg",
   "MomentsQuote": "Share your thino with the world",
   "DefaultThemeForThino": "classic",
-  "LastUpdatedVersion": "2.3.60",
+  "LastUpdatedVersion": "2.3.61",
   "ShareToThinoWithText": false,
   "ShareToThinoWithTextAppend": "",
   "ShareToThinoWithTextPrepend": "",
   "ShareToThinoWithTextNewline": "none",
-  "hidePinnedGroup": false
+  "hidePinnedGroup": false,
+  "DifferentInsertTarget": false,
+  "InsertAfterForTask": "",
+  "ProcessContentTarget": "custom",
+  "InsertType": "custom"
 }

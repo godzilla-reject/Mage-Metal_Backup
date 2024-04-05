@@ -60,6 +60,12 @@ Impersonation
 Ikla
 Intuitive
 Influencer
+Is
+Inquirer
+Immunities
+Inspire
+Inspiration
+Inspiring
 Mage
 Metal
 Mecha
@@ -186,6 +192,8 @@ Melanie
 Manafire
 Maker
 Micro
+Manaforming
+Machinations
 in
 inspiration
 it
@@ -330,6 +338,9 @@ ideals
 intermarry
 initiating
 incredible
+instrument
+impression
+impressed
 the
 takes
 titans
@@ -528,6 +539,13 @@ tones
 tl
 tempo
 twin
+thinoType
+talents
+tongues
+teach
+transpiring
+teeth
+terrible
 great
 game
 gaming
@@ -626,6 +644,8 @@ guess
 gave
 gnomes
 grew
+gunnery
+gauntlet
 from
 first
 freeform
@@ -827,6 +847,10 @@ finish
 friendships
 fighting
 fd
+fa
+folder
+fruition
+flubbed
 came
 combines
 combat
@@ -1195,6 +1219,10 @@ ca
 combined
 crater
 clusters
+createdAt
+cea
+cd
+choke
 before
 being
 be
@@ -1380,6 +1408,7 @@ burdens
 barreled
 bombs
 boxgun
+brief
 not
 never
 no
@@ -1440,6 +1469,7 @@ nitty
 nailed
 negative
 natiuh
+note
 afraid
 and
 aesthetic
@@ -1704,6 +1734,11 @@ ailment
 afflicting
 applicable
 altitude
+ab
+approved
+audience
+appreciate
+assault
 wear
 with
 war
@@ -1818,6 +1853,9 @@ warrior
 wild
 widely
 waged
+whiff
+warping
+whatever
 sleeve
 some
 something
@@ -2262,6 +2300,17 @@ surname
 schema
 spontaneously
 square
+shapes
+staging
+spin
+stopping
+singing
+songs
+stakes
+standards
+solo
+spending
+steals
 LANCER
 Learn
 Lancer
@@ -2320,6 +2369,8 @@ LLC
 Lanza
 Lifebringer
 LF
+Liar
+Leader
 The
 Tenets
 This
@@ -2445,6 +2496,7 @@ Totec
 Tactics
 Techno
 Turret
+Triumphant
 oriented
 of
 on
@@ -2537,6 +2589,8 @@ originating
 opening
 ordnance
 overlap
+observers
+outright
 designer
 drag
 do
@@ -2772,6 +2826,17 @@ denial
 delivers
 destructive
 duplicate
+demand
+deletedAt
+dcc
+ddfc
+disclose
+disrupt
+dancing
+dance
+demonstrate
+demons
+desired
 ever
 expand
 easy
@@ -2965,6 +3030,9 @@ expectations
 evolve
 eladryn
 extinguish
+ee
+exotic
+emanation
 played
 pilot
 play
@@ -3232,6 +3300,11 @@ parent
 preference
 pretty
 proto
+pinned
+prove
+proceed
+performances
+pluck
 RP
 RPGs
 Ryutama
@@ -3360,6 +3433,8 @@ Relentless
 Robust
 Relieve
 Recursive
+Rounds
+Red
 high
 heavily
 hopes
@@ -3485,6 +3560,7 @@ happens
 helix
 happen
 hazard
+hasId
 refine
 robust
 required
@@ -3711,6 +3787,12 @@ reminder
 randomness
 relieve
 recursive
+rowStatus
+resourceList
+reviewed
+reveal
+rapid
+resurrected
 Pathfinder
 PF
 Philosophy
@@ -3832,6 +3914,11 @@ Project
 Papel
 Patch
 Predator
+Piece
+PUBLIC
+Performances
+Performance
+Pluck
 ABCs
 Apotheosis
 Accessibility
@@ -3955,6 +4042,7 @@ Apostels
 Au
 ATSC
 Areas
+Approved
 metal
 magic
 mechanics
@@ -4171,6 +4259,8 @@ metals
 malediction
 manafire
 maker
+moment
+machinations
 GURPS
 Google
 Greyhawk
@@ -4230,6 +4320,7 @@ Greetings
 Gunplay
 Grim
 God
+Gather
 utmost
 use
 up
@@ -4305,6 +4396,7 @@ unconquerable
 unite
 unneeded
 unstable
+updatedAt
 letting
 look
 like
@@ -4441,6 +4533,11 @@ limitless
 learning
 looking
 lingering
+liquimetal
+linkId
+lying
+lie
+lmao
 Ease
 Excel
 Escalation
@@ -4559,6 +4656,7 @@ Uses
 Using
 Units
 ULF
+Unveil
 Complexity
 Could
 Conflicted
@@ -4708,6 +4806,9 @@ Conjure
 Cry
 Clustershell
 Crater
+Contains
+Confabulating
+Competence
 We
 While
 Write
@@ -4775,6 +4876,8 @@ Wrench
 Wildheart
 Wounds
 Wail
+Weave
+Weaknesses
 keeping
 keep
 kek
@@ -4795,6 +4898,7 @@ kneecaps
 keyed
 killing
 kilter
+kata
 just
 jurisdiction
 justify
@@ -4940,6 +5044,8 @@ virulent
 variation
 violence
 varied
+visibility
+vocal
 Function
 Form
 Fleshed
@@ -5032,6 +5138,7 @@ Find
 Flaming
 Frontline
 Fortitude
+Frightened
 Dungeons
 Dragons
 Definitely
@@ -5139,6 +5246,11 @@ Deskie
 Devastating
 Dialog
 DTSC
+Designed
+Document
+Doublespeak
+Distracting
+Dis
 Steve
 Sheets
 Segway
@@ -5361,6 +5473,8 @@ Sequence
 Sight
 Shared
 Suffering
+String
+Strings
 Jackson
 Jack
 Juggernaut
@@ -5372,6 +5486,7 @@ Jan
 Jupiter
 Just
 Josh
+JOURNAL
 No
 Notes
 Not
@@ -5416,6 +5531,7 @@ Ncouti
 Nomad
 Noble
 Natureomancy
+NORMAL
 One
 Out
 Oblivion
@@ -5576,6 +5692,8 @@ Villains
 Vene
 Viewfinder
 Vangaurd
+Vulnerabilities
+Virtuoso
 You
 Your
 YAY
