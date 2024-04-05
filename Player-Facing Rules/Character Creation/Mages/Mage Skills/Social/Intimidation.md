@@ -3,7 +3,7 @@ Category: Social
 Attribute: Tenacity
 Tags:
   - Skills
-Completed: false
+Completed: true
 ---
 # Skill Description-`=this.file.name`
 You break others down through harsh words and threats, bending them to your will. Unlike more subtle methods, [[Intimidation]] is a metaphorical weapon, with little room for feelings or care. 
@@ -36,24 +36,20 @@ These actions can be performed without any training in `=this.file.name `; they 
 > 
 > On a success, the target is [[Frightened\|Frightened 1]]
 
-#### Trained Actions
-These actions can be performed by characters who are *Trained* in `=this.file.name`; they are not available to characters with lesser training.
-#### Expert Actions
-These actions can be performed by characters who are *Experts* in `=this.file.name`; they are not available to characters with lesser training.
 - - -
 # Perks
->> [!info|text-Center clear]+ Trained Perk: 
+>> [!info|text-Center clear]+ Trained Perk: Bully
 >> *When you become Trained in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
->> 
+>> Increase the value of all Frightened conditions you inflict by 1. 
 
 >> [!info|text-Center clear]+ Expertise Perk: Ward of Fear
 >> *When you become an Expert in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
->> The spells of those who are afraid of you are less effective. Until the end of combat, you gain Resistance to damage dealt by spells cast by combatants that you have succeeding in *Demoralizing*. 
+>> Those who are afraid of you are less effective. Until the end of combat, you gain Resistance to damage dealt by spells cast by combatants that you have succeeding in *Demoralizing*, and you take less damage from their attacks equal to their Frightened value.
 
 >> [!info|text-Center clear]+ Masterful Perk: Fear’s Howling Cry
 >> *When you become a Master in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
->> Your *Demoralize* becomes a free action with a trigger of “When you start your turn; or, when you roll initiative.” Additionally, it affects all enemies within its range, not just a single target. 
+>> Your *Demoralize* becomes a free action with a trigger of “When you successfully make a Melee weapon attack; or, when you roll initiative.” Additionally, it affects all enemies within its range, not just a single target. You can still use it as a normal action. 
 
->> [!info|text-Center clear]+ Legendary Perk: Death by Fear Itself
+>> [!info|text-Center clear]+ Legendary Perk: Fear, the Mindkiller
 >> *When you become a Legend in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
->> 
+>> Whenever you use *Demoralize*, any enemies who are immune to it and still Frightened must make a **Mind** check. On a failure, they increase their Frightened condition by 1 (or 2, on a critical failure (*this is not affected by Bully*).) If an enemy would become Frightened 10 or more, they die as their mind collapses under the weight of their fear. 

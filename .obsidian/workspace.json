@@ -19,38 +19,12 @@
             }
           },
           {
-            "id": "3c7153183549375f",
+            "id": "476082b0004b0e4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2b96b9f97905bfa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cb8dd0ffad18ebd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -58,20 +32,48 @@
             }
           },
           {
-            "id": "51a03afd008f98b2",
+            "id": "8b9d1bc39078d307",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d835843d96aa1a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "fd7ee0576ded0373",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -77.4306151959315,
+                  "y": -1073.8921484429275,
+                  "zoom": -0.827641746081756
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "194f7646a8e878ea",
@@ -171,8 +173,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -340,14 +341,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb8dd0ffad18ebd7",
+  "active": "fd7ee0576ded0373",
   "lastOpenFiles": [
+    "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
+    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
@@ -368,9 +372,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/''Pepperboxer'' Harrying Micro-Cannons.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
-    "General Rules/Traits Catalog/Exceed.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
     "Character Creation Playtest 1 Packet.docx",
     "Reference Notes/Appendices",

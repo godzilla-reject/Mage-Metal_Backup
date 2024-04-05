@@ -19,6 +19,7 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 #### Expert Actions
 These actions can be performed by characters who are *Experts* in `=this.file.name`; they are not available to characters with lesser training.
 - - -
+# Perks
 >> [!info|text-Center clear]+ Trained Perk: 
 >> *When you become Trained in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> 

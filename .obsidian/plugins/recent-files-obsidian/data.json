@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Crafting Rules",
+      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
+    },
+    {
+      "basename": "Artifice",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
+    },
+    {
+      "basename": "Mundocraft",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
       "basename": "Intimidation",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
     },
@@ -15,14 +39,6 @@
     {
       "basename": "Deception",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
     {
       "basename": "Block",
@@ -79,10 +95,6 @@
     {
       "basename": "Playtest Adventure",
       "path": "Adventures/Playtest Adventure.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "''Bee-Sting'' Reactive Combat Gauntlet",
@@ -187,18 +199,6 @@
     {
       "basename": "Spell List-Hemaphoresis",
       "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md"
-    },
-    {
-      "basename": "Melanie's Shared Suffering",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Shared Suffering.md"
-    },
-    {
-      "basename": "Blood Cry",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Blood Cry.md"
-    },
-    {
-      "basename": "Hemaspike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Hemaspike.md"
     }
   ],
   "omittedPaths": [],
