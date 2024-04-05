@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
       "basename": "Crafting Rules",
       "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Melanie's Wail of Blood",
       "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md"
-    },
-    {
-      "basename": "Spell List-Hemaphoresis",
-      "path": "Player-Facing Rules/Spells/Spell School Registry/Humaana/Spell List-Hemaphoresis.md"
     }
   ],
   "omittedPaths": [],
