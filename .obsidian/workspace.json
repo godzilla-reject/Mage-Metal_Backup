@@ -51,7 +51,7 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -64,14 +64,14 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "194f7646a8e878ea",
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
               }
             }
           },
@@ -340,13 +340,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "51a03afd008f98b2",
+  "active": "cb8dd0ffad18ebd7",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
@@ -354,7 +355,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
     "General Rules/Conditions Catalog/Taunted.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "General Rules/Traits Catalog/General/Swift.md",
     "General Rules/Traits Catalog/General/Somatic.md",
     "General Rules/Traits Catalog/Meta/Usage.md",

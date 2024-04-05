@@ -1,28 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Diplomacy",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
       "basename": "Intimidation",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md"
     },
     {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+      "basename": "Diplomacy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
+    },
+    {
+      "basename": "Performance",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md"
     },
     {
       "basename": "Deception",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md"
     },
     {
-      "basename": "Performance",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md"
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
     {
       "basename": "Block",
