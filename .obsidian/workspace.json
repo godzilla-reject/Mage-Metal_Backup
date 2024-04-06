@@ -6,116 +6,19 @@
       {
         "id": "18836c0fc00fc031",
         "type": "tabs",
-        "dimension": 66.01063829787233,
         "children": [
           {
             "id": "4f15183fedaf07ac",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-              }
-            }
-          },
-          {
-            "id": "476082b0004b0e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8b9d1bc39078d307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d835843d96aa1a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fd7ee0576ded0373",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -448.36003254514844,
-                  "y": -882.2157031141455,
-                  "zoom": -0.827641746081756
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "194f7646a8e878ea",
-        "type": "tabs",
-        "dimension": 33.98936170212766,
-        "children": [
-          {
-            "id": "052f23266c35aaa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3a237aa9a6158347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/General Lists/Trait List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ced9f7326f214cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/General Lists/Conditions List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
               }
             }
           }
@@ -194,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
               }
             }
           },
@@ -307,12 +210,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,7 +243,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fd7ee0576ded0373",
+  "active": "4f15183fedaf07ac",
   "lastOpenFiles": [
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",

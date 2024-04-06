@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Skill Template",
       "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "Intimidation",
