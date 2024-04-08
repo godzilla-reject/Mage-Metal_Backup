@@ -5,12 +5,12 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
       "basename": "To-Do List",
       "path": "Utilities/Dashboard Notes/To-Do List.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "Trait List",
