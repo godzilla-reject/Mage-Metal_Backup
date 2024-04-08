@@ -32,5 +32,11 @@
   "obsidian-leaflet-plugin",
   "media-extended",
   "obsidian-meta-bind-plugin",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "numerals",
+  "novel-word-count",
+  "obsidian-tabs",
+  "list-style",
+  "obsidian-pandoc",
+  "pane-relief"
 ]
