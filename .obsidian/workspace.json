@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d9a9113e558a849",
+        "id": "18836c0fc00fc031",
         "type": "tabs",
         "children": [
           {
-            "id": "4fa1ad7ea9a2d09b",
+            "id": "4f15183fedaf07ac",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,72 +16,13 @@
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
                   "x": -530,
-                  "y": -1009.9999999999999,
-                  "zoom": -1.4284047230166728
+                  "y": -1010,
+                  "zoom": -1.2068895866211458
                 }
-              }
-            }
-          },
-          {
-            "id": "dc2b2766d7ae65cb",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Metal Systems Database.md"
               }
             }
           }
         ]
-      },
-      {
-        "id": "6126b5a60c6f2225",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2d8b0f3c7727b8d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Design References/Metal References/Metal System Design Reference.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a4e8f4a498c89295",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "de447b7c106ad840",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa31938a1c73e228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Markdown Templates/Metal Templates/Metal System Template.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,15 +210,15 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
@@ -298,12 +239,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4fa1ad7ea9a2d09b",
+  "active": "4f15183fedaf07ac",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Templates/Markdown Templates/Mage Templates/Spell Template.md",
     "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
     "Utilities/Lists/General Lists/Trait List.md",
