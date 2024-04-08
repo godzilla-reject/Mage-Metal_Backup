@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Crafting Rules",
+      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
+    },
+    {
+      "basename": "Mundocraft",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -29,14 +45,6 @@
       "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
-    },
-    {
       "basename": "Utility Notes",
       "path": "Utilities/Dashboard Notes/Utility Notes.md"
     },
@@ -57,16 +65,8 @@
       "path": "Utilities/empty files.md"
     },
     {
-      "basename": "Crafting Rules",
-      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
-    },
-    {
       "basename": "Artifice",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
-    },
-    {
-      "basename": "Mundocraft",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
     },
     {
       "basename": "Skill Template",
