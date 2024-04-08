@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c5e3d2193ad2b39",
+            "id": "bb408ff5546c1d6f",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -236,11 +236,14 @@
       "dbfolder:Create a new database table": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "homepage:Open homepage": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "7c5e3d2193ad2b39",
+  "active": "bb408ff5546c1d6f",
   "lastOpenFiles": [
+    "GM-Facing Rules/Running The Game/Overviews/Traits Overview.md",
     "Utilities/Dashboard.canvas",
     "Utilities/Lists/General Lists/Trait List.md",
     "General Rules/Traits Catalog/Ordnance.md",
