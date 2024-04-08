@@ -1,6 +1,5 @@
 [
   "obsidian-admonition",
-  "dataview",
   "table-editor-obsidian",
   "obsidian-banners",
   "better-word-count",
@@ -56,5 +55,6 @@
   "obsidian-smart-typography",
   "automatic-table-of-contents",
   "mrj-text-expand",
-  "better-export-pdf"
+  "better-export-pdf",
+  "dataview"
 ]
