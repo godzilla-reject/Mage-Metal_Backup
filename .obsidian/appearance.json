@@ -16,7 +16,7 @@
     "clean-embeds",
     "pagebreaks"
   ],
-  "cssTheme": "",
+  "cssTheme": "ITS Theme",
   "baseFontSize": 17,
   "theme": "obsidian"
 }
