@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "18836c0fc00fc031",
+        "id": "a22ad072ba37e94d",
         "type": "tabs",
+        "dimension": 53.24468085106383,
         "children": [
           {
-            "id": "4f15183fedaf07ac",
+            "id": "981f4eadc8bd2cb9",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,9 +18,40 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -1.2068895866211458
+                  "zoom": -2.117569596381176
                 }
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1fe04214a4a0e252",
+        "type": "tabs",
+        "dimension": 46.75531914893617,
+        "children": [
+          {
+            "id": "3bc6e7df0be5a8eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb69863da54a972c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8d69cfcd79164e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
+    "width": 304.5,
     "collapsed": true
   },
   "right": {
@@ -218,7 +250,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
@@ -231,20 +262,22 @@
       "dbfolder:Create a new database table": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
+      "homepage:Open homepage": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4f15183fedaf07ac",
+  "active": "981f4eadc8bd2cb9",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
-    "Utilities/Dashboard.canvas",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Utilities/Dashboard.canvas",
+    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "GM-Facing Rules/Running The Game/Overviews/Traits Overview.md",
     "General Rules/Traits Catalog/Ordnance.md",
@@ -265,7 +298,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
-    "General Rules/Conditions Catalog/Taunted.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
