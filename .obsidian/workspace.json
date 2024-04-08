@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3da347323f4b8f29",
+        "id": "10a7f34d488be3be",
         "type": "tabs",
         "children": [
           {
-            "id": "abc4f552afc734e7",
+            "id": "303f56b120502ed4",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.644925777151695
+                  "zoom": -1
                 }
               }
             }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -239,14 +238,15 @@
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-memos:Thino": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abc4f552afc734e7",
+  "active": "303f56b120502ed4",
   "lastOpenFiles": [
-    "Utilities/empty files.md",
+    "Character Creation Playtest 1 Packet.md",
     "Utilities/Dashboard.canvas",
+    "Utilities/Dashboard Notes/To-Do List.md",
+    "Utilities/empty files.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
@@ -266,19 +266,14 @@
     "General Rules/Traits Catalog/General/Swift.md",
     "General Rules/Traits Catalog/General/Somatic.md",
     "General Rules/Traits Catalog/Meta/Usage.md",
-    "Character Creation Playtest 1 Packet.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Adventures/Release Adventure Ideas.md",
     "Utilities/Random Bullshit",
     "Adventures/Playtest Adventure.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/''Bee-Sting'' Reactive Combat Gauntlet.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
-    "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
     "Character Creation Playtest 1 Packet.docx",
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
-    "Character Creation Playtest 1 Packet.tex"
-  ]
-}
+    "Character Creation Playtest 1 Packet.te
