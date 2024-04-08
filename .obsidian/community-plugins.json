@@ -38,5 +38,8 @@
   "obsidian-tabs",
   "list-style",
   "obsidian-pandoc",
-  "pane-relief"
+  "pane-relief",
+  "url-into-selection",
+  "quickadd",
+  "obsidian-plugin-update-tracker"
 ]
