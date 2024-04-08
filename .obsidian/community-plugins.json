@@ -1,7 +1,6 @@
 [
   "obsidian-style-settings",
   "obsidian-table-generator",
-  "obsidian-tasks-plugin",
   "templater-obsidian",
   "various-complements",
   "obsidian-sort-and-permute-lines",
@@ -27,7 +26,6 @@
   "dbfolder",
   "obsidian-dice-roller",
   "obsidian-dictionary-plugin",
-  "obsidian-discordrpc",
   "editing-toolbar",
   "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
@@ -39,7 +37,6 @@
   "obsidian-git",
   "highlightr-plugin",
   "homepage",
-  "obsidian-icon-folder",
   "initiative-tracker",
   "obsidian-leaflet-plugin",
   "media-extended",
