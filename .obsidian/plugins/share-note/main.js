@@ -40,7 +40,7 @@ var require_manifest = __commonJS({
     module2.exports = {
       id: "share-note",
       name: "Share Note",
-      version: "0.8.7",
+      version: "0.8.8",
       minAppVersion: "0.15.0",
       description: "Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key.",
       author: "Alan Grainger",
@@ -15130,13 +15130,7 @@ var Note = class {
         continue;
       let content;
       let filepath = "";
-      if (src.startsWith("app://")) {
-        const srcMatch = src.match(/app:\/\/\w+\/([^?#]+)/);
-        if (srcMatch) {
-          filepath = window.decodeURIComponent(srcMatch[1]);
-          content = await import_obsidian4.FileSystemAdapter.readLocalFile(filepath);
-        }
-      } else if (src.match(/^https?:\/\/localhost/) || !src.startsWith("http")) {
+      if (src.match(/^https?:\/\/localhost/) || !src.startsWith("http")) {
         filepath = src;
         try {
           const res = await fetch(filepath);

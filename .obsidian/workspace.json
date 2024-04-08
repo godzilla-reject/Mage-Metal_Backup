@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "18836c0fc00fc031",
+        "id": "5b57d15eecfe9f91",
         "type": "tabs",
         "children": [
           {
-            "id": "4f15183fedaf07ac",
+            "id": "58c9aae1fe3a1ffe",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest 1 Packet.md"
               }
             }
           },
@@ -243,8 +242,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4f15183fedaf07ac",
+  "active": "58c9aae1fe3a1ffe",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
@@ -269,11 +269,9 @@
     "Adventures/Release Adventure Ideas.md",
     "Utilities/Random Bullshit",
     "Adventures/Playtest Adventure.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/''Bee-Sting'' Reactive Combat Gauntlet.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Utilities/Design References/Metal References/Metal Weapon Design Reference.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/''Pepperboxer'' Harrying Micro-Cannons.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
     "Character Creation Playtest 1 Packet.docx",
     "Reference Notes/Appendices",
