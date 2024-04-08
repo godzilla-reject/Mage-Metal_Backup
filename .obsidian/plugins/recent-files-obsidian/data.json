@@ -5,6 +5,10 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "empty files",
+      "path": "Utilities/empty files.md"
+    },
+    {
       "basename": "Character Creation Playtest 1 Packet",
       "path": "Character Creation Playtest 1 Packet.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Spell List",
       "path": "Reference Notes/Spell List.md"
-    },
-    {
-      "basename": "Melanie's Wail of Blood",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hemaphoresis/Melanie's Wail of Blood.md"
     }
   ],
   "omittedPaths": [],

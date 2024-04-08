@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b57d15eecfe9f91",
+        "id": "a8de4c5c7ca7b7e9",
         "type": "tabs",
         "children": [
           {
-            "id": "58c9aae1fe3a1ffe",
+            "id": "cf5635ce5d13418d",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -219,7 +219,6 @@
     "hiddenItems": {
       "media-extended:Open media": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-memos:Thino": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -235,15 +234,17 @@
       "rpg-manager:RPG Manager": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "58c9aae1fe3a1ffe",
+  "active": "cf5635ce5d13418d",
   "lastOpenFiles": [
+    "Utilities/empty files.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
