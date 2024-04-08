@@ -4,12 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d95988b7e9ab750e",
+        "id": "aaba1e39c4502b70",
         "type": "tabs",
-        "dimension": 66.22340425531915,
+        "dimension": 54.09574468085107,
         "children": [
           {
-            "id": "cebca4ab33873742",
+            "id": "46718cc72be89e5d",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5b334d47cf2336dd",
+        "type": "tabs",
+        "dimension": 45.90425531914893,
+        "children": [
+          {
+            "id": "ad97175794b3bddf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "14eb68de340edd6a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "25406087a6361eed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ca4d1b0612b5e99",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -18,47 +59,13 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.9988599801533312
+                  "zoom": -2.3305070797761456
                 }
               }
             }
-          },
-          {
-            "id": "c7f52babdd20af2b",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md"
-              }
-            }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "6cbf34f6b3b4763d",
-        "type": "tabs",
-        "dimension": 33.77659574468085,
-        "children": [
-          {
-            "id": "89408ffa6ac2dbec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8db4ad33aff01eb7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:##todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Utilities/Dashboard.canvas"
+              }
             }
           },
           {
@@ -242,17 +253,15 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "media-extended:Open media": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -272,10 +281,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8db4ad33aff01eb7",
+  "active": "0ca4d1b0612b5e99",
   "lastOpenFiles": [
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "GM-Facing Rules/Running The Game/Overviews/Traits Overview.md",
@@ -299,8 +309,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
     "General Rules/Conditions Catalog/Taunted.md",
-    "General Rules/Traits Catalog/General/Swift.md",
-    "General Rules/Traits Catalog/General/Somatic.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
