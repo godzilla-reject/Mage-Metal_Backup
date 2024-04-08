@@ -6,7 +6,6 @@
       {
         "id": "a22ad072ba37e94d",
         "type": "tabs",
-        "dimension": 53.24468085106383,
         "children": [
           {
             "id": "981f4eadc8bd2cb9",
@@ -17,41 +16,10 @@
                 "file": "Utilities/Dashboard.canvas",
                 "viewState": {
                   "x": -530,
-                  "y": -1010,
+                  "y": -1413.5849056603774,
                   "zoom": -2.117569596381176
                 }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1fe04214a4a0e252",
-        "type": "tabs",
-        "dimension": 46.75531914893617,
-        "children": [
-          {
-            "id": "3bc6e7df0be5a8eb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bb69863da54a972c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f8d69cfcd79164e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
