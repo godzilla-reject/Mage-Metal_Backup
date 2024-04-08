@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58fe3be3f32e1e92",
+            "id": "de0111bddc032f33",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -26,7 +26,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.8976539053369407
+                  "zoom": -1.2068895866211458
                 }
               }
             }
@@ -364,12 +364,11 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -397,10 +396,10 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "58fe3be3f32e1e92",
+  "active": "de0111bddc032f33",
   "lastOpenFiles": [
-    "Utilities/Lists/General Lists/Trait List.md",
     "Utilities/Dashboard.canvas",
+    "Utilities/Lists/General Lists/Trait List.md",
     "General Rules/Traits Catalog/Ordnance.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",

@@ -14,7 +14,6 @@
   "obsidian-admonition",
   "advanced-random-note",
   "table-editor-obsidian",
-  "dataview",
   "automatic-table-of-contents",
   "obsidian-banners",
   "better-export-pdf",
@@ -59,5 +58,6 @@
   "recent-files-obsidian",
   "rpg-manager",
   "image-window",
-  "simple-embeds"
+  "simple-embeds",
+  "dataview"
 ]
