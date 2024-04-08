@@ -29,5 +29,8 @@
   "highlightr-plugin",
   "homepage",
   "initiative-tracker",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "media-extended",
+  "obsidian-meta-bind-plugin",
+  "note-refactor-obsidian"
 ]
