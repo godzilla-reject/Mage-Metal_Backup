@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87ecf03425d4daf2",
+        "id": "ffa0a1c08e44c99e",
         "type": "tabs",
         "children": [
           {
-            "id": "ee43839d6f185e18",
+            "id": "4d2ddb86154987ac",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -228,7 +228,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
@@ -237,13 +236,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee43839d6f185e18",
+  "active": "4d2ddb86154987ac",
   "lastOpenFiles": [
     "Utilities/Lists/General Lists/Trait List.md",
     "Utilities/Dashboard.canvas",

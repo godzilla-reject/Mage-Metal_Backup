@@ -1,7 +1,4 @@
 [
-  "obsidian-admonition",
-  "table-editor-obsidian",
-  "obsidian-banners",
   "better-word-count",
   "obsidian-checklist-plugin",
   "chronology",
@@ -11,7 +8,6 @@
   "dbfolder",
   "obsidian-dice-roller",
   "obsidian-dictionary-plugin",
-  "obsidian-discordrpc",
   "obsidian-5e-statblocks",
   "fantasy-calendar",
   "fantasy-content-generator",
@@ -43,7 +39,6 @@
   "obsidian-meta-bind-plugin",
   "obsidian-git",
   "tag-wrangler",
-  "advanced-random-note",
   "obsidian-excel-to-markdown-table",
   "share-note",
   "obsidian-dangling-links",
@@ -52,8 +47,6 @@
   "find-unlinked-files",
   "settings-search",
   "obsidian-smart-typography",
-  "automatic-table-of-contents",
   "mrj-text-expand",
-  "better-export-pdf",
   "dataview"
 ]
