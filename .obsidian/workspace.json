@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8de4c5c7ca7b7e9",
+        "id": "bfb9c59382d366b3",
         "type": "tabs",
         "children": [
           {
-            "id": "cf5635ce5d13418d",
+            "id": "40edcda0466bdfed",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -1
+                  "zoom": -0.644925777151695
                 }
               }
             }
@@ -243,7 +243,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "cf5635ce5d13418d",
+  "active": "40edcda0466bdfed",
   "lastOpenFiles": [
     "Utilities/empty files.md",
     "Utilities/Dashboard.canvas",
