@@ -5,12 +5,12 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
       "basename": "Trait List",
       "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Ordnance",

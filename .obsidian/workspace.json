@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be882b79a9543201",
+            "id": "ee43839d6f185e18",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.4314775570662958
+                  "zoom": -0.8976539053369407
                 }
               }
             }
@@ -243,7 +243,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "be882b79a9543201",
+  "active": "ee43839d6f185e18",
   "lastOpenFiles": [
     "Utilities/Lists/General Lists/Trait List.md",
     "Utilities/Dashboard.canvas",
