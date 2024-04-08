@@ -16,18 +16,34 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Character Creation Playtest 1 Packet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Character Creation Playtest 1 Packet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2051,\"ch\":20},\"to\":{\"line\":2051,\"ch\":20}},\"scroll\":1790.709575142676}"
+                },
+                {
+                  "title": "Dashboard",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-0.644925777151695}}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
-                }
+                "file": "Character Creation Playtest 1 Packet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -47,6 +63,15 @@
           {
             "id": "a6efdbb03f15d137",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -89,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Character Creation Playtest 1 Packet.md"
               }
             }
           },
@@ -223,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,8 +278,13 @@
   },
   "active": "6b8aee4491e4c991",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "README.md",
+    "Character Creation Playtest 1 Packet.md",
+    "Reference Notes/Appendices/Armor Appendix.md",
+    "Reference Notes/Appendices/Mage Weapon Appendix.md",
+    "Reference Notes/Appendices/Equipment Appendix.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
     "Templates/Markdown Templates/Mage Templates/Spell Template.md",
@@ -263,7 +293,6 @@
     "GM-Facing Rules/Running The Game/Overviews/Traits Overview.md",
     "General Rules/Traits Catalog/Ordnance.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
-    "Character Creation Playtest 1 Packet.md",
     "Utilities/Dashboard Notes/To-Do List.md",
     "Utilities/empty files.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
@@ -276,9 +305,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Block.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Pain-Tolerance.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Histories/Extreme/Politologist.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",

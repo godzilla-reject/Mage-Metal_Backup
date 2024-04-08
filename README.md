@@ -10,11 +10,11 @@ This is just an Obsidian vault, so you can fork it for a copy of your own or mak
 
 # Road Map
 - v.0.0.5: Character Generation Test: 
-	- Current Goal, Est. Time-Frame: Jan-March 2024
+	- Current Goal, Est. Time-Frame: May 2024
 - v.0.1.0: Pre-Alpha Test 1: Character Creation and Progression Test
-	- Spring 2024
+	- Summer 2024
 - v.0.5.0: Pre-Alpha Test 2: Mage Combat Prototype Test
-	- Spring 2024
+	- Summer 2024
 
 # Credits 
 - Author: Grant Hall (granthall45@gmail.com)
