@@ -80,12 +80,22 @@
           {
             "id": "3b93557265589f72",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -246,10 +256,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "rpg-manager:RPG Manager": false
     }
   },
-  "active": "4f15183fedaf07ac",
+  "active": "3b93557265589f72",
   "lastOpenFiles": [
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
