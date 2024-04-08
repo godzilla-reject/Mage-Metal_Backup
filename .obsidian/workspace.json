@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de0111bddc032f33",
+            "id": "7c5e3d2193ad2b39",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -21,22 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "7c5e3d2193ad2b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/General Lists/Trait List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Lists/General Lists/Trait List.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Lists/General Lists/Trait List.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Lists/General Lists/Trait List.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -248,7 +234,9 @@
       "chronology:Open Chronology": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "dbfolder:Create a new database table": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "homepage:Open homepage": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "7c5e3d2193ad2b39",
