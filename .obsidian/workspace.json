@@ -28,6 +28,28 @@
             }
           },
           {
+            "id": "e5218beeaaae6255",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "c7f8796a767c1bc8",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -50,7 +72,7 @@
             }
           },
           {
-            "id": "e30e9c732106662a",
+            "id": "cef21af4b9228754",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -65,14 +87,14 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "194f7646a8e878ea",
@@ -145,8 +167,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,6 +183,15 @@
           {
             "id": "a6efdbb03f15d137",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -172,6 +202,15 @@
           {
             "id": "d968026dfd4f0b4b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -187,6 +226,15 @@
           {
             "id": "fac67c8071a3cd9d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -195,6 +243,15 @@
           {
             "id": "3b93557265589f72",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "recent-files",
               "state": {}
@@ -218,6 +275,15 @@
           {
             "id": "508dc443b848b433",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
@@ -235,6 +301,15 @@
           {
             "id": "f90135100ca5f4f6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -247,6 +322,15 @@
           {
             "id": "a3b467e93ea37d98",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -258,6 +342,15 @@
           {
             "id": "3ad2454c886ecebf",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
@@ -268,6 +361,15 @@
           {
             "id": "35bd1d52bac4ea59",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "chronology-calendar-view",
               "state": {}
@@ -276,6 +378,15 @@
           {
             "id": "21cebfc490467c84",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
@@ -284,6 +395,15 @@
           {
             "id": "6d5e9e67247021af",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "mathpad-view",
               "state": {}
@@ -292,6 +412,15 @@
           {
             "id": "2563114bbac86f0c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -300,6 +429,15 @@
           {
             "id": "4739661f3573ba43",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
@@ -308,6 +446,15 @@
           {
             "id": "d7a3e427e71d5d3e",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "todo",
               "state": {}
@@ -316,6 +463,15 @@
           {
             "id": "d9993422e933ec23",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -328,6 +484,15 @@
           {
             "id": "8753d1336babb804",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
@@ -367,9 +532,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e30e9c732106662a",
+  "active": "cef21af4b9228754",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
+    "Utilities/Random Bullshit/Alchemy Concept.md",
+    "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
+    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "Utilities/Dashboard.canvas",
@@ -387,9 +556,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
     "Utilities/Dashboard Notes/To-Do List.md",
     "Utilities/empty files.md",
-    "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
