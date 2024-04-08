@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfb9c59382d366b3",
+        "id": "3da347323f4b8f29",
         "type": "tabs",
         "children": [
           {
-            "id": "40edcda0466bdfed",
+            "id": "abc4f552afc734e7",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard Notes/To-Do List.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -214,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +243,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "40edcda0466bdfed",
+  "active": "abc4f552afc734e7",
   "lastOpenFiles": [
     "Utilities/empty files.md",
     "Utilities/Dashboard.canvas",
