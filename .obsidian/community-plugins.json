@@ -53,5 +53,8 @@
   "simple-embeds",
   "obsidian-style-settings",
   "supercharged-links-obsidian",
-  "obsidian-table-generator"
+  "obsidian-table-generator",
+  "tag-wrangler",
+  "obsidian-tasks-plugin",
+  "templater-obsidian"
 ]

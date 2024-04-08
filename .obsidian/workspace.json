@@ -233,6 +233,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "media-extended:Open media": false,
       "obsidian-dangling-links:Show dangling links panel": false,
