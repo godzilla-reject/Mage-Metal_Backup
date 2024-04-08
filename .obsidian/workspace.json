@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c228549f8167848",
+        "id": "8e663edb436f489c",
         "type": "tabs",
         "children": [
           {
-            "id": "6b8aee4491e4c991",
+            "id": "bcf5864ca374aa52",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,34 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Character Creation Playtest 1 Packet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Character Creation Playtest 1 Packet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2051,\"ch\":20},\"to\":{\"line\":2051,\"ch\":20}},\"scroll\":1790.709575142676}"
-                },
-                {
-                  "title": "Dashboard",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-0.644925777151695}}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.726548978220868
+                }
               }
             }
           }
@@ -130,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation Playtest 1 Packet.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -276,10 +260,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b8aee4491e4c991",
+  "active": "bcf5864ca374aa52",
   "lastOpenFiles": [
-    "README.md",
     "Character Creation Playtest 1 Packet.md",
+    "README.md",
     "Reference Notes/Appendices/Armor Appendix.md",
     "Reference Notes/Appendices/Mage Weapon Appendix.md",
     "Reference Notes/Appendices/Equipment Appendix.md",
