@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ec9522465bee207",
+        "id": "7c228549f8167848",
         "type": "tabs",
         "children": [
           {
-            "id": "b07d85a7ddccf8c2",
+            "id": "6b8aee4491e4c991",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -251,7 +251,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b07d85a7ddccf8c2",
+  "active": "6b8aee4491e4c991",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Utilities/Dashboard.canvas",
