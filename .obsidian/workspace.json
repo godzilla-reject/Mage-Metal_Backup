@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9461e250da2918ac",
+        "id": "5ec9522465bee207",
         "type": "tabs",
         "children": [
           {
-            "id": "d4f7bad6bc37b521",
+            "id": "b07d85a7ddccf8c2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -26,7 +26,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.42840472301667265
+                  "zoom": -0.644925777151695
                 }
               }
             }
@@ -219,12 +219,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,7 +251,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d4f7bad6bc37b521",
+  "active": "b07d85a7ddccf8c2",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Utilities/Dashboard.canvas",
