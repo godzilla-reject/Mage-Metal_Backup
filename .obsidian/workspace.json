@@ -233,7 +233,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "media-extended:Open media": false,
       "obsidian-dangling-links:Show dangling links panel": false,
@@ -254,6 +253,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
+      "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false
     }
   },
