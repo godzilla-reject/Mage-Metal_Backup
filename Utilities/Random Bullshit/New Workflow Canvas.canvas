@@ -96,12 +96,14 @@
 			"height":50
 		},
 		{"id":"8f066d0a895ed5f9","x":180,"y":-600,"width":400,"height":50,"type":"text","text":"“Master Template” allows for complete automation of *what* is being made.\n"},
-		{"id":"9b7b63aa77e3b4ba","x":180,"y":-440,"width":400,"height":50,"type":"text","text":"Templater automation allows for the content to be created. "}
+		{"id":"9b7b63aa77e3b4ba","x":180,"y":-440,"width":400,"height":80,"type":"text","text":"Templater automation allows for the content to be created in a way that is it complete and not reliant on frontmatter.\n"}
 	],
 	"edges":[
 		{"id":"10f6dc4a094f28d2","fromNode":"763ed00ee8c4e0e3","fromSide":"bottom","toNode":"96fa4041ab360761","toSide":"top"},
 		{"id":"dca2cbd3da1f4c78","fromNode":"96fa4041ab360761","fromSide":"bottom","toNode":"dcc36f6c61ddfc32","toSide":"top"},
 		{"id":"aea78e3ef68d6dff","fromNode":"dcc36f6c61ddfc32","fromSide":"bottom","toNode":"96e23f468d7c1b54","toSide":"top"},
-		{"id":"c7e5948c43de0a93","fromNode":"96e23f468d7c1b54","fromSide":"bottom","toNode":"a6795cea4dd5cd14","toSide":"top"}
+		{"id":"c7e5948c43de0a93","fromNode":"96e23f468d7c1b54","fromSide":"bottom","toNode":"a6795cea4dd5cd14","toSide":"top"},
+		{"id":"193f88c8e27cff74","fromNode":"8f066d0a895ed5f9","fromSide":"bottom","toNode":"9b7b63aa77e3b4ba","toSide":"top"},
+		{"id":"aee1df628ac55b22","fromNode":"9b7b63aa77e3b4ba","fromSide":"left","toNode":"763ed00ee8c4e0e3","toSide":"right"}
 	]
 }
