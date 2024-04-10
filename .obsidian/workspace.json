@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ffb12452a6c17c1",
+        "id": "d2683cb6a727340a",
         "type": "tabs",
         "children": [
           {
-            "id": "2f3375d84d5a3f65",
+            "id": "9df2b1a19c0a3b86",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,23 +16,17 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Dashboard",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-0.726548978220868}}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Utilities/Random Bullshit/New Workflow Canvas.canvas",
+                "file": "Utilities/Dashboard.canvas",
                 "viewState": {
-                  "x": 361,
-                  "y": -164,
-                  "zoom": 0
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.9988599801533312
                 }
               }
             }
@@ -156,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Random Bullshit/New Workflow Canvas.canvas",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Random Bullshit/New Workflow Canvas.canvas",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Random Bullshit/New Workflow Canvas.canvas"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -372,8 +366,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -401,7 +394,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2f3375d84d5a3f65",
+  "active": "9df2b1a19c0a3b86",
   "lastOpenFiles": [
     "Utilities/Dashboard.canvas",
     "Reference Notes/Spell List.md",
