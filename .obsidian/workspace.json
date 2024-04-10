@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2052ad8ca3ffd90",
+        "id": "4ffb12452a6c17c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e2eaa709d116ddab",
+            "id": "2f3375d84d5a3f65",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -26,7 +26,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.644925777151695
+                  "zoom": -0.726548978220868
                 }
               }
             }
@@ -366,7 +366,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -394,17 +395,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e2eaa709d116ddab",
+  "active": "2f3375d84d5a3f65",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Reference Notes/Spell List.md",
+    "Character Creation Playtest 1 Packet.md",
+    "Untitled.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
     "Utilities/Random Bullshit/Alchemy Concept.md",
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Utilities/Lists/General Lists/Trait List.md",
-    "Character Creation Playtest 1 Packet.md",
     "README.md",
     "Reference Notes/Appendices/Armor Appendix.md",
     "Reference Notes/Appendices/Mage Weapon Appendix.md",
@@ -421,7 +424,6 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Deception.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
