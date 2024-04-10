@@ -16,17 +16,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Dashboard",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-0.726548978220868}}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Random Bullshit/New Workflow Canvas.canvas",
                 "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.726548978220868
+                  "x": 267,
+                  "y": -292,
+                  "zoom": 0
                 }
               }
             }
@@ -150,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Random Bullshit/New Workflow Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Utilities/Random Bullshit/New Workflow Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Utilities/Random Bullshit/New Workflow Canvas.canvas"
               }
             }
           },
@@ -397,10 +403,10 @@
   },
   "active": "2f3375d84d5a3f65",
   "lastOpenFiles": [
+    "Utilities/Dashboard.canvas",
     "Reference Notes/Spell List.md",
     "Character Creation Playtest 1 Packet.md",
     "Untitled.md",
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
     "Utilities/Random Bullshit/Alchemy Concept.md",
@@ -423,7 +429,6 @@
     "Utilities/empty files.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Performance.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
