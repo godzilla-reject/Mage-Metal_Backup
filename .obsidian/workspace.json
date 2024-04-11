@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2683cb6a727340a",
+        "id": "aa621d4c6353f8ca",
         "type": "tabs",
         "children": [
           {
-            "id": "9df2b1a19c0a3b86",
+            "id": "fca3ae99da252241",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -26,7 +26,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.9988599801533312
+                  "zoom": -1.520286824024152
                 }
               }
             }
@@ -394,7 +394,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9df2b1a19c0a3b86",
+  "active": "a6efdbb03f15d137",
   "lastOpenFiles": [
     "Utilities/Dashboard.canvas",
     "Reference Notes/Spell List.md",
