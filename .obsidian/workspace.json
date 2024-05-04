@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7009628ad9728d21",
+            "id": "e418339c175d58fa",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -21,7 +21,7 @@
                   "title": "Character Creation Playtest 1 Packet",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Character Creation Playtest 1 Packet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2042,\"ch\":11},\"to\":{\"line\":2042,\"ch\":11}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2038,\"ch\":0},\"to\":{\"line\":2038,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Dashboard",
@@ -34,35 +34,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Spell List.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "06b65b9dbd964e09",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "329a97cef89afefc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
           }
@@ -160,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -186,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Spell List.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Spell List.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Spell List.md"
+                "file": "README.md"
               }
             }
           },
@@ -422,35 +396,35 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7009628ad9728d21",
+  "active": "e418339c175d58fa",
   "lastOpenFiles": [
-    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md",
+    "Character Creation Playtest 1 Packet.md",
     "Reference Notes/Spell List.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Shield Crush.md",
+    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Vitam.md",
+    "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Mortum.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Heal'.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Retrace.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Sniper's Mark.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md",
+    "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md",
+    "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md",
+    "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md",
+    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md",
     "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Grinding Gears.md",
     "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md",
     "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamorous Clang.md",
-    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
-    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md",
-    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md",
-    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md",
-    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md",
-    "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md",
-    "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md",
-    "Player-Facing Rules/Spells/Spells Database/Electromancy/Arc Surge.md",
-    "Player-Facing Rules/Spells/Spells Database/Electromancy/Shockjolt.md",
-    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Ane's Screaming Cyclone.md",
-    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md",
-    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md",
-    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md",
-    "Character Creation Playtest 1 Packet.md",
     "Utilities/Dashboard.canvas",
-    "Untitled.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
-    "Utilities/Random Bullshit/Alchemy Concept.md",
-    "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",

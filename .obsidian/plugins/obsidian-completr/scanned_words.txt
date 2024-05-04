@@ -197,6 +197,9 @@ Micro
 Manaforming
 Machinations
 March
+Maw
+Mortum
+May
 in
 inspiration
 it
@@ -1443,6 +1446,7 @@ bully
 behaves
 ba
 backwards
+beautiful
 not
 never
 no
@@ -2369,6 +2373,7 @@ shame
 shout
 schematics
 straight
+stitches
 LANCER
 Learn
 Lancer
@@ -2905,6 +2910,8 @@ demeanor
 display
 decreases
 ddbdeaafd
+defy
+doom
 ever
 expand
 easy
@@ -3387,6 +3394,7 @@ promises
 promise
 purchasing
 pipes
+pushes
 RP
 RPGs
 Ryutama
@@ -3518,6 +3526,7 @@ Recursive
 Rounds
 Red
 Request
+Retrace
 high
 heavily
 hopes
@@ -4139,6 +4148,8 @@ Approved
 Aerostrike
 Ane
 Arc
+Ache
+Aurora
 metal
 magic
 mechanics
@@ -4728,6 +4739,7 @@ Ever
 Electtromancy
 Electroflex
 Eunard
+Escaton
 Use
 Usable
 Unsorted
@@ -4923,6 +4935,8 @@ Coerce
 Cyclone
 Clamorous
 Clang
+Clamp
+Crush
 We
 While
 Write
@@ -5100,6 +5114,7 @@ Hemaspike
 Heal
 Hydromancy
 Hydro
+Haste
 you
 your
 yourself
@@ -5260,6 +5275,7 @@ Frightened
 Fleeting
 Featherstep
 Flusterdome
+Fiery
 Dungeons
 Dragons
 Definitely
@@ -5376,6 +5392,7 @@ Diplomacy
 Demoralize
 Demoralizing
 Death
+Dolman
 Steve
 Sheets
 Segway
@@ -5606,6 +5623,12 @@ Screaming
 Shockjolt
 Surge
 Spike
+Scorcher
+Spikes
+Seismic
+Shudder
+Salvo
+Summer
 Jackson
 Jack
 Juggernaut
@@ -5830,6 +5853,7 @@ Vangaurd
 Vulnerabilities
 Virtuoso
 Vault
+Vitam
 You
 Your
 YAY
