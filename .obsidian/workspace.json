@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa621d4c6353f8ca",
+        "id": "c8e235b68ef83757",
         "type": "tabs",
         "children": [
           {
-            "id": "fca3ae99da252241",
+            "id": "7009628ad9728d21",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,22 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Dashboard",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-1.520286824024152}}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.644925777151695
+                }
               }
             }
           }
@@ -155,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -399,7 +395,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fca3ae99da252241",
+  "active": "7009628ad9728d21",
   "lastOpenFiles": [
     "Utilities/Dashboard.canvas",
     "Reference Notes/Spell List.md",
