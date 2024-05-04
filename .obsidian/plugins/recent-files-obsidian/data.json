@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "Spell List",
+      "path": "Reference Notes/Spell List.md"
+    },
+    {
+      "basename": "Clamp-Maw Trap",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
+    },
+    {
+      "basename": "Eunard's Grinding Gears",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Grinding Gears.md"
+    },
+    {
+      "basename": "Eunard's Portable Cover",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md"
+    },
+    {
+      "basename": "Clamorous Clang",
+      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamorous Clang.md"
+    },
+    {
+      "basename": "Spells Database",
+      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
+    },
+    {
+      "basename": "Wormik's Torrent",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
+    },
+    {
+      "basename": "Hydro-Oscillation Field",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md"
+    },
+    {
+      "basename": "Shifting Tides",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md"
+    },
+    {
+      "basename": "Steam-Spike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md"
+    },
+    {
+      "basename": "Lightning Bolt",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md"
+    },
+    {
+      "basename": "Electroflex",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
+    },
+    {
+      "basename": "Arc Surge",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Arc Surge.md"
+    },
+    {
+      "basename": "Shockjolt",
+      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Shockjolt.md"
+    },
+    {
+      "basename": "Ane's Screaming Cyclone",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Ane's Screaming Cyclone.md"
+    },
+    {
+      "basename": "Flusterdome",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
+    },
+    {
+      "basename": "Fleeting Featherstep",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
+    },
+    {
+      "basename": "Aerostrike",
+      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
+    },
+    {
+      "basename": "Character Creation Playtest 1 Packet",
+      "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -11,14 +87,6 @@
     {
       "basename": "New Workflow Canvas",
       "path": "Utilities/Random Bullshit/New Workflow Canvas.canvas"
-    },
-    {
-      "basename": "Spell List",
-      "path": "Reference Notes/Spell List.md"
-    },
-    {
-      "basename": "Character Creation Playtest 1 Packet",
-      "path": "Character Creation Playtest 1 Packet.md"
     },
     {
       "basename": "Skills Database",
@@ -131,74 +199,6 @@
     {
       "basename": "Swift",
       "path": "General Rules/Traits Catalog/General/Swift.md"
-    },
-    {
-      "basename": "Somatic",
-      "path": "General Rules/Traits Catalog/General/Somatic.md"
-    },
-    {
-      "basename": "Usage",
-      "path": "General Rules/Traits Catalog/Meta/Usage.md"
-    },
-    {
-      "basename": "Release Adventure Ideas",
-      "path": "Adventures/Release Adventure Ideas.md"
-    },
-    {
-      "basename": "Playtest Adventure",
-      "path": "Adventures/Playtest Adventure.md"
-    },
-    {
-      "basename": "''Bee-Sting'' Reactive Combat Gauntlet",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/''Bee-Sting'' Reactive Combat Gauntlet.md"
-    },
-    {
-      "basename": "Metal Weapon Design Reference",
-      "path": "Utilities/Design References/Metal References/Metal Weapon Design Reference.md"
-    },
-    {
-      "basename": "''Pepperboxer'' Harrying Micro-Cannons",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/''Pepperboxer'' Harrying Micro-Cannons.md"
-    },
-    {
-      "basename": "''Converter'' Blade-Barricade CQC System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md"
-    },
-    {
-      "basename": "Exceed",
-      "path": "General Rules/Traits Catalog/Exceed.md"
-    },
-    {
-      "basename": "High-Powered",
-      "path": "General Rules/Traits Catalog/Weapon-Only/High-Powered.md"
-    },
-    {
-      "basename": "Flusterdome",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
-    },
-    {
-      "basename": "Equipment Overview",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment Overview.md"
-    },
-    {
-      "basename": "Area",
-      "path": "General Rules/Traits Catalog/General/Area.md"
-    },
-    {
-      "basename": "Range",
-      "path": "General Rules/Traits Catalog/Weapon-Only/Range.md"
-    },
-    {
-      "basename": "A.J.A.X. Gun",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md"
-    },
-    {
-      "basename": "Metal Attributes and Statistics",
-      "path": "Player-Facing Rules/Character Creation/Metals/Metal Attributes and Statistics.md"
-    },
-    {
-      "basename": "Metal Weapon Template",
-      "path": "Templates/Markdown Templates/Metal Templates/Metal Weapon Template.md"
     }
   ],
   "omittedPaths": [],

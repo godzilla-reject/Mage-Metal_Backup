@@ -16,18 +16,53 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Character Creation Playtest 1 Packet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Character Creation Playtest 1 Packet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2042,\"ch\":11},\"to\":{\"line\":2042,\"ch\":11}}}"
+                },
+                {
+                  "title": "Dashboard",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-0.644925777151695}}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.644925777151695
+                "file": "Reference Notes/Spell List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "06b65b9dbd964e09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "329a97cef89afefc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
               }
             }
           }
@@ -151,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Reference Notes/Spell List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Reference Notes/Spell List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Reference Notes/Spell List.md"
               }
             }
           },
@@ -346,32 +381,23 @@
             }
           },
           {
-            "id": "8753d1336babb804",
+            "id": "1fac4cd10e82206e",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "media-extended:Open media": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:Open quick switcher": false,
@@ -386,20 +412,38 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "homepage:Open homepage": false,
       "rpg-manager:RPG Manager": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "advanced-random-note:Open random note modal": false,
       "chronology:Open Chronology": false,
       "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "7009628ad9728d21",
   "lastOpenFiles": [
-    "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md",
     "Reference Notes/Spell List.md",
+    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Grinding Gears.md",
+    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md",
+    "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamorous Clang.md",
+    "Player-Facing Rules/Spells/Spells Database/Spells Database.md",
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md",
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md",
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md",
+    "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md",
+    "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md",
+    "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md",
+    "Player-Facing Rules/Spells/Spells Database/Electromancy/Arc Surge.md",
+    "Player-Facing Rules/Spells/Spells Database/Electromancy/Shockjolt.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Ane's Screaming Cyclone.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md",
+    "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md",
     "Character Creation Playtest 1 Packet.md",
+    "Utilities/Dashboard.canvas",
     "Untitled.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md",
@@ -407,22 +451,6 @@
     "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Utilities/Lists/General Lists/Trait List.md",
-    "README.md",
-    "Reference Notes/Appendices/Armor Appendix.md",
-    "Reference Notes/Appendices/Mage Weapon Appendix.md",
-    "Reference Notes/Appendices/Equipment Appendix.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Metal Weaponry Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Weapon Database.md",
-    "Templates/Markdown Templates/Mage Templates/Spell Template.md",
-    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/3. Metal Cores/Metal Core Database.md",
-    "GM-Facing Rules/Running The Game/Overviews/Traits Overview.md",
-    "General Rules/Traits Catalog/Ordnance.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
-    "Utilities/Dashboard Notes/To-Do List.md",
-    "Utilities/empty files.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Intimidation.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",

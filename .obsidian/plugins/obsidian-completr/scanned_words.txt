@@ -1250,6 +1250,7 @@ care
 complies
 continue
 comply
+crash
 before
 being
 be
@@ -1441,6 +1442,7 @@ bending
 bully
 behaves
 ba
+backwards
 not
 never
 no
@@ -2366,6 +2368,7 @@ smooth
 shame
 shout
 schematics
+straight
 LANCER
 Learn
 Lancer
@@ -2426,6 +2429,7 @@ Lifebringer
 LF
 Liar
 Leader
+Lightning
 The
 Tenets
 This
@@ -2554,6 +2558,7 @@ Turret
 Triumphant
 Tracking
 Templater
+Torrent
 oriented
 of
 on
@@ -3381,6 +3386,7 @@ peaceful
 promises
 promise
 purchasing
+pipes
 RP
 RPGs
 Ryutama
@@ -4130,6 +4136,9 @@ Au
 ATSC
 Areas
 Approved
+Aerostrike
+Ane
+Arc
 metal
 magic
 mechanics
@@ -4410,6 +4419,8 @@ Gunplay
 Grim
 God
 Gather
+Grinding
+Gears
 utmost
 use
 up
@@ -4714,6 +4725,9 @@ Ehecatli
 Exceed
 Elf
 Ever
+Electtromancy
+Electroflex
+Eunard
 Use
 Usable
 Unsorted
@@ -4906,6 +4920,9 @@ Confabulating
 Competence
 Citywatch
 Coerce
+Cyclone
+Clamorous
+Clang
 We
 While
 Write
@@ -4976,6 +4993,7 @@ Wail
 Weave
 Weaknesses
 Ward
+Wormik
 keeping
 keep
 kek
@@ -5080,6 +5098,8 @@ Humaana
 Harm
 Hemaspike
 Heal
+Hydromancy
+Hydro
 you
 your
 yourself
@@ -5237,6 +5257,9 @@ Flaming
 Frontline
 Fortitude
 Frightened
+Fleeting
+Featherstep
+Flusterdome
 Dungeons
 Dragons
 Definitely
@@ -5579,6 +5602,10 @@ String
 Strings
 Smooth
 Shameless
+Screaming
+Shockjolt
+Surge
+Spike
 Jackson
 Jack
 Juggernaut
@@ -5680,6 +5707,7 @@ Oraci
 Overkill
 Offered
 Operator
+Oscillation
 Basics
 Beneficial
 Body
@@ -5765,6 +5793,7 @@ Babble
 Burst
 Bombs
 Blue
+Bolt
 Varies
 Vast
 Void

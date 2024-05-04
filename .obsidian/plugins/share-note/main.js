@@ -40,7 +40,7 @@ var require_manifest = __commonJS({
     module2.exports = {
       id: "share-note",
       name: "Share Note",
-      version: "0.8.8",
+      version: "0.8.11",
       minAppVersion: "0.15.0",
       description: "Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key.",
       author: "Alan Grainger",
@@ -298,27 +298,27 @@ var require_util = __commonJS({
       };
     }
     var normalize = lruMemoize(function normalize2(aPath) {
-      var path = aPath;
+      var path2 = aPath;
       var url = urlParse(aPath);
       if (url) {
         if (!url.path) {
           return aPath;
         }
-        path = url.path;
+        path2 = url.path;
       }
-      var isAbsolute = exports.isAbsolute(path);
+      var isAbsolute = exports.isAbsolute(path2);
       var parts = [];
       var start = 0;
       var i2 = 0;
       while (true) {
         start = i2;
-        i2 = path.indexOf("/", start);
+        i2 = path2.indexOf("/", start);
         if (i2 === -1) {
-          parts.push(path.slice(start));
+          parts.push(path2.slice(start));
           break;
         } else {
-          parts.push(path.slice(start, i2));
-          while (i2 < path.length && path[i2] === "/") {
+          parts.push(path2.slice(start, i2));
+          while (i2 < path2.length && path2[i2] === "/") {
             i2++;
           }
         }
@@ -339,15 +339,15 @@ var require_util = __commonJS({
           }
         }
       }
-      path = parts.join("/");
-      if (path === "") {
-        path = isAbsolute ? "/" : ".";
+      path2 = parts.join("/");
+      if (path2 === "") {
+        path2 = isAbsolute ? "/" : ".";
       }
       if (url) {
-        url.path = path;
+        url.path = path2;
         return urlGenerate(url);
       }
-      return path;
+      return path2;
     });
     exports.normalize = normalize;
     function join(aRoot, aPath) {
@@ -14920,6 +14920,7 @@ function minifyStylesheet(source, options) {
 }
 
 // src/note.ts
+var path = __toESM(require("path"));
 var cssAttachmentWhitelist = {
   ttf: ["font/ttf", "application/x-font-ttf", "application/x-font-truetype", "font/truetype"],
   otf: ["font/otf", "application/x-font-opentype"],
@@ -14934,7 +14935,7 @@ var Note = class {
     this.isForceClipboard = false;
     var _a;
     this.plugin = plugin;
-    this.leaf = (_a = this.plugin.app.workspace.activeEditor) == null ? void 0 : _a.leaf;
+    this.leaf = (_a = this.plugin.app.workspace.getActiveFileView()) == null ? void 0 : _a.leaf;
     this.elements = [];
     this.template = new NoteTemplate();
   }
@@ -15122,26 +15123,27 @@ var Note = class {
    * Upload media attachments
    */
   async processMedia() {
+    var _a;
     const elements = ["img", "video"];
     this.status.setStatus("Processing attachments...");
     for (const el of this.contentDom.querySelectorAll(elements.join(","))) {
       const src = el.getAttribute("src");
       if (!src)
         continue;
-      let content;
-      let filepath = "";
-      if (src.match(/^https?:\/\/localhost/) || !src.startsWith("http")) {
-        filepath = src;
-        try {
-          const res = await fetch(filepath);
-          if (res && res.status === 200) {
-            content = await res.arrayBuffer();
-          }
-        } catch (e2) {
-          continue;
-        }
+      if (src.startsWith("http") && !src.match(/^https?:\/\/localhost/)) {
+        continue;
       }
-      const filetype = filepath.split(".").pop();
+      let content;
+      try {
+        const res = await fetch(src);
+        if (res && res.status === 200) {
+          content = await res.arrayBuffer();
+        }
+      } catch (e2) {
+        continue;
+      }
+      const parsed = new URL(src);
+      const filetype = (_a = path.extname(parsed.pathname)) == null ? void 0 : _a.slice(1);
       if (filetype && content) {
         const hash = await sha1(content);
         await this.plugin.api.queueUpload({
