@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -155,10 +159,6 @@
     {
       "basename": "Aerostrike",
       "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "New Equipment Template",

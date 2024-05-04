@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8e235b68ef83757",
+        "id": "9c50154699c2421c",
         "type": "tabs",
         "children": [
           {
-            "id": "e418339c175d58fa",
+            "id": "6ddb2c83e0d6259f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,28 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Character Creation Playtest 1 Packet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Character Creation Playtest 1 Packet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2038,\"ch\":0},\"to\":{\"line\":2038,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Dashboard",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-0.644925777151695}}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.9988599801533312
+                }
               }
             }
           }
@@ -160,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -363,7 +353,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -396,7 +386,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e418339c175d58fa",
+  "active": "6ddb2c83e0d6259f",
   "lastOpenFiles": [
     "Character Creation Playtest 1 Packet.md",
     "Reference Notes/Spell List.md",
