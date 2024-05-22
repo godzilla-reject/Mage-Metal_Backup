@@ -200,6 +200,8 @@ March
 Maw
 Mortum
 May
+Medi
+Monitor
 in
 inspiration
 it
@@ -567,6 +569,7 @@ traced
 threatened
 tensile
 transfer
+taste
 great
 game
 gaming
@@ -1266,6 +1269,8 @@ cooking
 camp
 comfortably
 colloquially
+calories
+conjunction
 before
 being
 be
@@ -1524,6 +1529,7 @@ natiuh
 note
 negatives
 negotiate
+nutrients
 afraid
 and
 aesthetic
@@ -2454,6 +2460,7 @@ LF
 Liar
 Leader
 Lightning
+Limb
 The
 Tenets
 This
@@ -3686,6 +3693,7 @@ hundreds
 habs
 habitat
 hazmat
+hr
 refine
 robust
 required
@@ -4183,6 +4191,7 @@ Ane
 Arc
 Ache
 Aurora
+Arm
 metal
 magic
 mechanics
@@ -4691,6 +4700,7 @@ lie
 lmao
 likely
 luxuries
+leg
 Ease
 Excel
 Escalation
@@ -4817,6 +4827,7 @@ Units
 ULF
 Unveil
 Utterly
+Unit
 Complexity
 Could
 Conflicted
@@ -4977,6 +4988,8 @@ Clang
 Clamp
 Crush
 Clothes
+Consumed
+Canister
 We
 While
 Write
@@ -5156,6 +5169,8 @@ Heal
 Hydromancy
 Hydro
 Haste
+Holster
+Heater
 you
 your
 yourself
@@ -5435,6 +5450,7 @@ Demoralize
 Demoralizing
 Death
 Dolman
+Dermal
 Steve
 Sheets
 Segway
@@ -5674,6 +5690,7 @@ Summer
 Spellcasting
 Suit
 Scanner
+Spine
 Jackson
 Jack
 Juggernaut
@@ -5863,6 +5880,7 @@ Burst
 Bombs
 Blue
 Bolt
+Buckler
 Varies
 Vast
 Void

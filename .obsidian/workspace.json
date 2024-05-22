@@ -59,8 +59,14 @@
             "id": "2314fd94c1f9d2c3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Spellcasting Catalyst",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst/Spellcasting Catalyst.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -75,7 +81,7 @@
             }
           },
           {
-            "id": "52219cd283ee4d53",
+            "id": "22d86e38ef8e55f5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -89,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -97,7 +103,7 @@
             }
           },
           {
-            "id": "c232468183230f73",
+            "id": "9ee5ec7af7d14088",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -111,8 +117,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
-                "mode": "preview",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -477,33 +483,33 @@
   },
   "active": "0cc0315df0ae3899",
   "lastOpenFiles": [
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
     "Reference Notes/Appendices/Equipment Appendix.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Bio-Software's Biomonitor Solutions.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator/Spellcasting Resonator.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire/Spell Grimoire.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst/Spellcasting Catalyst.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Sub-Dermal Self-Integrated Weaponry Holster.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Spine-Replacement Unit.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Nutri-gel (1 day).md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Medi-gel.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (1 hr).md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst/Spellcasting Catalyst.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Two-Person Habitat.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Mess Set.md",
-    "Character Creation Playtest 1 Packet.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md",
     "Utilities/Dashboard.canvas",
-    "Reference Notes/Spell List.md",
-    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md",
-    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Shield Crush.md",
-    "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",

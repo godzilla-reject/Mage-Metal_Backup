@@ -5,20 +5,84 @@
       "path": "Reference Notes/Appendices/Equipment Appendix.md"
     },
     {
-      "basename": "Personal Scanner",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
+      "basename": "Cybermagistic Solution's Grim-Ware",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md"
     },
     {
-      "basename": "Personal Computer",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md"
+      "basename": "Bio-Software's Biomonitor Solutions",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Bio-Software's Biomonitor Solutions.md"
+    },
+    {
+      "basename": "net-Hack Toolkit",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Tower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md"
+    },
+    {
+      "basename": "Heater",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md"
+    },
+    {
+      "basename": "Buckler",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md"
+    },
+    {
+      "basename": "Spellcasting Resonator",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator/Spellcasting Resonator.md"
+    },
+    {
+      "basename": "Spell Grimoire",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire/Spell Grimoire.md"
+    },
+    {
+      "basename": "Spellcasting Catalyst",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst/Spellcasting Catalyst.md"
+    },
+    {
+      "basename": "Sub-Dermal Self-Integrated Weaponry Holster",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Sub-Dermal Self-Integrated Weaponry Holster.md"
+    },
+    {
+      "basename": "High-Integrity Spine-Replacement Unit",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Spine-Replacement Unit.md"
+    },
+    {
+      "basename": "Cyber-Arm",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
+    },
+    {
+      "basename": "Nutri-gel (1 day)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Nutri-gel (1 day).md"
+    },
+    {
+      "basename": "Medi-gel",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Medi-gel.md"
+    },
+    {
+      "basename": "Air Canister (24 hr)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md"
+    },
+    {
+      "basename": "Air Canister (1 hr)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (1 hr).md"
     },
     {
       "basename": "PiC-Mi",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md"
     },
     {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+      "basename": "Personal Scanner",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
+    },
+    {
+      "basename": "Personal Computer",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md"
     },
     {
       "basename": "Fine Clothes",
@@ -35,10 +99,6 @@
     {
       "basename": "Common Clothes",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md"
-    },
-    {
-      "basename": "Spellcasting Catalyst",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst/Spellcasting Catalyst.md"
     },
     {
       "basename": "High-Caliber Caseless Rounds",
@@ -139,66 +199,6 @@
     {
       "basename": "Sniper's Mark",
       "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Sniper's Mark.md"
-    },
-    {
-      "basename": "Power-Word 'Ache'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Ache'.md"
-    },
-    {
-      "basename": "Power-Word 'Harm'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Harm'.md"
-    },
-    {
-      "basename": "Escaton's Seismic Shudder",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Seismic Shudder.md"
-    },
-    {
-      "basename": "Earthen Spikes",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Spikes.md"
-    },
-    {
-      "basename": "Escaton's Boulder Fists",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Escaton's Boulder Fists.md"
-    },
-    {
-      "basename": "Earthen Armor",
-      "path": "Player-Facing Rules/Spells/Spells Database/Terraphasia/Earthen Armor.md"
-    },
-    {
-      "basename": "Fireball",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fireball.md"
-    },
-    {
-      "basename": "Fiery Dissipation",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Fiery Dissipation.md"
-    },
-    {
-      "basename": "Dolman's Scorcher",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Dolman's Scorcher.md"
-    },
-    {
-      "basename": "Ignition",
-      "path": "Player-Facing Rules/Spells/Spells Database/Pyrophasia/Ignition.md"
-    },
-    {
-      "basename": "Clamp-Maw Trap",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamp-Maw Trap.md"
-    },
-    {
-      "basename": "Eunard's Grinding Gears",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Grinding Gears.md"
-    },
-    {
-      "basename": "Eunard's Portable Cover",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Eunard's Portable Cover.md"
-    },
-    {
-      "basename": "Clamorous Clang",
-      "path": "Player-Facing Rules/Spells/Spells Database/Metallomancy/Clamorous Clang.md"
-    },
-    {
-      "basename": "Wormik's Torrent",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
     }
   ],
   "omittedPaths": [],
