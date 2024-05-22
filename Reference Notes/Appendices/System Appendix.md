@@ -60,9 +60,6 @@
 > 
 > You can give control of your Metal to the SA-RAID unit, allowing it to act independently. Unlike other forms of AI, you must still tell it what to do via verbal command. It can follow basic instruction statements, such as "defend this location," and it will defend itself and allies. You can issue new commands as long as you are within its Sensors Range and have the means to do so. This unit is not truly capable of emotion, and thus, cannot go Rogue.
 #### Deployables 
-![[Pattern-II Breecher Charges]]
-![[Pattern-II Frag-Cluster Charges]]
-![[Pattern-II Smoke-Screen Charges]]
 
 > [!info|ttl-c no-i n-th t-w tbl-cln] # Pattern-II Breecher Charges
 > ### System Information
@@ -144,17 +141,120 @@
 >> 
 >
 
-
+> [!info|ttl-c no-i n-th t-w tbl-cln]+ # Pattern-II Smoke-Screen Charges
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Deployable  |
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Charges\|3 Charges]]|
+> ### Details:
+> Your Metal gain access to the following System Weapons. You can expend a number of charges equal to the options required actions to use it.
+> 
+>>[!info|s-t no-i] Smoke Grenade ●
+>> ###### Weapon Information
+>>|                     |     |
+>>|:-------------------:|:---:|
+>>|   **Weapon Type**   |  Ranged   |
+>>| **Weapon Category** | Martial    |
+>>|  **Weapon Group**   | Grenade    |
+>>|   **Handed-ness**   | 1    |
+>>|     **Damage**      | *None*    |
+>>|     **Traits**      | [[Range\|Range 5 sp.]],  [[Area\| Area 2-sp. Burst]]|
+>> ###### *Description*
+>> You toss a Smoke Grenade into a space within Range. All characters and objects within the Area are [[Obscured]] until the end of your next turn, at which the smoke disperses.
+>
+>>[!info|s-t no-i] Smoke Mine ●
+>> ###### Weapon Information
+>>|                     |     |
+>>|:-------------------:|:---:|
+>>|   **Weapon Type**   |  Ranged   |
+>>| **Weapon Category** |  Martial   |
+>>|  **Weapon Group**   | Mine    |
+>>|   **Handed-ness**   |  0   |
+>>|     **Damage**      | *None*    |
+>>|     **Traits**      | [[Trap]], [[Range\|Range 2 sp.]],  [[Area\| Area 3-sp. Burst]]|
+>> ###### *Description*
+>> You deploy a smoke mine. Mark a free space within Range. Whenever any allied character moves over it or through an adjacent space, the mine detonates. All characters and objects within the Area around the Marked space are [[Obscured]] until the end of the detonating character's next turn, at which point the smoke disperses.
 #### Drones
-![[Brief Respite Restoration Drone]]
-![[Restocking Drone]]
+
+> [!info|ttl-c no-i n-th t-w tbl-cln] # Brief-Respite Metal Repair Drone
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0|
+> | **Type:** | Drone  |
+> |**System Points**|3|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Charges\| 2 Charges]], [[Aura\|Aura (3 sp.)]]|
+> ### Details:
+> You can expend one charge to deploy a Brief-Respite Metal Repair Drone. This drone has the following Statistics: 
+> - Size 1/2
+> - Health 1
+> - Toughness 8
+> 
+> All allies within the drone's aura are healed 2 Health per round. Any ally within the aura may take an action to overcharge the drone, giving every ally within the aura 1d6+4 Health. 
+> 
+
+> [!info|ttl-c no-i n-th t-w tbl-cln] # Metal-Restock Drone
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Drone  |
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Charges\| 2 Charges]]|
+> ### Details:
+> You can expend one charge to deploy a Restocking Drone. This drone has the following Statistics: Size 1/2, Health 4 and Toughness 2.
+> 
+> While adjacent to this drone, an ally can activate it (as a free action) to clear 1d6 Heat, clear one Detrimental condition, and take a single Reload action. The drone then immediately disintegrates into scrap.
 #### Flight Systems 
-![[Flashfire Jump-Jet System]]
-![[OTAN Module]]
-![[Type-II Microflight System]]
+
+> [!info|ttl-c no-i n-th t-w tbl-cln] # “Flashfire” Jump-Jet System
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0 |
+> | **Type:** | Flight-Sys  |
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]]|
+> ### Details: 
+> You can Fly whenever you Move, however you must end the movement on the ground (or solid surface). If you do not, you immediately begin falling.
+> 
+
+> [!info|ttl-c no-i n-th t-w tbl-cln] # OTAN Module
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Flight-Sys  |
+> |**System Points**|1|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]] |
+> ### Details:
+> Standing for *Omni-Terrain Adaptation & Navigation* module, your Metal can traverse low-gravity and underwater environs without issue. In these environments, your Metal can Fly and is not [[Slowed]].
+> 
+
+> [!info|ttl-c no-i n-th t-w tbl-cln] # Type-II Microflight System
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** |Flight-Sys  |
+> |**System Points**|3|
+> | **Requirements:** | Your Metal does not have a Heavy or Superheavy Frame. |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]]|
+> ### Details:
+> You may choose to Fly whenever you Move, however you mark Heat equal to your Metal's Size at the end of any turn in which you Fly this way.
 #### General Systems 
 ![[Expanded Cockpit]]
 ![[Personal Customization]]
+
+
 #### Weapon Mods 
 ![[Channel Charger Battery]]
 ![[Silencer]]
