@@ -116,7 +116,7 @@
 > ### Details:
 > Your Metal gain access to the following System Weapons. You can expend a number of charges equal to the options required actions to use it.
 > 
->>[!infobox|left s-t no-i]- Fragmentation Grenade ●
+>>[!info|s-t no-i] Fragmentation Grenade ●
 >> ###### Weapon Information
 >>|                     |     |
 >>|:-------------------:|:---:|
@@ -129,7 +129,7 @@
 >> ###### *Description*
 >> You toss a fragmentation grenade into a space within Range. All characters within the Area take must make a *basic* **Engineering** check. 
 >
->>[!infobox|left s-t no-i]- Cluster Grenade ●●
+>>[!info|s-t no-i] Cluster Grenade ●●
 >> ###### Weapon Information
 >>|                     |     |
 >>|:-------------------:|:---:|
@@ -141,6 +141,10 @@
 >>|     **Traits**      | [[Range\|Range 6 sp.]],  [[Area\| Area 3-sp. Burst]]|
 >> ###### *Description*
 >> You launch a cluster-bomb into a space within Range. All characters within the Area must make an *all-or-nothing* **Engineering** check, and then take an additional `dice:1d4` **crushing** damage as bomblets from the cluster explode.
+>> 
+>
+
+
 #### Drones
 ![[Brief Respite Restoration Drone]]
 ![[Restocking Drone]]
