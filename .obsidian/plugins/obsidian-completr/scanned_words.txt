@@ -5673,6 +5673,7 @@ Salvo
 Summer
 Spellcasting
 Suit
+Scanner
 Jackson
 Jack
 Juggernaut

@@ -180,16 +180,15 @@
 > **Upgrade Slots: 2**
 >
 
-> [!infobox|left]+ Equipment Entry
-> # `=this.file.name`
+> [!infobox|left] Personal Scanner 
 > ###### Equipment Information
 |            |                   |
 |:----------:|:-----------------:|
-| **Price**  | `=this.Price` un. |
-| **Type** | `=this.Type` |
-|  **Tier**  |   `=this.Tier`    |
+| **Price**  | 45 un. |
+| **Type** | Computer |
+|  **Tier**  |   0    |
 | **Usage**  |      Attached to a [[Personal Computer]].             |
-|  **Heft**  | `=this.Heft` lbs  |
+|  **Heft**  | 1 lbs  |
 | **Traits** |     [[Upgrade\|Upgrade (Computer)]]              |
 > ###### *Description*
 > This small, wide-ray scanner can be used to detect hostiles in the user's local area. It is directly connected into a [[Personal Computer]], and occupies one of its Upgrade slots *and* Memory slots. *Include the mechanical benefits, such as maybe favor on Perception checks, once Perception has been filled out a lil more.*
