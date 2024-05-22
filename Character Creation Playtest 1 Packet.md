@@ -3687,6 +3687,534 @@ These differing modes are some of the only alterations made to the actual dice p
 > Much like plate-mail of old, carbon-alloy plate consists of plates that interlock together to encase the entire body in an artificial carapace of nearly impenetrable carbon alloy. These suits are costly and require extreme amounts of resources and time to create. A suit of this armor has integrated [[Power-Gaunt|Powergaunts]], as well as a lining that can be used as [[Verocloth]] armor.
 ## Appendix F: Metal Equipment
 ### F.1: Metal Systems 
-![[System Appendix]]
+#### A-RAID Units 
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Apopplia-Class A-RAID Unit
+> ### System Information 
+|                   |                                                                           |
+|:-----------------:|:-------------------------------------------------------------------------:|
+|     **Tier:**     |                                     0                                     |
+|     **Type:**     |                                  A-RAID                                   |
+| **System Points** |                                     3                                     |
+| **Requirements:** |                                  *None*                                   |
+|    **Traits**     | [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Artificial Intelligence]] |
+> ### Details:
+> Your Metal gains an Apopplia-Class A-RAID, which allows for truly autonomous piloting. As a free action, or as a part of summoning the Metal with this system installed, you can turn control over to the A-RAID system. While in this state, it functions identically to the [[SA-RAID Unit]] and you gain access to the following action:
+> 
+>> [!info|s-t no-i] Protocol: Apopplia's Dalliance ●
+>> [[Usage\|Usage: Metal]], [[Protocol]]
+>> - - -
+>> You relinquish full control to the Apopplia unit, who begins her secret rendezvous with her enemies' hearts. Your Metal gains the following benefits:
+>> - Your Metal's attacks with a d6 or smaller damage die gain [[Critical\|Critical 1d12]]
+>> - Your Metal's attacks have their critical range increased by 1 (typically to 3, 4 and 5.)
+>>   
+>> Each time your Metal deals a killing blow or critical hit while in this Protocol, it can teleport up to double its Speed or right next to an enemy within Sensors, whichever distance is shorter.
+>> 
+>
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray]  # Dante-Class A-RAID Unit
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | A-RAID|
+> |**System Points**|3|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Artificial Intelligence]]|
+> ### Details:
+> Your Metal gains a Dante-Class A-RAID, which allows for truly autonomous piloting. As a free action, or as a part of summoning the Metal with this system installed, you can turn control over to the A-RAID system. While in this state, it functions identically to the [[SA-RAID Unit]] and you gain access to the following action:
+> 
+>> [!info|s-t no-i] Protocol: Dante's Inferno ●
+>> [[Usage\|Usage: Metal]], [[Protocol]]
+>> - - -
+>> You relinquish full control to the Dante unit, who begins a journey across the Hell that is the battlefield. Your Metal gains the following benefits:
+>> - Your Metal's Speed is doubled.
+>> - All Melee attacks deal additional damage equal to your Metal's marked Heat.
+>>   
+>> At the end of each of your turns in which your Metal is using this Protocol, your Metal marks 1 Heat. At the end of your 9th turn after activation, your Metal clears all Heat, returns to full Health and Barrier, gains the [[Stunned]] condition and exits this Protocol.
+>> 
+>
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray]  # SA-RAID Unit
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | A-RAID  |
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Artificial Intelligence]]|
+> ### Details:
+> Your Metal gains a basic AI unit in the form of the Semi-Autonomous Robotic AI Driver.  It features a fully customizable avatar and can speak to you, but unlike a true A-RAID, it cannot form independent thought. It is solely obedient to you and will refuse the orders of others unless instructed to follow them.
+> 
+> You can give control of your Metal to the SA-RAID unit, allowing it to act independently. Unlike other forms of AI, you must still tell it what to do via verbal command. It can follow basic instruction statements, such as "defend this location," and it will defend itself and allies. You can issue new commands as long as you are within its Sensors Range and have the means to do so. This unit is not truly capable of emotion, and thus, cannot go Rogue.
+#### Deployables 
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Pattern-II Breecher Charges
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0 |
+> | **Type:** |Deployable|
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Charges\|3 Charges]]|
+> ### Details:
+> Your Metal gain access to the following System Weapons. You can expend a number of charges equal to the options required actions to use it.
+> 
+>>[!info|s-t no-i] Thermal Grenade ●
+>> ###### Weapon Information
+>>|                     |     |
+>>|:-------------------:|:---:|
+>>|   **Weapon Type**   |  Ranged   |
+>>| **Weapon Category** | Martial    |
+>>|  **Weapon Group**   | Grenade    |
+>>|   **Handed-ness**   | 1    |
+>>|     **Damage**      |1d6 **fire**     |
+>>|     **Traits**      | [[Range\|Range 5 sp.]],  [[Area\| Area 1-sp. Burst]], [[Devastating]]|
+>> ###### *Description*
+>> You toss a Thermal Grenade into a space within Range. All characters within the Area take must make an *all-or-nothing* **Structure** check. This weapon deals **true** damage to objects and terrain.
+>
+>>[!info|s-t no-i] Breecher Mine ●
+>> ###### Weapon Information
+>>|                     |     |
+>>|:-------------------:|:---:|
+>>|   **Weapon Type**   |  Ranged   |
+>>| **Weapon Category** |  Martial   |
+>>|  **Weapon Group**   | Mine    |
+>>|   **Handed-ness**   |  0   |
+>>|     **Damage**      | 2d6 **fire**    |
+>>|     **Traits**      | [[Trap]], [[Range\|Range 2 sp.]],  [[Area\| Area 3-sp. Burst]], [[Devastating]]|
+>> ###### *Description*
+>> You deploy a breeching mine. Mark a space within Range. Once the Threat Marker is marked, the mine arms, and must be detonated with a reaction. All characters within the Area, centered on the Marked space, must make an *all-or-nothing* **Structure** check. This weapon deals **true** damage to objects and terrain.
+>> 
+>
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray]  # Pattern-II Frag-Cluster Charges
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Deployable  |
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Charges\| 3 Charges]]|
+> ### Details:
+> Your Metal gain access to the following System Weapons. You can expend a number of charges equal to the options required actions to use it.
+> 
+>>[!info|s-t no-i] Fragmentation Grenade ●
+>> ###### Weapon Information
+>>|                     |     |
+>>|:-------------------:|:---:|
+>>|   **Weapon Type**   |  Ranged   |
+>>| **Weapon Category** | Martial    |
+>>|  **Weapon Group**   | Grenade    |
+>>|   **Handed-ness**   | 1    |
+>>|     **Damage**      |1d4 **crushing**     |
+>>|     **Traits**      | [[Range\|Range 5 sp.]],  [[Area\| Area 2-sp. Burst]]|
+>> ###### *Description*
+>> You toss a fragmentation grenade into a space within Range. All characters within the Area take must make a *basic* **Engineering** check. 
+>
+>>[!info|s-t no-i] Cluster Grenade ●●
+>> ###### Weapon Information
+>>|                     |     |
+>>|:-------------------:|:---:|
+>>|   **Weapon Type**   |  Ranged   |
+>>| **Weapon Category** |  Martial   |
+>>|  **Weapon Group**   | Grenade    |
+>>|   **Handed-ness**   |  1   |
+>>|     **Damage**      | 2d4 **crushing**    |
+>>|     **Traits**      | [[Range\|Range 6 sp.]],  [[Area\| Area 3-sp. Burst]]|
+>> ###### *Description*
+>> You launch a cluster-bomb into a space within Range. All characters within the Area must make an *all-or-nothing* **Engineering** check, and then take an additional `dice:1d4` **crushing** damage as bomblets from the cluster explode.
+>> 
+>
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray]  # Pattern-II Smoke-Screen Charges
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Deployable  |
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Charges\|3 Charges]]|
+> ### Details:
+> Your Metal gain access to the following System Weapons. You can expend a number of charges equal to the options required actions to use it.
+> 
+>>[!info|s-t no-i] Smoke Grenade ●
+>> ###### Weapon Information
+>>|                     |     |
+>>|:-------------------:|:---:|
+>>|   **Weapon Type**   |  Ranged   |
+>>| **Weapon Category** | Martial    |
+>>|  **Weapon Group**   | Grenade    |
+>>|   **Handed-ness**   | 1    |
+>>|     **Damage**      | *None*    |
+>>|     **Traits**      | [[Range\|Range 5 sp.]],  [[Area\| Area 2-sp. Burst]]|
+>> ###### *Description*
+>> You toss a Smoke Grenade into a space within Range. All characters and objects within the Area are [[Obscured]] until the end of your next turn, at which the smoke disperses.
+>
+>>[!info|s-t no-i] Smoke Mine ●
+>> ###### Weapon Information
+>>|                     |     |
+>>|:-------------------:|:---:|
+>>|   **Weapon Type**   |  Ranged   |
+>>| **Weapon Category** |  Martial   |
+>>|  **Weapon Group**   | Mine    |
+>>|   **Handed-ness**   |  0   |
+>>|     **Damage**      | *None*    |
+>>|     **Traits**      | [[Trap]], [[Range\|Range 2 sp.]],  [[Area\| Area 3-sp. Burst]]|
+>> ###### *Description*
+>> You deploy a smoke mine. Mark a free space within Range. Whenever any allied character moves over it or through an adjacent space, the mine detonates. All characters and objects within the Area around the Marked space are [[Obscured]] until the end of the detonating character's next turn, at which point the smoke disperses.
+#### Drones
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Brief-Respite Metal Repair Drone
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0|
+> | **Type:** | Drone  |
+> |**System Points**|3|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Charges\| 2 Charges]], [[Aura\|Aura (3 sp.)]]|
+> ### Details:
+> You can expend one charge to deploy a Brief-Respite Metal Repair Drone. This drone has the following Statistics: 
+> - Size 1/2
+> - Health 1
+> - Toughness 8
+> 
+> All allies within the drone's aura are healed 2 Health per round. Any ally within the aura may take an action to overcharge the drone, giving every ally within the aura 1d6 4 Health. 
+> 
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Metal-Restock Drone
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Drone  |
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]], [[Charges\| 2 Charges]]|
+> ### Details:
+> You can expend one charge to deploy a Restocking Drone. This drone has the following Statistics: Size 1/2, Health 4 and Toughness 2.
+> 
+> While adjacent to this drone, an ally can activate it (as a free action) to clear 1d6 Heat, clear one Detrimental condition, and take a single Reload action. The drone then immediately disintegrates into scrap.
+#### Flight Systems 
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # “Flashfire” Jump-Jet System
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0 |
+> | **Type:** | Flight-Sys  |
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]]|
+> ### Details: 
+> You can Fly whenever you Move, however you must end the movement on the ground (or solid surface). If you do not, you immediately begin falling.
+> 
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # OTAN Module
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Flight-Sys  |
+> |**System Points**|1|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]] |
+> ### Details:
+> Standing for *Omni-Terrain Adaptation & Navigation* module, your Metal can traverse low-gravity and underwater environs without issue. In these environments, your Metal can Fly and is not [[Slowed]].
+> 
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Type-II Microflight System
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** |Flight-Sys  |
+> |**System Points**|3|
+> | **Requirements:** | Your Metal does not have a Heavy or Superheavy Frame. |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]]|
+> ### Details:
+> You may choose to Fly whenever you Move, however you mark Heat equal to your Metal's Size at the end of any turn in which you Fly this way.
+#### General Systems 
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Expanded Cockpit
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** |0|
+> | **Type:** | Gen-Sys  |
+> |**System Points**|1|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 2]]|
+> ### Details:
+> Your Metal has space for one additional occupant within its cockpit for each time this system is installed. If any passenger meets the requirements to pilot your Metal, you may hand over control to them as a reaction (as if they were an A-RAID.)
+> 
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Personal Customizations
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0 |
+> | **Type:** | Gen-Sys  |
+> |**System Points**|1|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]] |
+> ### Details: 
+> Your Metal gains  1 to an Attribute of your choosing. Additionally, you can also establish a minor modification that you have made to your Metal. This alteration has no mechanical or numerical benefit, but could be important for establishing a key narrative aspect of your Metal.
+#### Weapon Mods 
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Channel Charger Battery
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Mod  |
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Installation** | Any weapon.|
+> |**Traits**| [[Usage\|Usage: Metal]]|
+> ### Details:
+> This modification can be used to allow a Metal weapon to channel the latent arcane energy of spells you cast. The modified weapon gains the [[Channel]] trait.
+> 
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Silencer
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Mod  |
+> |**System Points**|1|
+> | **Requirements:** | *None* |
+>|**Installation**| Any Ranged, Non-Superprimary weapon|
+> |**Traits**| [[Usage\|Usage: Metal]]|
+> ### Details:
+> Whenever you attack with the modified weapon, you do not lose the Hidden condition. Additionally, attacks with said weapon do not break Invisibility.
 ### F.2: Metal Weaponry 
-![[Metal Weapon Appendix]]
+####  *Ranged Weapons*
+##### **Aux**
+
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] ''Pepperboxer'' Harrying Micro-Cannons
+> ###### Weapon Information
+|                     |                                                                                                                                             |
+|:-------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
+|   **Weapon Type**   |                                                                Ranged                                                                 |
+| **Weapon Category** |                                                           Simple                                                          |
+|  **Weapon Group**   |                                                          Artillery                                                           |
+|      **Mount**      |                                                               Aux                                                        |
+|   **Handed-ness**   |                                                             0                                                           |
+|     **Damage**      |                                        1d4 piercing                                                  |
+|     **Traits**      | [[Integrated]], [[Anti-Ablative]], [[Capacity\|Capacity 2 (2)]], [[Repeating\|Repeating]], [[Range\|Range 3 sp.]], [[Reliable\|Reliable 2]] |
+> ###### *Description*
+> 
+> This small, square, 20mm box-gun of seeking missiles is named for one of the first ever firearms made by humankind on Old Earth. While not exceptionally powerful, the Micro-Cannons are easy-to-use and reliable even in close quarters situations due to being one of the few pieces of artillery that can be used within Engagement range. 
+##### **Secondary**
+
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] Standard-Issue 99mm ‘Backbreaker’ Handgun
+> ###### Weapon Information
+|                     |                                                                                                                                                                |
+|:-------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   **Weapon Type**   |                                                                          Ranged                                                                        |
+| **Weapon Category** |                                                                Simple                                                            |
+|  **Weapon Group**   |                                                                         Handguns                                                                    |
+|      **Mount**      |                                                              Secondary                                                            |
+|   **Handed-ness**   |                              1                                                                    |
+|     **Damage**      |                            1d6 piercing                           |
+|     **Traits**      | [[Anti-Ablative]], [[Dual]], [[Graceful]], [[Reliable\|Reliable 2]], [[Armor-Piercing\|Armor-Piercing 2]], [[Capacity\|Capacity 4 (2)]], [[Range\|Range 8 sp]] |
+> ###### *Description*
+> The Thumperthrower’s big brother. This massive handgun is the standard-issue secondary for new Mage-Pilots and their Metals. Easy to learn and easy to use, while still packing a hell of a punch.
+##### **Primary**
+
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] Standard-Issue 120mm 'Sizzleslinger' Assault Carbine
+> ###### Weapon Information
+|                     |                                                                                                                                                   |
+|:-------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   **Weapon Type**   |                                                                      Ranged                                                                       |
+| **Weapon Category** |                                                                      Martial                                                                      |
+|  **Weapon Group**   |                                                                     Long Guns                                                                     |
+|      **Mount**      |                                                                      Primary                                                                      |
+|   **Handed-ness**   |                                                                         2                                                                         |
+|     **Damage**      |                                                                   1d8 piercing                                                                    |
+|     **Traits**      | [[Anti-Ablative]], [[Graceful]], [[Capacity\|Capacity 6 (2)]], [[Repeating\| Repeating 3]], [[Reliable\| Reliable 2]], [[Critical\|Critical d12]] |
+> ###### *Description*
+> While at the Pilot level, weaponry is dominated by Elven and Dwaurven engineering, when it comes to needing the biggest guns, it is Humankind of Terra Prime that takes the cake. 
+> 
+> This massive assault carbine manages to have bunker-busting 120mm rounds while still being more maneuverable than any other primary.
+> 
+> Called the ‘Sizzle-Slinger’, this USH-M Standard Issue rifle sits as the best-in-class.
+##### **Heavy**
+
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] A.J.A.X. Gun
+> ###### Weapon Information
+|                     |                                                                                                                                                                                       |
+|:-------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   **Weapon Type**   |                                                                                        Ranged                                                                                         |
+| **Weapon Category** |                                                                                        Martial                                                                                        |
+|  **Weapon Group**   |                                                                                       Long Guns                                                                                       |
+|      **Mount**      |                                                                                         Heavy                                                                                         |
+|   **Handed-ness**   |                                                                                           2                                                                                           |
+|     **Damage**      |                                                                                     1d10 crushing                                                                                     |
+|     **Traits**      | [[Anti-Ablative]], [[Armor-Piercing\|Armor-Piercing 4]], [[High-Powered]], [[Capacity\|Capacity 4 (2)]], [[Range\|Range 10 sp]], [[Area\|Area (2-sp cone)]], [[Scatter\|Scatter 1d8]] |
+> ###### *Description*
+> Standing for "Anti-Kaiju, Jet-Supported, Armor-Piercing X(s)catter Gun," the AJAX weapon platform is manufactured by Martian Tectonics, who specializes in anti-Star Beast weaponry. 
+##### **Superprimary**
+
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] Omni-Ammo Multi-Launcher
+> ###### Weapon Information
+|                     |                                        |
+|:-------------------:|:--------------------------------------:|
+|   **Weapon Type**   |              Ranged              |
+| **Weapon Category** |           Advanced         |
+|  **Weapon Group**   |         Artillery           |
+|      **Mount**      |             Superprimary            |
+|   **Handed-ness**   |          0         |
+|     **Damage**      | 1d12^ piercing^ |
+|     **Traits**      |      [[Ordnance]], [[Integrated]],  [[Repeating\|Repeating 1]]^, [[Loading\|Loading 3]], [[Range\|Range 12 sp.]], [[Volley\|Volley 1]], [[Armor-Piercing\|Armor-Piercing 8]]^, [[Exceed\|Exceed 4]]  |
+> ###### *Description*
+> 
+> *Attributes denoted with a ^ are ammo type exclusive*
+> 
+> The Omni-Ammo Multi-Launcher is a massive, twin-barreled ordnance platform designed to utilize a wide array of ammo types to provide a combat solution in any conflict. 
+> 
+> The weapon’s standard profile is direct-fire payload that delivers high single-target damage via incredible armor-piercing.
+> 
+> ***Exceed*** Whenever you Exceed an attack with this weapon, increase the damage die of the ammo type being fired by one step and double the listed Area for that ammo type.
+> - - -
+> Offered ammo types include recursive cluster-shells for wide-area denial, lingering mana-fire bombs for hazard creation and high altitude, armor-piercing, crater-maker rounds. 
+> 
+> Swapping ammo types requires an Interact action.
+> 
+>>[!info|s-t no-i tbl-cln] Recursive Cluster-Shell Bombs
+>>
+>>|                 |     |
+>>|:---------------:|:---:|
+>>|   **Damage**    | 1d6 crushing   |
+>>|   **Traits**    |[[Anti-Ablative]]^,  [[Repeating\|Repeating 3]]^, [[Scatter\|Scatter 1d4]]^, [[Area\|Area (12-space Burst)]]^, [[Overkill\|Overkill 2]]^|
+>> These massive shells contain clusters of highly unstable proto-matter that detonates on contact with a standard reality. Each of these clusters has a small chance to duplicate spontaneously, though this does cause slight feedback in the form of Heat.
+>
+>>[!info|s-t no-i tbl-cln] Blue Mana-Fire Bombs
+>> 
+>>|                 |     |
+>>|:---------------:|:---:|
+>>|   **Damage**    | 1d6 fire *and* 1d4 channeled   |
+>>|   **Traits**    | [[Repeating\|Repeating 1]]^, [[Area\|Area (6-space Burst)]]^|
+>> Mark the Areas affected by each bomb. Mana-fire lingers in the Marked areas for 4 rounds, dealing the listed damage to each combatant within the area at the start of each of their turns. These areas *can* overlap, but extinguish when this ammo type is fired again. 
+>
+>>[!info|s-t no-i tbl-cln] Crater-Maker Bombs
+>>
+>>|                 |     |
+>>|:---------------:|:---:|
+>>|   **Damage**    | 1d10 piercing    |
+>>|   **Traits**    |[[Repeating\|Repeating 3]]^, [[Area\|Area (3-space Burst)]]^, [[Forceful]]^, [[Devastating]]^, [[High-Powered]]^ |
+####  *Melee Weapons*
+##### **Aux**
+
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] Standard-Issue LAES Knife
+> ###### Weapon Information
+|                     |                                        |
+|:-------------------:|:--------------------------------------:|
+|   **Weapon Type**   |              Melee             |
+| **Weapon Category** |         Simple         |
+|  **Weapon Group**   |            Daggers            |
+|      **Mount**      |             Aux         |
+|   **Handed-ness**   |          1          |
+|     **Damage**      | 1d4 cutting |
+|     **Traits**      |       [[Graceful]], [[Dual]], [[Thrown\|Thrown (4 sp.)]] |
+> ###### *Description*
+> The *Laser-Assisted Electronically-Serrated* (LAES) Knife is the standard-issue auxiliary weapon issued to new Mage Pilots. Cheap to make and useful in combat, these knives can be used by nearly any Metal.
+##### **Secondary**
+
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] “Bee-Sting” Reactive Combat Gauntlet
+> ###### Weapon Information
+|                     |                                        |
+|:-------------------:|:--------------------------------------:|
+|   **Weapon Type**   |              Melee              |
+| **Weapon Category** |           Simple            |
+|  **Weapon Group**   |           Brawling          |
+|      **Mount**      |             Secondary       |
+|   **Handed-ness**   |         0          |
+|     **Damage**      | 1d6 crushing |
+|     **Traits**      |   [[Integrated]], [[Dual]], [[Graceful]], [[Anti-Ablative]], [[Reliable\|Reliable 1]]                                     |
+> ###### *Description*
+> 
+> Designed for gunnery units and support Metals, these massive gauntlets alter their damage type to meet any physical weakness. Manaforming liquimetal re-shapes the gauntlet nearly instantly to meet this demand while still allowing for the Metal to use both hands for other tasks. 
+##### **Primary**
+
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] Carbon-Alloy Arcane Projection Axe 
+> ###### Weapon Information
+|                     |                                                                               |
+|:-------------------:|:-----------------------------------------------------------------------------:|
+|   **Weapon Type**   |                          Melee                              |
+| **Weapon Category** |                           Martial                          |
+|  **Weapon Group**   |                         Axe                        |
+|      **Mount**      |                             Primary                               |
+|   **Handed-ness**   |                      1                              |
+|     **Damage**      |                  1d6 channeled                    |
+|     **Traits**      | [[Dual]], [[Channel]], [[Versatile\|Versatile d10]], [[Reliable\|Reliable 2]] |
+> ###### *Description*
+> Made from high-density carbon alloy and brandishing a powerful arcane resonance gem blade-projector, this axe is a perfect solution for Mage Pilots who need their Metal to have high amounts of situational versatility. 
+##### **Heavy**
+
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] Heavy-Impact Gravihammer
+> ###### Weapon Information
+|                     |                                        |
+|:-------------------:|:--------------------------------------:|
+|   **Weapon Type**   |           Melee             |
+| **Weapon Category** |          Martial            |
+|  **Weapon Group**   |           Hammers          |
+|      **Mount**      |             Heavy            |
+|   **Handed-ness**   |        2          |
+|     **Damage**      | 1d10 crushing |
+|     **Traits**      |          [[Reach\| Reach 1]], [[High-Powered]], [[Armor-Piercing\|Armor Piercing 2]], [[Overkill\|Overkill 2]]       |
+> ###### *Description*
+> A giant hammer, held up by anti-grav technology. Simple. Effective. Hammer.
+##### **Superprimary**
+
+> [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] ''Converter'' Blade-Barricade CQC System
+> ###### Weapon Information
+>|                     |                                        |
+>|:-------------------:|:--------------------------------------:|
+>|   **Weapon Type**   |              Melee              |
+>| **Weapon Category** |       Advanced            |
+>|  **Weapon Group**   |            Sword           |
+>|      **Mount**      |            Superprimary              |
+>|   **Handed-ness**   |          2         |
+>|     **Damage**      | Special |
+>|     **Traits**      |       Special                                 |
+> ##### *Description*
+> One of the first superprimary weapon platforms created for Metal use, the Converter CQC allows the wielder to swap between a defensive sword-and-shield profile and an uber-offensive greatsword profile.
+> 
+> Swapping between weapon profiles takes a single action. 
+> 
+>>[!info|s-t no-i] Sword and Shield Profile
+>>
+>>*Sword*
+>>
+>>|                 |     |
+>>|:---------------:|:---:|
+>>| **Handed-ness** |  1   |
+>>|   **Damage**    | 1d6 cutting    |
+>>|   **Traits**    | [[Reach\|Reach 1]]    |
+>> 
+>> *Shield*
+>> 
+>>|                 |     |
+>>|:---------------:|:---:|
+>>| **Handed-ness** |  1   |
+>>|   **Protection**    |  +5   |
+>>|**Barrier**|20|
+>>|**Resistance**|Physical, Energy|
+>>|**Recharge**|`=[[Dev Helpers]].three-action`|
+>>|   **Traits**    | [[Defensive\|Defensive (Shield)]], [[Heavy]]    |
+>>*This shield scales with your highest Armor Proficiency*
+>
+>>[!info|s-t no-i] Greatsword Profile
+>>
+>>|                 |     |
+>>|:---------------:|:---:|
+>>| **Handed-ness** |  1   |
+>>|   **Damage**    | 1d8 cutting    |
+>>|   **Traits**    | [[Heavy]], [[High-Powered]], [[Parrying]], [[Reach\|Reach 2]], [[Armor-Piercing\|Armor-Piercing 4]], [[Overkill\| Overkill 2]], [[Exceed\|Exceed 3]]  |
+>> ***Exceed*** Whenever you Exceed an attack with this weapon, increase its damage die by one step and change its damage type to **Fire**. Such attacks do not cause you to mark Heat in order to Overkill. 

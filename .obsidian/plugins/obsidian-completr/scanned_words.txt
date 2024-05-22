@@ -69,6 +69,8 @@ Inspiring
 Impression
 Itself
 II
+Invisibility
+Impact
 Mage
 Metal
 Mecha
@@ -363,6 +365,7 @@ inter
 individuals
 isolated
 infection
+issued
 the
 takes
 titans
@@ -682,6 +685,7 @@ gauntlet
 gifts
 gore
 gaunts
+grav
 from
 first
 freeform
@@ -1290,6 +1294,8 @@ conjunction
 communicate
 chemicals
 covering
+cake
+carbine
 before
 being
 be
@@ -1489,6 +1495,12 @@ bag
 bandoliers
 bandolier
 backing
+biggest
+bunker
+busting
+box
+brandishing
+blade
 not
 never
 no
@@ -1839,6 +1851,7 @@ attire
 abuse
 activated
 adhere
+axe
 wear
 with
 war
@@ -2497,6 +2510,7 @@ Liar
 Leader
 Lightning
 Limb
+LAES
 The
 Tenets
 This
@@ -2981,6 +2995,8 @@ data
 disease
 dim
 discharged
+dominated
+density
 ever
 expand
 easy
@@ -3472,6 +3488,7 @@ plenty
 permanently
 printed
 passenger
+projector
 RP
 RPGs
 Ryutama
@@ -3747,6 +3764,7 @@ hr
 holds
 helmet
 headset
+hammer
 refine
 robust
 required
@@ -3990,6 +4008,7 @@ retrieved
 remote
 radius
 reinforced
+resonance
 Pathfinder
 PF
 Philosophy
@@ -4121,6 +4140,7 @@ Person
 Pole
 Personal
 Pattern
+Projection
 ABCs
 Apotheosis
 Accessibility
@@ -4252,6 +4272,7 @@ Ache
 Aurora
 Arm
 Alloy
+Assisted
 metal
 magic
 mechanics
@@ -4476,6 +4497,8 @@ microfilaments
 muti
 multi
 magnets
+manages
+maneuverable
 GURPS
 Google
 Greyhawk
@@ -4543,6 +4566,8 @@ Gel
 Grabenkanon
 Glazier
 Gaunt
+Gauntlet
+Gravihammer
 utmost
 use
 up
@@ -4856,6 +4881,9 @@ Eunard
 Escaton
 Environmental
 Exquisite
+Expanded
+Electronically
+Effective
 Use
 Usable
 Unsorted
@@ -5061,6 +5089,13 @@ Comms
 Channeler
 Carbon
 Charges
+Cockpit
+Customizations
+Channel
+Charger
+Called
+Carbine
+Cheap
 We
 While
 Write
@@ -5155,6 +5190,7 @@ keyed
 killing
 kilter
 kata
+knives
 just
 jurisdiction
 justify
@@ -5245,6 +5281,8 @@ Holster
 Heater
 Hack
 Hook
+Harrying
+Hammer
 you
 your
 yourself
@@ -5310,6 +5348,7 @@ varied
 visibility
 vocal
 verocloth
+versatility
 Function
 Form
 Fleshed
@@ -5779,6 +5818,12 @@ Singblade
 Syn
 Scalemail
 Screen
+Silencer
+Sizzle
+Slinger
+Sizzleslinger
+Serrated
+Sting
 Jackson
 Jack
 Juggernaut
@@ -5975,6 +6020,9 @@ Bandolier
 Boots
 Bonesplitter
 Brief
+Battery
+Backbreaker
+Bee
 Varies
 Vast
 Void
@@ -6055,6 +6103,7 @@ Kaiju
 Keep
 Kingslayer
 Kits
+Knife
 Quantum
 Quirks
 Quick

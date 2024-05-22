@@ -1,6 +1,5 @@
- > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray]
 #### A-RAID Units 
-> [!info|ttl-c no-i n-th t-w tbl-cln] # Apopplia-Class A-RAID Unit
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Apopplia-Class A-RAID Unit
 > ### System Information 
 |                   |                                                                           |
 |:-----------------:|:-------------------------------------------------------------------------:|
@@ -23,7 +22,7 @@
 >> 
 >
 
-> [!info|ttl-c no-i n-th t-w tbl-cln]+ # Dante-Class A-RAID Unit
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray]  # Dante-Class A-RAID Unit
 > ### System Information
 >|||
 > |:---:|:---:|
@@ -46,7 +45,7 @@
 >> 
 >
 
-> [!info|ttl-c no-i n-th t-w tbl-cln]+ # SA-RAID Unit
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray]  # SA-RAID Unit
 > ### System Information
 >|||
 > |:---:|:---:|
@@ -61,7 +60,7 @@
 > You can give control of your Metal to the SA-RAID unit, allowing it to act independently. Unlike other forms of AI, you must still tell it what to do via verbal command. It can follow basic instruction statements, such as "defend this location," and it will defend itself and allies. You can issue new commands as long as you are within its Sensors Range and have the means to do so. This unit is not truly capable of emotion, and thus, cannot go Rogue.
 #### Deployables 
 
-> [!info|ttl-c no-i n-th t-w tbl-cln] # Pattern-II Breecher Charges
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Pattern-II Breecher Charges
 > ### System Information
 >|||
 > |:---:|:---:|
@@ -101,7 +100,7 @@
 >> 
 >
 
-> [!info|ttl-c no-i n-th t-w tbl-cln]+ # Pattern-II Frag-Cluster Charges
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray]  # Pattern-II Frag-Cluster Charges
 > ### System Information
 >|||
 > |:---:|:---:|
@@ -141,7 +140,7 @@
 >> 
 >
 
-> [!info|ttl-c no-i n-th t-w tbl-cln]+ # Pattern-II Smoke-Screen Charges
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray]  # Pattern-II Smoke-Screen Charges
 > ### System Information
 >|||
 > |:---:|:---:|
@@ -180,7 +179,7 @@
 >> You deploy a smoke mine. Mark a free space within Range. Whenever any allied character moves over it or through an adjacent space, the mine detonates. All characters and objects within the Area around the Marked space are [[Obscured]] until the end of the detonating character's next turn, at which point the smoke disperses.
 #### Drones
 
-> [!info|ttl-c no-i n-th t-w tbl-cln] # Brief-Respite Metal Repair Drone
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Brief-Respite Metal Repair Drone
 > ### System Information
 >|||
 > |:---:|:---:|
@@ -195,10 +194,10 @@
 > - Health 1
 > - Toughness 8
 > 
-> All allies within the drone's aura are healed 2 Health per round. Any ally within the aura may take an action to overcharge the drone, giving every ally within the aura 1d6+4 Health. 
+> All allies within the drone's aura are healed 2 Health per round. Any ally within the aura may take an action to overcharge the drone, giving every ally within the aura 1d6 4 Health. 
 > 
 
-> [!info|ttl-c no-i n-th t-w tbl-cln] # Metal-Restock Drone
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Metal-Restock Drone
 > ### System Information
 >|||
 > |:---:|:---:|
@@ -213,7 +212,7 @@
 > While adjacent to this drone, an ally can activate it (as a free action) to clear 1d6 Heat, clear one Detrimental condition, and take a single Reload action. The drone then immediately disintegrates into scrap.
 #### Flight Systems 
 
-> [!info|ttl-c no-i n-th t-w tbl-cln] # “Flashfire” Jump-Jet System
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # “Flashfire” Jump-Jet System
 > ### System Information
 >|||
 > |:---:|:---:|
@@ -226,7 +225,7 @@
 > You can Fly whenever you Move, however you must end the movement on the ground (or solid surface). If you do not, you immediately begin falling.
 > 
 
-> [!info|ttl-c no-i n-th t-w tbl-cln] # OTAN Module
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # OTAN Module
 > ### System Information
 >|||
 > |:---:|:---:|
@@ -239,7 +238,7 @@
 > Standing for *Omni-Terrain Adaptation & Navigation* module, your Metal can traverse low-gravity and underwater environs without issue. In these environments, your Metal can Fly and is not [[Slowed]].
 > 
 
-> [!info|ttl-c no-i n-th t-w tbl-cln] # Type-II Microflight System
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Type-II Microflight System
 > ### System Information
 >|||
 > |:---:|:---:|
@@ -251,10 +250,56 @@
 > ### Details:
 > You may choose to Fly whenever you Move, however you mark Heat equal to your Metal's Size at the end of any turn in which you Fly this way.
 #### General Systems 
-![[Expanded Cockpit]]
-![[Personal Customization]]
 
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Expanded Cockpit
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** |0|
+> | **Type:** | Gen-Sys  |
+> |**System Points**|1|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 2]]|
+> ### Details:
+> Your Metal has space for one additional occupant within its cockpit for each time this system is installed. If any passenger meets the requirements to pilot your Metal, you may hand over control to them as a reaction (as if they were an A-RAID.)
+> 
 
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Personal Customizations
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0 |
+> | **Type:** | Gen-Sys  |
+> |**System Points**|1|
+> | **Requirements:** | *None* |
+> |**Traits**| [[Usage\|Usage: Metal]], [[Limit\|Limit: 1]] |
+> ### Details: 
+> Your Metal gains  1 to an Attribute of your choosing. Additionally, you can also establish a minor modification that you have made to your Metal. This alteration has no mechanical or numerical benefit, but could be important for establishing a key narrative aspect of your Metal.
 #### Weapon Mods 
-![[Channel Charger Battery]]
-![[Silencer]]
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Channel Charger Battery
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Mod  |
+> |**System Points**|2|
+> | **Requirements:** | *None* |
+> |**Installation** | Any weapon.|
+> |**Traits**| [[Usage\|Usage: Metal]]|
+> ### Details:
+> This modification can be used to allow a Metal weapon to channel the latent arcane energy of spells you cast. The modified weapon gains the [[Channel]] trait.
+> 
+
+ > [!info|ttl-c no-i n-th t-w tbl-cln bg-gray] # Silencer
+> ### System Information
+>|||
+> |:---:|:---:|
+> |**Tier:** | 0  |
+> | **Type:** | Mod  |
+> |**System Points**|1|
+> | **Requirements:** | *None* |
+>|**Installation**| Any Ranged, Non-Superprimary weapon|
+> |**Traits**| [[Usage\|Usage: Metal]]|
+> ### Details:
+> Whenever you attack with the modified weapon, you do not lose the Hidden condition. Additionally, attacks with said weapon do not break Invisibility.

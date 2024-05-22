@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b033812a3a2fa5b",
+        "id": "e10a1be70965f820",
         "type": "tabs",
         "children": [
           {
-            "id": "28dfe09c2ae901e4",
+            "id": "126ddeb4f4899543",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Appendices/System Appendix.md",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -30,57 +30,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c37bc91df3ab6d9a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c98797629d1454e9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "46f1b393fa42c88e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md",
+                "file": "Character Creation Playtest 1 Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md"
+                "file": "Character Creation Playtest 1 Packet.md"
               }
             }
           },
@@ -436,9 +385,24 @@
       "media-extended:Open media": false
     }
   },
-  "active": "46f1b393fa42c88e",
+  "active": "126ddeb4f4899543",
   "lastOpenFiles": [
+    "Reference Notes/Skill List.md",
+    "Character Creation Playtest 1 Packet.md",
+    "Reference Notes/Appendices/Metal Weapon Appendix.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers/Heavy-Impact Gravihammer.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/''Bee-Sting'' Reactive Combat Gauntlet.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/Standard-Issue 120mm 'Sizzleslinger' Assault Carbine.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns/Standard-Issue 99mm 'Backbreaker' Handgun.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/''Pepperboxer'' Harrying Micro-Cannons.md",
     "Reference Notes/Appendices/System Appendix.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod/Silencer.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod/Channel Charger Battery.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Type-II Microflight System.md",
@@ -447,24 +411,9 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Brief Respite Restoration Drone.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Restocking Drone.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md",
-    "Character Creation Playtest 1 Packet.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md",
-    "Reference Notes/Appendices/Armor Appendix.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Mobile/Filament Scalemail.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md",
-    "Reference Notes/Appendices/Mage Weapon Appendix.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Axe/Raider Axe.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Power-Gaunt.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
