@@ -1,16 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "Equipment Appendix",
+      "path": "Reference Notes/Appendices/Equipment Appendix.md"
+    },
+    {
+      "basename": "Personal Scanner",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
+    },
+    {
+      "basename": "Personal Computer",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md"
+    },
+    {
+      "basename": "PiC-Mi",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md"
+    },
+    {
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Fine Clothes",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md"
+    },
+    {
+      "basename": "Exquisite Clothes",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md"
+    },
+    {
+      "basename": "Environmental Suit",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md"
+    },
+    {
+      "basename": "Common Clothes",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md"
+    },
+    {
+      "basename": "Spellcasting Catalyst",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst/Spellcasting Catalyst.md"
+    },
+    {
+      "basename": "High-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Laser Charges",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
+    },
+    {
+      "basename": "Large-Gauge Scattershells",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md"
+    },
+    {
+      "basename": "Smart-Arrows",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md"
+    },
+    {
+      "basename": "Low-Caliber Caseless Rounds",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
+    },
+    {
+      "basename": "Two-Person Habitat",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Two-Person Habitat.md"
+    },
+    {
+      "basename": "Personal Habitat",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md"
+    },
+    {
+      "basename": "Omni-Wire (50 feet)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md"
+    },
+    {
+      "basename": "Nanofiber Rope (50 feet)",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md"
+    },
+    {
+      "basename": "Mess Set",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Mess Set.md"
+    },
+    {
+      "basename": "Character Creation Playtest 1 Packet",
+      "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "10-foot Pole",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Character Creation Playtest 1 Packet",
-      "path": "Character Creation Playtest 1 Packet.md"
     },
     {
       "basename": "Spell List",
@@ -115,90 +199,6 @@
     {
       "basename": "Wormik's Torrent",
       "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Wormik's Torrent.md"
-    },
-    {
-      "basename": "Hydro-Oscillation Field",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Hydro-Oscillation Field.md"
-    },
-    {
-      "basename": "Shifting Tides",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Shifting Tides.md"
-    },
-    {
-      "basename": "Steam-Spike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Hydrophasia/Steam-Spike.md"
-    },
-    {
-      "basename": "Lightning Bolt",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Lightning Bolt.md"
-    },
-    {
-      "basename": "Electroflex",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Electroflex.md"
-    },
-    {
-      "basename": "Arc Surge",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Arc Surge.md"
-    },
-    {
-      "basename": "Shockjolt",
-      "path": "Player-Facing Rules/Spells/Spells Database/Electromancy/Shockjolt.md"
-    },
-    {
-      "basename": "Ane's Screaming Cyclone",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Ane's Screaming Cyclone.md"
-    },
-    {
-      "basename": "Flusterdome",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Flusterdome.md"
-    },
-    {
-      "basename": "Fleeting Featherstep",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Fleeting Featherstep.md"
-    },
-    {
-      "basename": "Aerostrike",
-      "path": "Player-Facing Rules/Spells/Spells Database/Aerophasia/Aerostrike.md"
-    },
-    {
-      "basename": "New Equipment Template",
-      "path": "Templates/Markdown Templates/Mage Templates/New Equipment Template.md"
-    },
-    {
-      "basename": "New Workflow Canvas",
-      "path": "Utilities/Random Bullshit/New Workflow Canvas.canvas"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
-      "basename": "Crafting Rules",
-      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
-    },
-    {
-      "basename": "Mundocraft",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Mundocraft.md"
-    },
-    {
-      "basename": "Alchemy Concept",
-      "path": "Utilities/Random Bullshit/Alchemy Concept.md"
-    },
-    {
-      "basename": "Artifice",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
-    },
-    {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
-    },
-    {
-      "basename": "Armor Appendix",
-      "path": "Reference Notes/Appendices/Armor Appendix.md"
     }
   ],
   "omittedPaths": [],
