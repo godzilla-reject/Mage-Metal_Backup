@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
       "basename": "System Appendix",
       "path": "Reference Notes/Appendices/System Appendix.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Armor Appendix",
       "path": "Reference Notes/Appendices/Armor Appendix.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Filament Scalemail",

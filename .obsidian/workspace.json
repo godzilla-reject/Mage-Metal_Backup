@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b7f26d258a02717f",
+        "id": "143aaf92cbc4df7a",
         "type": "tabs",
         "children": [
           {
-            "id": "98ca47fc610f2758",
+            "id": "9d73739d14e30e91",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,40 +20,14 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Reference Notes/Appendices/System Appendix.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0a60dc3ab98a9239",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "07bd7ce4ce36edc3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.644925777151695
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
               }
             }
           }
@@ -177,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Appendices/System Appendix.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Appendices/System Appendix.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Appendices/System Appendix.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -384,8 +358,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -413,7 +386,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "98ca47fc610f2758",
+  "active": "9d73739d14e30e91",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md",
     "Reference Notes/Appendices/System Appendix.md",
