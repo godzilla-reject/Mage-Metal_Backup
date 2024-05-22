@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Medicine",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md"
+    },
+    {
+      "basename": "Heal Wounds",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
+      "basename": "Bleeding",
+      "path": "General Rules/Conditions Catalog/Detrimental/Bleeding.md"
+    },
+    {
+      "basename": "Athletics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Requirement",
+      "path": "General Rules/Traits Catalog/General/Requirement.md"
+    },
+    {
+      "basename": "Brawling",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Acrobatics",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md"
+    },
+    {
+      "basename": "Dodge",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md"
+    },
+    {
+      "basename": "Sneakery",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
+    },
+    {
+      "basename": "Hacking",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
+    },
+    {
+      "basename": "Academiology",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "Boulder Fists",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md"
-    },
-    {
-      "basename": "Raider Axe",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Axe/Raider Axe.md"
-    },
-    {
-      "basename": "Bonesplitter",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md"
-    },
-    {
-      "basename": "Powerblade",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md"
-    },
-    {
-      "basename": "Power-Gaunt",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Power-Gaunt.md"
-    },
-    {
-      "basename": "Singblade",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Daggers/Singblade.md"
-    },
-    {
-      "basename": "Glazier Boltbow",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md"
-    },
-    {
-      "basename": "Channeler's Tome",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
-    },
-    {
-      "basename": "Lazerpike",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
-    },
-    {
-      "basename": "Grabenkanon",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
-    },
-    {
-      "basename": "Thumpthrower",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
-    },
-    {
-      "basename": "Equipment Appendix",
-      "path": "Reference Notes/Appendices/Equipment Appendix.md"
-    },
-    {
-      "basename": "Weather-proof Flare",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Weather-proof Flare.md"
-    },
-    {
-      "basename": "Viewfinder",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Viewfinder.md"
     }
   ],
   "omittedPaths": [],
