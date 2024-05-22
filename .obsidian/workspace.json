@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "22d86e38ef8e55f5",
+            "id": "4831774f10af9b22",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "9ee5ec7af7d14088",
+            "id": "55b0fe0bff371cf3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Backpack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -483,11 +483,13 @@
   },
   "active": "0cc0315df0ae3899",
   "lastOpenFiles": [
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
-    "Reference Notes/Appendices/Equipment Appendix.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Bio-Software's Biomonitor Solutions.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Backpack.md",
+    "Reference Notes/Appendices/Equipment Appendix.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Bio-Software's Biomonitor Solutions.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md",
@@ -507,8 +509,6 @@
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md",
     "Utilities/Dashboard.canvas",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",

@@ -396,7 +396,7 @@
 > This massive barrier-shield nearly fully covers the wielder. The wielder use a single Interaction action to deploy the shield's second barrier layer. When doing so, the Tower shield gains the mechanics noted in parentheses (they replace the original values) until the wielder takes a free action to change the shield back. 
 #### *Software* 
 
-> [!infobox|left] Bio-Software's Bio-Monitor Solutions
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Bio-Software's Bio-Monitor Solutions
 > ###### Equipment Information
 |            |                                                                               |
 |:----------:|:-----------------------------------------------------------------------------:|
@@ -410,21 +410,38 @@
 > Created by former gaming mega-corporation *Bio-Software*, this software is the premier way to track the user's, and their allies', well-being. With this software installed, the user can see the Health, Mana, Toughness and Conditions of themselves and up to 4 of their allies, provided those allies have a computer of some form equipped. 
 > 
 
-> [!infobox|left] Cybermagistic Solution's Grim-Ware
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Cybermagistic Solution's Grim-Ware
 > ###### Equipment Information
-|            |                   |
-|:----------:|:-----------------:|
-| **Price**  | `=this.Price` un. |
-| **Type** | `=this.Type` |
-|  **Tier**  |   `=this.Tier`    |
-| **Usage**  |        Installed in a computer.           |
-|  **Heft**  | `=this.Heft` lbs  |
-| **Traits** |     [[Requirement\| Requirement: 1 Memory Slot]], [[Program\|Program (Software)]]              |
+|            |                                                                               |
+|:----------:|:-----------------------------------------------------------------------------:|
+| **Price**  |                                    25 un.                                     |
+|  **Type**  |                                   Software                                    |
+|  **Tier**  |                                       1                                       |
+| **Usage**  |                           Installed in a computer.                            |
+|  **Heft**  |                                     0 lbs                                     |
+| **Traits** | [[Requirement\| Requirement: 1 Memory Slot]], [[Program\|Program (Software)]] |
 > ###### *Description*
 > Created by *Cybermagistic Solutions LLC*,  the Grim-Ware is intended to digitize a Mage-Pilot's grimoire. Spells are coded into the database via the ManaScript coding language. The user can use this software to store their spells within a computer. Additionally, this software grants a +1 equipment bonus to any check made to Detect Magic.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] net-Hack Toolkit
+> ###### Equipment Information
+|            |                                                                                                                              |
+|:----------:|:----------------------------------------------------------------------------------------------------------------------------:|
+| **Price**  |                                                           125 un.                                                            |
+|  **Type**  |                                                           Software                                                           |
+|  **Tier**  |                                                              1                                                               |
+| **Usage**  |                                                   Installed on a computer.                                                   |
+|  **Heft**  |                                                            0 lbs                                                             |
+| **Traits** | [[Requirement\| Requirement: 1 Memory Slot]], [[Program\|Program (Software)]], [[Uncommon]], [[Legality\|Legality: Illegal]] |
+> ###### *Description*
+> Referred to as the "hacker's journal," the Toolkit is a bashed kit that can, in theory, access nearly any piece of information or machine on the Hypranet. The Toolkit is required to use most [[Hacking]] skill actions. On its own, this program can be used to see network flow, traffic, and user count on any network the user can access. 
+> 
 #### *Storage*
 ![[Backpack]]
 ![[Bandolier]]
+
+
 #### *Traversal*
 ![[Grappling Hook]]
 ![[Magne-Boots]]

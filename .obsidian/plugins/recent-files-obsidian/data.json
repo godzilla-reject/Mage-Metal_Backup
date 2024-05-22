@@ -5,20 +5,28 @@
       "path": "Reference Notes/Appendices/Equipment Appendix.md"
     },
     {
-      "basename": "Cybermagistic Solution's Grim-Ware",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md"
+      "basename": "Bandolier",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md"
     },
     {
-      "basename": "Bio-Software's Biomonitor Solutions",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Bio-Software's Biomonitor Solutions.md"
+      "basename": "Equipment Database",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Backpack",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Backpack.md"
     },
     {
       "basename": "net-Hack Toolkit",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md"
     },
     {
-      "basename": "Equipment Database",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+      "basename": "Cybermagistic Solution's Grim-Ware",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md"
+    },
+    {
+      "basename": "Bio-Software's Biomonitor Solutions",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Bio-Software's Biomonitor Solutions.md"
     },
     {
       "basename": "Tower",
@@ -191,14 +199,6 @@
     {
       "basename": "Power-Word 'Heal'",
       "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Heal'.md"
-    },
-    {
-      "basename": "Retrace",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Retrace.md"
-    },
-    {
-      "basename": "Sniper's Mark",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Sniper's Mark.md"
     }
   ],
   "omittedPaths": [],

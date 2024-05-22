@@ -570,6 +570,7 @@ threatened
 tensile
 transfer
 taste
+tightly
 great
 game
 gaming
@@ -1466,6 +1467,9 @@ backwards
 beautiful
 braided
 braids
+bag
+bandoliers
+bandolier
 not
 never
 no
@@ -1530,6 +1534,7 @@ note
 negatives
 negotiate
 nutrients
+net
 afraid
 and
 aesthetic
@@ -1812,6 +1817,7 @@ automation
 aa
 affording
 attire
+abuse
 wear
 with
 war
@@ -2399,6 +2405,7 @@ stitches
 stove
 scaled
 setting
+stored
 LANCER
 Learn
 Lancer
@@ -3426,6 +3433,7 @@ promise
 purchasing
 pipes
 pushes
+plenty
 RP
 RPGs
 Ryutama
@@ -3694,6 +3702,7 @@ habs
 habitat
 hazmat
 hr
+holds
 refine
 robust
 required
@@ -3932,6 +3941,8 @@ refuses
 retaliate
 reporting
 radiation
+rugged
+retrieved
 Pathfinder
 PF
 Philosophy
@@ -5171,6 +5182,7 @@ Hydro
 Haste
 Holster
 Heater
+Hack
 you
 your
 yourself
@@ -5235,6 +5247,7 @@ violence
 varied
 visibility
 vocal
+verocloth
 Function
 Form
 Fleshed
@@ -5691,6 +5704,7 @@ Spellcasting
 Suit
 Scanner
 Spine
+Solution
 Jackson
 Jack
 Juggernaut
