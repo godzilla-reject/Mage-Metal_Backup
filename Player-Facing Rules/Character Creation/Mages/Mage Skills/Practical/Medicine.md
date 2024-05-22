@@ -3,10 +3,10 @@ Category: Practical
 Attribute: Mind
 Tags:
   - Skills
-Completed: false
+Completed: true
 ---
 # Skill Description-`=this.file.name`
-
+You can patch up wounds, help people recover faster, and stave off the ails of poison and disease. You can also treat your allies, allowing them to heal between tough fights without leaving the field. 
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category:** `=this.Category`   
 >**Attribute:** `=this.Attribute`
@@ -109,6 +109,12 @@ These actions can be performed by characters who are *Masters* in `=this.file.na
 >> *When you become a Master in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
 >> You do your best work when your patient is untainted by magical healing. If the target of your Treat Wounds has not received magical healing within the last 24 hours, any success you make is a critical success instead.
 
->> [!info|text-Center clear]+ Legendary Perk: 
+>> [!info|text-Center clear]+ Legendary Perk: The Hippocratic Oath
 >> *When you become a Legend in `=this.file.name`, if you have aptitude in it, you gain the following benefits.*
->> 
+>> When you gain this perk, you become bound to the Oath of Hippocrates, binding you to four statements:
+>> - Do No Harm. 
+>> - Revere Your Masters.
+>> - Wield Medicine Only for Good.
+>> - Bear Witness to No Gods.
+>>   
+>> After taking this oath, you gain the following benefits for as long as you withhold the oath: all non-magical healing you give is doubled and you cannot critically fail **Medicine** checks.

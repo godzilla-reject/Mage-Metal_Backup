@@ -1,24 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Medicine",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md"
+      "basename": "Academiology",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
     },
     {
-      "basename": "Heal Wounds",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
+      "basename": "net-Hack Toolkit",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md"
+    },
+    {
+      "basename": "Character Creation Playtest 1 Packet",
+      "path": "Character Creation Playtest 1 Packet.md"
     },
     {
       "basename": "Trait List",
       "path": "Utilities/Lists/General Lists/Trait List.md"
     },
     {
-      "basename": "Bleeding",
-      "path": "General Rules/Conditions Catalog/Detrimental/Bleeding.md"
+      "basename": "Character Mechanics Overview",
+      "path": "General Rules/Character Mechanics Overview.md"
+    },
+    {
+      "basename": "Program",
+      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
+    },
+    {
+      "basename": "Hacking",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Medicine",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md"
     },
     {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
+    },
+    {
+      "basename": "Heal Wounds",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
+    },
+    {
+      "basename": "Bleeding",
+      "path": "General Rules/Conditions Catalog/Detrimental/Bleeding.md"
     },
     {
       "basename": "Requirement",
@@ -27,10 +55,6 @@
     {
       "basename": "Brawling",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "Acrobatics",
@@ -45,20 +69,8 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
     },
     {
-      "basename": "Hacking",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
-    },
-    {
-      "basename": "Academiology",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "Character Creation Playtest 1 Packet",
-      "path": "Character Creation Playtest 1 Packet.md"
     },
     {
       "basename": "Skill List",
@@ -187,18 +199,6 @@
     {
       "basename": "Syn-theather",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md"
-    },
-    {
-      "basename": "Carbon Alloy Plate",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md"
-    },
-    {
-      "basename": "Mage Weapon Appendix",
-      "path": "Reference Notes/Appendices/Mage Weapon Appendix.md"
-    },
-    {
-      "basename": "Boulder Fists",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md"
     }
   ],
   "omittedPaths": [],

@@ -33,56 +33,6 @@
             }
           },
           {
-            "id": "162c809116defd97",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "27e7f47fd98f1f62",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f8617a1b6653d326",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -91,14 +41,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Program",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"General Rules/Traits Catalog/Equipment-Only/Program.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":149},\"to\":{\"line\":11,\"ch\":149}}}"
+                },
+                {
+                  "title": "Hacking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
-                "mode": "source",
+                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -120,6 +82,50 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ee40ff5029391e04",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation Playtest 1 Packet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c54c1e30950ad9e0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Rules/Character Mechanics Overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -218,7 +224,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "requirement",
+                "query": "skills",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,7 +267,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -290,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
               }
             }
           },
@@ -526,24 +533,27 @@
       "media-extended:Open media": false
     }
   },
-  "active": "27e7f47fd98f1f62",
+  "active": "370b5f7933a02772",
   "lastOpenFiles": [
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
+    "Character Creation Playtest 1 Packet.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
     "Utilities/Lists/General Lists/Trait List.md",
-    "General Rules/Conditions Catalog/Detrimental/Bleeding.md",
+    "General Rules/Character Mechanics Overview.md",
+    "General Rules/Traits Catalog/Equipment-Only/Program.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
+    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
+    "General Rules/Conditions Catalog/Detrimental/Bleeding.md",
     "Untitled.md",
     "General Rules/Traits Catalog/General/Requirement.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
     "Utilities/Dashboard.canvas",
-    "Character Creation Playtest 1 Packet.md",
     "Reference Notes/Skill List.md",
     "Reference Notes/Appendices/Metal Weapon Appendix.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
@@ -552,9 +562,6 @@
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/''Bee-Sting'' Reactive Combat Gauntlet.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Artillery/Omni-Ammo Multi-Launcher.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/A.J.A.X. Gun.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Long Guns/Standard-Issue 120mm 'Sizzleslinger' Assault Carbine.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Handguns/Standard-Issue 99mm 'Backbreaker' Handgun.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
