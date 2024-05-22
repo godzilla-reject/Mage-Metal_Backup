@@ -1,16 +1,168 @@
 {
   "recentFiles": [
     {
+      "basename": "System Appendix",
+      "path": "Reference Notes/Appendices/System Appendix.md"
+    },
+    {
+      "basename": "Pattern-II Frag-Cluster Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md"
+    },
+    {
+      "basename": "Pattern-II Breecher Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md"
+    },
+    {
+      "basename": "Pattern-II Smoke-Screen Charges",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md"
+    },
+    {
+      "basename": "SA-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md"
+    },
+    {
+      "basename": "Dante-Class A-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md"
+    },
+    {
+      "basename": "Apopplia-Class A-RAID Unit",
+      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md"
+    },
+    {
+      "basename": "Character Creation Playtest 1 Packet",
+      "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "Armor Appendix",
+      "path": "Reference Notes/Appendices/Armor Appendix.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "Filament Scalemail",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Mobile/Filament Scalemail.md"
+    },
+    {
+      "basename": "Verocloth",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md"
+    },
+    {
+      "basename": "Syn-theather",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md"
+    },
+    {
+      "basename": "Carbon Alloy Plate",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md"
+    },
+    {
+      "basename": "Mage Weapon Appendix",
+      "path": "Reference Notes/Appendices/Mage Weapon Appendix.md"
+    },
+    {
+      "basename": "Boulder Fists",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md"
+    },
+    {
+      "basename": "Raider Axe",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Axe/Raider Axe.md"
+    },
+    {
+      "basename": "Bonesplitter",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md"
+    },
+    {
+      "basename": "Powerblade",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md"
+    },
+    {
+      "basename": "Power-Gaunt",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Power-Gaunt.md"
+    },
+    {
+      "basename": "Singblade",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Daggers/Singblade.md"
+    },
+    {
+      "basename": "Glazier Boltbow",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md"
+    },
+    {
+      "basename": "Channeler's Tome",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md"
+    },
+    {
+      "basename": "Lazerpike",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md"
+    },
+    {
+      "basename": "Grabenkanon",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md"
+    },
+    {
+      "basename": "Thumpthrower",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md"
+    },
+    {
       "basename": "Equipment Appendix",
       "path": "Reference Notes/Appendices/Equipment Appendix.md"
     },
     {
-      "basename": "Bandolier",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md"
+      "basename": "Weather-proof Flare",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Weather-proof Flare.md"
+    },
+    {
+      "basename": "Viewfinder",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Viewfinder.md"
+    },
+    {
+      "basename": "Set of Tools",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Set of Tools.md"
+    },
+    {
+      "basename": "Rebreather",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Rebreather.md"
+    },
+    {
+      "basename": "Portable Surgery Station",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Portable Surgery Station.md"
+    },
+    {
+      "basename": "Personal Comms Gear",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Personal Comms Gear.md"
+    },
+    {
+      "basename": "Hardlight Torch",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Hardlight Torch.md"
+    },
+    {
+      "basename": "Gel Dispenser",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Gel Dispenser.md"
+    },
+    {
+      "basename": "Flare Gun",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Utility/Flare Gun.md"
     },
     {
       "basename": "Equipment Database",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
+    },
+    {
+      "basename": "Magne-Boots",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal/Magne-Boots.md"
+    },
+    {
+      "basename": "Thruster Pack",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal/Thruster Pack.md"
+    },
+    {
+      "basename": "Grappling Hook",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Traversal/Grappling Hook.md"
+    },
+    {
+      "basename": "Bandolier",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md"
     },
     {
       "basename": "Backpack",
@@ -47,158 +199,6 @@
     {
       "basename": "Spell Grimoire",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire/Spell Grimoire.md"
-    },
-    {
-      "basename": "Spellcasting Catalyst",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst/Spellcasting Catalyst.md"
-    },
-    {
-      "basename": "Sub-Dermal Self-Integrated Weaponry Holster",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Sub-Dermal Self-Integrated Weaponry Holster.md"
-    },
-    {
-      "basename": "High-Integrity Spine-Replacement Unit",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Spine-Replacement Unit.md"
-    },
-    {
-      "basename": "Cyber-Arm",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md"
-    },
-    {
-      "basename": "Nutri-gel (1 day)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Nutri-gel (1 day).md"
-    },
-    {
-      "basename": "Medi-gel",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Medi-gel.md"
-    },
-    {
-      "basename": "Air Canister (24 hr)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md"
-    },
-    {
-      "basename": "Air Canister (1 hr)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (1 hr).md"
-    },
-    {
-      "basename": "PiC-Mi",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md"
-    },
-    {
-      "basename": "Personal Scanner",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md"
-    },
-    {
-      "basename": "Personal Computer",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md"
-    },
-    {
-      "basename": "Fine Clothes",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md"
-    },
-    {
-      "basename": "Exquisite Clothes",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md"
-    },
-    {
-      "basename": "Environmental Suit",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md"
-    },
-    {
-      "basename": "Common Clothes",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Common Clothes.md"
-    },
-    {
-      "basename": "High-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/High-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Laser Charges",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Laser Charges.md"
-    },
-    {
-      "basename": "Large-Gauge Scattershells",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Large-Gauge Scattershells.md"
-    },
-    {
-      "basename": "Smart-Arrows",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Smart-Arrows.md"
-    },
-    {
-      "basename": "Low-Caliber Caseless Rounds",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Ammunition/Low-Caliber Caseless Rounds.md"
-    },
-    {
-      "basename": "Two-Person Habitat",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Two-Person Habitat.md"
-    },
-    {
-      "basename": "Personal Habitat",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Personal Habitat.md"
-    },
-    {
-      "basename": "Omni-Wire (50 feet)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Omni-Wire (50 feet).md"
-    },
-    {
-      "basename": "Nanofiber Rope (50 feet)",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Nanofiber Rope (50 feet).md"
-    },
-    {
-      "basename": "Mess Set",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/Mess Set.md"
-    },
-    {
-      "basename": "Character Creation Playtest 1 Packet",
-      "path": "Character Creation Playtest 1 Packet.md"
-    },
-    {
-      "basename": "10-foot Pole",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Adventuring/10-foot Pole.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Spell List",
-      "path": "Reference Notes/Spell List.md"
-    },
-    {
-      "basename": "Arcane Salvo",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Salvo.md"
-    },
-    {
-      "basename": "Shield Crush",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Shield Crush.md"
-    },
-    {
-      "basename": "Arcane Barrier",
-      "path": "Player-Facing Rules/Spells/Spells Database/Glyphiamancy/Arcane Barrier.md"
-    },
-    {
-      "basename": "Spells Database",
-      "path": "Player-Facing Rules/Spells/Spells Database/Spells Database.md"
-    },
-    {
-      "basename": "Aurora Vitam",
-      "path": "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Vitam.md"
-    },
-    {
-      "basename": "Aurora Mortum",
-      "path": "Player-Facing Rules/Spells/Spells Database/Essomancy/Aurora Mortum.md"
-    },
-    {
-      "basename": "Power-Word 'Haste'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Haste'.md"
-    },
-    {
-      "basename": "Power-Word 'Heal'",
-      "path": "Player-Facing Rules/Spells/Spells Database/Runeurgy/Power-Word 'Heal'.md"
     }
   ],
   "omittedPaths": [],

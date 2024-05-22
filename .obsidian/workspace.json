@@ -4,36 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "36b81e761735bdf3",
+        "id": "b7f26d258a02717f",
         "type": "tabs",
-        "dimension": 53.031914893617014,
         "children": [
           {
-            "id": "0cc0315df0ae3899",
+            "id": "98ca47fc610f2758",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
                   "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Character Creation Playtest 1 Packet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Character Creation Playtest 1 Packet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true},\"popstate\":true,\"active\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2802,\"ch\":18},\"to\":{\"line\":2802,\"ch\":18}}}"
-                },
-                {
-                  "title": "Dashboard",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-0.9988599801533312}}}",
                   "eState": "{}"
                 }
               ]
@@ -41,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Notes/Appendices/Equipment Appendix.md",
+                "file": "Reference Notes/Appendices/System Appendix.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -51,37 +32,11 @@
         ]
       },
       {
-        "id": "d77585d8519154e7",
+        "id": "0a60dc3ab98a9239",
         "type": "tabs",
-        "dimension": 46.96808510638298,
         "children": [
           {
-            "id": "2314fd94c1f9d2c3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Spellcasting Catalyst",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst/Spellcasting Catalyst.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md"
-              }
-            }
-          },
-          {
-            "id": "4831774f10af9b22",
+            "id": "07bd7ce4ce36edc3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -95,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -103,7 +58,7 @@
             }
           },
           {
-            "id": "55b0fe0bff371cf3",
+            "id": "0101eebe0162ace4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -117,8 +72,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Backpack.md",
-                "mode": "source",
+                "file": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -245,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Notes/Appendices/Equipment Appendix.md",
+                "file": "Reference Notes/Appendices/System Appendix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Notes/Appendices/Equipment Appendix.md",
+                "file": "Reference Notes/Appendices/System Appendix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Notes/Appendices/Equipment Appendix.md"
+                "file": "Reference Notes/Appendices/System Appendix.md"
               }
             }
           },
@@ -481,35 +436,35 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0cc0315df0ae3899",
+  "active": "98ca47fc610f2758",
   "lastOpenFiles": [
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Bandolier.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Equipment Database.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Storage/Backpack.md",
-    "Reference Notes/Appendices/Equipment Appendix.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Cybermagistic Solution's Grim-Ware.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/Bio-Software's Biomonitor Solutions.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Tower.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Heater.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Shield/Buckler.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Resonator/Spellcasting Resonator.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Grimoire/Spell Grimoire.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Catalyst/Spellcasting Catalyst.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Sub-Dermal Self-Integrated Weaponry Holster.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/High-Integrity Spine-Replacement Unit.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Cybernetic/Cyber-Arm.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Nutri-gel (1 day).md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Medi-gel.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (24 hr).md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Consumable/Air Canister (1 hr).md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/PiC-Mi.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Scanner.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Computer/Personal Computer.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Fine Clothes.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Exquisite Clothes.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Clothing/Environmental Suit.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md",
+    "Reference Notes/Appendices/System Appendix.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/SA-RAID Unit.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Dante-Class A-RAID Unit.md",
+    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md",
+    "Character Creation Playtest 1 Packet.md",
+    "Reference Notes/Appendices/Armor Appendix.md",
     "Utilities/Dashboard.canvas",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Mobile/Filament Scalemail.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Powered/Carbon Alloy Plate.md",
+    "Reference Notes/Appendices/Mage Weapon Appendix.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Boulder Fists.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Axe/Raider Axe.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Hammers/Bonesplitter.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Sword/Powerblade.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Brawling/Power-Gaunt.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Daggers/Singblade.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Bows/Glazier Boltbow.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Tome/Channeler's Tome.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Lazerpike.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Long Guns/Grabenkanon.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Weaponry/Handguns/Thumpthrower.md",
+    "Reference Notes/Appendices/Equipment Appendix.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",

@@ -68,6 +68,7 @@ Inspiration
 Inspiring
 Impression
 Itself
+II
 Mage
 Metal
 Mecha
@@ -202,6 +203,7 @@ Mortum
 May
 Medi
 Monitor
+Magne
 in
 inspiration
 it
@@ -571,6 +573,10 @@ tensile
 transfer
 taste
 tightly
+travel
+torch
+turned
+theather
 great
 game
 gaming
@@ -673,6 +679,7 @@ gunnery
 gauntlet
 gifts
 gore
+gaunts
 from
 first
 freeform
@@ -884,6 +891,11 @@ feelings
 flee
 fragile
 formal
+frequency
+finder
+flare
+fiber
+filament
 came
 combines
 combat
@@ -1272,6 +1284,9 @@ comfortably
 colloquially
 calories
 conjunction
+communicate
+chemicals
+covering
 before
 being
 be
@@ -1470,6 +1485,7 @@ braids
 bag
 bandoliers
 bandolier
+backing
 not
 never
 no
@@ -1818,6 +1834,8 @@ aa
 affording
 attire
 abuse
+activated
+adhere
 wear
 with
 war
@@ -1937,6 +1955,8 @@ warping
 whatever
 wit
 wording
+worn
+woven
 sleeve
 some
 something
@@ -2406,6 +2426,12 @@ stove
 scaled
 setting
 stored
+synth
+soles
+surfaces
+snipers
+sticks
+scalemail
 LANCER
 Learn
 Lancer
@@ -2691,6 +2717,7 @@ ordnance
 overlap
 observers
 outright
+ocular
 designer
 drag
 do
@@ -2947,6 +2974,8 @@ defy
 doom
 data
 disease
+dim
+discharged
 ever
 expand
 easy
@@ -3150,6 +3179,7 @@ edfef
 eating
 extravagant
 exquisite
+engaged
 played
 pilot
 play
@@ -3434,6 +3464,8 @@ purchasing
 pipes
 pushes
 plenty
+permanently
+printed
 RP
 RPGs
 Ryutama
@@ -3567,6 +3599,8 @@ Red
 Request
 Retrace
 Rope
+Requires
+Raider
 high
 heavily
 hopes
@@ -3703,6 +3737,8 @@ habitat
 hazmat
 hr
 holds
+helmet
+headset
 refine
 robust
 required
@@ -3943,6 +3979,9 @@ reporting
 radiation
 rugged
 retrieved
+remote
+radius
+reinforced
 Pathfinder
 PF
 Philosophy
@@ -4073,6 +4112,7 @@ Parley
 Person
 Pole
 Personal
+Pattern
 ABCs
 Apotheosis
 Accessibility
@@ -4203,6 +4243,7 @@ Arc
 Ache
 Aurora
 Arm
+Alloy
 metal
 magic
 mechanics
@@ -4426,6 +4467,7 @@ meeting
 microfilaments
 muti
 multi
+magnets
 GURPS
 Google
 Greyhawk
@@ -4488,6 +4530,11 @@ God
 Gather
 Grinding
 Gears
+Grappling
+Gel
+Grabenkanon
+Glazier
+Gaunt
 utmost
 use
 up
@@ -4712,6 +4759,7 @@ lmao
 likely
 luxuries
 leg
+lit
 Ease
 Excel
 Escalation
@@ -5001,6 +5049,10 @@ Crush
 Clothes
 Consumed
 Canister
+Comms
+Channeler
+Carbon
+Charges
 We
 While
 Write
@@ -5073,6 +5125,7 @@ Weaknesses
 Ward
 Wormik
 Wrist
+Weather
 keeping
 keep
 kek
@@ -5183,6 +5236,7 @@ Haste
 Holster
 Heater
 Hack
+Hook
 you
 your
 yourself
@@ -5346,6 +5400,8 @@ Featherstep
 Flusterdome
 Fiery
 Fine
+Flare
+Filament
 Dungeons
 Dragons
 Definitely
@@ -5464,6 +5520,7 @@ Demoralizing
 Death
 Dolman
 Dermal
+Dispenser
 Steve
 Sheets
 Segway
@@ -5705,6 +5762,12 @@ Suit
 Scanner
 Spine
 Solution
+Struck
+Surgery
+Station
+Singblade
+Syn
+Scalemail
 Jackson
 Jack
 Juggernaut
@@ -5895,6 +5958,10 @@ Bombs
 Blue
 Bolt
 Buckler
+Backpack
+Bandolier
+Boots
+Bonesplitter
 Varies
 Vast
 Void

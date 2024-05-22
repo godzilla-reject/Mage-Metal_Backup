@@ -1,4 +1,3 @@
-
 #### *Adventuring* 
 
 >[!info|no-i tbl-cln n-th embed nbrd bg-gray] 10-foot Pole
@@ -322,7 +321,7 @@
 > Each School grants a starting grimoire, but players should feel free to replace it with one of their own creation. To create a grimoire, pick a mundane item that is capable of storing information, such as a book, tattoos, or even esoteric metal rings, and then pick or roll for an option from the Magical Quirks chart.
 > 
 
-#### Resonator
+#### *Resonator*
 
 >[!info|no-i tbl-cln n-th embed nbrd bg-gray] Spellcasting Resonator
 > ###### Equipment Information
@@ -438,21 +437,200 @@
 > Referred to as the "hacker's journal," the Toolkit is a bashed kit that can, in theory, access nearly any piece of information or machine on the Hypranet. The Toolkit is required to use most [[Hacking]] skill actions. On its own, this program can be used to see network flow, traffic, and user count on any network the user can access. 
 > 
 #### *Storage*
-![[Backpack]]
-![[Bandolier]]
 
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Backpack
+> ###### Equipment Information
+|            |               |
+|:----------:|:-------------:|
+| **Price**  |    75 un.     |
+|  **Type**  |    Storage    |
+|  **Tier**  |       0       |
+| **Usage**  | Worn on back. |
+|  **Heft**  |     2 lbs     |
+| **Traits** |       -       |
+> ###### *Description*
+> This robust verocloth pack can withstand plenty of rugged abuse and action. It can hold up to 30 lbs of items and equipment.
+> 
 
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Bandolier 
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 20 un. |
+| **Type** | Storage |
+|  **Tier**  |   0   |
+| **Usage**  |    Worn.               |
+|  **Heft**  | 0.5 lbs  |
+| **Traits** |       -            |
+> ###### *Description*
+> This small verocloth bag fits tightly to the body, allowing for easy-access to stored items. A character can comfortably wear up to three bandoliers. Each bandolier holds up to 5 lbs of items, and items within them can be retrieved with a free action or reaction. 
 #### *Traversal*
-![[Grappling Hook]]
-![[Magne-Boots]]
-![[Thruster Pack]]
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Grappling Hook
+> ###### Equipment Information
+|            |                                         |
+|:----------:|:---------------------------------------:|
+| **Price**  |            12 un.            |
+|  **Type**  |           Traversal              |
+|  **Tier**  |              0               |
+| **Usage**  | Fired from a [[Flare Gun]]; or, thrown. |
+|  **Heft**  |            1 lbs             |
+| **Traits** |                    -                    |
+> ###### *Description*
+> A sturdy carbon alloy hook attached to a capsule that contains a 20-foot length of nanofiber rope. The grappling hook can be shot from a [[Flare Gun]] to for an easier time landing a shot, though the capsule can be opened and the hook can be manually thrown as well.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Magne-Boots
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 300 un. |
+| **Type** | Traversal |
+|  **Tier**  |   1    |
+| **Usage**  |      Worn on feet.             |
+|  **Heft**  | 6 lbs  |
+| **Traits** |       -            |
+> ###### *Description*
+> These synth-leather boots are Incredibly durable, and come with powerful, remote-activated magnets on the soles that can be engaged to nearly permanently adhere to sheer surfaces, as long as it is metal. The wearer can make an Interact action to engage the boots, gaining a Climb Speed of 3 sp and the ability to stand on aforementioned surfaces for up to two hours. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Thruster Pack
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 1000 un. |
+|  **Type**  |   Traversal   |
+|  **Tier**  |   1   |
+| **Usage**  |   Worn on back.   |
+|  **Heft**  | 8 lbs  |
+| **Traits** |         -         |
+> ###### *Description*
+> Commonly used by asteroid miners and comet farmers, an industry-standard Thruster Pack is essential to zero-g navigation. They are also commonly used in-atmosphere, but are much less effective due to a pesky issue called "physics."
+> In a zero-g environ, the wearer gains a Flight Speed of 6 sp. (as long as they have the other equipment necessary.) In atmosphere, however, the wearer makes **Jump (●)** checks with favor, and the wearer can travel an additional 2 spaces as apart of that action, provided they moved any at all. 
 #### *Utility*
-![[Flare Gun]]
-![[Gel Dispenser]]
-![[Hardlight Torch]]
-![[Personal Comms Gear]]
-![[Portable Surgery Station]]
-![[Rebreather]]
-![[Set of Tools]]
-![[Viewfinder]]
-![[Weather-proof Flare]]
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Flare Gun
+> ###### Equipment Information
+|            |                    |
+|:----------:|:------------------:|
+| **Price**  | 45 un.  |
+|  **Type**  |    Utility    |
+|  **Tier**  |    0    |
+| **Usage**  | Wielded in 1 hand. |
+|  **Heft**  |  1 lbs  |
+| **Traits** |         -          |
+> ###### *Description*
+> This small pistol can be used to discharge [[Weather-proof Flare]]s, as well as [[Grappling Hook]] charges. It is not strong enough to use as a weapon.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Gel Dispenser 
+> ###### Equipment Information
+|            |                 |
+|:----------:|:---------------:|
+| **Price**  |     25 un.      |
+|  **Type**  |     Utility     |
+|  **Tier**  |        0        |
+| **Usage**  | Held in 1 hand. |
+|  **Heft**  |      0 lbs      |
+| **Traits** |        -        |
+> ###### *Description*
+> This small, handheld dispenser can be used to administer most gels, including [[Medi-gel]] and [[Nutri-gel (1 day)|Nutri-gel]]. Typically, **training** in [[Medicine]] is required to use any form of medical gel with the dispenser. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Hardlight Torch
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 10 un. |
+|  **Type**  |   Utility    |
+|  **Tier**  |   0   |
+| **Usage**  |  Held in 1 hand; or, attached to a helmet, armor, or clothing.   |
+|  **Heft**  | 0 lbs  |
+| **Traits** |         -         |
+> ###### *Description*
+> This small torch can be turned on with a free action or reaction, and casts out a field of piercing, bright light in a 6-space cone, and then dim light 3 spaces further. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Personal Comms Gear
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 100 un. |
+| **Type** | Utility |
+|  **Tier**  |   1    |
+| **Usage**  |        Worn on head.           |
+|  **Heft**  | 0 lbs  |
+| **Traits** |      [[Communication]]             |
+> ###### *Description*
+> This headset can be comfortably worn under armor, and allows for the wearer to communicate with allies on the same frequency. Requires a [[Personal Computer]] to be functional.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Portable Surgery Station 
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  |  750 un. |
+| **Type** | Utility |
+|  **Tier**  |   1    |
+| **Usage**  |      Deployed in a 1 space area.             |
+|  **Heft**  | 25 lbs (when packed.) |
+| **Traits** |        [[Requirement\|Requirement (Expert in Medicine)]]         |
+> ###### *Description*
+> The USH-M Standard Medical Practice Portable Theater, or "backpack hospital" is a massive medical kit that can collapse into a moderately-sized package that can be somewhat easily transported. The station can be used to perform any Medicine action that requires a surgery suite, though operating in the field has its own difficulties. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Rebreather
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 250 un. |
+| **Type** | Utility |
+|  **Tier**  |   1    |
+| **Usage**  |    Worn on the face.               |
+|  **Heft**  | 0 lbs  |
+| **Traits** |       -            |
+> ###### *Description*
+>This filtered, air-supplied mask can be used to allow the wearer to breathe in oxygen-devoid environs, such as hostile worlds, subaquatic locales, and the vacuum of space. Nearly all suits of armor can integrate a Rebreather, allowing the wearer to still be protected in these adversarial environments. 
+>
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Set of Tools
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 100 un. |
+| **Type** | Utility |
+|  **Tier**  |   1   |
+| **Usage**  |     Varies.              |
+|  **Heft**  | 3 lbs  |
+| **Traits** |       -            |
+> ###### *Description*
+> This is a catch-all for any set of tools that can be used to facilitate a function; [[Mundocraft]] and [[Artifice]] both require a set of tools for specific uses. For example, a weapons fabricator would use a Set of Tools (Weaponcraft), while an alchemist would use a Set of Tools (Potioncraft). These specific qualifiers are GM-decided. Other uses include a Weapon Maintenance Kit or a Lockpick Set. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Viewfinder
+> ###### Equipment Information
+|            |                  |
+|:----------:|:----------------:|
+| **Price**  |      10 un.      |
+|  **Type**  |     Utility      |
+|  **Tier**  |        0         |
+| **Usage**  | Held in 2 hands. |
+|  **Heft**  |      0 lbs       |
+| **Traits** |        -         |
+> ###### *Description*
+> This ocular range-finder is typically used to measure distance for snipers on the battlefield. It can be used to see up to 800 sp. away from the user's position. It has robust night-vision, allowing for night time use. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray]  Weather-proof Flare
+> ###### Equipment Information
+|            |                                                      |
+|:----------:|:----------------------------------------------------:|
+| **Price**  |                        5 un.                         |
+|  **Type**  |                       Utility                        |
+|  **Tier**  |                          0                           |
+| **Usage**  | Struck by hand; or, discharged from a [[Flare Gun]]. |
+|  **Heft**  |                   0.25 lbs                   |
+| **Traits** |                          -                           |
+> ###### *Description*
+> These weather-proof sticks contain chemicals that, when ignited, provide powerful light in nearly any condition. 
+> A lit flare provides bright light in a 10-space radius around it, and dim light in a further 15 space-radius. 
+> 

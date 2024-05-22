@@ -2044,7 +2044,7 @@ These differing modes are some of the only alterations made to the actual dice p
 ### Artifacteomancy
 #### Essomancy
 ##### *Rank 3*
-> [!infobox|left] Aurora Vitam
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Aurora Vitam
 > ###### Spell Information
 |          |                                                                                    |
 |:--------:|:----------------------------------------------------------------------------------:|
@@ -2056,7 +2056,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > You defy your target's doom, pulling them back from the bring of death. Touch one ally that is in a death spiral. They immediately stabilize and fall [[Unconscious]] and you must make a TN 12 flat check. On a failure, you take 2dE **true** damage as fate pushes back against your tampering.
 
-> [!infobox|left] Aurora Mortum
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Aurora Mortum
 > ###### Spell Information
 |          |                                                                               |
 |:--------:|:-----------------------------------------------------------------------------:|
@@ -2069,7 +2069,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > You unleash a powerful cascade of energy that threatens to tear its target apart. Pick one creature within range, then make a TN 12 flat check. On a success, it takes 8d4 **true** damage. You then take *triple* the damage dealt. 
 #### Glyphiamancy
 ##### *Rank 0*
-> [!infobox|left] Arcane Barrier
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Arcane Barrier
 > ###### Spell Information
 |          |                                                          |
 |:--------:|:--------------------------------------------------------:|
@@ -2082,7 +2082,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > You weave runes and glyphs together to create a shield. This shield hovers in front of you. It has a Protection of +2, a Barrier of 10, and is resistant to **physical** damage. It cannot be recharged.
 > Additionally, you can use this shield to Defend against the missiles from [[Arcane Salvo]].
 ##### *Rank 1*
-> [!infobox|left] Shield Crush
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Shield Crush
 > ###### Spell Information
 |          |                                              |
 |:--------:|:--------------------------------------------:|
@@ -2094,7 +2094,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > You rush forward, crushing yourself into a target within range. You gain a +1 magical bonus to Toughness for the duration. At any time during the duration, you can use an action (●) to select a target within range, then Move up to the target, who then takes **crushing** damage equal to your Toughness. 
 ##### *Rank 2*
-> [!infobox|left] Arcane Salvo
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Arcane Salvo
 > ###### Spell Information
 |          |                                                |
 |:--------:|:----------------------------------------------:|
@@ -2107,7 +2107,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > You conjure an arcane charge, and then cast it out with unerring accuracy. It hits automatically and deals 1d4+1 **true** damage. For each additional action you spend, increase the number of missiles by one. You may choose separate targets for each missile.  
 #### Runeurgy
 ##### *Rank 0*
-> [!infobox|left] Power-Word “Harm”
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Power-Word “Harm”
 > ###### Spell Information
 |        |                                   |
 |:------:|:---------------------------------:|
@@ -2119,7 +2119,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > Your voice echoes across the battlefield, and you utter a single esoteric word that carries an echo of the Empty Nothing on its clamor. Pick one target within range. They must make a **Tenacity** check. On a failure, they take 1d4+2 **void** damage the next time they would take damage. On a success, the target takes 2 **void** damage.
 ##### *Rank 1*
-> [!infobox|left] Power-Word “Ache”
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Power-Word “Ache”
 > ###### Spell Information
 |          |                                                     |
 |:--------:|:---------------------------------------------------:|
@@ -2131,7 +2131,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > You utter a single word that commands a creature to writhe in pain. Pick one target within range. They must make a **Mind** check. On a failure, they become [[Immobilized]] until the end of your next turn. On future turns, you can Sustain this spell to renew the effect. At the end of the duration, or when you stop Sustaining this spell, the target takes 1 **true** damage for each turn they were affected by the spell.
 
-> [!infobox|left] Sniper’s Mark
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Sniper’s Mark
 > ###### Spell Information
 |          |                     |
 |:--------:|:-------------------:|
@@ -2143,7 +2143,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > You place a magical mark on a single foe you can see within range. For as long as the mark persists, you deal extra **true** damage to the marked foe, which is equal to your Accuracy. The mark is dispelled if the target dies, at the end of combat, or at the end of the duration.
 
-> [!infobox|left] Retrace 
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Retrace 
 > ###### Spell Information
 |          |                                   |
 |:--------:|:---------------------------------:|
@@ -2155,7 +2155,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > When you cast this spell, you leave a Mark in your space. For the duration, you can use your reaction to return to this mark. Additionally, if you have a mark from another spell, you can use this to return to that mark instead (without leaving a Mark.)
 ##### *Rank 2*
-> [!infobox|left] Power-Word “Heal”
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Power-Word “Heal”
 > ###### Spell Information
 |          |                                                                |
 |:--------:|:--------------------------------------------------------------:|
@@ -2167,7 +2167,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > You utter a beautiful word that stitches the wounds of the ally that hears it. Pick one ally within range. That ally is healed for 3d4 Health and regains 1d6 Mana.
 ##### *Rank 3*
-> [!infobox|left] Power-Word “Haste”
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Power-Word “Haste”
 > ###### Spell Information
 |          |                                |
 |:--------:|:------------------------------:|
@@ -2181,7 +2181,7 @@ These differing modes are some of the only alterations made to the actual dice p
 ### Elemancy
 #### Aerophasia
 ##### *Rank 0*
-> [!infobox|left] Aerostrike
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Aerostrike
 > ###### Spell Information
 |        |                               |
 |:------:|:-----------------------------:|
@@ -2192,7 +2192,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > You weave a bow of air and loose a powerful arrow. Make a ranged spell attack against a target within range, dealing 1d4 **cutting** damage. You can Move 2 spaces as a part of casting this spell, before or after the attack roll.
 ##### *Rank 1*
-> [!infobox|left] Fleeting Featherstep
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Fleeting Featherstep
 > ###### Spell Information
 |          |                         |
 |:--------:|:-----------------------:|
@@ -2205,7 +2205,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > You bolster your speed with a jet-stream of wind. For the duration, you gain a magical bonus to your Speed and Initiative equal to your Ranged Accuracy Bonus. As part of casting this spell, you can Move up to your Speed.
 
 ##### *Rank 2*
-> [!infobox|left]  Flusterdome
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray]  Flusterdome
 > ###### Spell Information
 |          |                                                                              |
 |:--------:|:----------------------------------------------------------------------------:|
@@ -2217,7 +2217,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > You conjure a roiling dome of fast-moving air within range. Due to the speed of the swirling area, ranged attacks that pass through it are made without favor unless that attack has the [[Air]] trait. The dome does not obscure vision. When you Sustain this spell, you can Move to any space within the dome as part of that action. 
 ##### *Rank 3*
-> [!infobox|left] Ane’s Screaming Cyclone
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Ane’s Screaming Cyclone
 > ###### Spell Information
 |          |                                                              |
 |:--------:|:------------------------------------------------------------:|
@@ -2231,7 +2231,7 @@ These differing modes are some of the only alterations made to the actual dice p
 
 #### Electromancy 
 ##### *Rank 0*
-> [!infobox|left] Shockjolt
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Shockjolt
 > ###### Spell Information
 |          |                                                   |
 |:--------:|:-------------------------------------------------:|
@@ -2243,7 +2243,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > You reach out to your target and grace them with a electrifying jolt. Make a melee spell attack against your target, which deals 1d4 **electric** damage. 
 ##### *Rank 1*
-> [!infobox|left] Arc Surge
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Arc Surge
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -2255,7 +2255,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > Choose one enemy you can see within range. They must make a *basic* **Mind** check, taking 1d8 **electric** damage. On a failure, the target also becomes [[Shocked]] for 1 round or 1 minute on a critical failure. 
 > 
 ##### *Rank 2*
-> [!infobox|left] Electroflex
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Electroflex
 > ###### Spell Information
 |          |                                        |
 |:--------:|:--------------------------------------:|
@@ -2267,7 +2267,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > Clashing your fists together, you send powerful electricity coursing through your arms. For the duration, any melee weapon attack you make deals an additional 1d6 **electric**  damage on a successful hi; additionally, you become [[Energized\|Energized 1]] , and on a critical hit, you become [[Energized\|Energized 2]] instead.
 ##### *Rank 3*
-> [!infobox|left] Lightning Bolt
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Lightning Bolt
 > ###### Spell Information
 |        |                                                    |
 |:------:|:--------------------------------------------------:|
@@ -2280,7 +2280,7 @@ These differing modes are some of the only alterations made to the actual dice p
 
 #### Hydrophasia
 ##### *Rank 0*
-> [!infobox|left] Steam-Spike
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Steam-Spike
 > ###### Spell Information
 |          |                      |
 |:--------:|:--------------------:|
@@ -2296,7 +2296,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > 
 >***Steam:*** You superheat local-area water vapors to scald a foe, dealing 2 **fire** damage. A target within range must make a *basic* **Body** check. If the target is [[Frozen]], or impaled by an ice spike, Scald deals 1d8 **fire** damage instead.
 ##### *Rank 1*
-> [!infobox|left] Shifting Tides
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Shifting Tides
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -2315,7 +2315,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ***Low Tide:*** You gain a magical bonus to [[Dodge]] checks that is equal to the number of spells you are Sustaining.
 > 
 ##### *Rank 2*
-> [!infobox|left] Hydro-Oscillation Field
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Hydro-Oscillation Field
 > ###### Spell Information
 |          |                                               |
 |:--------:|:---------------------------------------------:|
@@ -2335,7 +2335,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ***Low-Moisture:*** Allied creatures within the aura roll with favor against any [[Water]] effect and gain Resistance to damage dealt by spells and weapons with the [[Water]] trait, and enemy creatures become [[Frozen]]. 
 >
 ##### *Rank 3*
-> [!infobox|left] Wormik’s Torrent
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Wormik’s Torrent
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -2353,7 +2353,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > 
 #### Metallomancy
 ##### *Rank 0*
-> [!infobox|left] Clamorous Clang
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Clamorous Clang
 > ###### Spell Information
 |        |                |
 |:------:|:--------------:|
@@ -2366,7 +2366,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > You conjure two pipes or other noisy metal objects and crash them together, dealing 2 **sound** damage to each creature within the Area.
 
 ##### *Rank 1*
-> [!infobox|left] Eunard’s Portable Cover
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Eunard’s Portable Cover
 > ###### Spell Information
 |          |                                    |
 |:--------:|:----------------------------------:|
@@ -2378,7 +2378,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > Mark a 3-space area within range. You erect a carbon-alloy wall there, which provides *standard* cover. It has 10 Health, 5 Toughness, Resistance to **physical** damage, and can be moved.
 ##### *Rank 2*
-> [!infobox|left] Eunard’s Grinding Gears
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Eunard’s Grinding Gears
 > ###### Spell Information
 |          |                     |
 |:--------:|:-------------------:|
@@ -2390,7 +2390,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > You conjure two massive gears and crush a target within range between them. That creature takes 2d4 **cutting** damage, making a *basic* **Body** check. On a failure, they also start [[Bleeding\|Bleeding (1d6)]].
 ##### *Rank 3*
-> [!infobox|left] Clamp-Maw Trap
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Clamp-Maw Trap
 > ###### Spell Information
 |          |                                           |
 |:--------:|:-----------------------------------------:|
@@ -2403,7 +2403,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > You construct a spiked-mouth trap resembling the old-world "bear trap." Mark a single space within range. For the duration, a trap that deals 1d8 **crushing** damage is placed in that space. It has a Stealth score of 10+2 * your Tier. When an enemy triggers the trap, they must make a **Reflex** check. On a failure, they are [[Immobilized]] until they can Escape and start [[Bleeding\|Bleeding 1d10]].
 #### Pyrophasia 
 ##### *Rank 0*
-> [!infobox|left] Ignition
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Ignition
 > ###### Spell Information
 |        |                                            |
 |:------:|:------------------------------------------:|
@@ -2417,7 +2417,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ***Immolation Effect***
 > If the target has the [[Ignited]] condition, Ignition deals 1d8 **fire** damage instead.
 ##### *Rank 1*
-> [!infobox|left] Dolman’s Scorcher
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Dolman’s Scorcher
 > ###### Spell Information
 |          |                                                    |
 |:--------:|:--------------------------------------------------:|
@@ -2432,7 +2432,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ***Immolation Effect***
 > If any of the affected creatures have the [[Ignited]] condition, that creature makes their **Reflex** check without favor.
 ##### *Rank 2*
-> [!infobox|left] Fiery Dissipation
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Fiery Dissipation
 > ###### Spell Information
 |          |                     |
 |:--------:|:-------------------:|
@@ -2448,7 +2448,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ***Immolation Effect***
 > If the target has the [[Ignited]] condition, you may teleport up to half your Speed as part of casting this spell. If you do, this spell gains the [[Move]] and [[Teleport]] traits.
 ##### *Rank 3*
-> [!infobox|left] Fireball
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Fireball
 > ###### Spell Information
 |          |                                                |
 |:--------:|:----------------------------------------------:|
@@ -2464,7 +2464,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > If any of the affected creatures have the [[Ignited]] condition, all creatures that fail their **Reflex** checks also become Ignited for 1 minute.
 #### Terraphasia 
 ##### *Rank 0*
-> [!infobox|left] Earthen Armor
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Earthen Armor
 > ###### Spell Information
 |          |                          |
 |:--------:|:------------------------:|
@@ -2478,7 +2478,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > 
 > You gain a +4 *stacking* magical bonus to Toughness and a -4 Space penalty to Speed. Each time you take damage with Earthen Armor active, lower the Toughness bonus by 1, and increase the Speed penalty by 1. 
 ##### *Rank 1*
-> [!infobox|left] Escaton’s Boulder Fists
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Escaton’s Boulder Fists
 > ###### Spell Information
 |          |                |
 |:--------:|:--------------:|
@@ -2490,7 +2490,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > You condense granite-hard rock and stone around your fists. For the duration, you gain a +2 magical bonus to Toughness and gain access to the "Boulder Fist" spell weapon, which is shown below.
 ##### *Rank 2*
-> [!infobox|left] Earthen Spikes
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Earthen Spikes
 > ###### Spell Information
 |          |                                                                        |
 |:--------:|:----------------------------------------------------------------------:|
@@ -2502,7 +2502,7 @@ These differing modes are some of the only alterations made to the actual dice p
 > ###### *Details*
 > With a slam, you coax forth earthen spikes from the ground in the Area. These spikes deal 1d4 **piercing** damage to creatures in the affected spaces. For the duration, the area these spikes occupy are **lesser** difficult terrain, and you can shatter the spikes in a space to make any creature in a 6-space cone in front of that space [[Coated]]. If there are no more spiked spaces, the spell ends early.
 ##### *Rank 3*
-> [!infobox|left] Escaton’s Seismic Shudder 
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Escaton’s Seismic Shudder 
 > ###### Spell Information
 |          |                                                               |
 |:--------:|:-------------------------------------------------------------:|
@@ -2800,11 +2800,891 @@ These differing modes are some of the only alterations made to the actual dice p
 ![[Skill List]]
 ## Appendix E: Mage Equipment 
 ### E.1: General Equipment
-![[Equipment Appendix]]
+#### *Adventuring* 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] 10-foot Pole
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 1 un. |
+|  **Type**  |   Adventuring   |
+|  **Tier**  |   0    |
+| **Usage**  |  Held in 2 hands  |
+|  **Heft**  | 2 lbs  |
+| **Traits** |         -         |
+> ###### *Description*
+> This collapsible pole was often used by adventurers in the past when scouting dangerous locations. While wielding it, you can Search up to 2 spaces away, instead of just one. It is not sturdy enough to be used a weapon.  
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Mess Set
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 0.25 un. |
+|  **Type**  |   Adventuring   |
+|  **Tier**  |  0    |
+| **Usage**  |         -         |
+|  **Heft**  | 0 lbs  |
+| **Traits** |         -         |
+> ###### *Description*
+> This is a small package of cooking and eating equipment meant for the field, including a small camp stove. 
+>
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Nanofiber Rope (50 feet)
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  |10  un. |
+|  **Type**  | Adventuring     |
+|  **Tier**  |  0    |
+| **Usage**  |         -         |
+|  **Heft**  |10 lbs  |
+| **Traits** |         -         |
+> ###### *Description*
+> Made of hundreds of thousands of inter-braided carbon microfilaments, this industry-standard rope has nearly as many uses as it does braids. It has a tensile strength of roughly 3,000lbs.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Omni-Wire (50 feet)
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  |  15 un. |
+|  **Type**  |   Adventuring   |
+|  **Tier**  |  0    |
+| **Usage**  |         -         |
+|  **Heft**  | 10 lbs  |
+| **Traits** |         -         |
+> ###### *Description*
+> This multi-use wire can be used to transfer nearly any type of data from one machine to another. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Personal Habitat
+> ###### Equipment Information
+|            |                                   |
+|:----------:|:---------------------------------:|
+| **Price**  |            10 un.             |
+|  **Type**  |            Adventuring            |
+|  **Tier**  |                 0                 |
+| **Usage**  |    deployed in a 1-space area.    |
+|  **Heft**  |               3 lbs               |
+| **Traits** | [[Insulated\|Insulated (Severe)]] |
+> ###### *Description*
+> This small, climate-controlled shelter comes fully equipped with pressurized air conditioning and oxygen recyclers, as well as vertical mounting and subaquatic capabilities.  These features allow for camping and resting in any environ, sans the vacuum of space. 
+> Other features include an integrated bedspace, climate monitor, and noise cancelation. Multiple habitats can connect together as well, allowing allies to traverse between each other's spaces.
+> While extremely resistant to the effects of climate and weather, the Habitat is quite vulnerable to damage, and as such, affords no protection from weaponry of any kind. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Two-Person Habitat
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 30 un. |
+| **Type** | Adventuring|
+|  **Tier**  |  0    |
+| **Usage**  |      deployed in a 4-space area.             |
+|  **Heft**  | 6 lbs  |
+| **Traits** |      [[Insulated\|Insulated (Severe)]]             |
+> ###### *Description*
+> The 2-Person Habitat affords all of the same luxuries as the personal version (see *personal habitat*), but it has been scaled up to comfortably accommodate two individuals without needed them both to carry personal habs. 
+> 
+
+#### *Catalyst*
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Spellcasting Catalyst
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 25 un. |
+| **Type** | Catalyst |
+|  **Tier**  |   1   |
+| **Usage**  |        Varies.           |
+|  **Heft**  | 0 lbs  |
+| **Traits** |         [[Magical]]        |
+> ###### *Description*
+> This is a catch-all equipment entry to represent any general catalyst. Catalysts are the way a Mage brings a spell to life; it is step two in the bridge from The Slip to real-space. 
+> Each School grants a starting catalyst, but players should feel free to replace that one with one of their own creation. A catalyst should be functional and possess a unique, weak, magical quirk. 
+#### *Clothing*
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Common Clothes
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 0.75 un. |
+| **Type** | Clothing |
+|  **Tier**  |   0|
+| **Usage**  |     Worn              |
+|  **Heft**  | 0 lbs  |
+| **Traits** |      -             |
+> ###### *Description*
+> A set of bog-standard, common clothing. 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Environmental Suit
+> ###### Equipment Information
+|            |                                   |
+|:----------:|:---------------------------------:|
+| **Price**  |              100 un.              |
+|  **Type**  |             Clothing              |
+|  **Tier**  |                 1                 |
+| **Usage**  |               Worn.               |
+|  **Heft**  |              0.5 lbs              |
+| **Traits** | [[Insulated\|Insulated (Severe)]] |
+> ###### *Description*
+> This is an isolated-environment suit, or, colloquially, an environmental suit or hazmat suit. In order to function properly, the wearer also needs a [[Rebreather]] and some form of [[Air Canister (1 hr)\|Air Canister.]] 
+> While wearing the suit properly, the wearer becomes immune to any form of disease infection, poison, and radiation *as long as the suit is not compromised.* The suit is quite fragile, affording no protection, and is easily damaged. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Exquisite Clothes
+> ###### Equipment Information
+|            |          |
+|:----------:|:--------:|
+| **Price**  |  20 un.  |
+|  **Type**  | Clothing |
+|  **Tier**  |    1     |
+| **Usage**  |  Worn.   |
+|  **Heft**  | 0.5 lbs  |
+| **Traits** |    -     |
+> ###### *Description*
+> A set of masterfully made, extravagant clothing. The colloquial name for such an outfit would be "formal attire."
+> While wearing exquisite clothes, the wearer gains a +2 equipment bonus to **Tenacity** skill checks made in a social setting.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Fine Clothes 
+> ###### Equipment Information
+|            |          |
+|:----------:|:--------:|
+| **Price**  |  5 un.   |
+|  **Type**  | Clothing |
+|  **Tier**  |    0     |
+| **Usage**  |  Worn.   |
+|  **Heft**  |  0 lbs   |
+| **Traits** |    -     |
+> ###### *Description*
+> A set of clothes that set themselves apart from one's normal wardrobe. Most would call such an outfit "business casual."
+> The wearer gains a +1 equipment bonus to **Tenacity** skill checks made in social situations while wearing fine clothes.
+#### *Computer*
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Personal Computer
+> ###### Equipment Information
+|            |                                |
+|:----------:|:------------------------------:|
+| **Price**  |            100 un.             |
+|  **Type**  |            Computer            |
+|  **Tier**  |               1                |
+| **Usage**  |         Wrist-mounted.         |
+|  **Heft**  |             2 lbs              |
+| **Traits** | [[Computer\|Computer (Basic)]] |
+> ###### *Description*
+> This small computer is quite essential to most, if not all, pilots and mages. It allows one to interface with many forms of non-magical machine, run quintessential software, and utilize powerful equipment. 
+> **Memory: 3**
+> **Upgrade Slots: 2**
+>
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Personal Scanner 
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 45 un. |
+| **Type** | Computer |
+|  **Tier**  |   0    |
+| **Usage**  |      Attached to a [[Personal Computer]].             |
+|  **Heft**  | 1 lbs  |
+| **Traits** |     [[Upgrade\|Upgrade (Computer)]]              |
+> ###### *Description*
+> This small, wide-ray scanner can be used to detect hostiles in the user's local area. It is directly connected into a [[Personal Computer]], and occupies one of its Upgrade slots *and* Memory slots. *Include the mechanical benefits, such as maybe favor on Perception checks, once Perception has been filled out a lil more.*
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] PiC-Mi
+> ###### Equipment Information
+|            |                                                                                    |
+|:----------:|:----------------------------------------------------------------------------------:|
+| **Price**  |                                 200 un.                                  |
+|  **Type**  |                                           Computer                                         |
+|  **Tier**  |                                         1                                          |
+| **Usage**  |                      Integrated into  an existing cybernetic.                      |
+|  **Heft**  |                                       0 lbs                                        |
+| **Traits** | [[Computer\| Computer (Basic)]], [[Integrated]], [[Upgrade\|Upgrade (Cybernetic)]] |
+> ###### *Description*
+> Standing for "Personally-Integrated Computer-Machine Interface," the PiC-Mi is a computer system designed to be integrated into a piece of cyberware to allow the user direct mental interface with both the computer and machines it can connect to.
+> **Memory: 3**
+> **Upgrade Slots: 2** 
+> 
+#### *Consumable* 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Air Canister (1 hr)
+> ###### Equipment Information
+|            |            |
+|:----------:|:----------:|
+| **Price**  |  0.5 un.   |
+|  **Type**  | Consumable |
+|  **Tier**  |     0      |
+| **Usage**  | Attached.  |
+|  **Heft**  |   1 lbs    |
+| **Traits** |     -      |
+> ###### *Description*
+> This small, personal canister of air allows one to breathe for 1 hour in an oxygen-devoid environment, given that the user has a way to use it, such as a [[Rebreather]].
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Air Canister (24 hr)
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 5 un. |
+| **Type** | Consumable |
+|  **Tier**  |   0   |
+| **Usage**  |     Attached.              |
+|  **Heft**  | 25 lbs  |
+| **Traits** |        -           |
+> ###### *Description*
+> This large canister of a highly breathable mixture allows one to breathe for 24 hours in an oxygen-devoid environment, given that the user has a way to use it, such as a [[Rebreather]]. These can also be attached to a [[Personal Habitat\|habitat]] of some form to allow for resting and camping in oxygen-devoid environs.
+>
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Medi-gel
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 20 un. |
+| **Type** | Consumable |
+|  **Tier**  |   1    |
+| **Usage**  |     Applied via [[Gel Dispenser]].              |
+|  **Heft**  | 0.25 lbs  |
+| **Traits** |        [[Healing]]           |
+> ###### *Description*
+> This small pack of blue-yellow gel contains a powerful mix of painkillers, stem-cell stimulants and blood coagulants. When applied to a creature, that creature is healed for 2d6+4 Health, and immediately ends any [[Bleeding]] they might have. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Nutri-gel (1 day)
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 2 un. |
+| **Type** | Consumables |
+|  **Tier**  |  0  |
+| **Usage**  |       Consumed.            |
+|  **Heft**  | 0.01 lbs  |
+| **Traits** |     -              |
+> ###### *Description*
+> A tube of semi-clear green-blue gel, Nutri-gel contains all of the nutrients and calories one needs for a single day's worth of robust activities. It does not taste like anything.
+#### *Cybernetics* 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Cyber-Limb
+> ###### Equipment Information
+|            |                                |
+|:----------:|:------------------------------:|
+| **Price**  |            400 un.             |
+|  **Type**  |           Cybernetics           |
+|  **Tier**  |               1                |
+| **Usage**  |    Replacement for an arm.     |
+|  **Heft**  |             0 lbs              |
+| **Traits** | [[Cybernetic]], [[Integrated]] |
+> ###### *Description*
+> This fully-machine arm or leg is meant to replace an appendage that has been lost or otherwise discarded. It is just as functional as a normal arm, or leg, but gives the user a weakness to [[Electric]] effects, like all cybernetics do. Cyber-limbs can be fit with up to *two* upgrades, typically in the form of something like a [[Sub-Dermal Self-Integrated Weaponry Holster]].
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] High-Integrity Spine-Replacement Unit
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 500 un. |
+| **Type** | Cybernetics |
+|  **Tier**  |   1   |
+| **Usage**  |     Replacement for a spine.              |
+|  **Heft**  | 0 lbs  |
+| **Traits** |        [[Cybernetic]], [[Integrated]]           |
+> ###### *Description*
+> This incredibly invasive piece of cyberware completely replaces a creature's spine, and is typically done after severe injury. With a such a piece of hardware installed, the creature multiplies their Carry Weight by a factor of 2. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Sub-Dermal Self-Integrated Weaponry Holster
+> ###### Equipment Information
+|            |                                                   |
+|:----------:|:-------------------------------------------------:|
+| **Price**  |                600* un.                 |
+|  **Type**  |                   Cybernetics                    |
+|  **Tier**  |                  1                    |
+| **Usage**  |        Integrated into a cybernetic limb.         |
+|  **Heft**  |                 0 lbs                  |
+| **Traits** | [[Cybernetic]], [[Integrated]], [[Upgrade\|Upgrade (Cybernetic)]] |
+> ###### *Description*
+> An Integrated Weapon is a piece of cyberware that can be integrated into an existing cyber-limb as one of it's upgrades. After the upgrade is installed, a weapon of any kind may be installed into it with two hours of downtime and a [[Mundocraft]] (Expert) check with moderate difficulty. The weapon then gains the [[Integrated]] trait. 
+#### *Grimoire*
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Spell Grimoire
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 25 un. |
+| **Type** | Grimoire |
+|  **Tier**  |   1    |
+| **Usage**  |     Varies.              |
+|  **Heft**  | 0 lbs  |
+| **Traits** |      [[Magical]]            |
+> ###### *Description*
+> This is a catch-all equipment that represents any general Grimoire. 
+> Grimoires are tomes (or other reservoirs ) of knowledge that Mages tap into when they bring a spell to life; it is step one in the process of casting a proverbial hand into The Slip and pulling a spell from it. 
+> Each School grants a starting grimoire, but players should feel free to replace it with one of their own creation. To create a grimoire, pick a mundane item that is capable of storing information, such as a book, tattoos, or even esoteric metal rings, and then pick or roll for an option from the Magical Quirks chart.
+> 
+
+#### *Resonator*
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Spellcasting Resonator
+> ###### Equipment Information
+|            |                            |
+|:----------:|:--------------------------:|
+| **Price**  |           25 un.           |
+|  **Type**  |         Resonator          |
+|  **Tier**  |             1              |
+| **Usage**  |          Varies.           |
+|  **Heft**  |           0 lbs            |
+| **Traits** | [[Magical]], [[Resonance]] |
+> ###### *Description*
+> This is a catch-all equipment entry to represent any general resonator. A *resonator*, which is typically a necklace or pin, is a magical object that can be used in conjunction with a catalyst and grimoire to open a Slipbridge, or portal, to one's Metal in order to summon it in times of crisis. 
+> Each School grants a starting resonator, but players should feel free to replace that one with one of their own creation. A resonator should be important to the character, and needs to be hands-free. It can be abstract, such as [[Admiral Michi]]'s "Metal Resonance Precept" for her robot companion, V4G4_B0ND, or very literal and physical. One must be careful to not let a resonator become an actual magic item, as that would be a *specific resonator.* A good rule of thumb is a mundane object with one or two rolls from the [[Magical Quirks]] chart.
+> 
+#### *Shields* 
+##### **Infiltration**
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Buckler
+> ###### Equipment Information
+|                 |                                   |
+|:---------------:|:---------------------------------:|
+|    **Price**    |              50 un.               |
+|    **Heft**     |               2 lbs               |
+| **Handed-ness** |                 0                 |
+|    **Tier**     |                 0                 |
+|  **Category**   |            Infiltrator            |
+| **Protection**  |                +2                 |
+|   **Barrier**   |                12                 |
+| **Resistance**  |        Cutting, piercing.         |
+|  **Recharge**   |                ●●                 |
+|   **Traits**    | [[Defensive\|Defensive (Shield)]] |
+> ###### *Description*
+> This small shield is attached to the forearm, leaving the wielding hand and arm free to brandish another weapon. 
+##### **Mobile**
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Heater
+> ###### Equipment Information
+|                 |                                   |
+|:---------------:|:---------------------------------:|
+|    **Price**    |              100 un.              |
+|    **Heft**     |               8 lbs               |
+| **Handed-ness** |                 1                 |
+|    **Tier**     |                 0                 |
+|  **Category**   |              Mobile               |
+| **Protection**  |                +3                 |
+|   **Barrier**   |                18                 |
+| **Resistance**  |          Physical, fire.          |
+|  **Recharge**   |                ●●                 |
+|   **Traits**    | [[Defensive\|Defensive (Shield)]] |
+> ###### *Description*
+> This large barrier-shield is named for an Old World shield, not a space-heater (contrary to popular belief.) This specific design also, coincidentally, has a strong resistance to high temperatures. This is strictly a coincidence. 
+##### **Powered**
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray]+ Equipment Entry
+> # `=this.file.name`
+> ###### Equipment Information
+|                 |                                   |
+|:---------------:|:---------------------------------:|
+|    **Price**    |              250 un.              |
+|    **Heft**     |              25 lbs               |
+| **Handed-ness** |               1 (2)               |
+|    **Tier**     |                 1                 |
+|  **Category**   |              Powered              |
+| **Protection**  |              +4 (+6)              |
+|   **Barrier**   |                22                 |
+| **Resistance**  |    Physical (Physical, Energy)    |
+|  **Recharge**   |                ●●●                |
+|   **Traits**    | [[Defensive\|Defensive (Shield)]] |
+> ###### *Description*
+> This massive barrier-shield nearly fully covers the wielder. The wielder use a single Interaction action to deploy the shield's second barrier layer. When doing so, the Tower shield gains the mechanics noted in parentheses (they replace the original values) until the wielder takes a free action to change the shield back. 
+#### *Software* 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Bio-Software's Bio-Monitor Solutions
+> ###### Equipment Information
+|            |                                                                               |
+|:----------:|:-----------------------------------------------------------------------------:|
+| **Price**  |                                    35 un.                                     |
+|  **Type**  |                                   Software                                    |
+|  **Tier**  |                                       1                                       |
+| **Usage**  |                           Installed in a computer.                            |
+|  **Heft**  |                                     0 lbs                                     |
+| **Traits** | [[Requirement\| Requirement: 1 Memory Slot]], [[Program\|Program (Software)]] |
+> ###### *Description*
+> Created by former gaming mega-corporation *Bio-Software*, this software is the premier way to track the user's, and their allies', well-being. With this software installed, the user can see the Health, Mana, Toughness and Conditions of themselves and up to 4 of their allies, provided those allies have a computer of some form equipped. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Cybermagistic Solution's Grim-Ware
+> ###### Equipment Information
+|            |                                                                               |
+|:----------:|:-----------------------------------------------------------------------------:|
+| **Price**  |                                    25 un.                                     |
+|  **Type**  |                                   Software                                    |
+|  **Tier**  |                                       1                                       |
+| **Usage**  |                           Installed in a computer.                            |
+|  **Heft**  |                                     0 lbs                                     |
+| **Traits** | [[Requirement\| Requirement: 1 Memory Slot]], [[Program\|Program (Software)]] |
+> ###### *Description*
+> Created by *Cybermagistic Solutions LLC*,  the Grim-Ware is intended to digitize a Mage-Pilot's grimoire. Spells are coded into the database via the ManaScript coding language. The user can use this software to store their spells within a computer. Additionally, this software grants a +1 equipment bonus to any check made to Detect Magic.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] net-Hack Toolkit
+> ###### Equipment Information
+|            |                                                                                                                              |
+|:----------:|:----------------------------------------------------------------------------------------------------------------------------:|
+| **Price**  |                                                           125 un.                                                            |
+|  **Type**  |                                                           Software                                                           |
+|  **Tier**  |                                                              1                                                               |
+| **Usage**  |                                                   Installed on a computer.                                                   |
+|  **Heft**  |                                                            0 lbs                                                             |
+| **Traits** | [[Requirement\| Requirement: 1 Memory Slot]], [[Program\|Program (Software)]], [[Uncommon]], [[Legality\|Legality: Illegal]] |
+> ###### *Description*
+> Referred to as the "hacker's journal," the Toolkit is a bashed kit that can, in theory, access nearly any piece of information or machine on the Hypranet. The Toolkit is required to use most [[Hacking]] skill actions. On its own, this program can be used to see network flow, traffic, and user count on any network the user can access. 
+> 
+#### *Storage*
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Backpack
+> ###### Equipment Information
+|            |               |
+|:----------:|:-------------:|
+| **Price**  |    75 un.     |
+|  **Type**  |    Storage    |
+|  **Tier**  |       0       |
+| **Usage**  | Worn on back. |
+|  **Heft**  |     2 lbs     |
+| **Traits** |       -       |
+> ###### *Description*
+> This robust verocloth pack can withstand plenty of rugged abuse and action. It can hold up to 30 lbs of items and equipment.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Bandolier 
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 20 un. |
+| **Type** | Storage |
+|  **Tier**  |   0   |
+| **Usage**  |    Worn.               |
+|  **Heft**  | 0.5 lbs  |
+| **Traits** |       -            |
+> ###### *Description*
+> This small verocloth bag fits tightly to the body, allowing for easy-access to stored items. A character can comfortably wear up to three bandoliers. Each bandolier holds up to 5 lbs of items, and items within them can be retrieved with a free action or reaction. 
+#### *Traversal*
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Grappling Hook
+> ###### Equipment Information
+|            |                                         |
+|:----------:|:---------------------------------------:|
+| **Price**  |            12 un.            |
+|  **Type**  |           Traversal              |
+|  **Tier**  |              0               |
+| **Usage**  | Fired from a [[Flare Gun]]; or, thrown. |
+|  **Heft**  |            1 lbs             |
+| **Traits** |                    -                    |
+> ###### *Description*
+> A sturdy carbon alloy hook attached to a capsule that contains a 20-foot length of nanofiber rope. The grappling hook can be shot from a [[Flare Gun]] to for an easier time landing a shot, though the capsule can be opened and the hook can be manually thrown as well.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Magne-Boots
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 300 un. |
+| **Type** | Traversal |
+|  **Tier**  |   1    |
+| **Usage**  |      Worn on feet.             |
+|  **Heft**  | 6 lbs  |
+| **Traits** |       -            |
+> ###### *Description*
+> These synth-leather boots are Incredibly durable, and come with powerful, remote-activated magnets on the soles that can be engaged to nearly permanently adhere to sheer surfaces, as long as it is metal. The wearer can make an Interact action to engage the boots, gaining a Climb Speed of 3 sp and the ability to stand on aforementioned surfaces for up to two hours. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Thruster Pack
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 1000 un. |
+|  **Type**  |   Traversal   |
+|  **Tier**  |   1   |
+| **Usage**  |   Worn on back.   |
+|  **Heft**  | 8 lbs  |
+| **Traits** |         -         |
+> ###### *Description*
+> Commonly used by asteroid miners and comet farmers, an industry-standard Thruster Pack is essential to zero-g navigation. They are also commonly used in-atmosphere, but are much less effective due to a pesky issue called "physics."
+> In a zero-g environ, the wearer gains a Flight Speed of 6 sp. (as long as they have the other equipment necessary.) In atmosphere, however, the wearer makes **Jump (●)** checks with favor, and the wearer can travel an additional 2 spaces as apart of that action, provided they moved any at all. 
+#### *Utility*
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Flare Gun
+> ###### Equipment Information
+|            |                    |
+|:----------:|:------------------:|
+| **Price**  | 45 un.  |
+|  **Type**  |    Utility    |
+|  **Tier**  |    0    |
+| **Usage**  | Wielded in 1 hand. |
+|  **Heft**  |  1 lbs  |
+| **Traits** |         -          |
+> ###### *Description*
+> This small pistol can be used to discharge [[Weather-proof Flare]]s, as well as [[Grappling Hook]] charges. It is not strong enough to use as a weapon.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Gel Dispenser 
+> ###### Equipment Information
+|            |                 |
+|:----------:|:---------------:|
+| **Price**  |     25 un.      |
+|  **Type**  |     Utility     |
+|  **Tier**  |        0        |
+| **Usage**  | Held in 1 hand. |
+|  **Heft**  |      0 lbs      |
+| **Traits** |        -        |
+> ###### *Description*
+> This small, handheld dispenser can be used to administer most gels, including [[Medi-gel]] and [[Nutri-gel (1 day)|Nutri-gel]]. Typically, **training** in [[Medicine]] is required to use any form of medical gel with the dispenser. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Hardlight Torch
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 10 un. |
+|  **Type**  |   Utility    |
+|  **Tier**  |   0   |
+| **Usage**  |  Held in 1 hand; or, attached to a helmet, armor, or clothing.   |
+|  **Heft**  | 0 lbs  |
+| **Traits** |         -         |
+> ###### *Description*
+> This small torch can be turned on with a free action or reaction, and casts out a field of piercing, bright light in a 6-space cone, and then dim light 3 spaces further. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Personal Comms Gear
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 100 un. |
+| **Type** | Utility |
+|  **Tier**  |   1    |
+| **Usage**  |        Worn on head.           |
+|  **Heft**  | 0 lbs  |
+| **Traits** |      [[Communication]]             |
+> ###### *Description*
+> This headset can be comfortably worn under armor, and allows for the wearer to communicate with allies on the same frequency. Requires a [[Personal Computer]] to be functional.
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Portable Surgery Station 
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  |  750 un. |
+| **Type** | Utility |
+|  **Tier**  |   1    |
+| **Usage**  |      Deployed in a 1 space area.             |
+|  **Heft**  | 25 lbs (when packed.) |
+| **Traits** |        [[Requirement\|Requirement (Expert in Medicine)]]         |
+> ###### *Description*
+> The USH-M Standard Medical Practice Portable Theater, or "backpack hospital" is a massive medical kit that can collapse into a moderately-sized package that can be somewhat easily transported. The station can be used to perform any Medicine action that requires a surgery suite, though operating in the field has its own difficulties. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Rebreather
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 250 un. |
+| **Type** | Utility |
+|  **Tier**  |   1    |
+| **Usage**  |    Worn on the face.               |
+|  **Heft**  | 0 lbs  |
+| **Traits** |       -            |
+> ###### *Description*
+>This filtered, air-supplied mask can be used to allow the wearer to breathe in oxygen-devoid environs, such as hostile worlds, subaquatic locales, and the vacuum of space. Nearly all suits of armor can integrate a Rebreather, allowing the wearer to still be protected in these adversarial environments. 
+>
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Set of Tools
+> ###### Equipment Information
+|            |                   |
+|:----------:|:-----------------:|
+| **Price**  | 100 un. |
+| **Type** | Utility |
+|  **Tier**  |   1   |
+| **Usage**  |     Varies.              |
+|  **Heft**  | 3 lbs  |
+| **Traits** |       -            |
+> ###### *Description*
+> This is a catch-all for any set of tools that can be used to facilitate a function; [[Mundocraft]] and [[Artifice]] both require a set of tools for specific uses. For example, a weapons fabricator would use a Set of Tools (Weaponcraft), while an alchemist would use a Set of Tools (Potioncraft). These specific qualifiers are GM-decided. Other uses include a Weapon Maintenance Kit or a Lockpick Set. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Viewfinder
+> ###### Equipment Information
+|            |                  |
+|:----------:|:----------------:|
+| **Price**  |      10 un.      |
+|  **Type**  |     Utility      |
+|  **Tier**  |        0         |
+| **Usage**  | Held in 2 hands. |
+|  **Heft**  |      0 lbs       |
+| **Traits** |        -         |
+> ###### *Description*
+> This ocular range-finder is typically used to measure distance for snipers on the battlefield. It can be used to see up to 800 sp. away from the user's position. It has robust night-vision, allowing for night time use. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray]  Weather-proof Flare
+> ###### Equipment Information
+|            |                                                      |
+|:----------:|:----------------------------------------------------:|
+| **Price**  |                        5 un.                         |
+|  **Type**  |                       Utility                        |
+|  **Tier**  |                          0                           |
+| **Usage**  | Struck by hand; or, discharged from a [[Flare Gun]]. |
+|  **Heft**  |                   0.25 lbs                   |
+| **Traits** |                          -                           |
+> ###### *Description*
+> These weather-proof sticks contain chemicals that, when ignited, provide powerful light in nearly any condition. 
+> A lit flare provides bright light in a 10-space radius around it, and dim light in a further 15 space-radius. 
+> 
 ### E.2: Weaponry
-![[Mage Weapon Appendix]]
+####  *Ranged Weapons*
+##### **Simple**
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Thumpthrower
+> ###### Weapon Information
+|                     |                                          |
+|:-------------------:|:----------------------------------------:|
+|      **Price**      |            80 un.             |
+|   **Weapon Type**   |               Ranged          |
+| **Weapon Category** |             Simple         |
+|  **Weapon Group**   |              Handguns               |
+|   **Handed-ness**   |           1           |
+|     **Damage**      | 1d4 piercing |
+|   **Weapon Heft**    |             3 lbs             |
+|     **Traits**      |       [[Anti-Ablative]], [[Dual]], [[Reliable\|Reliable 2]], [[Repeating\|Repeating 1]], [[Capacity\|Capacity 4 (2)]], [[Range\|Range 6 sp]]                               |
+> ###### *Description*
+> Named for the slang term used to describe the small caliber ammo used, the Thumpthrower is a small firearm that is so reliable and easy to make that the Hegemony military has *never* taught another sidearm as their standard issue weapon. 
+>
+
+##### **Martial**
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Grabenkanon
+> ###### Weapon Information
+|                     |                                                                                                                                                 |
+|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
+|      **Price**      |                                                                     150 un.                                                                     |
+|   **Weapon Type**   |                                                                     Ranged                                                                      |
+| **Weapon Category** |                                                                     Martial                                                                     |
+|  **Weapon Group**   |                                                                    Long Guns                                                                    |
+|   **Handed-ness**   |                                                                        2                                                                        |
+|     **Damage**      |                                                                  1d8 piercing                                                                   |
+|   **Weapon Heft**   |                                                                     10 lbs                                                                      |
+|     **Traits**      | [[Anti-Ablative]], [[High-Powered]], [[Capacity\|Capacity 4 (1)]], [[Range\|Range 10 sp]], [[Area\|Area (2-sp cone)]], [[Scatter\|Scatter 1d6]] |
+> ###### *Description*
+> This shoulder-braced, lever-action, revolving scattergun was created by the Dwaurves as a response to the Elven Lazerpike. It uses a revolving cylinder to carry multiple cartridges of pellet-loaded *scattershells*.
+>
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Lazerpike
+> ###### Weapon Information
+|                     |                                                                                  |
+|:-------------------:|:--------------------------------------------------------------------------------:|
+|      **Price**      |                                    Ranged un.                                    |
+|   **Weapon Type**   |                                      Ranged                                      |
+| **Weapon Category** |                                     Martial                                      |
+|  **Weapon Group**   |                                    Long Guns                                     |
+|   **Handed-ness**   |                                        2                                         |
+|     **Damage**      |                                     1d8 fire                                     |
+|   **Weapon Heft**   |                                      8 lbs                                       |
+|     **Traits**      | [[Repeating\|Repeating 2]], [[Capacity\|Capacity 6 (2)]], [[Range\|Range 20 sp]] |
+> ###### *Description*
+> This shoulder-braced, lever-action, laser rifle is of Elven construction (and was originally called the Laevur-pyke) and uses high-powered lenses to flash-ignite targets. 
+> 
+##### **Advanced**
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Channeler’s Tome
+> ###### Weapon Information
+|                     |                                                                                                                                         |
+|:-------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|      **Price**      |                                                                 300 un.                                                                 |
+|   **Weapon Type**   |                                                                 Ranged                                                                  |
+| **Weapon Category** |                                                                Advanced                                                                 |
+|  **Weapon Group**   |                                                                  Tome                                                                   |
+|   **Handed-ness**   |                                                                    1                                                                    |
+|     **Damage**      |                                                              1d4 channeled                                                              |
+|   **Weapon Heft**   |                                                                  3 lbs                                                                  |
+|     **Traits**      | [[Graceful]], [[Reliable\|Reliable 2]], [[Repeating\|Repeating 2]], [[Forceful]], [[Channel]], [[Critical\|Critical 1d10]], [[Magical]] |
+> ###### *Description*
+> This thick, rune-inscribed tome collects ambient magic and allows the wielder to fire it in the form of small magical bolts of energy. This weapon can also double as a [[Spell Grimoire]].
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Glazier Boltbow
+> ###### Weapon Information
+|                     |                                                                                                               |
+|:-------------------:|:-------------------------------------------------------------------------------------------------------------:|
+|      **Price**      |                                                    160 un.                                                    |
+|   **Weapon Type**   |                                                    Ranged                                                     |
+| **Weapon Category** |                                                   Advanced                                                    |
+|  **Weapon Group**   |                                                     Bows                                                      |
+|   **Handed-ness**   |                                                       2                                                       |
+|     **Damage**      |                                                 1d12 electric                                                 |
+|   **Weapon Heft**   |                                                     6 lbs                                                     |
+|     **Traits**      | [[Volley\| Volley 6 sp]], [[Range\|Range 12 sp]], [[Capacity\| Capacity 2 (1)]], [[Area\| Area (3 sp Burst)]] |
+> ###### *Description*
+> A weapon of Dwaurven construction, the Boltbow was originally designed to be employed to quell riots and otherwise stop large crowds. Now, in aftermath of the Golden Age, the Boltbow sees military application for much the same reasons. 
+####  *Melee Weapons*
+##### **Simple**
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Singblade
+> ###### Weapon Information
+|                     |                                          |
+|:-------------------:|:----------------------------------------:|
+|      **Price**      |            25 un.             |
+|   **Weapon Type**   |              Melee              |
+| **Weapon Category** |            Simple       |
+|  **Weapon Group**   |          Daggers            |
+|   **Handed-ness**   |           1      |
+|     **Damage**      | 1d6 piercing |
+|   **Armor Heft**    |             1 lbs             |
+|     **Traits**      |             [[Thrown\|Thrown (2 sp.)]]                             |
+> ###### *Description*
+> These small blades are named for the small notch in them that makes them "sing" as they fly through the air. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Power-Gaunt
+> ###### Weapon Information
+|                     |                                        |
+|:-------------------:|:--------------------------------------:|
+|      **Price**      |          75 un.            |
+|   **Weapon Type**   |            Melee            |
+| **Weapon Category** |           Simple           |
+|  **Weapon Group**   |            Brawling           |
+|   **Handed-ness**   |         0       |
+|     **Damage**      | 1d4 crushing |
+|   **Armor Heft**    |            1 lbs            |
+|     **Traits**      |             [[Integrated]]             |
+> ###### *Description*
+> This fist-covering piece of armor is less a weapon and more-so a way to protect one's fists when fighting hand-to-hand. A set of power-gaunts are integrated into each suit of [[Carbon Alloy Plate]] armor.
+##### **Martial**
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Powerblade
+> ###### Weapon Information
+|                     |                               |
+|:-------------------:|:-----------------------------:|
+|      **Price**      |            50 un.             |
+|   **Weapon Type**   |             Melee             |
+| **Weapon Category** |            Martial            |
+|  **Weapon Group**   |             Sword             |
+|   **Handed-ness**   |               1               |
+|     **Damage**      |          1d8 cutting          |
+|   **Weapon Heft**   |             4 lbs             |
+|     **Traits**      | [[Versatile\|Versatile 1d10]] |
+> ###### *Description*
+> The Powerblade is the bog-standard melee that almost all Hegemony soldiers, including pilots, are trained on. While easy to learn to use, this weapon's high skill ceiling makes it a favorite among blademasters.
+##### **Advanced**
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Bonesplitter
+> ###### Weapon Information
+|                     |                                        |
+|:-------------------:|:--------------------------------------:|
+|      **Price**      |           200 un.            |
+|   **Weapon Type**   |              Melee          |
+| **Weapon Category** |            Advanced           |
+|  **Weapon Group**   |             Hammers             |
+|   **Handed-ness**   |        2        |
+|     **Damage**      |1d10 crushing |
+|   **Weapon Heft**   |            12 lbs            |
+|     **Traits**      |     [[Devastating]], [[Reach]], [[Area\|Area (3-sp. square)]]                                 |
+> ###### *Description*
+> Named for its commercial use of splitting bones harvested from the Great Beasts of Mars, this massive gravilift-assisted maul deals its damage in the listed Area. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Raider Axe
+> ###### Weapon Information
+|                     |                                        |
+|:-------------------:|:--------------------------------------:|
+|      **Price**      |          100 un.            |
+|   **Weapon Type**   |              Melee             |
+| **Weapon Category** |      Advanced         |
+|  **Weapon Group**   |             Axe             |
+|   **Handed-ness**   |          2        |
+|     **Damage**      | 1d12 cutting |
+|   **Weapon Heft**   |            10 lbs            |
+|     **Traits**      |           [[Devastating]], [[Thrown\|Thrown 4 sp]]                               |
+> ###### *Description*
+> These energy-bladed axes were originally designed by humans to help fell the massive trees on Mars, and were converted to combat usage shortly after the Hegemony was founded. They are balanced well enough to be able to be thrown with enough force to deal some real damage. 
+#### *Spell Weapons*
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Boulder Fists
+> ###### Weapon Information
+|                     |                                                                                            |
+|:-------------------:|:------------------------------------------------------------------------------------------:|
+|      **Price**      |                                    0 un.                                      |
+|   **Weapon Type**   |                                        Melee                                      |
+| **Weapon Category** |                            Simple                                  |
+|  **Weapon Group**   |                                      Brawling                                        |
+|   **Handed-ness**   |                                  2                                     |
+|     **Damage**      |                           1* crushing                 |
+|   **Weapon Heft**   |                                      13 lbs                                      |
+|     **Traits**      | [[Dual]], [[Integrated]], [[Forceful]], [[Devastating]], [[Flurry\|Flurry 1]], [[Magical]] |
+> ###### *Description*
+> *Conjured by [[Escaton's Boulder Fists]]*
+> 
+> A pair of powerful granite-clad fists. 
+> 
+> *\*This spell weapon deals bonus damage equal to the wielder's Toughness.*
 ### E.3: Armor
-![[Armor Appendix]]
+#### *Infiltration*
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Syn-theather
+> ###### Armor Information
+|                   |                           |
+|:-----------------:|:-------------------------:|
+|   **Price**     |    75 un.           |
+|  **Armor Category**   |    Infiltrator  |
+|    **Armor Group**    |      Synthflesh   |
+|  **Toughness Bonus**  | +2 |
+|   **Check Penalty**   |  -1 |
+| **Armor Requirement** |   Reflex 10   |
+|    **Armor Heft**     |     8 lbs      |
+|      Traits       |           -                |
+> ###### *Description*
+> Made from lab-grown, vegan-friendly synthetic leather, a suit of this type of armor provides a small amount of protection, but does not hinder fine tasks and is not noisy. 
+> 
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Verocloth
+> ###### Armor Information
+|                       |                                                  |
+|:---------------------:|:------------------------------------------------:|
+|       **Price**       |                      25 un.                      |
+|  **Armor Category**   |                   Infiltrator                    |
+|    **Armor Group**    |                      Cloth                       |
+|  **Toughness Bonus**  |                        +1                        |
+|   **Check Penalty**   |                        -0                        |
+| **Armor Requirement** |                       None                       |
+|    **Armor Heft**     |                      0 lbs                       |
+|        Traits         | [[Comfortable]], [[Insulated\|Insulated (Mild)]] |
+> ###### *Description*
+> This "armor" is a layer of quilted cloth that is primarily used to separate the wearer from a set of heavier armor, such as [[Carbon Alloy Plate]] (which has a set of this armor figured into its Price.) Verocloth is sometimes used on its own, however, though it is easy to destroy and provides little protection. 
+#### *Mobile*
+
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Filament Scalemail
+> ###### Armor Information
+|                       |           |
+|:---------------------:|:---------:|
+|       **Price**       |  125 un.  |
+|  **Armor Category**   |  Mobile   |
+|    **Armor Group**    | Composite |
+|  **Toughness Bonus**  |    +4     |
+|   **Check Penalty**   |    -2     |
+| **Armor Requirement** |  Body 14  |
+|    **Armor Heft**     |  16 lbs   |
+|        Traits         |     -     |
+> ###### *Description*
+> Filament scalemail is a suit of mobile armor that consists of 3D-printed carbon-fiber alloy filament scales woven into a wire-reinforced synth-leather backing. These suits are full-body, though typically lack a helmet. 
+
+#### *Powered*
+>[!info|no-i tbl-cln n-th embed nbrd bg-gray] Carbon Alloy Plate
+> ###### Armor Information
+|                   |                           |
+|:-----------------:|:-------------------------:|
+|   **Price**     |     600 un.           |
+|  **Armor Category**   |     Powered     |
+|    **Armor Group**    |       Plate       |
+|  **Toughness Bonus**  | +6 |
+|   **Check Penalty**   |  -4  |
+| **Armor Requirement** |   Power 16   |
+|    **Armor Heft**     |     30 lbs      |
+|      Traits       |         [[Stalwart]]                  |
+> ###### *Description*
+> Much like plate-mail of old, carbon-alloy plate consists of plates that interlock together to encase the entire body in an artificial carapace of nearly impenetrable carbon alloy. These suits are costly and require extreme amounts of resources and time to create. A suit of this armor has integrated [[Power-Gaunt|Powergaunts]], as well as a lining that can be used as [[Verocloth]] armor.
 ## Appendix F: Metal Equipment
 ### F.1: Metal Systems 
 ![[System Appendix]]
