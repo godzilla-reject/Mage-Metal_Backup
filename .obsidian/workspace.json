@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58d31e0c4e326c92",
+        "id": "36b81e761735bdf3",
         "type": "tabs",
         "children": [
           {
-            "id": "906c7d8998200e49",
+            "id": "0cc0315df0ae3899",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -385,7 +385,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "906c7d8998200e49",
+  "active": "0cc0315df0ae3899",
   "lastOpenFiles": [
     "Character Creation Playtest 1 Packet.md",
     "Reference Notes/Spell List.md",
