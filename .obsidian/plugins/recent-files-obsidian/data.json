@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Academiology",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
+      "basename": "Hacking",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
+    },
+    {
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "net-Hack Toolkit",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md"
+    },
+    {
+      "basename": "Academiology",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
+    },
+    {
+      "basename": "Diplomacy",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
     },
     {
       "basename": "Character Creation Playtest 1 Packet",
@@ -23,14 +35,6 @@
     {
       "basename": "Program",
       "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
-    },
-    {
-      "basename": "Hacking",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
-    },
-    {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "Medicine",
@@ -195,10 +199,6 @@
     {
       "basename": "Verocloth",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Verocloth.md"
-    },
-    {
-      "basename": "Syn-theather",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Infiltrator/Syn-theather.md"
     }
   ],
   "omittedPaths": [],

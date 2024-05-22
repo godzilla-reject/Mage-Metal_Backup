@@ -368,6 +368,7 @@ isolated
 infection
 issued
 injuries
+info
 the
 takes
 titans
@@ -586,6 +587,7 @@ turned
 theather
 trying
 targe
+topic
 great
 game
 gaming
@@ -1302,6 +1304,7 @@ cake
 carbine
 caring
 clock
+contemporary
 before
 being
 be
@@ -1866,6 +1869,7 @@ accustomed
 architecture
 academiology
 asking
+approves
 wear
 with
 war
@@ -2465,6 +2469,7 @@ snipers
 sticks
 scalemail
 studying
+specialties
 LANCER
 Learn
 Lancer
@@ -2530,6 +2535,7 @@ Limb
 LAES
 Laws
 Leyless
+Law
 The
 Tenets
 This
@@ -3023,6 +3029,7 @@ diseased
 deceased
 dead
 decrease
+disposition
 ever
 expand
 easy
@@ -3231,6 +3238,7 @@ exact
 estimate
 efforts
 eight
+especially
 played
 pilot
 play
@@ -3660,6 +3668,7 @@ Respite
 Repair
 Restock
 Revere
+Recall
 high
 heavily
 hopes
@@ -4315,6 +4324,8 @@ Assisted
 Attempt
 Afterwards
 Academiology
+Accounting
+Art
 metal
 magic
 mechanics
@@ -4972,6 +4983,7 @@ ULF
 Unveil
 Utterly
 Unit
+Unmistakable
 Complexity
 Could
 Conflicted
@@ -5145,6 +5157,7 @@ Charger
 Called
 Carbine
 Cheap
+Circus
 We
 While
 Write
@@ -5242,6 +5255,7 @@ killing
 kilter
 kata
 knives
+knowledgeable
 just
 jurisdiction
 justify
@@ -5506,6 +5520,8 @@ Flare
 Filament
 Frag
 Flashfire
+Feel
+Farming
 Dungeons
 Dragons
 Definitely
@@ -5882,6 +5898,7 @@ Sizzleslinger
 Serrated
 Sting
 Stabilize
+Source
 Jackson
 Jack
 Juggernaut
@@ -6153,6 +6170,7 @@ XdE
 Xcatter
 Xolotli
 Xipe
+XP
 Kit
 Konnar
 Key
