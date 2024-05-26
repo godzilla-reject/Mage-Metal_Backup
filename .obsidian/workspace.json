@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Skills Database",
+                  "icon": "database-folder-icon",
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Dashboard",
                   "icon": "lucide-layout-dashboard",
                   "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-0.42840472301667265}}}",
@@ -26,114 +32,18 @@
               ]
             },
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-              }
-            }
-          },
-          {
-            "id": "a6c652e6d185b433",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.9988599801533312
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f8617a1b6653d326",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Program",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"General Rules/Traits Catalog/Equipment-Only/Program.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":149},\"to\":{\"line\":11,\"ch\":149}}}"
-                },
-                {
-                  "title": "Hacking",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ee40ff5029391e04",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation Playtest 1 Packet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4b9021b4fb3e590e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Lists/General Lists/Trait List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -459,8 +369,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -488,7 +397,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a6c652e6d185b433",
+  "active": "756588279d45388c",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",

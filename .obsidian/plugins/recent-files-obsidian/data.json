@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Hacking",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Hacking",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
     },
     {
       "basename": "net-Hack Toolkit",
@@ -71,10 +75,6 @@
     {
       "basename": "Sneakery",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Skill List",
