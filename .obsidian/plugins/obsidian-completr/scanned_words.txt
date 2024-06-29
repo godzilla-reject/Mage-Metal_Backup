@@ -692,6 +692,7 @@ gifts
 gore
 gaunts
 grav
+gaps
 from
 first
 freeform
@@ -5363,6 +5364,7 @@ years
 year
 yet
 youngest
+yours
 very
 veiled
 various

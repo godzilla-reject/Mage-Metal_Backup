@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Skill Template",
-      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+      "basename": "Academiology",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
+    },
+    {
+      "basename": "Arcanology",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md"
     },
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Meta-Magic",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md"
+    },
+    {
+      "basename": "Skill Template",
+      "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
     {
       "basename": "Dashboard",
@@ -27,10 +39,6 @@
     {
       "basename": "net-Hack Toolkit",
       "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md"
-    },
-    {
-      "basename": "Academiology",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
     },
     {
       "basename": "Diplomacy",
@@ -191,14 +199,6 @@
     {
       "basename": "Apopplia-Class A-RAID Unit",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/A-RAID/Apopplia-Class A-RAID Unit.md"
-    },
-    {
-      "basename": "Armor Appendix",
-      "path": "Reference Notes/Appendices/Armor Appendix.md"
-    },
-    {
-      "basename": "Filament Scalemail",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Armory/Mobile/Filament Scalemail.md"
     }
   ],
   "omittedPaths": [],

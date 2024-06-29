@@ -5328,7 +5328,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100403,
-      "modifiedDate": 1719699271842,
+      "modifiedDate": 1719699590298,
       "sizeInBytes": 5971
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Prowess.md": {
@@ -5425,19 +5425,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 98,
+      "wordCount": 165,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.32666666666666666,
-      "characterCount": 812,
-      "nonWhitespaceCharacterCount": 684,
-      "readingTimeInMinutes": 0.36981132075471695,
+      "pageCount": 0.55,
+      "characterCount": 1313,
+      "nonWhitespaceCharacterCount": 1105,
+      "readingTimeInMinutes": 0.6226415094339622,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100443,
-      "modifiedDate": 1702370071947,
-      "sizeInBytes": 894
+      "modifiedDate": 1719699587189,
+      "sizeInBytes": 1395
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md": {
       "isCountable": true,

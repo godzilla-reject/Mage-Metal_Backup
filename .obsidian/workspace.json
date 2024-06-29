@@ -12,8 +12,14 @@
             "id": "4f15183fedaf07ac",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Arcanology",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":33},\"to\":{\"line\":11,\"ch\":33}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -26,8 +32,53 @@
                 "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
               }
             }
+          },
+          {
+            "id": "7b0595400248ebb6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4fd9ef38b6e97aca",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "194f7646a8e878ea",
@@ -175,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
               }
             }
           },
@@ -230,16 +281,17 @@
           {
             "id": "21cebfc490467c84",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "6d5e9e67247021af",
-            "type": "leaf",
-            "state": {
-              "type": "mathpad-view",
               "state": {}
             }
           },
@@ -288,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -321,14 +373,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "052f23266c35aaa3",
+  "active": "4fd9ef38b6e97aca",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
+    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Utilities/Dashboard.canvas",
     "Character Creation Playtest 1 Packet.md",
     "Reference Notes/Skill List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "General Rules/Character Mechanics Overview.md",
@@ -347,8 +402,6 @@
     "Reference Notes/Appendices/Metal Weapon Appendix.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers/Heavy-Impact Gravihammer.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/''Bee-Sting'' Reactive Combat Gauntlet.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
