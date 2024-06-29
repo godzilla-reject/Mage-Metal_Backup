@@ -6,7 +6,7 @@ Tags:
 Completed: false
 ---
 # Skill Description-`=this.file.name`
-
+In the Hegemony, whle most general knowledge is widely available through the Hypranet, the knowledge of magic itself—Arcanology—is *not*. 
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category** | `=this.Category`   
 >**Attribute**| `=this.Attribute`

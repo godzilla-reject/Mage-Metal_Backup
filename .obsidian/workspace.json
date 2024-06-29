@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "194f7646a8e878ea",
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md"
               }
             }
           },
@@ -373,12 +373,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4fd9ef38b6e97aca",
+  "active": "7b0595400248ebb6",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Utilities/Dashboard.canvas",
     "Character Creation Playtest 1 Packet.md",
