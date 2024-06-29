@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "63fc0af3b72eb5bc",
+        "id": "59682bdc933c9e7c",
         "type": "tabs",
         "children": [
           {
-            "id": "756588279d45388c",
+            "id": "a797ab5cfb7c43a9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Skills Database",
-                  "icon": "database-folder-icon",
-                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Dashboard",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-1010,\"zoom\":-0.42840472301667265}}}",
                   "eState": "{}"
                 }
               ]
@@ -38,7 +26,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.9988599801533312
+                  "zoom": -0.726548978220868
                 }
               }
             }
@@ -369,7 +357,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -397,7 +386,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "756588279d45388c",
+  "active": "a797ab5cfb7c43a9",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
