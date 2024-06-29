@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59682bdc933c9e7c",
+        "id": "223559cf0938f931",
         "type": "tabs",
         "children": [
           {
-            "id": "a797ab5cfb7c43a9",
+            "id": "933bc317e1ae69d2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -26,7 +26,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.726548978220868
+                  "zoom": -0.42840472301667265
                 }
               }
             }
@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -345,7 +346,7 @@
             }
           },
           {
-            "id": "1fac4cd10e82206e",
+            "id": "88eb278941afe9ce",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -386,13 +387,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a797ab5cfb7c43a9",
+  "active": "933bc317e1ae69d2",
   "lastOpenFiles": [
+    "Character Creation Playtest 1 Packet.md",
+    "Reference Notes/Skill List.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
-    "Character Creation Playtest 1 Packet.md",
     "Utilities/Lists/General Lists/Trait List.md",
     "General Rules/Character Mechanics Overview.md",
     "General Rules/Traits Catalog/Equipment-Only/Program.md",
@@ -407,14 +410,11 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md",
-    "Utilities/Dashboard.canvas",
-    "Reference Notes/Skill List.md",
     "Reference Notes/Appendices/Metal Weapon Appendix.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Sword/''Converter'' Blade-Barricade CQC System.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers/Heavy-Impact Gravihammer.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe/Carbon-Alloy Arcane Projection Axe.md",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling/''Bee-Sting'' Reactive Combat Gauntlet.md",
-    "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Daggers/Standard-Issue LAES Knife.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
@@ -422,6 +422,4 @@
     "Reference Notes/Appendices",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Axe",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Hammers",
-    "Character Creation Playtest 1 Packet.tex"
-  ]
-}
+    "Character Creation Pl

@@ -5,6 +5,14 @@
       "path": "Utilities/Dashboard.canvas"
     },
     {
+      "basename": "Character Creation Playtest 1 Packet",
+      "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "Skill List",
+      "path": "Reference Notes/Skill List.md"
+    },
+    {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Diplomacy",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
-    },
-    {
-      "basename": "Character Creation Playtest 1 Packet",
-      "path": "Character Creation Playtest 1 Packet.md"
     },
     {
       "basename": "Trait List",
@@ -75,10 +79,6 @@
     {
       "basename": "Sneakery",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md"
-    },
-    {
-      "basename": "Skill List",
-      "path": "Reference Notes/Skill List.md"
     },
     {
       "basename": "Metal Weapon Appendix",
