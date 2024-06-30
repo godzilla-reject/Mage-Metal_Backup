@@ -14,6 +14,9 @@ cssclasses:
 			- [ ] Conditions Overview
 			- [ ] Combat Basics
 			- [ ] Playing The Game
+				- [ ] General Actions
+				- [ ] Daily Preparations
+					- [ ] Preparing Spells
 		- [ ]  To-Do For: Mage Section of Character Creation (YAY)
 			- [ ]  ⏫  Get Skills Database to 100% complete markers.
 			- [x] ⏫  Get the rest of the proficiencies in working order. ✅ 2024-02-28

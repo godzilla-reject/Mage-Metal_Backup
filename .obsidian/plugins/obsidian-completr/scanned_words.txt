@@ -588,6 +588,8 @@ theather
 trying
 targe
 topic
+teaching
+teacher
 great
 game
 gaming
@@ -1514,6 +1516,7 @@ brandishing
 blade
 bleeding
 binding
+borrow
 not
 never
 no
@@ -1996,6 +1999,7 @@ woven
 withhold
 whim
 whle
+whole
 sleeve
 some
 something
@@ -3033,6 +3037,7 @@ deceased
 dead
 decrease
 disposition
+daily
 ever
 expand
 easy
@@ -3533,6 +3538,8 @@ projector
 patch
 patients
 patient
+preparations
+practicing
 RP
 RPGs
 Ryutama
@@ -4060,6 +4067,7 @@ rough
 resuscitate
 recently
 received
+recovered
 Pathfinder
 PF
 Philosophy
@@ -4192,6 +4200,8 @@ Pole
 Personal
 Pattern
 Projection
+Preparations
+Preparing
 ABCs
 Apotheosis
 Accessibility
@@ -4710,6 +4720,7 @@ unreliable
 untainted
 utterly
 useless
+underlying
 letting
 look
 like
@@ -5647,6 +5658,7 @@ Dermal
 Dispenser
 Dying
 Disease
+Daily
 Steve
 Sheets
 Segway
@@ -6104,6 +6116,7 @@ Battery
 Backbreaker
 Bee
 Bear
+Borrow
 Varies
 Vast
 Void
