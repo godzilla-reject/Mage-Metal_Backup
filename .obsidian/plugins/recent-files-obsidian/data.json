@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Arcanology",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md"
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Academiology",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
+    },
+    {
+      "basename": "Arcanology",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md"
     },
     {
       "basename": "Skills Database",
@@ -19,10 +23,6 @@
     {
       "basename": "Skill Template",
       "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Character Creation Playtest 1 Packet",

@@ -76,9 +76,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b7ec5566b3293b14",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -1.3262112104753154
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "194f7646a8e878ea",
@@ -177,10 +201,19 @@
           {
             "id": "d968026dfd4f0b4b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:##todo",
+                "query": "\"for your tier\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,12 +238,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -226,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -373,7 +406,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b0595400248ebb6",
+  "active": "b7ec5566b3293b14",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
