@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -445,8 +445,10 @@
   },
   "active": "4f54e81bcd7055a0",
   "lastOpenFiles": [
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
+    "Utilities/Lists/General Lists/Conditions List.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
+    "General Rules/Traits Catalog/General/Slow.md",
+    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
     "General Rules/Traits Catalog/Spellshape.md",
@@ -470,8 +472,6 @@
     "Untitled.md",
     "General Rules/Traits Catalog/General/Requirement.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",

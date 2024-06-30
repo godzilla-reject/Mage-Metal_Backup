@@ -2496,6 +2496,7 @@ specialties
 spellforms
 spellshaping
 swamp
+swaying
 LANCER
 Learn
 Lancer
@@ -3847,6 +3848,7 @@ holds
 helmet
 headset
 hammer
+hamper
 refine
 robust
 required
@@ -4100,6 +4102,8 @@ recovered
 route
 render
 rumbling
+reinforce
+removes
 Pathfinder
 PF
 Philosophy
@@ -4372,6 +4376,7 @@ Academiology
 Accounting
 Art
 Adarcanolic
+Alter
 metal
 magic
 mechanics
@@ -4993,6 +4998,7 @@ Expanded
 Electronically
 Effective
 Embrace
+Encumber
 Use
 Usable
 Unsorted
@@ -5577,6 +5583,7 @@ Frag
 Flashfire
 Feel
 Farming
+Fundamental
 Dungeons
 Dragons
 Definitely
@@ -5699,6 +5706,7 @@ Dispenser
 Dying
 Disease
 Daily
+Drain
 Steve
 Sheets
 Segway
@@ -6065,6 +6073,7 @@ Operator
 Oscillation
 OTAN
 Oath
+Overwhelming
 Basics
 Beneficial
 Body
@@ -6252,5 +6261,6 @@ Quirks
 Quick
 Questionnaire
 Quarters
+Quicken
 zero
 zealous

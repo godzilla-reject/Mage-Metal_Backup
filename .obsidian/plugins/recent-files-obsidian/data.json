@@ -5,6 +5,14 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md"
     },
     {
+      "basename": "Conditions List",
+      "path": "Utilities/Lists/General Lists/Conditions List.md"
+    },
+    {
+      "basename": "Slow",
+      "path": "General Rules/Traits Catalog/General/Slow.md"
+    },
+    {
       "basename": "Heal Wounds",
       "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Brief Respite Restoration Drone",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Brief Respite Restoration Drone.md"
-    },
-    {
-      "basename": "Restocking Drone",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Restocking Drone.md"
-    },
-    {
-      "basename": "Pattern-II Smoke-Screen Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md"
     }
   ],
   "omittedPaths": [],

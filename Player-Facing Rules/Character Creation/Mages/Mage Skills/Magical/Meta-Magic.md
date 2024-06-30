@@ -65,8 +65,13 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 	- You can change the damage type of the next spell you cast. If it is a physical damage type, it must remain so. The same is true for energy.
 - Alter Fundamental: Attribute (5)
 	- You can change the targeted attribute of the next spell you cast. For example, if that spell normally required a **Potential** check, you can change it to a **Power** check. 
+- Sow Spell (5)
+	- You fold the spell into a seed, planting it into meta-reality. You make all decisions regarding the spell, and then tuck it away into the seed. Within the next ten minutes, you can 
 ## Master (6-8)
 - Overwhelming Force (6)
+	- Your next spell ignores Resistance to one damage type. You can use this spellform multiple times, and each time you do, the spell ignores one more Resistance.
 - Quicken Spell (8)
-- Encumber Spell (8)
+	- If the next spell you cast is at least two ranks under your maximum, reduce the number of actions it takes to cast by 1.
+- Encumber Spell (X)
+	- You can use your spell-shaping to make a foe’s spell harder to cast. When you use this spellform, Shape Spell becomes a reaction, and this spellform’s value becomes the Rank of the spell you are attempting to hamper. The target spell gains the [[Slow]] trait. If that spell is already Slow, it takes a further additional action. If this would prevent the spell from being cast, the caster instead becomes [[Slowed|Slowed 1]].
 ## Legendary
