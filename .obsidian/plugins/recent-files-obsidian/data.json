@@ -5,6 +5,30 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md"
     },
     {
+      "basename": "Heal Wounds",
+      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
+    },
+    {
+      "basename": "Hegemony Nomad",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
+    },
+    {
+      "basename": "Mage Creation Steps",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
+    },
+    {
+      "basename": "Spellshape",
+      "path": "General Rules/Traits Catalog/Spellshape.md"
+    },
+    {
+      "basename": "Trait List",
+      "path": "Utilities/Lists/General Lists/Trait List.md"
+    },
+    {
+      "basename": "Flourish",
+      "path": "General Rules/Traits Catalog/Flourish.md"
+    },
+    {
       "basename": "Skill Template",
       "path": "Templates/Markdown Templates/Mage Templates/Skill Template.md"
     },
@@ -13,16 +37,8 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
-      "basename": "Hegemony Nomad",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md"
-    },
-    {
       "basename": "Arcanology",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md"
-    },
-    {
-      "basename": "Mage Creation Steps",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md"
     },
     {
       "basename": "Dashboard",
@@ -57,10 +73,6 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
     },
     {
-      "basename": "Trait List",
-      "path": "Utilities/Lists/General Lists/Trait List.md"
-    },
-    {
       "basename": "Character Mechanics Overview",
       "path": "General Rules/Character Mechanics Overview.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "Athletics",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md"
-    },
-    {
-      "basename": "Heal Wounds",
-      "path": "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md"
     },
     {
       "basename": "Bleeding",
@@ -191,14 +199,6 @@
     {
       "basename": "Pattern-II Smoke-Screen Charges",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Smoke-Screen Charges.md"
-    },
-    {
-      "basename": "Pattern-II Frag-Cluster Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Frag-Cluster Charges.md"
-    },
-    {
-      "basename": "Pattern-II Breecher Charges",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Deployable/Pattern-II Breecher Charges.md"
     }
   ],
   "omittedPaths": [],

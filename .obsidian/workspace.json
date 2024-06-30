@@ -6,7 +6,7 @@
       {
         "id": "18836c0fc00fc031",
         "type": "tabs",
-        "dimension": 66.01063829787233,
+        "dimension": 54.9468085106383,
         "children": [
           {
             "id": "4f15183fedaf07ac",
@@ -129,7 +129,7 @@
       {
         "id": "194f7646a8e878ea",
         "type": "tabs",
-        "dimension": 33.98936170212766,
+        "dimension": 45.0531914893617,
         "children": [
           {
             "id": "052f23266c35aaa3",
@@ -157,8 +157,14 @@
             "id": "0257bdbbea3ed930",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Flourish",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"General Rules/Traits Catalog/Flourish.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -197,7 +203,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,7 +251,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meta-magic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -269,13 +276,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -440,33 +445,33 @@
   },
   "active": "4f54e81bcd7055a0",
   "lastOpenFiles": [
-    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Histories/Poor/Hegemony Nomad.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Creation Steps.md",
+    "General Rules/Traits Catalog/Spellshape.md",
+    "Utilities/Lists/General Lists/Trait List.md",
+    "General Rules/Traits Catalog/Flourish.md",
+    "Templates/Markdown Templates/Mage Templates/Skill Template.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
     "Character Creation Playtest 1 Packet.md",
     "Reference Notes/Skill List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
-    "Utilities/Lists/General Lists/Trait List.md",
     "General Rules/Character Mechanics Overview.md",
     "General Rules/Traits Catalog/Equipment-Only/Program.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-    "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
     "General Rules/Conditions Catalog/Detrimental/Bleeding.md",
     "Untitled.md",
     "General Rules/Traits Catalog/General/Requirement.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Brawling.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Acrobatics.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Defenses/Dodge.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Criminal/Sneakery.md",
-    "Reference Notes/Appendices/Metal Weapon Appendix.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",

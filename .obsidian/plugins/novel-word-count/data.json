@@ -5407,19 +5407,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 257,
+      "wordCount": 1015,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.8566666666666667,
-      "characterCount": 1821,
-      "nonWhitespaceCharacterCount": 1522,
-      "readingTimeInMinutes": 0.969811320754717,
-      "linkCount": 0,
+      "pageCount": 3.3833333333333333,
+      "characterCount": 6253,
+      "nonWhitespaceCharacterCount": 5134,
+      "readingTimeInMinutes": 3.830188679245283,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698734100462,
-      "modifiedDate": 1719716333971,
-      "sizeInBytes": 1905
+      "modifiedDate": 1719721753196,
+      "sizeInBytes": 6355
     },
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md": {
       "isCountable": true,
@@ -8534,6 +8534,24 @@
       "createdDate": 1708315156539,
       "modifiedDate": 1716409344899,
       "sizeInBytes": 253438
+    },
+    "General Rules/Traits Catalog/Spellshape.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 65,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 413,
+      "nonWhitespaceCharacterCount": 340,
+      "readingTimeInMinutes": 0.24528301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1719716920125,
+      "modifiedDate": 1719717309658,
+      "sizeInBytes": 470
     }
   }
 }
