@@ -66,7 +66,7 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 - Alter Fundamental: Attribute (5)
 	- You can change the targeted attribute of the next spell you cast. For example, if that spell normally required a **Potential** check, you can change it to a **Power** check. 
 - Sow Spell (5)
-	- You fold the spell into a seed, planting it into meta-reality. You make all decisions regarding the spell, and then tuck it away into the seed. Within the next ten minutes, you can 
+	- You fold the spell into a seed, planting it into meta-reality. You make all decisions regarding the spell, and then tuck it away into the seed. Within the next ten minutes, you can direct the sown spell to flower as a reaction with a trigger of a creature entering the spell’s range. The seed flowering causes the spell to activate as if you just cast it.
 ## Master (6-8)
 - Overwhelming Force (6)
 	- Your next spell ignores Resistance to one damage type. You can use this spellform multiple times, and each time you do, the spell ignores one more Resistance.
