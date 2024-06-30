@@ -6,7 +6,7 @@ Tags:
 Completed: false
 ---
 # Skill Description-`=this.file.name`
-
+Meta-Magic, or the art of *shaping the spell*, is just as much an artform as it is a science in that, fundamentally, its neither. In order to warp a spell as it is being cast, one must have a great deal of understanding of both magic as a whole and the spell itself, and this skill is neither of those things. Instead, this skill is the “cheater” way out: meta-magic, truly, is the easy route of using *additional* Potential to warp the spell from the *outside.* This includes rendering *other* spells inert. 
 >[!info| clear no-i] `=this.file.name` Mechanics
 >**Category** | `=this.Category`   
 >**Attribute**| `=this.Attribute`
