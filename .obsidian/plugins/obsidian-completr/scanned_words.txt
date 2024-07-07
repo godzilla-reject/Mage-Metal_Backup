@@ -596,6 +596,8 @@ topic
 teaching
 teacher
 thereupon
+tuck
+ten
 great
 game
 gaming
@@ -920,6 +922,8 @@ filament
 falling
 fickle
 frogs
+flower
+flowering
 came
 combines
 combat
@@ -2497,6 +2501,8 @@ spellforms
 spellshaping
 swamp
 swaying
+seed
+sown
 LANCER
 Learn
 Lancer
@@ -3062,6 +3068,7 @@ daily
 detailed
 deadly
 displaced
+decisions
 ever
 expand
 easy
@@ -3570,6 +3577,7 @@ preparations
 practicing
 paint
 plausibility
+planting
 RP
 RPGs
 Ryutama
@@ -4104,6 +4112,7 @@ render
 rumbling
 reinforce
 removes
+regarding
 Pathfinder
 PF
 Philosophy
@@ -5968,6 +5977,7 @@ Spellforms
 Spellshape
 Shaping
 Spellform
+Sow
 Jackson
 Jack
 Juggernaut
