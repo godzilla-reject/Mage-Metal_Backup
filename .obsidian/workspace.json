@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18836c0fc00fc031",
+        "id": "842b74306092908f",
         "type": "tabs",
         "children": [
           {
-            "id": "4f15183fedaf07ac",
+            "id": "476ed4edcb472962",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Skills Database",
-                  "icon": "database-folder-icon",
-                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md\"}}",
                   "eState": "{}"
                 }
               ]
@@ -32,7 +26,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.644925777151695
+                  "zoom": -0.7143346196666381
                 }
               }
             }
@@ -247,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,7 +270,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4f15183fedaf07ac",
+  "active": "476ed4edcb472962",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
     "Utilities/Lists/General Lists/Conditions List.md",
