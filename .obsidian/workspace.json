@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "842b74306092908f",
+        "id": "4d10ebc39f2d60ac",
         "type": "tabs",
         "children": [
           {
-            "id": "476ed4edcb472962",
+            "id": "a90e36759f66d8de",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -26,7 +26,7 @@
                 "viewState": {
                   "x": -530,
                   "y": -1010,
-                  "zoom": -0.7143346196666381
+                  "zoom": -2.9875090558168034
                 }
               }
             }
@@ -269,7 +269,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "476ed4edcb472962",
+  "active": "a90e36759f66d8de",
   "lastOpenFiles": [
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
     "Utilities/Lists/General Lists/Conditions List.md",
