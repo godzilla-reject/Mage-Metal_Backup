@@ -11,22 +11,16 @@
             "id": "a90e36759f66d8de",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Character Creation Playtest 1 Packet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Character Creation Playtest 1 Packet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":736,\"ch\":387},\"to\":{\"line\":736,\"ch\":387}},\"scroll\":608.3131672597865}"
-                },
-                {
-                  "title": "Meta-Magic",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":53},\"to\":{\"line\":83,\"ch\":53}},\"scroll\":69.51046290424857}"
-                },
-                {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Skills Database",
+                  "icon": "database-folder-icon",
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md\"}}",
                   "eState": "{}"
                 },
                 {
@@ -38,9 +32,14 @@
               ]
             },
             "state": {
-              "type": "database-plugin",
+              "type": "canvas",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+                "file": "Utilities/Dashboard.canvas",
+                "viewState": {
+                  "x": -530,
+                  "y": -1010,
+                  "zoom": -0.9841211207000355
+                }
               }
             }
           }
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+                "file": "Utilities/Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+                "file": "Utilities/Dashboard.canvas"
               }
             }
           },
@@ -284,10 +283,10 @@
   },
   "active": "a90e36759f66d8de",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
     "Character Creation Playtest 1 Packet.md",
     "General Rules/Traits Catalog/Meta/Fated.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Utilities/Dashboard.canvas",
     "Utilities/Lists/General Lists/Conditions List.md",
     "General Rules/Traits Catalog/General/Slow.md",
