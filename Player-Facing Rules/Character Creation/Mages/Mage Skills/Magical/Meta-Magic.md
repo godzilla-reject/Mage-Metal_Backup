@@ -3,7 +3,7 @@ Category: Magical
 Attribute: Potential
 Tags:
   - Skills
-Completed: false
+Completed: true
 ---
 # Skill Description-`=this.file.name`
 Meta-Magic, or the art of *shaping the spell*, is just as much an artform as it is a science in that, fundamentally, its neither. In order to warp a spell as it is being cast, one must have a great deal of understanding of both magic as a whole and the spell itself, and this skill is neither of those things. Instead, this skill is the “cheater” way out: meta-magic, truly, is the easy route of using *additional* Potential to warp the spell from the *outside.* This includes rendering *other* spells inert. 
@@ -19,7 +19,7 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 > [!note]+ ##### Shape Spell ##### ○
 > [[Spellshape]], [[Manipulate]], [[Auditory]]
 >- - -
-> You use additional mana to impose alterations on the next spell you cast. Pick any amount of spellforms you know who’s spellform value equals the Rank of the spell you plan on casting. You may then choose to spend additional mana equal to the total spellform value *or* attempt a **Meta-Magic** check with a difficulty penalty equal to the total spellform value. 
+> You use additional mana to impose alterations on the next spell you cast. Pick any amount of spellforms you know who’s total spellform value is equal to or below the Rank of the spell you plan on casting. You may then choose to spend additional mana equal to the total spellform value *or* attempt a **Meta-Magic** check with a difficulty penalty equal to the total spellform value. 
 
 - - -
 # Perks
@@ -43,7 +43,7 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 ## Trained (0-2)
 - Energy Ablation Barrier (2)
 	- You gain Resistance to the damage type of the next spell you cast until you either use this spellform again or the end of your next turn. 
-- Non-lethality (0)
+- Non-lethal Spell (0)
 	- Your spell is less deadly. It gains the [[Nonlethal]] trait as long it doesn’t deal negative damage or have the [[Death]] trait. 
 - Concealed Spell (0)
 	- Your spell gains the [[Subtle]] trait, becoming much more difficult to notice. 
@@ -52,14 +52,14 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 - Reach Spell (1)
 	- You can extend the range of spells. Increase the range of the next spell you cast by 6 spaces. If the spell is touch, the range becomes 3 spaces. You can use this spellform multiple times, stacking its effect. 
 - Counter Spell (X)
-	- You can use your spell shaping to render a foe’s spell inert. When you use this spellform, Shape Spell becomes a reaction, and this spellform’s value becomes the Rank of the spell you are attempting to counter. Make a **Meta-Magic** check with a difficulty penalty equal to the triggering spell’s rank. On a success, you can spend mana equal to the total spellform value to render the spell inert, or half that on a critical success. On a failure, the spell occurs as normal.
+	- You can use your spell shaping to render a foe’s spell inert. When you use this spellform, Shape Spell becomes a reaction, and this spellform’s value becomes the Rank of the spell you are attempting to counter. Make a **Meta-Magic** check with a difficulty penalty equal to the triggering spell’s rank. On a success, you can spend mana equal to the total spellform value to render the spell inert, or half that on a critical success. On a failure, the spell occurs as normal. When you use Shape Spell this way, the total spellform value can exceed the target spell’s Rank.
 ## Expert (3-5)
 - Cryptic Spell (5)
 	- You hide your magic in the swaying of trees, the croaking of frogs, and the flicker of fires. As you cast your next spell, if you are not directly observed, the effects of that spell are displaced into the natural environment, nearly unable to be determined as magic without special sensors or senses. This requires *plausibility*; you cannot hide summoning your Metal in the wind, but you *can* hide it in the rumbling of an earthquake or bubbling up from the swamp. 
 - Martyr (3)
 	- If your next spell cast would restore Health to an ally, you can lose 1d6 Health per Rank of the spell to restore extra Health equal to the amount you lost. Additionally, you can use this spellform to give your Shape Spell action the [[Life-Bound]] trait (independently of the first effect.)
 - Drain Mana (3)
-	- Requires Counter Spell
+	- *Requires Counter Spell*
 	- Your Counter Spell spellform is much more powerful when you reinforce it. You only need to spend half the mana of the total spellform value on a success, and on a critical success, you regain 1d12 mana. 
 - Alter Fundamental: Damage (4)
 	- You can change the damage type of the next spell you cast. If it is a physical damage type, it must remain so. The same is true for energy.
@@ -74,4 +74,15 @@ These actions can be performed by characters who are *Trained* in `=this.file.na
 	- If the next spell you cast is at least two ranks under your maximum, reduce the number of actions it takes to cast by 1.
 - Encumber Spell (X)
 	- You can use your spell-shaping to make a foe’s spell harder to cast. When you use this spellform, Shape Spell becomes a reaction, and this spellform’s value becomes the Rank of the spell you are attempting to hamper. The target spell gains the [[Slow]] trait. If that spell is already Slow, it takes a further additional action. If this would prevent the spell from being cast, the caster instead becomes [[Slowed|Slowed 1]].
-## Legendary
+- Copy Spell (7)
+	- *Requires Drain Mana*
+	- You have great enough control over volatile mana to pluck a spell from the air as you render it inert, using it for yourself. When you successfully use Counter Spell that is enhanced with Drain Mana, you can choose to immediately spend mana as if you casted the target spell, then you do so, even if you couldn’t normally cast it. You cannot use Shape Spell on a spell cast this way. 
+## Legendary (9+)
+- Fateful Spell (10)
+	- If your next spell requires an attack roll, you make that roll with favor. If it requires the target to make a check, they make that check without favor. A spell cast this way gains the [[Fated]] trait.
+- All-Out Spell (12)
+	- Your next spell deals maximum damage, but any attack roll made for it is made without favor, and if it requires the target to make a check, they make it with favor.
+- Uncounterable Spell (14)
+	- The next spell you cast gains [[Uncounterable]].
+- Ultimate Spellform: Arcane Bombardment Array (16)
+	- You use a complex array of runes to create a feedback loop, siphoning off residual mana from your most powerful spells in order to cause a spell-cascade. Your spell gains the [[Uncounterable]] trait. On your next turn after using this spellform, you cast a spell of a Rank equal to half the first spell’s Rank (typically 6.) Then, the following turn, you cast another spell with a Rank equal to half of that (typically 3.) Repeat this process until you cast a cantrip. Each of these spells are also [[Uncounterable]], you do not spend any mana or other resources on them, and you may choose to automatically succeed any attack roll required by those spells. You may only use this spellform once per day. 

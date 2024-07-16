@@ -11,8 +11,20 @@
             "id": "a90e36759f66d8de",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "Character Creation Playtest 1 Packet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Character Creation Playtest 1 Packet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":736,\"ch\":387},\"to\":{\"line\":736,\"ch\":387}},\"scroll\":608.3131672597865}"
+                },
+                {
+                  "title": "Meta-Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":53},\"to\":{\"line\":83,\"ch\":53}},\"scroll\":69.51046290424857}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -242,8 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,8 +284,11 @@
   },
   "active": "a90e36759f66d8de",
   "lastOpenFiles": [
-    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
+    "Character Creation Playtest 1 Packet.md",
+    "General Rules/Traits Catalog/Meta/Fated.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Utilities/Dashboard.canvas",
     "Utilities/Lists/General Lists/Conditions List.md",
     "General Rules/Traits Catalog/General/Slow.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
@@ -284,10 +298,8 @@
     "Utilities/Lists/General Lists/Trait List.md",
     "General Rules/Traits Catalog/Flourish.md",
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
-    "Character Creation Playtest 1 Packet.md",
     "Reference Notes/Skill List.md",
     "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",

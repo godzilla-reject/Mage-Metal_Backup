@@ -5,12 +5,20 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
-    },
-    {
       "basename": "Meta-Magic",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md"
+    },
+    {
+      "basename": "Character Creation Playtest 1 Packet",
+      "path": "Character Creation Playtest 1 Packet.md"
+    },
+    {
+      "basename": "Fated",
+      "path": "General Rules/Traits Catalog/Meta/Fated.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
     },
     {
       "basename": "Conditions List",
@@ -59,10 +67,6 @@
     {
       "basename": "Academiology",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
-    },
-    {
-      "basename": "Character Creation Playtest 1 Packet",
-      "path": "Character Creation Playtest 1 Packet.md"
     },
     {
       "basename": "Skill List",
@@ -195,10 +199,6 @@
     {
       "basename": "Flashfire Jump-Jet System",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Flashfire Jump-Jet System.md"
-    },
-    {
-      "basename": "Brief Respite Restoration Drone",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Drone/Brief Respite Restoration Drone.md"
     }
   ],
   "omittedPaths": [],

@@ -1324,6 +1324,7 @@ cheater
 cantrip
 counter
 croaking
+couldn
 before
 being
 be
@@ -2503,6 +2504,7 @@ swamp
 swaying
 seed
 sown
+siphoning
 LANCER
 Learn
 Lancer
@@ -2699,6 +2701,7 @@ Triumphant
 Tracking
 Templater
 Torrent
+Then
 oriented
 of
 on
@@ -3282,6 +3285,8 @@ equals
 expert
 extend
 earthquake
+exceed
+enhanced
 played
 pilot
 play
@@ -3717,6 +3722,7 @@ Repair
 Restock
 Revere
 Recall
+Repeat
 high
 heavily
 hopes
@@ -4113,6 +4119,7 @@ rumbling
 reinforce
 removes
 regarding
+residual
 Pathfinder
 PF
 Philosophy
@@ -4915,6 +4922,8 @@ luxuries
 leg
 lit
 lethality
+loop
+lethal
 Ease
 Excel
 Escalation
@@ -5049,6 +5058,7 @@ Utterly
 Unit
 Unmistakable
 Ultimate
+Uncounterable
 Complexity
 Could
 Conflicted
@@ -5226,6 +5236,7 @@ Circus
 Cantrips
 Concealed
 Cryptic
+Copy
 We
 While
 Write
@@ -5488,6 +5499,7 @@ visibility
 vocal
 verocloth
 versatility
+volatile
 Function
 Form
 Fleshed
@@ -5593,6 +5605,7 @@ Flashfire
 Feel
 Farming
 Fundamental
+Fateful
 Dungeons
 Dragons
 Definitely

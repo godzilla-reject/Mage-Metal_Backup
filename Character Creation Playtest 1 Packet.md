@@ -734,7 +734,7 @@ You begin play with the following equipment:
 >[!column]- ***Path of the Rune-Scribed*** 
 >> [!metadata] *Trained Perk: Bound in Ink*
 >> *When you become Trained in this School, you gain the following benefits.*
->> You can cast spells by drawing their spoken components in ink instead. Any spell you cast with the [[Vocal]] trait is cast as if affected by the *Silent Spell* spell-shape, but this is *not* a spell-shaping effect. Additionally, your grimoire is the canvas of your skin; any spell you learn becomes tattooed onto your skin, and your prepared spells' tattoos glow with a faint ebb and glow. 
+>> You can cast spells by drawing their spoken components in ink instead. Any spell you cast with the [[Vocal]] trait is cast as if affected by the *Silent Spell* spellform, but this is *not* a spellform effect. Additionally, your grimoire is the canvas of your skin; any spell you learn becomes tattooed onto your skin, and your prepared spells' tattoos glow with a faint ebb and glow. 
 >
 >> [!metadata] *Expertise Perk: Ink Duelist*
 >> *When you become an Expert in this School, you gain the following benefits.*
@@ -750,7 +750,7 @@ You begin play with the following equipment:
 >[!column]- ***Path of the Word-Caller*** 
 >> [!metadata] *Trained Perk: Word-Shaper*
 >>*When you become Trained in this School, you gain the following benefits.*
->> You can freely shape the spellform of your Power Words. Any spell you cast with the [[Vocal]] trait can have an additional spell-shape applied to it (for a total of two, or three if you are Legendary in [[Meta-Magic]].) This increases by another additional spell-shape each time you gain a training level in this School.
+>> You can freely shape the spellform of your Power Words. Increase the total spellform value of any spell you cast with the [[Vocal]] trait by 1 (and by an additional 1 each time you increase your training in this school.) 
 >
 >> [!metadata] *Expertise Perk: Word-Speaker*
 >> *When you become an Expert in this School, you gain the following benefits.*
