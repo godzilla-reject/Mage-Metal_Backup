@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Utilities/Dashboard.canvas"
+      "basename": "Crafting Rules",
+      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
+    },
+    {
+      "basename": "Artifice",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
+    },
+    {
+      "basename": "Survivalism",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Survivalism.md"
     },
     {
       "basename": "Skills Database",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+    },
+    {
+      "basename": "Hacking",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Utilities/Dashboard.canvas"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "Utilities/Dashboard Notes/To-Do List.md"
     },
     {
       "basename": "Meta-Magic",
@@ -61,20 +81,12 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md"
     },
     {
-      "basename": "To-Do List",
-      "path": "Utilities/Dashboard Notes/To-Do List.md"
-    },
-    {
       "basename": "Academiology",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
     },
     {
       "basename": "Skill List",
       "path": "Reference Notes/Skill List.md"
-    },
-    {
-      "basename": "Hacking",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
     },
     {
       "basename": "net-Hack Toolkit",
@@ -187,18 +199,6 @@
     {
       "basename": "Expanded Cockpit",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md"
-    },
-    {
-      "basename": "Type-II Microflight System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Type-II Microflight System.md"
-    },
-    {
-      "basename": "OTAN Module",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/OTAN Module.md"
-    },
-    {
-      "basename": "Flashfire Jump-Jet System",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Flight-Sys/Flashfire Jump-Jet System.md"
     }
   ],
   "omittedPaths": [],

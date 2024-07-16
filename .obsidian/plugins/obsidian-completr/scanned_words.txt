@@ -72,6 +72,7 @@ II
 Invisibility
 Impact
 Instead
+Insert
 Mage
 Metal
 Mecha
@@ -374,6 +375,7 @@ injuries
 info
 inert
 impose
+instilled
 the
 takes
 titans
@@ -703,6 +705,7 @@ gore
 gaunts
 grav
 gaps
+grimoires
 from
 first
 freeform
@@ -924,6 +927,7 @@ fickle
 frogs
 flower
 flowering
+functionality
 came
 combines
 combat
@@ -1325,6 +1329,7 @@ cantrip
 counter
 croaking
 couldn
+combining
 before
 being
 be
@@ -1534,6 +1539,7 @@ bleeding
 binding
 borrow
 bubbling
+buildings
 not
 never
 no
@@ -1895,6 +1901,7 @@ academiology
 asking
 approves
 artform
+artifice
 wear
 with
 war
@@ -2505,6 +2512,8 @@ swaying
 seed
 sown
 siphoning
+shunted
+spellscribing
 LANCER
 Learn
 Lancer
@@ -3287,6 +3296,7 @@ extend
 earthquake
 exceed
 enhanced
+enchanting
 played
 pilot
 play
@@ -3583,6 +3593,7 @@ practicing
 paint
 plausibility
 planting
+placing
 RP
 RPGs
 Ryutama
@@ -4776,6 +4787,8 @@ utterly
 useless
 underlying
 upcast
+unravel
+unto
 letting
 look
 like
@@ -5017,6 +5030,7 @@ Electronically
 Effective
 Embrace
 Encumber
+Etch
 Use
 Usable
 Unsorted
@@ -5237,6 +5251,7 @@ Cantrips
 Concealed
 Cryptic
 Copy
+Certain
 We
 While
 Write
@@ -5991,6 +6006,7 @@ Spellshape
 Shaping
 Spellform
 Sow
+Spellscribing
 Jackson
 Jack
 Juggernaut

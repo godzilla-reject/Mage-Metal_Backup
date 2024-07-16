@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Dashboard",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"Utilities/Dashboard.canvas\",\"viewState\":{\"x\":-530,\"y\":-642.0719311962471,\"zoom\":-0.9841211207000355}}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Skills Database",
                   "icon": "database-folder-icon",
                   "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md\"}}",
@@ -32,18 +38,102 @@
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
-                "viewState": {
-                  "x": -530,
-                  "y": -1010,
-                  "zoom": -0.9841211207000355
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+              }
+            }
+          },
+          {
+            "id": "d4e2d80ee2f33406",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Survivalism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ab3e4309bdd11256",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ed17b9b699cc3229",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e92902e97857ce29",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -135,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Dashboard.canvas",
+                "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Dashboard.canvas"
+                "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
               }
             }
           },
@@ -253,7 +344,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,13 +373,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a90e36759f66d8de",
+  "active": "ed17b9b699cc3229",
   "lastOpenFiles": [
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Survivalism.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
+    "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
     "Character Creation Playtest 1 Packet.md",
     "General Rules/Traits Catalog/Meta/Fated.md",
-    "Utilities/Dashboard.canvas",
     "Utilities/Lists/General Lists/Conditions List.md",
     "General Rules/Traits Catalog/General/Slow.md",
     "Player-Facing Rules/Spells/Spells Database/Somaphoresis/Heal Wounds.md",
@@ -304,12 +399,9 @@
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "General Rules/Character Mechanics Overview.md",
     "General Rules/Traits Catalog/Equipment-Only/Program.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
     "General Rules/Conditions Catalog/Detrimental/Bleeding.md",
-    "Untitled.md",
-    "General Rules/Traits Catalog/General/Requirement.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
