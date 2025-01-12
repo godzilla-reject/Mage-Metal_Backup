@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Crafting Rules",
-      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
-    },
-    {
-      "basename": "Artifice",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
+      "basename": "Skills Database",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
     },
     {
       "basename": "Survivalism",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Survivalism.md"
     },
     {
-      "basename": "Skills Database",
-      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-    },
-    {
       "basename": "Hacking",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md"
+    },
+    {
+      "basename": "net-Hack Toolkit",
+      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md"
+    },
+    {
+      "basename": "Logistical Controller",
+      "path": "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md"
+    },
+    {
+      "basename": "Wire Runner",
+      "path": "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md"
+    },
+    {
+      "basename": "Program",
+      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
+    },
+    {
+      "basename": "Skill List",
+      "path": "Reference Notes/Skill List.md"
+    },
+    {
+      "basename": "Artifice",
+      "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md"
+    },
+    {
+      "basename": "Crafting Rules",
+      "path": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
     },
     {
       "basename": "Dashboard",
@@ -85,24 +105,12 @@
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md"
     },
     {
-      "basename": "Skill List",
-      "path": "Reference Notes/Skill List.md"
-    },
-    {
-      "basename": "net-Hack Toolkit",
-      "path": "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md"
-    },
-    {
       "basename": "Diplomacy",
       "path": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md"
     },
     {
       "basename": "Character Mechanics Overview",
       "path": "General Rules/Character Mechanics Overview.md"
-    },
-    {
-      "basename": "Program",
-      "path": "General Rules/Traits Catalog/Equipment-Only/Program.md"
     },
     {
       "basename": "Medicine",
@@ -191,14 +199,6 @@
     {
       "basename": "Channel Charger Battery",
       "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Mod/Channel Charger Battery.md"
-    },
-    {
-      "basename": "Personal Customization",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Personal Customization.md"
-    },
-    {
-      "basename": "Expanded Cockpit",
-      "path": "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Systems/Gen-Sys/Expanded Cockpit.md"
     }
   ],
   "omittedPaths": [],

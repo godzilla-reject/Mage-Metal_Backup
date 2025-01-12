@@ -41,7 +41,9 @@
               "type": "database-plugin",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
-              }
+              },
+              "icon": "database-folder-icon",
+              "title": "Skills Database"
             }
           },
           {
@@ -63,7 +65,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Survivalism"
             }
           },
           {
@@ -85,29 +89,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "ed17b9b699cc3229",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Artifice"
             }
           },
           {
@@ -126,14 +110,15 @@
               "type": "markdown",
               "state": {
                 "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Hacking"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +147,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -186,7 +173,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -194,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -202,15 +193,16 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "69a6a1297e44ad1f",
@@ -226,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +226,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Skills Database"
             }
           },
           {
@@ -243,10 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Skills Database"
             }
           },
           {
@@ -257,7 +253,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -266,8 +264,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Facing Rules/Items and Equipment/Crafting Rules.md"
-              }
+                "file": "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Skills Database"
             }
           },
           {
@@ -275,7 +275,9 @@
             "type": "leaf",
             "state": {
               "type": "chronology-calendar-view",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
             }
           },
           {
@@ -292,7 +294,9 @@
             },
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
+              "state": {},
+              "icon": "FANTASY_CALENDAR",
+              "title": "Fantasy Calendar"
             }
           },
           {
@@ -300,7 +304,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -308,7 +314,9 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -316,7 +324,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -328,7 +338,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -336,7 +348,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -344,8 +358,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -362,7 +375,6 @@
       "dbfolder:Create a new database table": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "homepage:Open homepage": false,
       "rpg-manager:RPG Manager": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -373,12 +385,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ed17b9b699cc3229",
+  "active": "a90e36759f66d8de",
   "lastOpenFiles": [
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Survivalism.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Hacking.md",
+    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
+    "Player-Facing Rules/Character Creation/Mages/Pilot Roles/Logistical Controller.md",
+    "Player-Facing Rules/Character Creation/Metals/Primary Metal Components/2. Metal Shells/Mobile/Wire Runner.md",
+    "General Rules/Traits Catalog/Equipment-Only/Program.md",
+    "Reference Notes/Skill List.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Craftwork/Artifice.md",
+    "Player-Facing Rules/Items and Equipment/Crafting Rules.md",
+    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Skills Database.md",
     "Utilities/Dashboard.canvas",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Magical/Meta-Magic.md",
     "Character Creation Playtest 1 Packet.md",
@@ -394,14 +412,8 @@
     "Templates/Markdown Templates/Mage Templates/Skill Template.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Arcanology.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Knowledge/Academiology.md",
-    "Reference Notes/Skill List.md",
-    "Player-Facing Rules/Items and Equipment/Equipment Catalog/Equipment/Software/net-Hack Toolkit.md",
     "Player-Facing Rules/Character Creation/Mages/Mage Skills/Social/Diplomacy.md",
     "General Rules/Character Mechanics Overview.md",
-    "General Rules/Traits Catalog/Equipment-Only/Program.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Practical/Medicine.md",
-    "Player-Facing Rules/Character Creation/Mages/Mage Skills/Physical/Athletics.md",
-    "General Rules/Conditions Catalog/Detrimental/Bleeding.md",
     "Utilities/Random Bullshit/New Workflow Canvas.canvas",
     "Utilities/Random Bullshit",
     "Player-Facing Rules/Character Creation/Metals/Secondary Metal Components/Metal Weapons/Brawling",
